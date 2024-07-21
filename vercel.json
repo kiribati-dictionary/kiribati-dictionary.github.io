@@ -4,7 +4,7 @@
       "api/app.py": {
         "memory": 1024,
         "maxDuration": 30,
-        "runtime": "vercel-python@3.12"
+        "runtime": "now-python@3.12"
       }
     }
 }
