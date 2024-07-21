@@ -27,7 +27,7 @@ def search():
 
     conn = get_db_connection()
     cursor = conn.cursor()
-
+    
     if len(query) <= 2:
         cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE wrd LIKE ?", ('%' + query + '%',))
         words = cursor.fetchall()
