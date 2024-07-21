@@ -7,18 +7,25 @@ import os
 app = Flask(__name__)
 CORS(app)  # Enable CORS to allow React frontend to access the API
 
-# Check if running on Vercel
-if 'VERCEL' in os.environ:
-    # On Vercel, the current directory is different
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    DATABASE = os.path.join(script_dir, 'dictionary.db')
-else:
-    # Local development
-    script_dir = os.path.dirname(__file__)
-    DATABASE = os.path.join(script_dir, 'dictionary.db')
+# # Check if running on Vercel
+# if 'VERCEL' in os.environ:
+#     # On Vercel, the current directory is different
+#     script_dir = os.path.dirname(os.path.abspath(__file__))
+#     DATABASE = os.path.join(script_dir, 'dictionary.db')
+# else:
+#     # Local development
+#     script_dir = os.path.dirname(__file__)
+#     DATABASE = os.path.join(script_dir, 'dictionary.db')
+
+# def get_db_connection():
+#     conn = sqlite3.connect(DATABASE)
+#     conn.row_factory = sqlite3.Row
+#     return conn
 
 def get_db_connection():
-    conn = sqlite3.connect(DATABASE)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    database_path = os.path.join(script_dir, 'dictionary.db')
+    conn = sqlite3.connect(database_path)
     conn.row_factory = sqlite3.Row
     return conn
 
