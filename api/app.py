@@ -44,6 +44,10 @@ def search():
     conn.close()
     return jsonify([word[0] for word in words])
 
+@app.route('/')
+def hello():
+    return "hello"
+
 @app.route('/words/<letter>', methods=['GET'])
 def words_by_letter(letter):
     conn = get_db_connection()
