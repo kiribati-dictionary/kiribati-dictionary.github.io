@@ -2,21 +2,9 @@
     "version": 2,
     "functions": {
       "api/app.py": {
-        "runtime": "python3.9",
-        "handler": "app.app"
+        "memory": 3009,
+        "maxDuration": 30,
+        "runtime": "vercel-python@3.12"
       }
-    },
-    "builds": [
-      {
-        "src": "api/app.py",
-        "use": "@vercel/python"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/api/(.*)",
-        "dest": "/api/app.py"
-      }
-    ]
-  }
-  
+    }
+}
