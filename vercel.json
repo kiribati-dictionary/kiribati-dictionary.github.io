@@ -1,9 +1,15 @@
 {
-    "version": 2,
-    "functions": {
-      "api/app.py": {
-        "memory": 1024,
-        "maxDuration": 30
-      }
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/app.py",
+      "use": "@vercel/python"
     }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "api/app.py"
+    }
+  ]
 }
