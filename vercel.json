@@ -1,10 +1,10 @@
 {
     "version": 2,
     "builds": [
-        { "src": "api/app.py", "use": "@vercel/python" }
-        
+        { "src": "app.py", "use": "@vercel/python" },
+        { "src": "dictionary.db", "use": "@vercel/static" }
     ],
     "routes": [
-        { "src": "/api/(.*)", "dest": "/api/app.py" }
+        { "src": "/(.*)", "dest": "app.py" }
     ]
 }
