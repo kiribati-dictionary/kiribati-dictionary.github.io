@@ -12,7 +12,17 @@ CORS(app)  # Enable CORS to allow React frontend to access the API
 
 # Set the path to the database file, which is one directory up
 # DATABASE = os.path.join(script_dir, '..', 'dictionary.db')
-DATABASE = 'dictionary.db'
+# DATABASE = 'dictionary.db'
+
+# Check if running on Vercel
+if 'VERCEL' in os.environ:
+    # On Vercel, the current directory is different
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    DATABASE = os.path.join(script_dir, 'dictionary.db')
+else:
+    # Local development
+    script_dir = os.path.dirname(__file__)
+    DATABASE = os.path.join(script_dir, '..', 'dictionary.db')
 
 def get_db_connection():
     conn = sqlite3.connect(DATABASE)
@@ -27,7 +37,7 @@ def search():
 
     conn = get_db_connection()
     cursor = conn.cursor()
-    
+
     if len(query) <= 2:
         cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE wrd LIKE ?", ('%' + query + '%',))
         words = cursor.fetchall()
