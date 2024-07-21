@@ -1,3 +1,2 @@
 Flask==2.2.5
 Flask-CORS==3.0.10
-sqlite3==3.39.4  # Remove this line if you're using the built-in SQLite module in Python
