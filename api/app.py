@@ -24,7 +24,7 @@ CORS(app)  # Enable CORS to allow React frontend to access the API
 
 def get_db_connection():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    database_path = os.path.join(script_dir, 'dictionary.db')
+    database_path = os.path.join(script_dir, '..', 'dictionary.db')
     conn = sqlite3.connect(database_path)
     conn.row_factory = sqlite3.Row
     return conn
