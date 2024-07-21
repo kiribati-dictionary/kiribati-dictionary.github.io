@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "functions": {
+      "api/app.py": {
+        "runtime": "python3.9",
+        "handler": "app.app"
+      }
+    },
+    "builds": [
+      {
+        "src": "api/app.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/api/(.*)",
+        "dest": "/api/app.py"
+      }
+    ]
+  }
+  
