@@ -2,7 +2,7 @@
     "version": 2,
     "functions": {
       "api/app.py": {
-        "memory": 3009,
+        "memory": 1024,
         "maxDuration": 30,
         "runtime": "vercel-python@3.12"
       }
