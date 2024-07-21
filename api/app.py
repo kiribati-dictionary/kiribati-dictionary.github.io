@@ -8,10 +8,11 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS to allow React frontend to access the API
 
 # Get the current script directory
-script_dir = os.path.dirname(__file__)
+# script_dir = os.path.dirname(__file__)
 
 # Set the path to the database file, which is one directory up
-DATABASE = os.path.join(script_dir, '..', 'dictionary.db')
+# DATABASE = os.path.join(script_dir, '..', 'dictionary.db')
+DATABASE = 'dictionary.db'
 
 def get_db_connection():
     conn = sqlite3.connect(DATABASE)
