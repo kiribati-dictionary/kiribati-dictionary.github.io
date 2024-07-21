@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         { "src": "api/app.py", "use": "@vercel/python" },
-        { "src": "api/dictionary.db", "use": "@vercel/static" }
+        { "src": "dictionary.db", "use": "@vercel/static" }
     ],
     "routes": [
         { "src": "/api/(.*)", "dest": "/api/app.py" }

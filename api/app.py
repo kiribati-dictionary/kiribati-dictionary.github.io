@@ -18,7 +18,7 @@ CORS(app)  # Enable CORS to allow React frontend to access the API
 if 'VERCEL' in os.environ:
     # On Vercel, the current directory is different
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    DATABASE = os.path.join(script_dir, 'dictionary.db')
+    DATABASE = os.path.join(script_dir, '..', 'dictionary.db')
 else:
     # Local development
     script_dir = os.path.dirname(__file__)
