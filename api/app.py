@@ -63,15 +63,22 @@ def searchdef():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # SQL LIKE statement with word boundaries
-    pattern = f'%[^a-zA-Z0-9]{query}[^a-zA-Z0-9]%'
-    cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE def LIKE ? OR def LIKE ? OR def LIKE ? OR def LIKE ?", 
-                   (f'% {query} %', f'% {query}%', f'%{query} %', f'%{query}%'))
+    # Fetch rows where the definition contains the query
+    cursor.execute("SELECT DISTINCT wrd, def FROM dictionary WHERE def LIKE ?", ('%' + query + '%',))
+    rows = cursor.fetchall()
 
-    words = cursor.fetchall()
-
+    # Close the database connection
     conn.close()
-    return jsonify([word[0] for word in words])
+
+    # Filter the results to include only exact matches
+    exact_words = []
+    for wrd, definition in rows:
+        # Use regular expression to find the exact word match
+        pattern = r'\b' + re.escape(query) + r'\b'
+        if re.search(pattern, definition, re.IGNORECASE):
+            exact_words.append(wrd)
+
+    return jsonify(exact_words)
 
 @app.route('/words/<letter>', methods=['GET'])
 def words_by_letter(letter):
