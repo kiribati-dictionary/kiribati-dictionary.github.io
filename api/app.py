@@ -49,13 +49,7 @@ def searchwrd():
     cursor = conn.cursor()
 
     cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE wrd LIKE ?", ('%' + query + '%',))
-    rows = cursor.fetchall()
-        rows = cursor.fetchall()
-        words = [
-            (wrd,)
-            for wrd, definition in rows
-            if query in wrd.lower()
-        ]
+    words = cursor.fetchall()
 
     conn.close()
     return jsonify([word[0] for word in words])
@@ -70,12 +64,7 @@ def searchdef():
     cursor = conn.cursor()
 
     cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE def LIKE ?", ('%' + query + '%',))
-    rows = cursor.fetchall()
-        words = [
-            (wrd,)
-            for wrd, definition in rows
-            if word_in_definition(query, definition)
-        ]
+    words = cursor.fetchall()
 
     conn.close()
     return jsonify([word[0] for word in words])
