@@ -38,6 +38,36 @@ def search():
     
     conn.close()
     return jsonify([word[0] for word in words])
+    
+@app.route('/searchwrd', methods=['GET'])
+def searchwrd():
+    query = request.args.get('query', '').strip().lower()
+    if not query:
+        return jsonify([])
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE wrd LIKE ?", ('%' + query + '%',))
+    words = cursor.fetchall()
+
+    conn.close()
+    return jsonify([word[0] for word in words])
+
+@app.route('/searchdef', methods=['GET'])
+def searchdef():
+    query = request.args.get('query', '').strip().lower()
+    if not query:
+        return jsonify([])
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE def LIKE ?", ('%' + query + '%',))
+    words = cursor.fetchall()
+
+    conn.close()
+    return jsonify([word[0] for word in words])
 
 @app.route('/words/<letter>', methods=['GET'])
 def words_by_letter(letter):
