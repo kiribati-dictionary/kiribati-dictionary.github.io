@@ -63,7 +63,10 @@ def searchdef():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE def LIKE ?", ('%' + query + '%',))
+    # Use a regular expression pattern to find the exact word with word boundaries
+    pattern = f'%[^a-zA-Z0-9]{query}[^a-zA-Z0-9]%'
+
+    cursor.execute("SELECT DISTINCT wrd FROM dictionary WHERE def LIKE ?", (pattern,))
     words = cursor.fetchall()
 
     conn.close()
