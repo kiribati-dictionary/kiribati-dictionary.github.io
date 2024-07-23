@@ -92,6 +92,7 @@ def words_by_letter(letter):
 @app.route('/definition/<path:word>', methods=['GET'])
 def definition(word):
     word = word.replace("%20", " ")
+    word = word.replace("%2C", ",")
     conn = get_db_connection()
     cursor = conn.cursor()
     cursor.execute("SELECT def FROM dictionary WHERE wrd=?", (word,))
