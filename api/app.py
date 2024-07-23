@@ -89,7 +89,7 @@ def words_by_letter(letter):
     conn.close()
     return jsonify([word[0] for word in words])
 
-@app.route('/definition/<word>', methods=['GET'])
+@app.route('/definition/<path:word>', methods=['GET'])
 def definition(word):
     conn = get_db_connection()
     cursor = conn.cursor()
