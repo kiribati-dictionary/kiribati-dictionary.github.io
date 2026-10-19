@@ -1,0 +1,51 @@
+name: Suggest a correction
+description: Report a mistake in a dictionary entry.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping. Each entry records what its source dictionaries say, so please tell us which source the mistake is in, and whether it is a copying or formatting mistake on this site or an error in the original dictionary.
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: The entry's id (filled in for you when you come from the entry page).
+    validations:
+      required: true
+  - type: dropdown
+    id: source
+    attributes:
+      label: Which source?
+      options:
+        - Bingham
+        - Sabatier
+        - Goo & Banner
+        - Luomala
+        - The page itself (layout, links, search)
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of mistake?
+      options:
+        - The site doesn't match the original dictionary (copying or formatting)
+        - The original dictionary is wrong or out of date
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Quote the text that's wrong if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: What should it say? If you have a reference (a printed dictionary, page number, a speaker you asked), please mention it.

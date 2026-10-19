@@ -26,8 +26,13 @@ Stephen Trussel (d. 2020) spent decades documenting the Kiribati language. This 
 
 ```
 data/entries/        dictionary entries, one YAML file per letter
+data/english.yaml    Trussel's English index: each English word and the entries that use it
+data/topics.yaml     topics for browsing (keyword lists; edit freely)
+data/labels.yaml     what each abbreviation (n., vt., ex. ...) means
 sources/trussel/     archived copies of the original pages, unmodified, with a manifest
-scripts/             tools to fetch and convert source material
+scripts/             tools to fetch and convert source material, and to build the site
+web/                 the site's stylesheet, script, icon and service worker
+site/                the built website (generated, not committed)
 legacy/              the earlier Tekitinari app (website + API), kept with its history
 ```
 
@@ -62,4 +67,18 @@ Requires [uv](https://docs.astral.sh/uv/).
 ```sh
 python3 scripts/fetch_trussel.py        # download archived source pages (slow, polite)
 uv run scripts/convert_trussel.py       # regenerate data/entries/
+uv run scripts/convert_finder.py        # regenerate data/english.yaml (needs data/entries/)
 ```
+
+## Building the website
+
+```sh
+uv run scripts/build_site.py            # writes site/
+python3 -m http.server -d site          # preview at http://localhost:8000
+```
+
+The site is plain HTML with relative links. It has a page for every entry, every English word in the index, every letter and every topic.
+
+- **Search** runs in the browser, from the header of every page. `headwords.json` loads on the first keystroke, then `english.json`; `fulltext.json` only when someone searches the full text.
+- **Offline:** a service worker (`web/sw.js`) saves the small pages, the search data and `bundle/` (every entry's content) after the first visit. Pages that weren't visited are drawn from the bundle by `offline.html`.
+- **Corrections:** every entry links to a pre-filled GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`). Only people with access to the repository can file issues while it is private.

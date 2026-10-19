@@ -1,0 +1,127 @@
+# Topics for browsing, used by scripts/build_site.py.
+#
+# An entry belongs to a topic when one of its definitions (not examples or
+# cross-references) has a keyword among its first six words (or `within:` words),
+# e.g. "a species of fish" or "fish." but not "to fish for flying fish".
+# Plurals match too.
+# A topic with `source:` instead lists every entry that source contributes to.
+# This is a browsing aid, not part of the dictionary text: edit freely.
+
+- id: fish
+  title: Fish
+  blurb: Fish of the reef, lagoon and open ocean.
+  keywords: [fish, shark, eel, ray, tuna, bonito, mullet, goby, wrasse, parrotfish, grouper, snapper, needlefish, garfish, flying fish, sardine, triggerfish, surgeonfish, rock cod]
+
+- id: birds
+  title: Birds
+  blurb: Seabirds, shore birds and land birds.
+  keywords: [bird, tern, noddy, frigate bird, heron, plover, curlew, booby, petrel, shearwater, tattler, cuckoo, fowl, chicken, hen, rooster]
+
+- id: sea-life
+  title: Shells and sea creatures
+  blurb: Shellfish, crabs, octopus, coral and other sea life.
+  keywords: [shell, shellfish, cowrie, clam, crab, octopus, squid, sea cucumber, sea urchin, coral, starfish, lobster, crayfish, turtle, jellyfish, sea slug, sponge, mollusc, whale, porpoise, dolphin]
+
+- id: plants
+  title: Plants and trees
+  blurb: Trees, shrubs, grasses, seaweeds and other plants.
+  keywords: [tree, plant, shrub, bush, grass, weed, vine, creeper, fern, seaweed, herb, flower, sedge]
+
+- id: coconut
+  title: Coconut
+  blurb: The coconut palm and everything made from it.
+  keywords: [coconut, coconut palm, toddy, copra, sap, husk, nut, frond, spathe]
+
+- id: pandanus
+  title: Pandanus
+  blurb: The pandanus tree, its fruit and leaves.
+  keywords: [pandanus]
+
+- id: babai
+  title: Babai and food crops
+  blurb: Giant swamp taro and other cultivated food plants.
+  keywords: [babai, taro, breadfruit, banana, papaya, arrowroot, pit]
+
+- id: food
+  title: Food and cooking
+  blurb: Dishes, preserved foods, cooking and eating.
+  keywords: [food, dish, pudding, cook, cooked, cooking, oven, roast, boil, boiled, meal, eat, eating, preserved]
+
+- id: fishing
+  title: Fishing
+  blurb: Methods, gear and bait for fishing.
+  keywords: [fishing, fish hook, fishhook, hook, net, fishnet, bait, fish trap, trap, fishing line, lure, spear]
+
+- id: sea-and-canoes
+  title: Sea, canoes and navigation
+  blurb: Canoes and sailing, reefs, tides and waves.
+  keywords: [canoe, outrigger, sail, mast, paddle, boat, ship, reef, lagoon, tide, wave, current, channel, anchor, navigation]
+
+- id: weather-and-sky
+  title: Weather and sky
+  blurb: Wind, rain, stars, moon and the seasons.
+  keywords: [wind, rain, cloud, storm, squall, star, constellation, moon, sun, sky, rainbow, season, weather, lightning, thunder]
+
+- id: body
+  title: The body
+  blurb: Parts of the body and bodily states.
+  within: 4
+  keywords: [body, head, hair, eye, ear, nose, mouth, lip, tooth, teeth, tongue, neck, shoulder, arm, hand, finger, chest, breast, belly, stomach, hip, leg, knee, foot, feet, toe, skin, bone, heart, liver, blood, navel]
+
+- id: health
+  title: Health and illness
+  blurb: Sickness, injuries and remedies.
+  keywords: [sick, sickness, illness, disease, pain, ache, fever, wound, sore, swelling, ulcer, cough, medicine, remedy, cure]
+
+- id: family
+  title: Family and people
+  blurb: Kinship, relatives and ways of referring to people.
+  keywords: [father, mother, parent, child, son, daughter, brother, sister, sibling, grandfather, grandmother, grandparent, grandchild, relative, relation, kin, husband, wife, spouse, uncle, aunt, cousin, nephew, niece, ancestor, orphan, family]
+
+- id: house-and-village
+  title: House and village
+  blurb: Buildings, the maneaba, household things and village life.
+  keywords: [house, hut, maneaba, roof, thatch, rafter, post, beam, floor, wall, door, village, land, garden]
+
+- id: crafts
+  title: Weaving and crafts
+  blurb: Mats, baskets, cord, and the work of making them.
+  keywords: [mat, basket, weave, weaving, plait, plaiting, sennit, cord, rope, string, thread, fan, hat, skirt, loincloth]
+
+- id: feelings
+  title: Feelings and character
+  blurb: Emotions, moods and the ways people behave.
+  within: 4
+  keywords: [angry, anger, afraid, fear, frightened, ashamed, shame, happy, glad, joy, joyful, sad, sorrow, grief, love, jealous, jealousy, proud, pride, lazy, stubborn, cruel, worried, anxious, desire]
+
+- id: beliefs
+  title: Spirits, myth and belief
+  blurb: Spirits, gods, magic, omens and the old stories.
+  keywords: [spirit, god, goddess, ghost, myth, magic, charm, sorcery, sorcerer, incantation, spell, omen, taboo, sacred, ancestor spirit]
+
+- id: games-and-dance
+  title: Games, songs and dance
+  blurb: Dances, songs, games and pastimes.
+  keywords: [dance, dancing, song, sing, singing, chant, game, play, toy, string figure]
+
+- id: numbers
+  title: Numbers and counting
+  blurb: Numerals, counting words and measures.
+  within: 4
+  keywords: [numeral, number, count, counting, fathom, measure, hundred, thousand, ten thousand]
+
+- id: colours
+  title: Colours
+  blurb: Words for colours and shades.
+  within: 3
+  keywords: [colour, color, coloured, red, white, black, yellow, green, blue, brown, grey, gray]
+
+- id: goo-banner
+  title: Animal and plant names (Goo & Banner)
+  blurb: Every word from Goo & Banner's compilation of Gilbertese animal and plant names, mostly with scientific names.
+  source: goo-banner
+
+- id: luomala
+  title: Ethnobotany (Luomala)
+  blurb: Every word from Katharine Luomala's study of plants and their uses in the Gilbert Islands.
+  source: luomala
