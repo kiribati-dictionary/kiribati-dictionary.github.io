@@ -1,0 +1,6827 @@
+- id: w
+  headword: w
+  trussel: w
+  sources:
+  - source: sabatier
+    forms:
+    - form: w
+      parts:
+      - label: note.
+        text: 'The Gilbertese *w* differs from the English *w*. It more like the sound of *v* especially
+          if followed by *e*:'
+      - label: ex.
+        text: '*kewe, keve, wete, vete, vene, wene*...'
+- id: wa
+  headword: wa
+  trussel: wa
+  sources:
+  - source: bingham
+    forms:
+    - form: wa
+      parts:
+      - label: n.
+        text: a canoe.
+      - label: n.
+        text: sleepers of a floor.
+    - form: wa
+      parts:
+      - label: vi.
+        text: to move along in a company as persons or fish.
+  - source: sabatier
+    forms:
+    - form: wa
+      parts:
+      - label: n.
+        text: '*te wa, to wa* (N) any vehicle, any means of conveyance: canoe, boat, bicycle, cart, toy...,
+          pawn in chess,... checkers.'
+      - label: ex.
+        text: |-
+          *wam te baitika*: your bicycle.
+          *te wa ni kiba*: aeroplane <airplane>.
+      - label: fig.
+        text: '*e maninga wau*: my head forgets.'
+      - label: see
+        text: v.t. [[wana]].
+    - form: wa
+      homograph: 1
+      parts:
+      - label: pref.
+        text: of [[waki]] in compound words.
+      - label: see
+        text: '[[wa-buaka|wa-puaka]], [[wa-ni-kangare]], *wanraea*.'
+      - label: note.
+        text: 'in the sense of, to be doing. corresponds to *manibuaka, manraoi, manikangare, manrea*:
+          to be in a state of... (slight nuance).'
+    - form: wa
+      homograph: 2
+      parts:
+      - label: suf.
+        text: '[[wawa]] to go,... move.'
+      - label: see
+        text: '*au wa*, [[awawa|a wawa]].'
+    - form: wa
+      homograph: 3
+      parts:
+      - label: n.
+        text: beam, joist.
+      - label: ex.
+        text: |-
+          *te wa n nano*: lower beam, floor beam.
+          *te wa n anti*: scaffolding, horse or trestle.
+    - form: wa
+      homograph: 4
+      parts:
+      - label: n.
+        text: species, kind (fish, birds), category of...
+    - form: wa
+      parts:
+      - label: n.
+        text: '*te wa n Tarawa*: a dance, manner of procedure, ceremonial <ceremony> for different rites,
+          composition or performance following a method.'
+    - form: wa
+      homograph: 6
+      parts:
+      - label: nv.
+        text: '*wawa, wanako*: to go,... move,... displace oneself, to flow,... flow away.'
+      - label: ex.
+        text: |-
+          *a wa nako ika*: the fish are going off, travelling.
+          *a wawa ranni matana*: his tears are flowing.
+      - label: vc.
+        text: '*kawaea, kawawaea*: to make flow.'
+      - label: n.
+        text: '*te bai ni kawawa*: guttering, spouting.'
+      - label: ex.
+        text: '*ikawawa*: to wander around in mobs, gangs, etc., vagrancy of number of persons together.'
+    - form: wa
+      homograph: 7
+      parts:
+      - label: n.
+        text: '*te Wa*: a constellation.'
+    - form: wa
+      homograph: 8
+      parts:
+      - label: pref.
+        text: or suf. of [[wawa]], [[waki]], *waanga*.
+- id: wa-buaka
+  headword: wa buaka
+  trussel: wabuaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa buaka
+      parts:
+      - label: n.
+        text: bad comportment, ill behaved in society or family, to be in an awkward situation for taking
+          action.
+      - label: ant.
+        text: '*wa-raoi*.'
+- id: wa-n-anano
+  headword: wa n anano
+  trussel: wananano
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n anano
+      parts:
+      - label: n.
+        text: joists, lower beams in a building.
+- id: wa-n-ei
+  headword: wa n ei
+  trussel: wanei
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n ei
+      parts:
+      - label: n.
+        text: supporting cross piece (as in scoop net).
+- id: wa-n-o
+  headword: wa n o
+  trussel: wano
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n o
+      parts:
+      - label: n.
+        text: small canoe, moved along by pole.
+      - label: see
+        text: '[[o]], [[oa]].'
+- id: wa-n-ra
+  headword: wa n ra
+  trussel: wanra
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n ra
+      parts:
+      - label: na.
+        text: untowardly behaviour, unlucky.
+      - label: vt.
+        text: '*wanra*: to bring disappointments, ill luck.'
+      - label: vc.
+        text: '*kawanra*: to disagree.'
+- id: wa-n-tabakea
+  headword: wa n tabakea
+  trussel: wantabakea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n tabakea
+      parts:
+      - label: nv.
+        text: to swim on back, face upwards.
+      - label: syn.
+        text: '*uaua n tararake*, [[wa-tangaina]], *wa n tararake*.'
+- id: wa-n-tabea
+  headword: wa n tabea
+  trussel: wantabea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa n tabea
+      parts:
+      - label: na.
+        text: a canoe in danger, unbalanced kite, person in danger, at the end of strength.
+- id: wa-ni-banga
+  headword: wa ni banga
+  trussel: wanibanga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni banga
+      parts:
+      - label: n.
+        text: a native dance.
+      - label: v.
+        text: to dance...
+- id: wa-ni-kangare
+  headword: wa ni kangare
+  trussel: wanikangare
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni kangare
+      parts:
+      - label: n.
+        text: pleasantry, jocularity, teasing, light banter, humorous ridicule, smutty talk, humbug, jest.
+      - label: vt.
+        text: '*wanikangarea te koraki*: to make laugh, amuse the audience.'
+      - label: syn.
+        text: '*manikangarea*.'
+      - label: vt.
+        text: '*waningarea*: to make fun of,... to joke about...'
+- id: wa-ni-matang
+  headword: wa ni matang
+  trussel: wanimatang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni matang
+      parts:
+      - label: n.
+        text: foreign manners, behaviour, systems.
+      - label: v.
+        text: to behave like a stranger, to follow the manners, fashions, systems of.
+- id: wa-ni-mate
+  headword: wa ni mate
+  trussel: wanimate
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni mate
+      parts:
+      - label: nva.
+        text: to be dying with..., smitten with..., passionately in love with...
+      - label: fig.
+        text: '*wanimate, bakanimate*: importunate person.'
+- id: wa-ni-ngare
+  headword: wa ni ngare
+  trussel: waningare
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni ngare
+      parts:
+      - label: n.
+        text: laugh, joke.
+      - label: v.
+        text: to be amused.
+- id: wa-ni-ngarea
+  headword: wa ni ngarea
+  trussel: waningarea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni ngarea
+      parts:
+      - label: vt.
+        text: to laugh at, to make fun of, to tease.
+- id: wa-ni-were
+  headword: wa ni were
+  trussel: waniwere
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ni were
+      parts:
+      - label: v.
+        text: to fish for *were*.
+      - label: syn.
+        text: '[[werewere]].'
+- id: wa-ririki
+  headword: wa ririki
+  trussel: waririki
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa ririki
+      parts:
+      - label: n.
+        text: a well-made canoe of average size.
+- id: wa-tangaina
+  headword: wa tangaina
+  trussel: watangaina
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa tangaina
+      parts:
+      - label: n.
+        text: '*wa n tangaina*: lying <lie> down face upwards <supine>.'
+      - label: v.
+        text: to swim on back.
+- id: wabobo
+  headword: wabobo
+  trussel: wabobo
+  sources:
+  - source: bingham
+    forms:
+    - form: wábobo
+      parts:
+      - label: vi.
+        text: to engage in nourishing or bringing up.
+  - source: sabatier
+    forms:
+    - form: wabobo
+      parts:
+      - label: and
+        text: '*wabwebwe, waboboa, wabwebwe* to have a good system of culture, upbringing, educating <educate>
+          children.'
+      - label: note.
+        text: pron. *wabwebwe*.
+      - label: vt.
+        text: '*wabwebwea*: to know how to cultivate,... care for,... bring up with skill and success,
+          to bring up well.'
+- id: waboboa
+  headword: waboboa
+  trussel: waboboa
+  sources:
+  - source: bingham
+    forms:
+    - form: wabóboa
+      parts:
+      - label: vt.
+        text: to bring up, to nourish, to raise.
+- id: wabuaka
+  headword: wabuaka
+  trussel: wabuaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wábuaka
+      parts:
+      - label: a.
+        text: inhospitable to relatives.
+- id: wae
+  headword: wae
+  trussel: wae
+  sources:
+  - source: bingham
+    forms:
+    - form: wáe
+      parts:
+      - label: n.
+        text: a leg, a foot.
+      - label: n.
+        text: a shriveled, undeveloped coconut including the husk.
+      - label: a.
+        text: blighted, as a coconut.
+  - source: sabatier
+    forms:
+    - form: wae
+      parts:
+      - label: n.
+        text: feet <foot>, leg;.
+      - label: see
+        text: '[[ranga]].'
+      - label: a.
+        text: '*waewae*: having fat legs, thighs.'
+      - label: idiom.
+        text: '*katei wae, katea waena*: to refresh oneself, to take refreshments,... restore energy.'
+      - label: vt.
+        text: '*aoniwaea, aniwaea*: to place under leg or foot.'
+    - form: wae
+      homograph: 1
+      parts:
+      - label: n.
+        text: |-
+          (1) *te wae*: a freak coconut with no kernel, barren woman, impotent man, dried up fruit, freak, good for nothing.
+          (2) this freak coconut used as skittles by children, as support under canoes.
+      - label: nv.
+        text: '*karewae*: to throw a skittle between legs, to play game of...'
+    - form: wae
+      homograph: 2
+      parts:
+      - label: n.
+        text: '*te Wae*: name of a constellation.'
+- id: wae-bubura
+  headword: wae bubura
+  trussel: waebubura
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae bubura
+      parts:
+      - label: na.
+        text: (1) fat legs.
+      - label: n.
+        text: (2) large rain drops (large as *wae*, freak coconut).
+- id: wae-kiekie
+  headword: wae kiekie
+  trussel: waekiekie
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae kiekie
+      parts:
+      - label: a.
+        text: limp, halting, lame, hobbling.
+      - label: v.
+        text: to hobble, to walk with a limp, to walk lamely.
+- id: wae-kirere
+  headword: wae kirere
+  trussel: waekirere
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae kirere
+      parts:
+      - label: n.
+        text: hopping on one leg.
+      - label: v.
+        text: to hop.
+- id: wae-kororo
+  headword: wae kororo
+  trussel: waekororo
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae kororo
+      parts:
+      - label: a.
+        text: one leg shorter than the other.
+- id: wae-maranga
+  headword: wae maranga
+  trussel: waemaranga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae maranga
+      parts:
+      - label: n.
+        text: long steps.
+      - label: v.
+        text: to take...
+- id: wae-mwere
+  headword: wae mwere
+  trussel: waemwere
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae mwere
+      parts:
+      - label: n.
+        text: a slow walker.
+      - label: v.
+        text: to go very slowly, to be late.
+      - label: vc.
+        text: '*kawaemwerea*: to retard the progress of...'
+- id: wae-n-noko
+  headword: wae n noko
+  trussel: waennoko
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae n noko
+      parts:
+      - label: n.
+        text: spindle shanks, spindle legs.
+      - label: see
+        text: '[[noko]].'
+- id: wae-n-rongo
+  headword: wae n rongo
+  trussel: waenrongo
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae n rongo
+      parts:
+      - label: n.
+        text: a sitting position with one leg bent backwards.
+- id: wae-n-uea
+  headword: wae n uea
+  trussel: waenuea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae n uea
+      parts:
+      - label: na.
+        text: sitting with legs crossed like tailor.
+      - label: see
+        text: '*kabara n uea*, [[bari]].'
+- id: wae-ni-baka
+  headword: wae ni baka
+  trussel: waenibaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni baka
+      parts:
+      - label: syn.
+        text: '*bai ni baka*, *tara ni baka*, *taera-baka*, *taera ni baka*.'
+      - label: n.
+        text: approaching downfall, loss of position, rank, charge.
+      - label: a.
+        text: '*wae baka*: fallen, destitute, outcast.'
+- id: wae-ni-kaba
+  headword: wae ni kaba
+  trussel: waenikaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni kaba
+      parts:
+      - label: na.
+        text: long legs.
+- id: wae-ni-kinouta
+  headword: wae ni kinouta
+  trussel: waenikinouta
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni kinouta
+      parts:
+      - label: vt.
+        text: to approach furtively, with furtive steps stealthily <stealthy>.
+- id: wae-ni-kinouti
+  headword: wae ni kinouti
+  trussel: waenikinouti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni kinouti
+      parts:
+      - label: nv.
+        text: to walk, or go with light tread.
+- id: wae-ni-koroa
+  headword: wae ni koroa
+  trussel: waenikoroa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni koroa
+      parts:
+      - label: n.
+        text: stilts.
+      - label: v.
+        text: to walk with...
+- id: wae-ni-kun
+  headword: wae ni kun
+  trussel: waenikun
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni kun
+      parts:
+      - label: nv.
+        text: to walk like *kun*, dance step, small quick steps with sudden stops on one leg, walk like
+          crane m.
+- id: wae-ni-ma
+  headword: wae ni ma
+  trussel: waenima
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni ma
+      parts:
+      - label: n.
+        text: (1) arm of fish trap, low stone wall which gathers fish towards *ma* (fish trap) in form
+          of V.
+      - label: n.
+        text: (2) _idem_. temporary barrier made of dry palm leaves.
+    - form: wae ni ma
+      homograph: 1
+      parts:
+      - label: v.
+        text: to go, to swim in single file (as fish along wall of trap).
+- id: wae-ni-makauro
+  headword: wae ni makauro
+  trussel: waenimakauro
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni makauro
+      parts:
+      - label: n.
+        text: a mat with design resembling crab's feet.
+- id: wae-ni-maku
+  headword: wae ni maku
+  trussel: waenimaku
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni maku
+      parts:
+      - label: v.
+        text: to walk backwards, through fear or respect, to beat a retreat, to withdraw on tip toe.
+- id: wae-ni-were
+  headword: wae ni were
+  trussel: waeniwere
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ni were
+      parts:
+      - label: nv.
+        text: to walk with poise, with precaution (as when looking for *were* shell fish).
+- id: wae-ributata
+  headword: wae ributata
+  trussel: waeributata
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae ributata
+      parts:
+      - label: see
+        text: '[[waerebutata|wae rebutata]].'
+- id: wae-tuairoa
+  headword: wae tuairoa
+  trussel: waetuairoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae tuairoa
+      parts:
+      - label: na.
+        text: having bandy legs, knock kneed <knee>.
+- id: waea
+  headword: waea
+  trussel: waea
+  sources:
+  - source: bingham
+    forms:
+    - form: wáea
+      parts:
+      - label: vt.
+        text: |-
+          to sew, to pierce, to stick.
+          to interrupt.
+      - label: n.
+        text: a coconut leaflet for extracting from a bottle a small quantity of oil adhering.
+  - source: sabatier
+    forms:
+    - form: waea
+      parts:
+      - label: from.
+        text: '[[wai]]:'
+      - label: vt.
+        text: (1) to thread on to..., to prick, pierce through, run through, put on skewer, stem.
+      - label: ex.
+        text: '*waea te ika*: thread fish on to...'
+      - label: v.
+        text: (2) to show, or point to with finger, to designate.
+      - label: ex.
+        text: |-
+          *waea matan te*: point towards someone's face.
+          *(3) counterbalance..., opposition to...*
+          *waea nimam*: mix your drink, dilute with water.
+      - label: fig.
+        text: '*waea te taeka*: to interfere, to intervene,... criticize,... contradict,... thwart,...
+          oppose,... put a spoke in the wheel.'
+      - label: ex.
+        text: '*waea rarikin te*...: to cavil, to give broad hints by allusions, to allude to..., indirectly.'
+      - label: n.
+        text: |-
+          chicanery.
+          *te waewae*: criticism, objection, contradiction, opposition.
+      - label: v.
+        text: '*waewae*: to interfere, to criticize, to object, to contradict, to thwart.'
+    - form: waea
+      homograph: 1
+      parts:
+      - label: n.
+        text: (1) a thin stem, or twig used to attain to things out of reach.
+      - label: n.
+        text: (2) an outsize mat.
+      - label: n.
+        text: |-
+          (3) a contradictor, opposer, objector, vis-a-vis rival.
+          (4) sorcery using small roasted coconuts.
+    - form: waea
+      homograph: 2
+      parts:
+      - label: n.
+        text: wire.
+      - label: syn.
+        text: '[[kaukamea]] (S.).'
+- id: waeai
+  headword: waeai
+  trussel: waeai
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeai
+      parts:
+      - label: a.
+        text: new, fresh.
+      - label: n.
+        text: a new article, a fresh article.
+  - source: sabatier
+    forms:
+    - form: waeai
+      parts:
+      - label: a.
+        text: '*waeaituatua* (sup.) young, fresh, tender (plants), fresh, new, recent (general).'
+      - label: syn.
+        text: '[[menai]] (*mena-aii*).'
+- id: waeana
+  headword: waeana
+  trussel: waeana
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeana
+      parts:
+      - label: vt.
+        text: to extract or draw out oil with a *waea*.
+- id: waebabaro
+  headword: waebabaro
+  trussel: waebabaro
+  sources:
+  - source: sabatier
+    forms:
+    - form: waebabaro
+      parts:
+      - label: na.
+        text: bandy legged.
+- id: waebaka
+  headword: waebaka
+  trussel: waebaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: waebaka
+      parts:
+      - label: a.
+        text: fallen away, destitute.
+- id: waebatiraku
+  headword: waebatiraku
+  trussel: waebatiraku
+  sources:
+  - source: sabatier
+    forms:
+    - form: waebatiraku
+      parts:
+      - label: na.
+        text: calf of leg of abnormal thickness, enlarged.
+- id: waebeka
+  headword: waebeka
+  trussel: waebeka
+  sources:
+  - source: sabatier
+    forms:
+    - form: waebeka
+      parts:
+      - label: na.
+        text: knock kneed <knee>.
+      - label: syn.
+        text: '[[tiribubua]].'
+- id: waebua
+  headword: waebua
+  trussel: waebua
+  sources:
+  - source: bingham
+    forms:
+    - form: wáebua
+      parts:
+      - label: a.
+        text: having a large calf.
+      - label: n.
+        text: the thumb.
+  - source: sabatier
+    forms:
+    - form: waebua
+      parts:
+      - label: n.
+        text: big toee.
+      - label: ex.
+        text: '*waebua ni bai*: thumb.'
+      - label: syn.
+        text: '[[ukinaba]].'
+      - label: a.
+        text: beautiful legs, thick calf of leg.
+- id: waebuangi
+  headword: waebuangi
+  trussel: waebuangi
+  sources:
+  - source: bingham
+    forms:
+    - form: waebuángi
+      parts:
+      - label: a.
+        text: having well developed legs.
+      - label: n.
+        text: a person having well proportioned legs.
+  - source: sabatier
+    forms:
+    - form: waebuangi
+      parts:
+      - label: from.
+        text: 'buaki:'
+      - label: na.
+        text: perfectly moulded legs, well built...
+- id: waebuatake
+  headword: waebuatake
+  trussel: waebuatake
+  sources:
+  - source: sabatier
+    forms:
+    - form: waebuatake
+      parts:
+      - label: sup.
+        text: superlative of [[waebuangi]].
+      - label: na.
+        text: elegant legs, symmetrical...
+- id: waeirariki
+  headword: waeirariki
+  trussel: waeirariki
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae-irariki
+      parts:
+      - label: a.
+        text: thin legged, thinnish, puny (legs).
+- id: waekiekie
+  headword: waekiekie
+  trussel: waekiekie
+  sources:
+  - source: bingham
+    forms:
+    - form: waekíekie
+      parts:
+      - label: vi.
+        text: to walk with a springhalt.
+      - label: n.
+        text: a springhalt gait.
+- id: waekirere
+  headword: waekirere
+  trussel: waekirere
+  sources:
+  - source: bingham
+    forms:
+    - form: wáekirére
+      parts:
+      - label: vi.
+        text: to hop on one foot.
+      - label: n.
+        text: hopping on one foot.
+- id: waekoa
+  headword: waekoa
+  trussel: waekoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: waekoa
+      parts:
+      - label: n.
+        text: '*wawae*: haste, hurry.'
+      - label: v.
+        text: to go quickly, to walk briskly, to hurry, to hasten.
+      - label: vc.
+        text: '*kawaekoa*: to hurry, to hasten.'
+      - label: ex.
+        text: '*kawaekoako!* hurry up!'
+- id: waematoa
+  headword: waematoa
+  trussel: waematoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae-matoa
+      parts:
+      - label: a.
+        text: '*waematoa*: regular, punctual.'
+      - label: v.
+        text: to go regularly to.
+- id: waemwere
+  headword: waemwere
+  trussel: waemwere
+  sources:
+  - source: bingham
+    forms:
+    - form: wáemwere
+      parts:
+      - label: vi.
+        text: to walk slowly, to be slow in arriving.
+      - label: n.
+        text: slowness in arrival, slow walking.
+- id: waena
+  headword: waena
+  trussel: waena
+  sources:
+  - source: sabatier
+    forms:
+    - form: waena
+      parts:
+      - label: from.
+        text: '[[wae]].'
+      - label: vt.
+        text: (use for legs).
+      - label: ex.
+        text: '*waena te batika*: use a bicycle.'
+- id: waenibaka
+  headword: waenibaka
+  trussel: waenibaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenib'áka
+      parts:
+      - label: a.
+        text: in a defeated position, politically ruined.
+      - label: n.
+        text: one defeated and consequently becoming a serf.
+- id: waenikaba
+  headword: waenikaba
+  trussel: waenikaba
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenikaáb'a
+      parts:
+      - label: a.
+        text: long-leggged.
+      - label: n.
+        text: a person with unusually long legs.
+- id: waenikoroa
+  headword: waenikoroa
+  trussel: waenikoroa
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenikóroa
+      parts:
+      - label: n.
+        text: stilts.
+      - label: vi.
+        text: to walk on stilts.
+- id: waenima
+  headword: waenima
+  trussel: waenima
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenim'a
+      parts:
+      - label: vi.
+        text: to swim as fish in long lines.
+      - label: n.
+        text: a low stone wall running toward the shore from a *ma* by which to run fish into it.
+- id: waenimakauro
+  headword: waenimakauro
+  trussel: waenimakauro
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenimakáuro
+      parts:
+      - label: n.
+        text: a mat with figures resembling the tracks of a crab.
+- id: waenimaku
+  headword: waenimaku
+  trussel: waenimaku
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenimaáku
+      parts:
+      - label: va.
+        text: retreating through fear.
+      - label: n.
+        text: a cowardly retreat.
+- id: waeniman
+  headword: waeniman
+  trussel: waeniman
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenimæn
+      parts:
+      - label: vi.
+        text: to walk rapidly.
+      - label: see
+        text: '[[waetata]].'
+- id: waenronga
+  headword: waenronga
+  trussel: waenronga
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenrónga
+      parts:
+      - label: vi.
+        text: to sit a la mode Kusaie.
+      - label: n.
+        text: a sitting on a mat with the feet and lower part of the legs turned back and nearly parallel
+          with the thigh.
+- id: waenuea
+  headword: waenuea
+  trussel: waenuea
+  sources:
+  - source: bingham
+    forms:
+    - form: wáenúea
+      parts:
+      - label: vi.
+        text: to sit on the ground with one leg crossed above the knee of the other.
+      - label: n.
+        text: a sitting on the ground with one lig crossed above the knee of the other.
+- id: waerake
+  headword: waerake
+  trussel: waerake
+  sources:
+  - source: bingham
+    forms:
+    - form: wáerake
+      parts:
+      - label: vi.
+        text: to go east.
+  - source: sabatier
+    forms:
+    - form: waerake
+      parts:
+      - label: v.
+        text: to go ashore, to go eastwards.
+      - label: vc.
+        text: '*kawaerakea*: to steer, or direct upwards, towards..., to make ascend.'
+- id: waerakea
+  headword: waerakea
+  trussel: waerakea
+  sources:
+  - source: bingham
+    forms:
+    - form: wáerákea
+      parts:
+      - label: vt.
+        text: to approach near to.
+  - source: sabatier
+    forms:
+    - form: waerakea
+      parts:
+      - label: vt.
+        text: to ascend towards.
+      - label: ex.
+        text: '*e waerakeai*: it came up towards me.'
+- id: waerebutata
+  headword: waerebutata
+  trussel: waerebutata
+  sources:
+  - source: bingham
+    forms:
+    - form: wáerebutæ/ta
+      parts:
+      - label: vi.
+        text: to be constantly going from place to place.
+      - label: n.
+        text: a constant restless going from place to place.
+  - source: sabatier
+    forms:
+    - form: waerebutata
+      parts:
+      - label: v.
+        text: to walk, or go with quick steps..
+      - label: or.
+        text: '[[wae-ributata|wae riputata]]:'
+      - label: fig.
+        text: a street walker.
+      - label: vc.
+        text: '*kawaerebutata*: to make..., to walk briskly.'
+- id: waeremwe
+  headword: waeremwe
+  trussel: waeremwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeremwe
+      parts:
+      - label: vi.
+        text: to go or walk slowly.
+    - form: wáeremwe
+      parts:
+      - label: n.
+        text: slow walking, late arrival.
+  - source: sabatier
+    forms:
+    - form: waeremwe
+      parts:
+      - label: n.
+        text: slowness, tardiness <tardy>.
+      - label: v.
+        text: to dawdle, to arrive late.
+      - label: a.
+        text: slow.
+      - label: vc.
+        text: |-
+          *kawaeremwe*, *kawaeremwea*: to slow down the movement, to retard.
+          he movement, to retard.
+- id: waerena
+  headword: waerena
+  trussel: waerena
+  sources:
+  - source: sabatier
+    forms:
+    - form: wae-rena
+      parts:
+      - label: n.
+        text: (stretching foot) one who keeps coming back to the same place.
+      - label: vt.
+        text: '*waerena*: to come back again to, to frequent assiduously (place, person).'
+- id: waeribeu
+  headword: waeribeu
+  trussel: waeribeu
+  sources:
+  - source: sabatier
+    forms:
+    - form: waeribeu
+      parts:
+      - label: na.
+        text: deformation of toes, adhering..., etc.
+- id: waeribono
+  headword: waeribono
+  trussel: waeribono
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeribóno
+      parts:
+      - label: vi.
+        text: to visit repeatedly and frequently, to take short steps.
+      - label: n.
+        text: a frequent visitation.
+  - source: sabatier
+    forms:
+    - form: waeribono
+      parts:
+      - label: nv.
+        text: to walk with short steps, close steps.
+      - label: fig.
+        text: (more used), multiplying one's visits, coming back at short intervals, faithful in coming
+          often.
+      - label: vc.
+        text: '*kawaeribonoa*: to make...'
+- id: waerio
+  headword: waerio
+  trussel: waerio
+  sources:
+  - source: sabatier
+    forms:
+    - form: waerio
+      parts:
+      - label: or.
+        text: '[[wairio]]:'
+      - label: v.
+        text: to go downwards..., towards the lagoon, towards the west.
+      - label: vc.
+        text: '*kawairioa*: to make...'
+      - label: ant.
+        text: '*waerake, kawaerakea*.'
+- id: waero
+  headword: waero
+  trussel: waero
+  sources:
+  - source: sabatier
+    forms:
+    - form: waero
+      parts:
+      - label: n.
+        text: a species of crab with black claws (*ro*).
+    - form: waero
+      homograph: 1
+      parts:
+      - label: syn.
+        text: '*kawai n ro*, *kawinroa*:'
+      - label: v.
+        text: v.t. *waeroa*. to go by night, to travel about..., to go to..., stealthily <stealthy>, secretly
+          (for good or bad end).
+      - label: syn.
+        text: '*kimoa ni bong*: marauder, robber, scrounger.'
+      - label: v.
+        text: to maraud, to rob, to scrounge by night.
+- id: waeroa
+  headword: waeroa
+  trussel: waeroa
+  sources:
+  - source: sabatier
+    forms:
+    - form: waeroa
+      parts:
+      - label: a.
+        text: having long thin legs (like fishing rod).
+      - label: v.
+        text: to walk with long steps.
+- id: waetata
+  headword: waetata
+  trussel: waetata
+  sources:
+  - source: bingham
+    forms:
+    - form: wáetata
+      parts:
+      - label: vi.
+        text: to go or walk rapidly.
+      - label: n.
+        text: a rapid gait.
+  - source: sabatier
+    forms:
+    - form: waetata
+      parts:
+      - label: n.
+        text: 'general word for: haste, hurry, promptitude.'
+      - label: v.
+        text: to hurry, go quickly, do quickly, promptly, smartly.
+      - label: vc.
+        text: '*kawaetata, kaka*...: to make haste, to hurry, to hasten.'
+      - label: ex.
+        text: '*ti kawaetataira*: we are hurrying, we hurried.'
+    - form: waetata
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*waewaetata*... rapid pace, accelerated movement.'
+      - label: sup.
+        text: 'superlative of [[waetata]]:'
+      - label: v.
+        text: to hurry, go,... do smartly,... rapidly.
+      - label: vc.
+        text: '*kawaetatawe, kawaetatawea*: to do..., to make do...'
+- id: waetatawe
+  headword: waetatawe
+  trussel: waetatawe
+  sources:
+  - source: bingham
+    forms:
+    - form: wáetatáwe
+      parts:
+      - label: vi.
+        text: to walk rapidly.
+      - label: n.
+        text: a rapid gait, brisk walking.
+- id: waetebe
+  headword: waetebe
+  trussel: waetebe
+  sources:
+  - source: bingham
+    forms:
+    - form: wáetebe
+      parts:
+      - label: va.
+        text: afflicted with springhalt as a man.
+      - label: n.
+        text: a springhalt gait.
+  - source: sabatier
+    forms:
+    - form: waetebe
+      parts:
+      - label: nv.
+        text: '*waetebetebe*: to lift one leg and throw it forward when walking.'
+      - label: syn.
+        text: '*waeteme*.'
+- id: waetebetabe
+  headword: waetebetabe
+  trussel: waetebetabe
+  sources:
+  - source: bingham
+    forms:
+    - form: waetébetabe
+      parts:
+      - label: va.
+        text: frequentative of [[waetebe]].
+- id: waeteke
+  headword: waeteke
+  trussel: waeteke
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeteke
+      parts:
+      - label: a.
+        text: nimble, active, quick in motion.
+  - source: sabatier
+    forms:
+    - form: waeteke
+      parts:
+      - label: na.
+        text: '*waeteketeke*: rapid in pursuit,... to catch.'
+- id: waetemeteme
+  headword: waetemeteme
+  trussel: waetemeteme
+  sources:
+  - source: sabatier
+    forms:
+    - form: waetemeteme
+      parts:
+      - label: syn.
+        text: n.v.a. [[waetebe]].
+- id: waetoka
+  headword: waetoka
+  trussel: waetoka
+  sources:
+  - source: bingham
+    forms:
+    - form: wáetoka
+      parts:
+      - label: vi.
+        text: to walk briskly.
+  - source: sabatier
+    forms:
+    - form: waetoka
+      parts:
+      - label: n.
+        text: rapid walk, haste.
+      - label: v.
+        text: to hurry, to go quickly, to do rapidly.
+      - label: a.
+        text: to be prompt,... smart.
+      - label: syn.
+        text: '[[waetata]].'
+- id: waeuai
+  headword: waeuai
+  trussel: waeuai
+  sources:
+  - source: bingham
+    forms:
+    - form: waeuaái
+      parts:
+      - label: n.
+        text: a miniature racing canoe with two sticks holding the outrigger.
+  - source: sabatier
+    forms:
+    - form: wae-uai
+      parts:
+      - label: n.
+        text: toy canoe for *makei* racing <race>;
+      - label: ex.
+        text: '*wae-kaina*: _idem_. another kind.'
+- id: waeura
+  headword: waeura
+  trussel: waeura
+  sources:
+  - source: bingham
+    forms:
+    - form: wáeura
+      parts:
+      - label: n.
+        text: a shell-crab, the.
+  - source: sabatier
+    forms:
+    - form: wae-ura
+      parts:
+      - label: n.
+        text: a crab with red claws.
+- id: waewae
+  headword: waewae
+  trussel: waewae
+  sources:
+  - source: bingham
+    forms:
+    - form: wáewae
+      parts:
+      - label: a.
+        text: having large feet, large footed.
+    - form: wáewae
+      parts:
+      - label: n.
+        text: an interruption or checking of one who is speaking.
+  - source: sabatier
+    forms:
+    - form: waewae
+      parts:
+      - label: na.
+        text: having stout legs.
+    - form: waewae
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[waea]]:'
+      - label: n.
+        text: obstruction, opposition <oppose>, contradiction, objection, criticism.
+      - label: v.
+        text: to make..., to object, to contradict...
+    - form: waewae
+      homograph: 2
+      parts:
+      - label: freq.
+        text: 'of [[waea]]:'
+      - label: nv.
+        text: inf. to point out, to designate.
+      - label: ex.
+        text: '*e waewae te aomata*: person stretching arms to attain something out of reach.'
+      - label: see
+        text: '[[tawaewae]].'
+- id: waewaea
+  headword: waewaea
+  trussel: waewaea
+  sources:
+  - source: bingham
+    forms:
+    - form: waewáea
+      parts:
+      - label: vt.
+        text: frequentative of [[waea]].
+- id: wai
+  headword: wai
+  trussel: wai
+  sources:
+  - source: bingham
+    forms:
+    - form: wái
+      parts:
+      - label: vi.
+        text: to blow as the wind.
+      - label: vi.
+        text: to engage in spearing as fish, to engage in seine making.
+      - label: n.
+        text: the spearing of fish, seine making.
+    - form: wái
+      parts:
+      - label: a.
+        text: oblong.
+  - source: sabatier
+    forms:
+    - form: wai
+      parts:
+      - label: a.
+        text: oblong, long, elongated, tapering, pointed.
+      - label: fig.
+        text: '*e wai ubuna, e wai*: he has a long face, crestfallen, ashamed, disappointed, taken in.'
+    - form: wai
+      homograph: 1
+      parts:
+      - label: rad.
+        text: 'of *waea* or *waia*:'
+      - label: pref.
+        text: to harpoon fish, whales, etc.
+      - label: ex.
+        text: '*wai ika, wai baiku, wai bainamu, wai kua, wai rereba*.'
+    - form: wai
+      homograph: 2
+      parts:
+      - label: a.
+        text: coming on well, making way through.
+      - label: ex.
+        text: '*e wai te ang*: the wind is blowing up.'
+      - label: vc.
+        text: '*kawaia te ang*: to wait till the breeze blows.'
+- id: wai-itua
+  headword: wai itua
+  trussel: waiitua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai itua
+      parts:
+      - label: vt.
+        text: to thread on, to string by piercing <pierce> with needle, etc.
+- id: wai-kakang
+  headword: wai kakang
+  trussel: waikakang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai kakang
+      parts:
+      - label: na.
+        text: pointed, sharp, tapering.
+- id: wai-karaun
+  headword: wai karaun
+  trussel: waikaraun
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai karaun
+      parts:
+      - label: nv.
+        text: '*waea te karaun*: to make mesh net.'
+- id: wai-keke
+  headword: wai keke
+  trussel: waikeke
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai keke
+      parts:
+      - label: na.
+        text: '*wai keke rake*: going to a point, a cape.'
+- id: wai-ki
+  headword: wai ki
+  trussel: waiki
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai ki
+      parts:
+      - label: to.
+        text: prick the back (of loser to make advance).
+- id: wai-maranga
+  headword: wai maranga
+  trussel: waimaranga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai maranga
+      parts:
+      - label: v.
+        text: to pierce, or sew too far apart (thatch, etc.).
+      - label: vt.
+        text: '*waimaranga*: _idem_.'
+- id: wai-marena
+  headword: wai marena
+  trussel: waimarena
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai marena
+      parts:
+      - label: nv.
+        text: 'v.t. *waimarena*: to put, prick, place, or pass between, at intervals.'
+- id: wai-n-ang
+  headword: wai n ang
+  trussel: wainang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai n ang
+      parts:
+      - label: idiom.
+        text: '(1) *e wai te ang*: the wind comes up,... blows, gusts of wind.'
+      - label: idiom.
+        text: (2) a refreshing drink, agreeable...
+- id: waia
+  headword: waia
+  trussel: waia
+  sources:
+  - source: sabatier
+    forms:
+    - form: waia
+      parts:
+      - label: vt.
+        text: to pierce,... prick,... skewer,... harpoon, to thread on to...
+      - label: see
+        text: '[[waea]].'
+- id: waiananau
+  headword: waiananau
+  trussel: waiananau
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai-ananau
+      parts:
+      - label: a.
+        text: long, lengthy, lengthening, stretching, prolonged.
+- id: waibakarere
+  headword: waibakarere
+  trussel: waibakarere
+  sources:
+  - source: sabatier
+    forms:
+    - form: waibakarere
+      parts:
+      - label: nv.
+        text: 'v.t. *waibakarerea*: throwing dart, to throw and pierce.'
+- id: waibana
+  headword: waibana
+  trussel: waibana
+  sources:
+  - source: bingham
+    forms:
+    - form: waibæ/naa
+      parts:
+      - label: vt.
+        text: to pierce with a sharp-pointed stick.
+    - form: waibæ/na
+      parts:
+      - label: vi.
+        text: to engage in piercing with a shar7 pointed stick.
+  - source: sabatier
+    forms:
+    - form: waibana
+      parts:
+      - label: vt.
+        text: to pierce the body, to pierce through.
+- id: waibora
+  headword: waibora
+  trussel: waibora
+  sources:
+  - source: sabatier
+    forms:
+    - form: waibora
+      parts:
+      - label: v.
+        text: to pierce, sew (thatch, etc.) in irregular faulty manner.
+- id: waibua
+  headword: waibua
+  trussel: waibua
+  sources:
+  - source: sabatier
+    forms:
+    - form: waibua
+      parts:
+      - label: na.
+        text: sore throat, having..., which irritates throat.
+- id: waiki
+  headword: waiki
+  trussel: waiki
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiki
+      parts:
+      - label: n.
+        text: the taking of another's place in a game when required.
+- id: waikia
+  headword: waikia
+  trussel: waikia
+  sources:
+  - source: bingham
+    forms:
+    - form: waikía
+      parts:
+      - label: vt.
+        text: to succeed another in taking his place in a game when two are needed.
+- id: waimata
+  headword: waimata
+  trussel: waimata
+  sources:
+  - source: bingham
+    forms:
+    - form: wáimæta
+      parts:
+      - label: n.
+        text: a disease of the eyes, the.
+      - label: vi.
+        text: to engage in reproving or chiding.
+    - form: wáimataa
+      parts:
+      - label: vt.
+        text: to reprove.
+  - source: sabatier
+    forms:
+    - form: wai-mata
+      parts:
+      - label: n.
+        text: sore eyes, ophthalmia.
+      - label: v.
+        text: to have...
+    - form: wai-mata
+      homograph: 1
+      parts:
+      - label: nv.
+        text: 'v.t. *waea matan te... wai mataia*: to point to with finger, to make ashamed, to blame
+          by pointing at the face of culprit.'
+- id: wain
+  headword: wain
+  trussel: wain
+  sources:
+  - source: bingham
+    forms:
+    - form: wáin
+      parts:
+      - label: n.
+        text: wine (ENG).
+  - source: sabatier
+    forms:
+    - form: wain
+      parts:
+      - label: n.
+        text: wine (ENG).
+- id: wainang
+  headword: wainang
+  trussel: wainang
+  sources:
+  - source: bingham
+    forms:
+    - form: wáinang
+      parts:
+      - label: n.
+        text: very sweet and fresh _karewe_.
+      - label: a.
+        text: very sweet and fresh as *karewe*.
+- id: wainekeneke
+  headword: wainekeneke
+  trussel: wainekeneke
+  sources:
+  - source: bingham
+    forms:
+    - form: wainékeneke
+      parts:
+      - label: va.
+        text: having a rash like prickly heat.
+      - label: n.
+        text: a rash resembling prickly heat.
+  - source: sabatier
+    forms:
+    - form: wainekeneke
+      parts:
+      - label: and
+        text: '*unekeneke*:'
+      - label: n.
+        text: a twitching, itching, tingling <tingle> sensation...
+- id: wainiman
+  headword: wainiman
+  trussel: wainiman
+  sources:
+  - source: bingham
+    forms:
+    - form: wáinimæn
+      parts:
+      - label: n.
+        text: a method of tying the feather float in the game of *kab'ane*.
+  - source: sabatier
+    forms:
+    - form: wai-ni-man
+      parts:
+      - label: nv.
+        text: 'v.t. *wainimania*: a manner of placing feather on stick in game of *kabane*.'
+- id: waiora
+  headword: waiora
+  trussel: waiora
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiora
+      parts:
+      - label: n.
+        text: a viol (ENG).
+- id: waira
+  headword: waira
+  trussel: waira
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiraa
+      parts:
+      - label: n.
+        text: feces, excrement.
+    - form: wáira
+      parts:
+      - label: vi.
+        text: to perform a certain incantation.
+  - source: sabatier
+    forms:
+    - form: waira
+      parts:
+      - label: n.
+        text: excreta.
+      - label: vt.
+        text: '*waira, bekara*.'
+    - form: waira
+      homograph: 1
+      parts:
+      - label: n.
+        text: '(1) *wairaea*: disparagement.'
+      - label: v.
+        text: to disparage, to speak badly of..., to speak disparagingly of...
+      - label: n.
+        text: (2) king of malevolence, maleficence, cursing <curse>.
+- id: wairaea
+  headword: wairaea
+  trussel: wairaea
+  sources:
+  - source: bingham
+    forms:
+    - form: wairaáea
+      parts:
+      - label: vt.
+        text: to subject a person to the effects of a certain incantation.
+- id: wairakau
+  headword: wairakau
+  trussel: wairakau
+  sources:
+  - source: sabatier
+    forms:
+    - form: wairakau
+      parts:
+      - label: nv.
+        text: magical practice imported from Fiji to counteract malevolence, to prevent or cure sickness,
+          to provoke love.
+- id: wairau
+  headword: wairau
+  trussel: wairau
+  sources:
+  - source: bingham
+    forms:
+    - form: wáirau
+      parts:
+      - label: vi.
+        text: to engage in sewing or fastening pan leaves to a stick for thatching.
+      - label: n.
+        text: the process of fastening pandanus leaves to a coconut rib for thatch.
+  - source: sabatier
+    forms:
+    - form: wai-rau
+      parts:
+      - label: n.
+        text: work of making thatch (*rau*);
+      - label: v.
+        text: '*wawairau, waea raun te bata*: to stitch, or sew thatch for house.'
+- id: wairena
+  headword: wairena
+  trussel: wairena
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai-rena
+      parts:
+      - label: nv.
+        text: to go in single file, in Indian file.
+- id: wairinan
+  headword: wairinan
+  trussel: wairinan
+  sources:
+  - source: bingham
+    forms:
+    - form: wáirinæn
+      parts:
+      - label: vi.
+        text: to stand in a row, to march in a procession.
+      - label: n.
+        text: a row, a rank, a file, a line.
+  - source: sabatier
+    forms:
+    - form: wai-rinan
+      parts:
+      - label: n.
+        text: get in..., be in line, in ranks.
+      - label: vc.
+        text: '*kawairinana*: to put, or make go in a line.'
+- id: wairio
+  headword: wairio
+  trussel: wairio
+  sources:
+  - source: bingham
+    forms:
+    - form: wáirio
+      parts:
+      - label: vi.
+        text: to go toward the west.
+      - label: n.
+        text: a going to the west or to the leeward.
+  - source: sabatier
+    forms:
+    - form: wairio
+      parts:
+      - label: v.
+        text: to go downwards, towards the west, descend towards the lagoon.
+      - label: vc.
+        text: '*kawairioa*: to make...'
+- id: wairioa
+  headword: wairioa
+  trussel: wairioa
+  sources:
+  - source: bingham
+    forms:
+    - form: wairioa
+      parts:
+      - label: vt.
+        text: to approach a canoe from the east or the shore.
+- id: wairoro
+  headword: wairoro
+  trussel: wairoro
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiroro
+      parts:
+      - label: vi.
+        text: to play with on of the same age.
+      - label: n.
+        text: play or sport with one of the same age.
+  - source: sabatier
+    forms:
+    - form: wai-roro
+      parts:
+      - label: a.
+        text: '*wairorona*: being about the same age, judge by the age, the generation of...'
+- id: waitaninga
+  headword: waitaninga
+  trussel: waitaninga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai-taninga
+      parts:
+      - label: n.
+        text: ear ache, any pain in ear.
+      - label: v.
+        text: to have...
+- id: waitebu
+  headword: waitebu
+  trussel: waitebu
+  sources:
+  - source: sabatier
+    forms:
+    - form: waitebu
+      parts:
+      - label: or.
+        text: '*waitubu*:'
+      - label: n.
+        text: large axe needing two hands to manipulate.
+- id: waiteke
+  headword: waiteke
+  trussel: waiteke
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiteke
+      parts:
+      - label: n.
+        text: a fork.
+      - label: vi.
+        text: to engage in using a fork.
+  - source: sabatier
+    forms:
+    - form: waiteke
+      parts:
+      - label: n.
+        text: '*te kai ni waiteke*: fork, garden..., table...'
+- id: waitekea
+  headword: waitekea
+  trussel: waitekea
+  sources:
+  - source: bingham
+    forms:
+    - form: waitékea
+      parts:
+      - label: vt.
+        text: to fork food, to lift food with a fork.
+  - source: sabatier
+    forms:
+    - form: waitekea
+      parts:
+      - label: vt.
+        text: to prick, pierce with fork, skewer, etc.
+- id: waiteketeke
+  headword: waiteketeke
+  trussel: waiteketeke
+  sources:
+  - source: sabatier
+    forms:
+    - form: waiteketeke
+      parts:
+      - label: a.
+        text: spotted, marked, mottled, speckled.
+      - label: vt.
+        text: '*waiteketekea*: to spot, to mark...'
+- id: waitoa
+  headword: waitoa
+  trussel: waitoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: waitoa
+      parts:
+      - label: vt.
+        text: '*waitoa:*: to double leaves <leaf> when making *rau* (thatch).'
+- id: waitoko
+  headword: waitoko
+  trussel: waitoko
+  sources:
+  - source: bingham
+    forms:
+    - form: wáitoko
+      parts:
+      - label: vi.
+        text: to engage in suppressing another's speech.
+  - source: sabatier
+    forms:
+    - form: waitoko
+      parts:
+      - label: n.
+        text: general interference, obstruction, opposition <oppose>, contrariness <contrary>.
+      - label: v.
+        text: to make interfere, etc.
+- id: waitokoa
+  headword: waitokoa
+  trussel: waitokoa
+  sources:
+  - source: bingham
+    forms:
+    - form: waitókoa
+      parts:
+      - label: vt.
+        text: to suppress another's speech.
+- id: waitotokoa
+  headword: waitotokoa
+  trussel: waitotokoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: waitotokoa
+      parts:
+      - label: vt.
+        text: '*waitotokoa*: to hinder,... stop,... counteract, to be opposed to..., to put spokes in
+          the wheel.'
+- id: waitua
+  headword: waitua
+  trussel: waitua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wai-tua
+      parts:
+      - label: vt.
+        text: '*waitua*: to pierce,... prick obliquely,... superficially.'
+- id: waiwai
+  headword: waiwai
+  trussel: waiwai
+  sources:
+  - source: bingham
+    forms:
+    - form: wáiwai
+      parts:
+      - label: n.
+        text: the furrowed edge of the reef.
+      - label: n.
+        text: gonorrhoea.
+    - form: wáiwai
+      parts:
+      - label: va.
+        text: afflicted with gonorrhoea.
+  - source: sabatier
+    forms:
+    - form: waiwai
+      parts:
+      - label: n.
+        text: reefs (jutting, *wai*), breakwater around islands.
+    - form: waiwai
+      homograph: 1
+      parts:
+      - label: n.
+        text: disease of bladder, urethra, inflammation caused by toddy contaminated by cantharides beetle.
+      - label: vc.
+        text: '*kawaiwai, kaka*...: which causes *waiwai*.'
+- id: waka
+  headword: waka
+  trussel: waka
+  sources:
+  - source: bingham
+    forms:
+    - form: wákaa
+      parts:
+      - label: n.
+        text: one who gives support.
+      - label: n.
+        text: a root.
+    - form: waáka
+      parts:
+      - label: a.
+        text: full of roots, as soil.
+  - source: sabatier
+    forms:
+    - form: waka
+      parts:
+      - label: n.
+        text: root, fibre, string.
+      - label: fig.
+        text: relationship, roots, moral attachments, base, foundation, cause.
+      - label: a.
+        text: '*waka, wawaka, wakariri*.'
+      - label: sup.
+        text: '[[wakawaka]], *kau-waka*, [[kiriwakawaka]]: fibrous, stringy, tough, undercooked, full
+          of threads, strings, fibres, having...'
+      - label: fig.
+        text: '*ae waka i, e waka n te*...: having its roots, base, cause in..., to be rooted,... attached,
+          fastened, tied to...'
+      - label: vc.
+        text: '*kawakaea*: to make or wait till...'
+      - label: n.
+        text: '*te waka tabanin*: square root.'
+      - label: idiom.
+        text: '*reke-waka*: to be staying,... held <hold> by roots,... attached.'
+      - label: ex.
+        text: '*tae-waka, rou waka, rou-waka, taeka,... routa te*: to uproot.'
+      - label: na.
+        text: '*wakamarumaru wakamatoa*: thick set roots, bushy..., many..., strongly rooted.'
+- id: waka-n-ni
+  headword: waka n ni
+  trussel: wakanni
+  sources:
+  - source: sabatier
+    forms:
+    - form: waka n ni
+      parts:
+      - label: n.
+        text: coconut roots.
+- id: waka-ni-ba
+  headword: waka ni ba
+  trussel: wakaniba
+  sources:
+  - source: sabatier
+    forms:
+    - form: waka ni ba
+      parts:
+      - label: n.
+        text: stalactite.
+- id: waka-ni-kaina
+  headword: waka ni kaina
+  trussel: wakanikaina
+  sources:
+  - source: sabatier
+    forms:
+    - form: waka ni kaina
+      parts:
+      - label: n.
+        text: pandanus roots.
+- id: waka-uea
+  headword: waka uea
+  trussel: wakauea
+  sources:
+  - source: sabatier
+    forms:
+    - form: waka uea
+      parts:
+      - label: n.
+        text: tap root.
+- id: wakabuaka
+  headword: wakabuaka
+  trussel: wakabuaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wakabuaka
+      parts:
+      - label: a.
+        text: badly rooted.
+      - label: fig.
+        text: not well transplanted, not well accepted in strange or new surroundings (for ex. young wife
+          in husband's family).
+- id: wakana
+  headword: wakana
+  trussel: wakana
+  sources:
+  - source: sabatier
+    forms:
+    - form: wakana
+      parts:
+      - label: vt.
+        text: to have,... take for, root, basis, foundation.
+- id: wakanei
+  headword: wakanei
+  trussel: wakanei
+  sources:
+  - source: bingham
+    forms:
+    - form: wákanei
+      parts:
+      - label: n.
+        text: a small fragment of feces.
+  - source: sabatier
+    forms:
+    - form: waka-n-ei
+      parts:
+      - label: n.
+        text: aerial roots of certain trees, pandanus, mangrove.
+- id: wakaniba
+  headword: wakaniba
+  trussel: wakaniba
+  sources:
+  - source: sabatier
+    forms:
+    - form: wakaniba
+      parts:
+      - label: n.
+        text: a species of dark coloured shark.
+- id: wakanikaina
+  headword: wakanikaina
+  trussel: wakanikaina
+  sources:
+  - source: bingham
+    forms:
+    - form: wakaánikáina
+      parts:
+      - label: n.
+        text: a root of the pan.
+- id: wakanni
+  headword: wakanni
+  trussel: wakanni
+  sources:
+  - source: bingham
+    forms:
+    - form: wakaan/ni
+      parts:
+      - label: n.
+        text: a root of the coconut tree.
+- id: wakaraoi
+  headword: wakaraoi
+  trussel: wakaraoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: wakaraoi
+      parts:
+      - label: a.
+        text: well embedded, rooted.
+      - label: fig.
+        text: well received, adopted, integrated in strange place.
+- id: wakariri
+  headword: wakariri
+  trussel: wakariri
+  sources:
+  - source: bingham
+    forms:
+    - form: wakáriri
+      parts:
+      - label: a.
+        text: tough-skinnned.
+  - source: sabatier
+    forms:
+    - form: wakariri
+      parts:
+      - label: a.
+        text: stringy, fibrous, tough.
+      - label: sup.
+        text: 'superlative of [[wakawaka]]: underdone.'
+- id: wakawaka
+  headword: wakawaka
+  trussel: wakawaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wákawaka
+      parts:
+      - label: a.
+        text: stringy, fibrous as pandanus fruit.
+  - source: sabatier
+    forms:
+    - form: wakawaka
+      parts:
+      - label: a.
+        text: stringy, fibrous, tough.
+- id: waki
+  headword: waki
+  trussel: waki
+  sources:
+  - source: bingham
+    forms:
+    - form: waáki
+      parts:
+      - label: vi.
+        text: to go on, to proceed.
+  - source: sabatier
+    forms:
+    - form: waki
+      parts:
+      - label: n.
+        text: '*wawaki*: advancement, progress.'
+      - label: v.
+        text: to progress, to go forward, to advance,... make progress,... follow up an idea,... realize
+          a plan.
+      - label: vc.
+        text: '*kawaka, kaka*...: to make...'
+- id: wakina
+  headword: wakina
+  trussel: wakina
+  sources:
+  - source: bingham
+    forms:
+    - form: waákina
+      parts:
+      - label: vt.
+        text: to shove.
+  - source: sabatier
+    forms:
+    - form: wakina
+      parts:
+      - label: vt.
+        text: '*wawakina*: to push forward, to carry out, to impel, to proceed with an idea, to pursue
+          actively..., to make affairs progress, advance.'
+- id: wakiraoi
+  headword: wakiraoi
+  trussel: wakiraoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: wakiraoi
+      parts:
+      - label: syn.
+        text: '*butiraoi*.'
+      - label: good.
+        text: progress, going well, making progress (used for actions, work, affairs).
+      - label: ex.
+        text: '*wa raoi, wa buaka* used for persons of good or bad social behaviour.'
+- id: wakiti
+  headword: wakiti
+  trussel: wakiti
+  sources:
+  - source: bingham
+    forms:
+    - form: wæ/kiti
+      parts:
+      - label: n.
+        text: wax (ENG).
+- id: wakoro
+  headword: wakoro
+  trussel: wakoro
+  sources:
+  - source: bingham
+    forms:
+    - form: waákoro
+      parts:
+      - label: vi.
+        text: to work by one's self.
+      - label: n.
+        text: work performed by one's self.
+  - source: sabatier
+    forms:
+    - form: wakoro
+      parts:
+      - label: vt.
+        text: '*wakoroa*: to work alone, separately, to do alone (a task, an affair).'
+- id: wakoroa
+  headword: wakoroa
+  trussel: wakoroa
+  sources:
+  - source: bingham
+    forms:
+    - form: wakóroa
+      parts:
+      - label: vt.
+        text: to do work by one's self.
+- id: wan
+  headword: wan
+  trussel: wan
+  sources:
+  - source: bingham
+    forms:
+    - form: wan
+      parts:
+      - label: a.
+        text: eight, always followed by a numeral suffix, *ai, ua, ung, man, nga, kai, kora,* or by a
+          certain noun, as *bong, ririki, ritoro, inaki, atao, aba,* or by a certain adjective, as *bwi,
+          bubua*.
+  - source: sabatier
+    forms:
+    - form: wan
+      parts:
+      - label: an.
+        text: '*wani*: eight;.'
+      - label: ex.
+        text: |-
+          *wanua (wani wa), waniman, wan-ai, wani kai*, etc.,.
+          *wani ngaun* eighty.
+- id: wana
+  headword: wana
+  trussel: wana
+  sources:
+  - source: bingham
+    forms:
+    - form: waána
+      parts:
+      - label: vt.
+        text: to take possession of a canoe.
+    - form: wána
+      parts:
+      - label: a.
+        text: wearisome, tiresome.
+  - source: sabatier
+    forms:
+    - form: wana
+      parts:
+      - label: from.
+        text: '[[wa]].'
+      - label: vt.
+        text: '(1) wawana: to have, or take for means of transport, for vehicle,... to embark on,... to
+          ride on.'
+      - label: ex.
+        text: |-
+          *N na waniko*: I want to ride on you.
+          (2) *e wawanira, e okiokirira te makuri*: the work always falls to us, keeps coming back to us.
+          *e wana te tang*: he started to cry, he does nothing but cry.
+    - form: wana
+      homograph: 1
+      parts:
+      - label: from.
+        text: seems to come from [[waki]].
+      - label: vt.
+        text: to have as term, end of course,... come back to,... start to...
+      - label: ex.
+        text: '*e wana te aine*: he keeps coming back to this woman.'
+    - form: wana
+      homograph: 2
+      parts:
+      - label: n.
+        text: '*wanawana*: reason, commonsense, intelligence.'
+      - label: a.
+        text: intelligent, reasonable, sensible, wise, having commonsense, intelligence, wisdom, prudence...
+      - label: vc.
+        text: '*kawana, kawanawana*: to make become..., to give...'
+- id: wanai
+  headword: wanai
+  trussel: wanai
+  sources:
+  - source: bingham
+    forms:
+    - form: wan/ai
+      parts:
+      - label: a.
+        text: eight, in counting hardware, furniture, chests, barrels, timber, coconut-leaf stems, fingers,
+          teeth, large fish, as sharks and *ikari*.
+- id: wananti
+  headword: wananti
+  trussel: wananti
+  sources:
+  - source: bingham
+    forms:
+    - form: wánænti
+      parts:
+      - label: n.
+        text: scaffolding.
+  - source: sabatier
+    forms:
+    - form: wa-n-anti
+      parts:
+      - label: n.
+        text: scaffolding, horse, trestle.
+- id: wanara
+  headword: wanara
+  trussel: wanara
+  sources:
+  - source: bingham
+    forms:
+    - form: wánara
+      parts:
+      - label: vt.
+        text: to lay bare the rootlets of _babai_ for the purpose of applying a fertilizer.
+  - source: sabatier
+    forms:
+    - form: wanara
+      parts:
+      - label: vt.
+        text: to separate, to disentangle, to denude, to uncover fibres, hair, roots (uncover taro roots
+          to apply manure).
+- id: wanawana
+  headword: wanawana
+  trussel: wanawana
+  sources:
+  - source: bingham
+    forms:
+    - form: wánawana
+      parts:
+      - label: a.
+        text: intelligent, knowing, wise.
+  - source: sabatier
+    forms:
+    - form: wanawana
+      parts:
+      - label: n.
+        text: intelligence, reason, commonsense, sound judgement, wisdom, sagacity, perspicacity, clairvoyance,
+          prudence.
+      - label: a.
+        text: |-
+          having..., being..., intelligent, reasonable, sensible, wise, sagacioue, perspicacious, clairvoyant, judicious, ingenious, prudent.
+          *niniwana*: frank, open minded, intelligent, receptive, precautious, quick, smart.
+          *wanawana n rang, rangi ni*...
+      - label: sup.
+        text: very..., altogether...
+      - label: a.
+        text: '*moaniban te wanawana*: most...'
+      - label: vc.
+        text: '*kawanawana*: to make..., to give..., to find..., to treat as...,.'
+      - label: ex.
+        text: |-
+          *kakawanawana*: to think oneself..., to esteem oneself...
+          *ko kawanawanaiko!* you think yourself clever! you boast of...
+- id: wanawananrang
+  headword: wanawananrang
+  trussel: wanawananrang
+  sources:
+  - source: bingham
+    forms:
+    - form: wánawananrang/
+      parts:
+      - label: a.
+        text: of rare intelligence.
+- id: wanea
+  headword: wanea
+  trussel: wanea
+  sources:
+  - source: bingham
+    forms:
+    - form: wan/ea
+      parts:
+      - label: a.
+        text: eight million.
+- id: wanei
+  headword: wanei
+  trussel: wanei
+  sources:
+  - source: bingham
+    forms:
+    - form: wánei
+      parts:
+      - label: n.
+        text: the part of a scoop-net near the handle.
+- id: waneinei
+  headword: waneinei
+  trussel: waneinei
+  sources:
+  - source: bingham
+    forms:
+    - form: wanéinei
+      parts:
+      - label: a.
+        text: too watery, mixed as food with too much water.
+  - source: sabatier
+    forms:
+    - form: waneinei
+      parts:
+      - label: na.
+        text: a mixture too wet, very..., too much liquid.
+      - label: syn.
+        text: '[[waranran]].'
+      - label: vc.
+        text: '*kawaneineia*: to make, to render more...'
+- id: wang
+  headword: wang
+  trussel: wang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wang
+      parts:
+      - label: v.
+        text: '*wawang, wangwang*: to push, to push in front of one, to push forward, to push along.'
+- id: wanga
+  headword: wanga
+  trussel: wanga
+  sources:
+  - source: bingham
+    forms:
+    - form: wánga
+      parts:
+      - label: a.
+        text: weary, tired.
+    - form: waánga
+      parts:
+      - label: vt.
+        text: to feed well.
+  - source: sabatier
+    forms:
+    - form: wanga
+      parts:
+      - label: vt.
+        text: '*wawanga, wangawanga*: to push along in front of one, to take along by pushing, to push,
+          shove, to fatten an animal.'
+    - form: wanga
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*wanga iai, wangawanga, wangaroro*: bustle, confusion, disagreement, meddling, trouble,
+          vexation, tiredness, worry.'
+      - label: v.
+        text: to have...., to be troubled, upset, worried <worry>, etc., to be in the act of...
+      - label: ex.
+        text: '*mate wanga*: busy, worried by affairs (useless, vain).'
+      - label: vc.
+        text: '*kawanga, kawangawanga, kawangaroroa, kamatewanga*: to give trouble, bring..., to upset...,
+          to vex, annoy, tire uselessly.'
+      - label: ex.
+        text: |-
+          *tai kawangako!* don't worry.
+          *tai kawangaingkami!* don't worry! never mind!
+- id: wangaroro
+  headword: wangaroro
+  trussel: wangaroro
+  sources:
+  - source: bingham
+    forms:
+    - form: wangároro
+      parts:
+      - label: a.
+        text: very much wearied.
+      - label: n.
+        text: a great weariness.
+- id: wangawanga
+  headword: wangawanga
+  trussel: wangawanga
+  sources:
+  - source: bingham
+    forms:
+    - form: wángawanga
+      parts:
+      - label: a.
+        text: frequentative of [[wanga]] wearied.
+- id: wangea
+  headword: wangea
+  trussel: wangea
+  sources:
+  - source: bingham
+    forms:
+    - form: wángea
+      parts:
+      - label: n.
+        text: a weapon or sword set with shark's teeth.
+  - source: sabatier
+    forms:
+    - form: wangea
+      parts:
+      - label: or.
+        text: '*wi-ni-ngarei*:'
+      - label: n.
+        text: (1) native sword, 2-3 ft. long having four rows of sharks' teeth.
+      - label: n.
+        text: (2) sword, sabre, chopper.
+- id: wangewange
+  headword: wangewange
+  trussel: wangewange
+  sources:
+  - source: bingham
+    forms:
+    - form: wángewange
+      parts:
+      - label: n.
+        text: an anointing oil.
+  - source: sabatier
+    forms:
+    - form: wangewange
+      parts:
+      - label: and
+        text: '*wanguwangu*:'
+      - label: n.
+        text: the residue, remainder, lees, sediment of oil, liquid in bottom of vessel, remains, dregs.
+- id: wangnga
+  headword: wangnga
+  trussel: wangnga
+  sources:
+  - source: bingham
+    forms:
+    - form: waang/nga
+      parts:
+      - label: vt.
+        text: to apply more force to as a tool for boring.
+- id: waniba
+  headword: waniba
+  trussel: waniba
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/iba
+      parts:
+      - label: a.
+        text: eight leaves.
+- id: wanibanga
+  headword: wanibanga
+  trussel: wanibanga
+  sources:
+  - source: bingham
+    forms:
+    - form: wánibánga
+      parts:
+      - label: n.
+        text: a style of _ruoia_ in which the players are few.
+- id: wanibubua
+  headword: wanibubua
+  trussel: wanibubua
+  sources:
+  - source: bingham
+    forms:
+    - form: wænibúbua
+      parts:
+      - label: a.
+        text: eight hundred.
+- id: wanibwi
+  headword: wanibwi
+  trussel: wanibwi
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ibwi
+      parts:
+      - label: a.
+        text: eighty.
+      - label: see
+        text: '[[waningaun|wani ngaun]].'
+- id: wanikai
+  headword: wanikai
+  trussel: wanikai
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ikai
+      parts:
+      - label: a.
+        text: eight, in counting trees, fishhooks, and sections of land.
+- id: wanikangare
+  headword: wanikangare
+  trussel: wanikangare
+  sources:
+  - source: bingham
+    forms:
+    - form: waánikángare
+      parts:
+      - label: vi.
+        text: to chaff.
+      - label: n.
+        text: light idle talk by way of making fun.
+- id: wanikangarea
+  headword: wanikangarea
+  trussel: wanikangarea
+  sources:
+  - source: bingham
+    forms:
+    - form: waánikangárea
+      parts:
+      - label: vt.
+        text: to chaff, to make fun of.
+- id: wanikarau
+  headword: wanikarau
+  trussel: wanikarau
+  sources:
+  - source: bingham
+    forms:
+    - form: waánikárau
+      parts:
+      - label: vi.
+        text: to run about in the rain.
+  - source: sabatier
+    forms:
+    - form: wa-ni-karau
+      parts:
+      - label: nv.
+        text: (1) to stay out in the rain.
+      - label: see
+        text: '[[uani-karau|ua-ni-karau]].'
+      - label: n.
+        text: (2) spouting to collect rain water.
+- id: wanikaroa
+  headword: wanikaroa
+  trussel: wanikaroa
+  sources:
+  - source: bingham
+    forms:
+    - form: wánikaróa
+      parts:
+      - label: see
+        text: n [[kawawa]].
+- id: wanikiba
+  headword: wanikiba
+  trussel: wanikiba
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa-ni-kiba
+      parts:
+      - label: n.
+        text: aeroplane <airplane>.
+      - label: ex.
+        text: '*wa-ni-kiba-n-tari*: sea plane.'
+- id: wanikora
+  headword: wanikora
+  trussel: wanikora
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ikora
+      parts:
+      - label: a.
+        text: eight in counting baskets.
+- id: wanikuri
+  headword: wanikuri
+  trussel: wanikuri
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ikuri
+      parts:
+      - label: a.
+        text: eight hundred thousand.
+- id: waniman
+  headword: waniman
+  trussel: waniman
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/imæn
+      parts:
+      - label: a.
+        text: eight, in counting persons or animals.
+- id: wanimarawa
+  headword: wanimarawa
+  trussel: wanimarawa
+  sources:
+  - source: bingham
+    forms:
+    - form: wánimæ/rawaa
+      parts:
+      - label: vt.
+        text: to free a foundered canoe of water.
+      - label: vt.
+        text: to cultivate a young coconut tree.
+    - form: wánimæ/rawa
+      parts:
+      - label: n.
+        text: frequent cultivation of coconut trees.
+  - source: sabatier
+    forms:
+    - form: wa-ni-marawa
+      parts:
+      - label: nv.
+        text: (1) to empty a capsized canoe by lifting up one end at a time.
+      - label: v.
+        text: (2) to care for a plant in danger of dying.
+- id: wanimatang
+  headword: wanimatang
+  trussel: wanimatang
+  sources:
+  - source: bingham
+    forms:
+    - form: wánimæ/tang
+      parts:
+      - label: vi.
+        text: to eat fish (just caught) in privacy.
+    - form: wánimæ/tang
+      parts:
+      - label: n.
+        text: a ship, a foreign vessel,.
+      - label: n.
+        text: a place for eating fish ( just caught) in privacy.
+- id: wanimate
+  headword: wanimate
+  trussel: wanimate
+  sources:
+  - source: bingham
+    forms:
+    - form: wánimæ/te
+      parts:
+      - label: vi.
+        text: to be very hungry.
+    - form: waánimæte
+      parts:
+      - label: vi.
+        text: to live on one's neighbor.
+      - label: n.
+        text: a person living on his neighbor.
+- id: wanimatea
+  headword: wanimatea
+  trussel: wanimatea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wanimatea
+      parts:
+      - label: syn.
+        text: '*bakaimatea*, *okiokira n ua matena*.'
+      - label: to.
+        text: come back to..., continually coming back,... dying with love, desiring passionately.
+      - label: ex.
+        text: '*e wanimatea te aine*: he comes back passionately to...'
+- id: wanin
+  headword: wanin
+  trussel: wanin
+  sources:
+  - source: bingham
+    forms:
+    - form: waánin
+      parts:
+      - label: vi.
+        text: to engage in mending a hole in a mat.
+      - label: n.
+        text: the work of mending a hole in a mat.
+  - source: sabatier
+    forms:
+    - form: wanin
+      parts:
+      - label: or.
+        text: '[[ewanin]]:'
+      - label: n.
+        text: coconut husk, cut in halves (shell and husk).
+    - form: wanin
+      homograph: 1
+      parts:
+      - label: v.
+        text: to mend,... darn (clothes, nets).
+- id: wanina
+  headword: wanina
+  trussel: wanina
+  sources:
+  - source: sabatier
+    forms:
+    - form: wanina
+      parts:
+      - label: vt.
+        text: to mend... darn (mats, baskets, thatch, etc.).
+- id: waninga
+  headword: waninga
+  trussel: waninga
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/inga
+      parts:
+      - label: a.
+        text: eight thousand, eight in counting fathoms.
+- id: waningaun
+  headword: waningaun
+  trussel: waningaun
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ingaun
+      parts:
+      - label: a.
+        text: eighty.
+      - label: see
+        text: '[[ngaun]].'
+- id: waninia
+  headword: waninia
+  trussel: waninia
+  sources:
+  - source: bingham
+    forms:
+    - form: waáninía
+      parts:
+      - label: vt.
+        text: to mend a mat having a hole.
+  - source: sabatier
+    forms:
+    - form: waninia
+      parts:
+      - label: from.
+        text: '[[ninia]]:'
+      - label: vt.
+        text: to get involved in, to penetrate into.
+      - label: ex.
+        text: '*e waninia te riaboro*: the devil entered into them.'
+- id: waniua
+  headword: waniua
+  trussel: waniua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wani-ua
+      parts:
+      - label: a.
+        text: eight.
+      - label: see
+        text: '[[wanua]].'
+- id: wannano
+  headword: wannano
+  trussel: wannano
+  sources:
+  - source: bingham
+    forms:
+    - form: wan/næno
+      parts:
+      - label: n.
+        text: the sleepers of a building, a joist.
+- id: wano
+  headword: wano
+  trussel: wano
+  sources:
+  - source: bingham
+    forms:
+    - form: wáno
+      parts:
+      - label: n.
+        text: a small canoe.
+- id: wanrang
+  headword: wanrang
+  trussel: wanrang
+  sources:
+  - source: bingham
+    forms:
+    - form: wan/rang
+      parts:
+      - label: n.
+        text: a canoe not skillfully navigated.
+  - source: sabatier
+    forms:
+    - form: wa-n-rang
+      parts:
+      - label: n.
+        text: badly steered canoe.
+      - label: a.
+        text: '... not well cared for.'
+- id: wanre
+  headword: wanre
+  trussel: wanre
+  sources:
+  - source: bingham
+    forms:
+    - form: wan/re
+      parts:
+      - label: vi.
+        text: to practice a certain incantation in order to impart skill in throwing.
+      - label: n.
+        text: an incantation for imparting skill in throwing.
+  - source: sabatier
+    forms:
+    - form: wanre
+      parts:
+      - label: n.
+        text: '*Nei Wanre*: female evil spirit.'
+    - form: wanre
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*wanrea*: sortilege, mostly evil.'
+      - label: v.
+        text: to do this sorcery on..., by pointing the little finger (*te ukire*) towards person or things,
+          to bewitch,... curse, to hinder success, to check, to make a project fail.
+- id: wanrea
+  headword: wanrea
+  trussel: wanrea
+  sources:
+  - source: bingham
+    forms:
+    - form: wanréa
+      parts:
+      - label: vt.
+        text: to perform a certain incantation upon.
+  - source: sabatier
+    forms:
+    - form: wa-n-rea
+      parts:
+      - label: a.
+        text: becoming deteriorated, getting spoiled, tarnished, faded.
+      - label: see
+        text: 'syn. [[manrea]]:'
+      - label: vc.
+        text: '*kawanrea*: to deteriorate, to spoil, to tarnish, to jumble up, to find..., to judge as...'
+- id: wanrebu
+  headword: wanrebu
+  trussel: wanrebu
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/rebu
+      parts:
+      - label: a.
+        text: eighty thousand.
+- id: wanro
+  headword: wanro
+  trussel: wanro
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa-n-ro
+      parts:
+      - label: nv.
+        text: '*wanroa, kawain ro*: to go by night,... in obscurity.'
+- id: wanta
+  headword: wanta
+  trussel: wanta
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa-n-ta
+      parts:
+      - label: n.
+        text: '*wantanta, kiriwantanta*: spots, speckles on skin,... fur, mark on colour, paint, fault,
+          mark which spoils effect.'
+      - label: a.
+        text: marked with stain, spot, spoiled by apparent fault, defect.
+      - label: fig.
+        text: blemish, hereditary defect, personal blemish,... marked by blemish, honour impaired, blot
+          on character.
+      - label: ex.
+        text: '*e wanta, e ina*: he is marked.'
+      - label: vc.
+        text: '*kawanta, kawantanta, kakiriwantanta*: to mark with a blemish,... blot, to cause, to leave,
+          to spoil by..., to find a defect in...'
+      - label: ex.
+        text: '*e kawanta, e kawantanta*: it is dishonourable, discreditable.'
+- id: wantabakea
+  headword: wantabakea
+  trussel: wantabakea
+  sources:
+  - source: bingham
+    forms:
+    - form: waan/tabákea
+      parts:
+      - label: n.
+        text: a certain method of swimming on the back.
+- id: wantabea
+  headword: wantabea
+  trussel: wantabea
+  sources:
+  - source: bingham
+    forms:
+    - form: wantæ/bea
+      parts:
+      - label: vi.
+        text: to swim on the back.
+      - label: n.
+        text: a canoe whose crew have missed their bearings.
+- id: wantano
+  headword: wantano
+  trussel: wantano
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/tæno
+      parts:
+      - label: a.
+        text: eighty million.
+- id: wantarawa
+  headword: wantarawa
+  trussel: wantarawa
+  sources:
+  - source: bingham
+    forms:
+    - form: wantárawa
+      parts:
+      - label: n.
+        text: the name of a long chant in the _ruoia_.
+  - source: sabatier
+    forms:
+    - form: wa-n-Tarawa
+      parts:
+      - label: n.
+        text: a long theme for standing dance (*ruoia*).
+- id: wantoki
+  headword: wantoki
+  trussel: wantoki
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/toki
+      parts:
+      - label: a.
+        text: eight hundred million.
+- id: wantonga
+  headword: wantonga
+  trussel: wantonga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa-n-tonga
+      parts:
+      - label: vt.
+        text: to conduct,... direct the education of..., to bring up, to train, to nourish, to educate
+          carefully.
+      - label: see
+        text: '[[tonga]].'
+      - label: n.
+        text: '*wa-n-tonga*: careful system, kind, of education.'
+- id: wanua
+  headword: wanua
+  trussel: wanua
+  sources:
+  - source: bingham
+    forms:
+    - form: wænúa
+      parts:
+      - label: a.
+        text: eight in counting things in general.
+  - source: sabatier
+    forms:
+    - form: wanua
+      parts:
+      - label: a.
+        text: '*wani-wa*: eight;.'
+      - label: ex.
+        text: '*kawanua*: eighth.'
+- id: wanung
+  headword: wanung
+  trussel: wanung
+  sources:
+  - source: bingham
+    forms:
+    - form: wæn/ung
+      parts:
+      - label: a.
+        text: eight in counting pandanus fruit.
+- id: wao
+  headword: wao
+  trussel: wao
+  sources:
+  - source: bingham
+    forms:
+    - form: wáo
+      parts:
+      - label: n.
+        text: a creeping vine.
+  - source: sabatier
+    forms:
+    - form: wao
+      parts:
+      - label: n.
+        text: a creeping plant, hogweed.
+      - label: sn.
+        text: _Boerhavia diffusa_ and _Repens_ sp.
+  - source: goo-banner
+    forms:
+    - form: wao
+      parts:
+      - label: sn.
+        text: _Boerhavia diffusa L. (z)_.
+- id: waona-n-anti
+  headword: waona n anti
+  trussel: waonananti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wao-na n anti
+      parts:
+      - label: n.
+        text: a plant.
+      - label: sn.
+        text: _Vernonia cinerea_.
+- id: waonianti
+  headword: waonianti
+  trussel: waonianti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wao-ni-anti
+      parts:
+      - label: sn.
+        text: _Boerhavia tetrandra_.
+      - label: n.
+        text: a plant, hogweed.
+- id: waonnansi
+  headword: waonnansi
+  trussel: waonnansi
+  sources:
+  - source: goo-banner
+    forms:
+    - form: waonnansi
+      parts:
+      - label: sn.
+        text: _Boerhavia tetrandra Forster (z)_.
+    - form: waonnansi
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Vernonia cinerea (z)_.
+- id: wara
+  headword: wara
+  trussel: wara
+  sources:
+  - source: bingham
+    forms:
+    - form: wáraa
+      parts:
+      - label: a.
+        text: without trees, treeless.
+      - label: n.
+        text: a treeless section.
+  - source: sabatier
+    forms:
+    - form: wara
+      parts:
+      - label: na.
+        text: '*warawara, korowarawara*: open mesh, having holes,... wire netting, lattice work, net,
+          open, sparsely wooded, riddled with many holes, openings, passages, intervals.'
+      - label: vc.
+        text: '*kawara, kawarawara*: to make,... pierce,... leave spaces, intervals, holes in.'
+      - label: n.
+        text: '*te kawara*: a blasted, open passage, a break <gap>, a clear space.'
+    - form: wara
+      homograph: 1
+      parts:
+      - label: syn.
+        text: '[[wa-buaka]], [[tekebuaka]].'
+      - label: v.
+        text: (1) *wara* going badly, turning out badly, ill luck.
+      - label: a.
+        text: (2) badly behaved, detested.
+      - label: ant.
+        text: '*waraoi*.'
+- id: waraku
+  headword: waraku
+  trussel: waraku
+  sources:
+  - source: sabatier
+    forms:
+    - form: waraku
+      parts:
+      - label: a.
+        text: '*warakuraku*: slightly wet (between damp and soaked).'
+      - label: vc.
+        text: '*kawarakua*: to make become..., to wet,... dampen.'
+- id: waranran
+  headword: waranran
+  trussel: waranran
+  sources:
+  - source: sabatier
+    forms:
+    - form: waranran
+      parts:
+      - label: a.
+        text: very wet, too watery.
+      - label: syn.
+        text: '[[waneinei]].'
+- id: waraoi
+  headword: waraoi
+  trussel: waraoi
+  sources:
+  - source: bingham
+    forms:
+    - form: waáraoi
+      parts:
+      - label: a.
+        text: kind.
+      - label: n.
+        text: kindness.
+  - source: sabatier
+    forms:
+    - form: waraoi
+      parts:
+      - label: a.
+        text: (1) doing well, turning out well, going good.
+      - label: syn.
+        text: '[[tekeraoi]], *bunna raoi*:'
+      - label: n.
+        text: (2) person of good behaviour (sometimes).
+- id: warati
+  headword: warati
+  trussel: warati
+  sources:
+  - source: bingham
+    forms:
+    - form: wárati
+      parts:
+      - label: n.
+        text: a walrus (ENG).
+- id: warawara
+  headword: warawara
+  trussel: warawara
+  sources:
+  - source: bingham
+    forms:
+    - form: wárawara
+      parts:
+      - label: a.
+        text: having open or net work, here and ther a tree.
+      - label: n.
+        text: open or latticed work, an opening among trees.
+- id: ware
+  headword: ware
+  trussel: ware
+  sources:
+  - source: bingham
+    forms:
+    - form: wáre
+      parts:
+      - label: vi.
+        text: to count, to read.
+  - source: sabatier
+    forms:
+    - form: ware
+      parts:
+      - label: n.
+        text: '*wareware*: numeration, enumeration, counting, calculation, numbers, reading.'
+      - label: v.
+        text: to count, to calculate, to enumerate, to spell, to read.
+      - label: idiom.
+        text: '*akea warena! akea warekana, e aki warekaki*: counts as nothing, doesn''t count, of no
+          account, worth nothing.'
+- id: ware-nano
+  headword: ware nano
+  trussel: warenano
+  sources:
+  - source: sabatier
+    forms:
+    - form: ware nano
+      parts:
+      - label: vt.
+        text: '*warenanoa*: to work out mentally.'
+      - label: n.
+        text: mental calculation.
+- id: warea
+  headword: warea
+  trussel: warea
+  sources:
+  - source: sabatier
+    forms:
+    - form: warea
+      parts:
+      - label: see
+        text: '[[ina]], [[wanta]].'
+      - label: a.
+        text: dull, tarnished, lustreless.
+      - label: fig.
+        text: having reputation tarnished.
+      - label: vc.
+        text: '*kawanrea*: to tarnish.'
+- id: warebai
+  headword: warebai
+  trussel: warebai
+  sources:
+  - source: bingham
+    forms:
+    - form: wáreb'ai
+      parts:
+      - label: n.
+        text: arithmetic.
+      - label: vi.
+        text: to learn arithmetic.
+  - source: sabatier
+    forms:
+    - form: warebai
+      parts:
+      - label: n.
+        text: arithmetic, mathematics, calculation.
+      - label: v.
+        text: to do..., to calculate, to count.
+      - label: vt.
+        text: '*warebaia*: to compute, to count.'
+- id: wareboki
+  headword: wareboki
+  trussel: wareboki
+  sources:
+  - source: bingham
+    forms:
+    - form: wáreboki
+      parts:
+      - label: n.
+        text: reading.
+      - label: vi.
+        text: to read.
+  - source: sabatier
+    forms:
+    - form: wareboki
+      parts:
+      - label: n.
+        text: '*warebokia*: reading.'
+      - label: v.
+        text: to read.
+      - label: vt.
+        text: to read a book.
+- id: warebong
+  headword: warebong
+  trussel: warebong
+  sources:
+  - source: sabatier
+    forms:
+    - form: warebong
+      parts:
+      - label: nv.
+        text: the days are counted, to count the days.
+      - label: ex.
+        text: '*e warebong te* (person, object) it is only a matter of days till,... something happens,
+          till person dies, it will happen soon.'
+      - label: vt.
+        text: '*warebongia*: to count the days for...'
+- id: warebwe
+  headword: warebwe
+  trussel: warebwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wárebwe
+      parts:
+      - label: a.
+        text: wide, roomy, not contracted.
+  - source: sabatier
+    forms:
+    - form: warebwe
+      parts:
+      - label: a.
+        text: large, wide, spacious.
+      - label: ex.
+        text: '*warebwerebwe, matawarebwe*.'
+      - label: vt.
+        text: '*kawarebwea*: to make..., to enlarge, to widen.'
+- id: wareka
+  headword: wareka
+  trussel: wareka
+  sources:
+  - source: bingham
+    forms:
+    - form: wáreka
+      parts:
+      - label: vt.
+        text: to count, to read.
+  - source: sabatier
+    forms:
+    - form: wareka
+      parts:
+      - label: vt.
+        text: '*wawareka*: to count,... enumerate,... spell,... read.'
+      - label: idiom.
+        text: '*akea warekana. e bure warekana, e aki reke warekana*: countless.'
+- id: warekeno
+  headword: warekeno
+  trussel: warekeno
+  sources:
+  - source: bingham
+    forms:
+    - form: warekeéno
+      parts:
+      - label: n.
+        text: a volcano (ENG).
+- id: wareriri
+  headword: wareriri
+  trussel: wareriri
+  sources:
+  - source: bingham
+    forms:
+    - form: wáreriri
+      parts:
+      - label: vi.
+        text: to engage in indiscriminate accusation of robbing when the fruit of one's land has been
+          taken.
+  - source: sabatier
+    forms:
+    - form: wareriri
+      parts:
+      - label: vt.
+        text: '*wareriria*: to enumerate, to count one''s followers, companions, accomplices.'
+- id: wareware
+  headword: wareware
+  trussel: wareware
+  sources:
+  - source: bingham
+    forms:
+    - form: wáreware
+      parts:
+      - label: vi.
+        text: to read, to count.
+      - label: n.
+        text: reading, a counting.
+- id: wari
+  headword: wari
+  trussel: wari
+  sources:
+  - source: bingham
+    forms:
+    - form: wári
+      parts:
+      - label: n.
+        text: a person, or ship, or house of great size.
+      - label: a.
+        text: great in size.
+  - source: sabatier
+    forms:
+    - form: wari
+      parts:
+      - label: n.
+        text: '*wari*. the large species of (things, animals and esp. fish) <phylum, class, order, family,
+          genus?>.'
+      - label: ex.
+        text: '*te wari ni buni, te wari n onoati*.'
+      - label: a.
+        text: '*wari, warikaeai (kei)*: big, large, enormous, monstrous, gigantic.'
+      - label: n.
+        text: '*te wari*: a magic against sea-monsters.'
+  - source: goo-banner
+    forms:
+    - form: wari
+      parts:
+      - label: sn.
+        text: _Lagocephalus lagocephalus (ll)_.
+      - label: n.
+        text: toby (sm).
+- id: waribuni
+  headword: waribuni
+  trussel: waribuni
+  sources:
+  - source: goo-banner
+    forms:
+    - form: waribuni
+      parts:
+      - label: sn.
+        text: _Lagocephalus sp. (ll)_.
+      - label: n.
+        text: toby (sm).
+- id: wariki
+  headword: wariki
+  trussel: wariki
+  sources:
+  - source: bingham
+    forms:
+    - form: wáriki
+      parts:
+      - label: a.
+        text: narrow.
+      - label: n.
+        text: narrowness.
+  - source: sabatier
+    forms:
+    - form: wariki
+      parts:
+      - label: or.
+        text: '[[uariki]].'
+      - label: a.
+        text: '*warikiririki, warikinono, warikibono*: narrow, restricted, confining.'
+      - label: vc.
+        text: '*kawarika*: to make..., to restrict, to confine.'
+- id: warikinono
+  headword: warikinono
+  trussel: warikinono
+  sources:
+  - source: bingham
+    forms:
+    - form: wárikinóno
+      parts:
+      - label: a.
+        text: very narrow, as a channel, or the mouth of a bottle.
+- id: warinibuni
+  headword: warinibuni
+  trussel: warinibuni
+  sources:
+  - source: bingham
+    forms:
+    - form: wárinibúni
+      parts:
+      - label: n.
+        text: a fish, the.
+- id: warinonauti
+  headword: warinonauti
+  trussel: warinonauti
+  sources:
+  - source: bingham
+    forms:
+    - form: wárinonáuti
+      parts:
+      - label: n.
+        text: a fish, the.
+- id: warionauti
+  headword: warionauti
+  trussel: warionauti
+  sources:
+  - source: goo-banner
+    forms:
+    - form: warionauti
+      parts:
+      - label: sn.
+        text: _Lagocephalus sp. (ll)_.
+      - label: n.
+        text: toby (sm).
+- id: waririki
+  headword: waririki
+  trussel: waririki
+  sources:
+  - source: bingham
+    forms:
+    - form: wáririki
+      parts:
+      - label: n.
+        text: a canoe of medium size.
+- id: waro
+  headword: waro
+  trussel: waro
+  sources:
+  - source: bingham
+    forms:
+    - form: wáro
+      parts:
+      - label: n.
+        text: a species of crab, the.
+      - label: n.
+        text: a jack-knife.
+  - source: sabatier
+    forms:
+    - form: waro
+      parts:
+      - label: n.
+        text: '*Te Waro*: constellation of small stars near Canopus.'
+    - form: waro
+      homograph: 1
+      parts:
+      - label: n.
+        text: (1) sea mantis.
+      - label: sn.
+        text: _Stomapoda_.
+      - label: n.
+        text: (2) pocket knife which closes like claws of...
+      - label: nv.
+        text: '*kawaro*: to fish for...'
+    - form: waro
+      homograph: 2
+      parts:
+      - label: n.
+        text: knot form, without loops.
+  - source: goo-banner
+    forms:
+    - form: wáro
+      parts:
+      - label: sn.
+        text: _Lysiosquilla maculata (i)_.
+    - form: wáro
+      parts:
+      - label: sn.
+        text: _Pseudosquilla ciliata (i)_.
+  - source: luomala
+    forms:
+    - form: waro
+      parts:
+      - label: and
+        text: '*varo*.'
+      - label: sn.
+        text: _Stomatopod_.
+      - label: n.
+        text: crustacean.
+- id: warona
+  headword: warona
+  trussel: warona
+  sources:
+  - source: bingham
+    forms:
+    - form: wárona
+      parts:
+      - label: vt.
+        text: to tie a loop in a cord that will not slip.
+  - source: sabatier
+    forms:
+    - form: warona
+      parts:
+      - label: vt.
+        text: to put a knot..., to tie with a knot.
+- id: waru
+  headword: waru
+  trussel: waru
+  sources:
+  - source: bingham
+    forms:
+    - form: wáru
+      parts:
+      - label: vi.
+        text: to nibble, as a fish, at a bait.
+      - label: n.
+        text: a good fishing place where fish promptly bite.
+  - source: sabatier
+    forms:
+    - form: waru
+      parts:
+      - label: nv.
+        text: '*wareware, banga ni waru*: pulling, nibbling <nibble> at bait.'
+      - label: fig.
+        text: vexation, importunity, twitch, to annoy by nasty hand play.
+      - label: v.
+        text: '*kawareware*: to do...'
+- id: waruta
+  headword: waruta
+  trussel: waruta
+  sources:
+  - source: sabatier
+    forms:
+    - form: waruta
+      parts:
+      - label: vt.
+        text: '*wawaruta*: to pull, to nibble (bait), to importunate, to annoy by pulling, tugging.'
+- id: waruwaru
+  headword: waruwaru
+  trussel: waruwaru
+  sources:
+  - source: bingham
+    forms:
+    - form: wáruwaru
+      parts:
+      - label: vi.
+        text: to nibble, as a rat or a fish at a bait.
+- id: watangaina
+  headword: watangaina
+  trussel: watangaina
+  sources:
+  - source: bingham
+    forms:
+    - form: watangáina
+      parts:
+      - label: vi.
+        text: to swim on the back, to walk with the face turned upwards.
+      - label: n.
+        text: a swimming on the back, a walking with upturned face.
+- id: wati
+  headword: wati
+  trussel: wati
+  sources:
+  - source: bingham
+    forms:
+    - form: wáti
+      parts:
+      - label: adv.
+        text: directive toward the person who has just spoken.
+      - label: ex.
+        text: '*I a nako wati*: I will go to you.'
+    - form: wáti
+      parts:
+      - label: n.
+        text: a watch (ENG).
+  - source: sabatier
+    forms:
+    - form: wati
+      parts:
+      - label: suf.
+        text: of moving <move> forward, towards.
+      - label: ex.
+        text: '*buti wati, nako-wati, ke wati*: to advance towards, to move forward.'
+- id: wau
+  headword: wau
+  trussel: wau
+  sources:
+  - source: bingham
+    forms:
+    - form: wáu
+      parts:
+      - label: n.
+        text: cat's-cradle.
+      - label: n.
+        text: a mat with some dark strands.
+      - label: vi.
+        text: to play the game of cat's-cradle.
+  - source: sabatier
+    forms:
+    - form: wau
+      parts:
+      - label: n.
+        text: game of Cat's Cradles.
+      - label: v.
+        text: to play at...
+    - form: wau
+      homograph: 1
+      parts:
+      - label: a.
+        text: '*wauwau*: good, well, seemly, becoming, fitting.'
+      - label: syn.
+        text: '[[kan]].'
+      - label: idiom.
+        text: '*e wau ngke te aine*: that would be all right for a woman.'
+      - label: ex.
+        text: '*e wau ngke te mane*: that would be becoming for a man.'
+    - form: wau
+      homograph: 2
+      parts:
+      - label: n.
+        text: '*wauwau*: weaving <weave> mats with patterns of different coloured leaves.'
+- id: waua
+  headword: waua
+  trussel: waua
+  sources:
+  - source: bingham
+    forms:
+    - form: wáua
+      parts:
+      - label: vt.
+        text: to braid a mat with a second color.
+  - source: sabatier
+    forms:
+    - form: waua
+      parts:
+      - label: vt.
+        text: to weave, to embroider with different coloured leaves, or cotton to make patterns, designs.
+- id: wauna
+  headword: wauna
+  trussel: wauna
+  sources:
+  - source: bingham
+    forms:
+    - form: wáuna
+      parts:
+      - label: vt.
+        text: to pray to death.
+  - source: sabatier
+    forms:
+    - form: wauna
+      parts:
+      - label: from.
+        text: '[[wauwi]].'
+      - label: vt.
+        text: to curse, to put a spell on, to wish evil to, to bewitch with evil spell.
+- id: wauoa
+  headword: wauoa
+  trussel: wauoa
+  sources:
+  - source: bingham
+    forms:
+    - form: wáuoa
+      parts:
+      - label: see
+        text: n [[baonimoto]].
+- id: wauoua
+  headword: wauoua
+  trussel: wauoua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wa-uoua
+      parts:
+      - label: n.
+        text: a kind of attic, upper platform in native house.
+      - label: see
+        text: '[[baonimoto|bao ni moto]].'
+- id: wauwau
+  headword: wauwau
+  trussel: wauwau
+  sources:
+  - source: bingham
+    forms:
+    - form: wáuwau
+      parts:
+      - label: va.
+        text: well furnished with conveniences or suitable clothing.
+  - source: sabatier
+    forms:
+    - form: wauwau
+      parts:
+      - label: nv.
+        text: to sneak in, to slink from place to place, to double deal.
+- id: wauwaua
+  headword: wauwaua
+  trussel: wauwaua
+  sources:
+  - source: bingham
+    forms:
+    - form: wauwáua
+      parts:
+      - label: vt.
+        text: frequentative of [[waua]].
+- id: wauwi
+  headword: wauwi
+  trussel: wauwi
+  sources:
+  - source: sabatier
+    forms:
+    - form: wauwi
+      parts:
+      - label: n.
+        text: curse, malediction, imprecation.
+      - label: v.
+        text: to wish evil,... death to..., to cast an evil spell.
+      - label: see
+        text: '[[wauna]].'
+- id: wawa
+  headword: wawa
+  trussel: wawa
+  sources:
+  - source: bingham
+    forms:
+    - form: waáwa
+      parts:
+      - label: vi.
+        text: to trickle, to move along as a crowd.
+  - source: sabatier
+    forms:
+    - form: wawa
+      parts:
+      - label: from.
+        text: '[[waki]].'
+      - label: nv.
+        text: (1) flowing, going in crowds, mass movement.
+      - label: red.
+        text: '*tawawa*.'
+      - label: v.
+        text: (2) flow, stream, run down (water, tears).
+      - label: vc.
+        text: '*kawawa*: to make..., to drain, to catch rain water.'
+      - label: n.
+        text: '*te bai ni kawawa*: guttering, spout, drain pipe.'
+- id: wawaea
+  headword: wawaea
+  trussel: wawaea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wawaea
+      parts:
+      - label: freq.
+        text: 'of [[wa]]:'
+      - label: v.
+        text: to go to,... towards.
+- id: wawaeakina
+  headword: wawaeakina
+  trussel: wawaeakina
+  sources:
+  - source: sabatier
+    forms:
+    - form: wawaeakina
+      parts:
+      - label: v.
+        text: _idem_. to move, to flow continually towards...
+- id: wawaemere
+  headword: wawaemere
+  trussel: wawaemere
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáem'ere
+      parts:
+      - label: vi.
+        text: frequentative of *waem'ere*.
+- id: wawaenrongo
+  headword: wawaenrongo
+  trussel: wawaenrongo
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáenróngo
+      parts:
+      - label: vi.
+        text: frequentative of [[wae-n-rongo|waenrongo]].
+- id: wawaenuea
+  headword: wawaenuea
+  trussel: wawaenuea
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáenúea
+      parts:
+      - label: vi.
+        text: frequentative of [[waenuea]].
+- id: wawaerebutata
+  headword: wawaerebutata
+  trussel: wawaerebutata
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáerebutæ/ta
+      parts:
+      - label: vi.
+        text: to be habitually going from place to place.
+- id: wawaeremwe
+  headword: wawaeremwe
+  trussel: wawaeremwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáeremwe
+      parts:
+      - label: vi.
+        text: frequentative of [[waeremwe]].
+- id: wawaetata
+  headword: wawaetata
+  trussel: wawaetata
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáetata
+      parts:
+      - label: vi.
+        text: frequentative of [[waetata]].
+- id: wawaetatawe
+  headword: wawaetatawe
+  trussel: wawaetatawe
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáetatáwe
+      parts:
+      - label: vi.
+        text: frequentative of [[waetatawe]].
+- id: wawairau
+  headword: wawairau
+  trussel: wawairau
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáirau
+      parts:
+      - label: vi.
+        text: frequentative of [[wairau]].
+- id: wawaitai
+  headword: wawaitai
+  trussel: wawaitai
+  sources:
+  - source: sabatier
+    forms:
+    - form: wawaitai
+      parts:
+      - label: from.
+        text: '[[tai]].'
+      - label: vt.
+        text: '*wawaitaia* to do intermittently, to interrupt,... stop at intervals.'
+- id: wawaitaia
+  headword: wawaitaia
+  trussel: wawaitaia
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáitáia
+      parts:
+      - label: va.
+        text: intermittent, coming now and then.
+- id: wawaiwai
+  headword: wawaiwai
+  trussel: wawaiwai
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáiwai
+      parts:
+      - label: va.
+        text: frequentative of [[waiwai]].
+- id: wawaka
+  headword: wawaka
+  trussel: wawaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wáwakaa
+      parts:
+      - label: a.
+        text: having many roots.
+- id: wawaki
+  headword: wawaki
+  trussel: wawaki
+  sources:
+  - source: bingham
+    forms:
+    - form: wawaáki
+      parts:
+      - label: vi.
+        text: frequentative of [[waki]].
+- id: wawakina
+  headword: wawakina
+  trussel: wawakina
+  sources:
+  - source: bingham
+    forms:
+    - form: wawaákina
+      parts:
+      - label: vt.
+        text: frequentative of [[wakina]].
+- id: wawana
+  headword: wawana
+  trussel: wawana
+  sources:
+  - source: sabatier
+    forms:
+    - form: wawana
+      parts:
+      - label: vt.
+        text: _idem_.
+- id: wawangnga
+  headword: wawangnga
+  trussel: wawangnga
+  sources:
+  - source: bingham
+    forms:
+    - form: wawaang/nga
+      parts:
+      - label: vt.
+        text: frequentative of [[wangnga]].
+- id: wawanikarau
+  headword: wawanikarau
+  trussel: wawanikarau
+  sources:
+  - source: bingham
+    forms:
+    - form: wawánikárau
+      parts:
+      - label: vi.
+        text: frequentative of [[wanikarau]].
+- id: wawanre
+  headword: wawanre
+  trussel: wawanre
+  sources:
+  - source: bingham
+    forms:
+    - form: wawan/re
+      parts:
+      - label: vi.
+        text: frequentative of [[wanre]].
+- id: wawareboki
+  headword: wawareboki
+  trussel: wawareboki
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáreboki
+      parts:
+      - label: vi.
+        text: frequentative of [[wareboki]].
+- id: wawareware
+  headword: wawareware
+  trussel: wawareware
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáreware
+      parts:
+      - label: vi.
+        text: frequentative of [[wareware]].
+- id: wawatangaina
+  headword: wawatangaina
+  trussel: wawatangaina
+  sources:
+  - source: bingham
+    forms:
+    - form: wawátangáina
+      parts:
+      - label: vi.
+        text: frequentative of [[watangaina]].
+      - label: n.
+        text: frequentative of [[watangaina]].
+- id: wawawi
+  headword: wawawi
+  trussel: wawawi
+  sources:
+  - source: bingham
+    forms:
+    - form: wawáwi
+      parts:
+      - label: vi.
+        text: frequentative of [[wawi]].
+      - label: n.
+        text: frequentative of [[wawi]].
+- id: wawe
+  headword: wawe
+  trussel: wawe
+  sources:
+  - source: bingham
+    forms:
+    - form: wáwe
+      parts:
+      - label: vi.
+        text: to blow steadily and favorably.
+  - source: sabatier
+    forms:
+    - form: wawe
+      parts:
+      - label: v.
+        text: to blow regularly.
+      - label: a.
+        text: steady, favourable (wind).
+- id: wawea
+  headword: wawea
+  trussel: wawea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wawea
+      parts:
+      - label: vt.
+        text: to be blown along, helped by steady breeze.
+- id: waweaki
+  headword: waweaki
+  trussel: waweaki
+  sources:
+  - source: bingham
+    forms:
+    - form: wáweaki
+      parts:
+      - label: a.
+        text: steady and favorable as a wing.
+- id: wawi
+  headword: wawi
+  trussel: wawi
+  sources:
+  - source: bingham
+    forms:
+    - form: wáwi
+      parts:
+      - label: vi.
+        text: to pray to death (haw = anana).
+      - label: n.
+        text: an incantation to produce death.
+- id: wene
+  headword: wene
+  trussel: wene
+  sources:
+  - source: bingham
+    forms:
+    - form: wéne
+      parts:
+      - label: vi.
+        text: to lie down, to lie.
+  - source: sabatier
+    forms:
+    - form: wene
+      parts:
+      - label: n.
+        text: '*wewene, wenewene, weneraoi, wenebuaka, wene n tararake, wene n tangaina, wene n rarikiriki,...
+          ni baraki*: lying position.'
+      - label: v.
+        text: to lie, stretch on ground, be lying down, lying flat,... well,... badly,... on back <supine>,...
+          on side,... face down <prone>.
+      - label: vc.
+        text: '*kawenea*: to lay down, to put down, to place on ground, to leave in place,... in peace.'
+      - label: ex.
+        text: |-
+          *kawenea te*...: leave alone, don't talk any more about it.
+          *niwenewene*: to be or stay lying all the time.
+          *wenetiku, weneman*: to stay in place to stay a long time in same place.
+          *wenetibu*: lying decaying in place.
+          *wene katoto*: always lying down, sleeping everywhere.
+      - label: ex.
+        text: '*wene ni bure*: fornication <fornicate>, adultery.'
+- id: wene-katoto
+  headword: wene katoto
+  trussel: wenekatoto
+  sources:
+  - source: sabatier
+    forms:
+    - form: wene katoto
+      parts:
+      - label: v.
+        text: to remain lying <lie> down all the time.
+      - label: a.
+        text: sleeping all the time.
+- id: wenea
+  headword: wenea
+  trussel: wenea
+  sources:
+  - source: bingham
+    forms:
+    - form: wénea
+      parts:
+      - label: vt.
+        text: to braid the second half of a sleeping mat.
+  - source: sabatier
+    forms:
+    - form: wenea
+      parts:
+      - label: vt.
+        text: '*wewenea, wenewenea*: to lie on.'
+- id: weneakina
+  headword: weneakina
+  trussel: weneakina
+  sources:
+  - source: sabatier
+    forms:
+    - form: weneakina
+      parts:
+      - label: v.
+        text: to stay in bed for reason of sickness.
+      - label: ex.
+        text: '*e weneakina aorakina*: his sickness obliges him to keep to bed.'
+- id: wenei
+  headword: wenei
+  trussel: wenei
+  sources:
+  - source: sabatier
+    forms:
+    - form: wenei
+      parts:
+      - label: n.
+        text: (1) fleeting objects, souls, spirits of dead.
+      - label: syn.
+        text: '[[rao]], [[tamnei]], [[tangaroa]], [[takanoi]].'
+      - label: n.
+        text: (2) shooting star, bolide, aerolite, meteorite, fugitive, fleeting light, rapid passage,
+          phosphorescent wake.
+      - label: v.
+        text: to pass rapidly.
+      - label: vc.
+        text: '*ka-i-wenei*: meeting and passing each other rapidly (trains, runners, etc.).'
+- id: wenenibure
+  headword: wenenibure
+  trussel: wenenibure
+  sources:
+  - source: sabatier
+    forms:
+    - form: wene-ni-bure
+      parts:
+      - label: n.
+        text: acts of impurity in general, fornication <fornicate>, adultery.
+- id: wenei-2
+  headword: wenei
+  trussel: wenei
+  sources:
+  - source: bingham
+    forms:
+    - form: wénei
+      parts:
+      - label: n.
+        text: a shooting star or meteor.
+      - label: vi.
+        text: to sail fast.
+- id: wenekatoto
+  headword: wenekatoto
+  trussel: wenekatoto
+  sources:
+  - source: bingham
+    forms:
+    - form: wenekátoto
+      parts:
+      - label: vi.
+        text: to indulge in prolonged sleep, to sleep overmuch.
+- id: wenenibure-2
+  headword: wenenibure
+  trussel: wenenibure
+  sources:
+  - source: bingham
+    forms:
+    - form: wéne-ni-búre
+      parts:
+      - label: vi.
+        text: to commit adultery or fornication.
+- id: wenewene
+  headword: wenewene
+  trussel: wenewene
+  sources:
+  - source: bingham
+    forms:
+    - form: wénewene
+      parts:
+      - label: vi.
+        text: frequentative of [[wene]].
+- id: wentite
+  headword: wentite
+  trussel: wentite
+  sources:
+  - source: bingham
+    forms:
+    - form: wEn/tite
+      parts:
+      - label: n.
+        text: Wednesday (ENG).
+- id: were
+  headword: were
+  trussel: were
+  sources:
+  - source: bingham
+    forms:
+    - form: wére
+      parts:
+      - label: n.
+        text: a fish, the.
+    - form: weére
+      parts:
+      - label: n.
+        text: a vail (ENG).
+  - source: sabatier
+    forms:
+    - form: were
+      parts:
+      - label: n.
+        text: (1) furbelowed clam.
+      - label: n.
+        text: (2) elongated clam.
+      - label: ex.
+        text: '*were-makai*: scales of frilled clam.'
+  - source: goo-banner
+    forms:
+    - form: were
+      parts:
+      - label: sn.
+        text: _Tridacoconuta cumingi (i)_.
+      - label: n.
+        text: furbelowed clam (jr).
+    - form: were
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Tridacoconuta elongata (i)_.
+      - label: n.
+        text: elongate clam (ja).
+  - source: luomala
+    forms:
+    - form: were
+      parts:
+      - label: sn.
+        text: _Tridacoconuta_.
+      - label: n.
+        text: small (to 5") "killer" tridacoconuta - bivalve.
+    - form: were
+      parts:
+      - label: sn.
+        text: |-
+          _Tridacoconuta cummingi_.
+          _Tridacoconuta elongata_.
+      - label: n.
+        text: bivalve.
+- id: were-makai
+  headword: were makai
+  trussel: weremakai
+  sources:
+  - source: goo-banner
+    forms:
+    - form: were makai
+      parts:
+      - label: sn.
+        text: _Tridacoconuta squamosa (i)_.
+      - label: n.
+        text: scales or frilled clam (ja).
+  - source: luomala
+    forms:
+    - form: were makai
+      parts:
+      - label: sn.
+        text: _Tridacoconuta squamosa_.
+      - label: n.
+        text: bivalve.
+- id: werewere
+  headword: werewere
+  trussel: werewere
+  sources:
+  - source: bingham
+    forms:
+    - form: wérewere
+      parts:
+      - label: v.
+        text: to fish for the *were*.
+- id: wereweti
+  headword: wereweti
+  trussel: wereweti
+  sources:
+  - source: bingham
+    forms:
+    - form: wÉrewEti
+      parts:
+      - label: n.
+        text: velvet (ENG).
+- id: wete
+  headword: wete
+  trussel: wete
+  sources:
+  - source: bingham
+    forms:
+    - form: wéte
+      parts:
+      - label: n.
+        text: a spine or spike on the back of a *baiku*.
+    - form: wéte
+      parts:
+      - label: vi.
+        text: to call.
+  - source: sabatier
+    forms:
+    - form: wete
+      parts:
+      - label: n.
+        text: dart, point of... dart of sting ray,... swordfish, tip of mast,... thorn, picket;.
+      - label: ex.
+        text: |-
+          *te kai ni wete*: pointed stick.
+          *te wi ni wete*: point of dart.
+          *te nna ni wete, ni maniwete*: bunch of darts in Gilbertese weapons.
+          *te kawete*: bayonet.
+      - label: n.
+        text: '*te kawete*: point, dart, sharp end.'
+    - form: wete
+      homograph: 1
+      parts:
+      - label: nv.
+        text: '*wewete* to call, to call out, to cry out.'
+- id: wetea
+  headword: wetea
+  trussel: wetea
+  sources:
+  - source: bingham
+    forms:
+    - form: wetéa
+      parts:
+      - label: vt.
+        text: to call, to summon, to invite.
+      - label: n.
+        text: a call.
+  - source: sabatier
+    forms:
+    - form: wetea
+      parts:
+      - label: vt.
+        text: '*wewetea*: to call, to convoke, to summon, to invite, to bid come.'
+      - label: ex.
+        text: '*tiriwetea*:'
+      - label: sup.
+        text: to call continually.
+- id: wetikoti
+  headword: wetikoti
+  trussel: wetikoti
+  sources:
+  - source: bingham
+    forms:
+    - form: weétikoti
+      parts:
+      - label: n.
+        text: a waistcoat, a vest (ENG).
+- id: wewe
+  headword: wewe
+  trussel: wewe
+  sources:
+  - source: sabatier
+    forms:
+    - form: wewe
+      parts:
+      - label: suf.
+        text: '*te ikawai ewewe*: really old person.'
+      - label: see
+        text: '[[ewe]].'
+- id: wewene
+  headword: wewene
+  trussel: wewene
+  sources:
+  - source: sabatier
+    forms:
+    - form: wewene
+      parts:
+      - label: n.
+        text: second half of a double mat which is woven on to first half.
+      - label: vt.
+        text: '*wenea*: to begin to weave second half...'
+  - source: bingham
+    forms:
+    - form: wewéne
+      parts:
+      - label: n.
+        text: a completed mat.
+      - label: n.
+        text: the double of the *babatu*.
+      - label: vi.
+        text: frequentative of [[wene]].
+- id: wewenewene
+  headword: wewenewene
+  trussel: wewenewene
+  sources:
+  - source: bingham
+    forms:
+    - form: wewénewene
+      parts:
+      - label: vi.
+        text: frequentative of [[wene]].
+- id: wewete
+  headword: wewete
+  trussel: wewete
+  sources:
+  - source: bingham
+    forms:
+    - form: wéwete
+      parts:
+      - label: vi.
+        text: to call.
+- id: wewetea
+  headword: wewetea
+  trussel: wewetea
+  sources:
+  - source: bingham
+    forms:
+    - form: wéwetea
+      parts:
+      - label: vt.
+        text: frequentative of [[wetea]].
+- id: wewewetea
+  headword: wewewetea
+  trussel: wewewetea
+  sources:
+  - source: bingham
+    forms:
+    - form: wewéwetea
+      parts:
+      - label: vt.
+        text: frequentative of [[wetea]].
+- id: wi
+  headword: wi
+  trussel: wi
+  sources:
+  - source: bingham
+    forms:
+    - form: wi
+      parts:
+      - label: n.
+        text: a tooth, the mouth, an edge.
+  - source: sabatier
+    forms:
+    - form: wi
+      parts:
+      - label: n.
+        text: (1) teeth <tooth>, mouth, beak, point, needle, blade, age judged from teeth;
+      - label: see
+        text: '*compound words.*'
+      - label: ex.
+        text: |-
+          *te moa ni wi*: front teeth, incisors.
+          *te wi ni kamea, te katiti*: canine teeth.
+          *te awai*: molars.
+          *te ongong*: wisdom teeth.
+          *win te kai*: crane's beak.
+          *win te taba*: knife blade.
+      - label: idiom.
+        text: '*te wi ra?* what age?'
+      - label: ex.
+        text: |-
+          *au wi*: my age.
+          *e wi te tei*: the child is teething.
+          *rouwi, kou-wi, routa, kouta te wi*: to draw teeth.
+          *korea win te*: dilute the strength (of a drink).
+      - label: v.
+        text: (2) cut short (a speech, song), to stop, to suspend...
+      - label: idiom.
+        text: '*e kakanoa wina*: he has always something to say.'
+      - label: vt.
+        text: |-
+          *moaniwia*: to begin by saying that...
+          *nanoniwia*: to be always talking about the same thing.
+    - form: wi
+      homograph: 1
+      parts:
+      - label: n.
+        text: end, edge, border.
+      - label: ex.
+        text: '*win te bike*: limit of beach when high tide recedes; ma.'
+      - label: ex.
+        text: '*te wi n ie*: corner of sail.'
+- id: wi-atibu
+  headword: wi atibu
+  trussel: wiatibu
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi atibu
+      parts:
+      - label: n.
+        text: parrot fishh.
+- id: wi-karewe
+  headword: wi karewe
+  trussel: wikarewe
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi karewe
+      parts:
+      - label: a.
+        text: honey mouthed.
+      - label: n.
+        text: flattering language.
+      - label: ex.
+        text: '*a karewerewe ana taeka*: his words are sweet, agreeable.'
+      - label: vc.
+        text: '*kawikarewea*: to sweeten one''s words, to insinuate.'
+- id: wi-manga
+  headword: wi manga
+  trussel: wimanga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi manga
+      parts:
+      - label: n.
+        text: a crab with long claws.
+- id: wi-maung
+  headword: wi maung
+  trussel: wimaung
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi maung
+      parts:
+      - label: na.
+        text: (1) evil smelling mouth (insult).
+      - label: n.
+        text: (2) the name of a fish.
+- id: wi-mona
+  headword: wi mona
+  trussel: wimona
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi mona
+      parts:
+      - label: n.
+        text: a species of fish. parrot fish.
+- id: wi-n-aine
+  headword: wi n aine
+  trussel: winaine
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n aine
+      parts:
+      - label: a.
+        text: said of husband who takes the part of his wife.
+      - label: ant.
+        text: '*wi ni mane*.'
+- id: wi-n-ang
+  headword: wi n ang
+  trussel: winang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n ang
+      parts:
+      - label: n.
+        text: air pipe, pump fixture, valve.
+- id: wi-n-anti
+  headword: wi n anti
+  trussel: winanti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n anti
+      parts:
+      - label: n.
+        text: slander, backbiting, tale bearing.
+      - label: vt.
+        text: '*winantia, wiwi*...: to slander, to backbite.'
+- id: wi-n-ongo
+  headword: wi n ongo
+  trussel: winongo
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n ongo
+      parts:
+      - label: n.
+        text: hearsay, secondhand evidence.
+      - label: v.
+        text: to repeat a...
+- id: wi-n-rang
+  headword: wi n rang
+  trussel: winrang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n rang
+      parts:
+      - label: v.
+        text: to boast, to brag, to vaunt, to boast shamelessly, to speak at random, to say ridiculous
+          things.
+      - label: n.
+        text: humbug, boaster, wag.
+- id: wi-n-ranga
+  headword: wi n ranga
+  trussel: winranga
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n ranga
+      parts:
+      - label: vt.
+        text: to speak foolishly about,... to boast foolishly,... without shame about...
+- id: wi-n-rawa
+  headword: wi n rawa
+  trussel: winrawa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n rawa
+      parts:
+      - label: va.
+        text: to show repugnance to accede to a request, to require pressing, to appear sullen, to give
+          with bad grace,... reluctantly.
+- id: wi-n-rika
+  headword: wi n rika
+  trussel: winrika
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n rika
+      parts:
+      - label: n.
+        text: a chisel.
+- id: wi-n-rine
+  headword: wi n rine
+  trussel: winrine
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n rine
+      parts:
+      - label: na.
+        text: winning canoe.
+      - label: fig.
+        text: to appear to be winning, to be in front, to be overtaking <overtake> (by success,... riches...).
+- id: wi-n-ririko
+  headword: wi n ririko
+  trussel: winririko
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n ririko
+      parts:
+      - label: n.
+        text: necklace made of teeth picked up, collected (of special dolphin, *te kewe*).
+- id: wi-n-tamare
+  headword: wi n tamare
+  trussel: wintamare
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n tamare
+      parts:
+      - label: va.
+        text: '*wi-tamare*: to use seductive language, to seek to seduce by...'
+- id: wi-n-tau
+  headword: wi n tau
+  trussel: wintau
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n tau
+      parts:
+      - label: n.
+        text: beak, dart of *tau*, jib sail.
+- id: wi-n-tuairoa
+  headword: wi n tuairoa
+  trussel: wintuairoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi n tuairoa
+      parts:
+      - label: n.
+        text: blade of instrument used to scrape pulp of cooked pandanus fruit.
+- id: wi-ngare
+  headword: wi ngare
+  trussel: wingare
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ngare
+      parts:
+      - label: n.
+        text: a smiling face, a smile.
+- id: wi-ni-bakoa
+  headword: wi ni bakoa
+  trussel: winibakoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni bakoa
+      parts:
+      - label: na.
+        text: in form of shark's teeth <tooth>, pointed, V shaped edging.
+- id: wi-ni-bati
+  headword: wi ni bati
+  trussel: winibati
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni bati
+      parts:
+      - label: n.
+        text: corner of sail tied to spar.
+- id: wi-ni-kamea
+  headword: wi ni kamea
+  trussel: winikamea
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni kamea
+      parts:
+      - label: n.
+        text: canine teeth <tooth>.
+      - label: syn.
+        text: '*te katiti*.'
+- id: wi-ni-katai
+  headword: wi ni katai
+  trussel: winikatai
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni katai
+      parts:
+      - label: n.
+        text: the edge of a sharp slope,... escarpment, cliff.
+- id: wi-ni-kibu
+  headword: wi ni kibu
+  trussel: winikibu
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni kibu
+      parts:
+      - label: n.
+        text: beak of *kibu* ending in a point.
+      - label: a.
+        text: pointed.
+- id: wi-ni-kimoa
+  headword: wi ni kimoa
+  trussel: winikimoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni kimoa
+      parts:
+      - label: or.
+        text: '*wikimoa*.'
+      - label: n.
+        text: a sneak,... tale bearer.
+      - label: v.
+        text: to sneak, to tell tales.
+      - label: a.
+        text: sneaky.
+- id: wi-ni-kua
+  headword: wi ni kua
+  trussel: winikua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni kua
+      parts:
+      - label: n.
+        text: name of a constellation.
+    - form: wi ni kua
+      homograph: 1
+      parts:
+      - label: n.
+        text: whale's teeth <tooth>.
+      - label: a.
+        text: to have front teeth overlapping, double.
+- id: wi-ni-man
+  headword: wi ni man
+  trussel: winiman
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni man
+      parts:
+      - label: a.
+        text: beak shaped, pointed.
+- id: wi-ni-meang
+  headword: wi ni meang
+  trussel: winimeang
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni meang
+      parts:
+      - label: n.
+        text: flattering but insincere words.
+      - label: v.
+        text: to flatter for personal advantage,... humbug.
+- id: wi-ni-wete
+  headword: wi ni wete
+  trussel: winiwete
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi ni wete
+      parts:
+      - label: n.
+        text: sharp point of dart, lance, arrow, summit, tip of mast, of coconut spathe, tattooing in
+          points on thigh, etc.
+- id: wi-tati
+  headword: wi tati
+  trussel: witati
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi tati
+      parts:
+      - label: na.
+        text: regular, well fitting teeth <tooth>.
+- id: wi-teke
+  headword: wi teke
+  trussel: witeke
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi teke
+      parts:
+      - label: a.
+        text: '*wiwiteke, witeketeke*: frank, direct, speaking, to the point, not being afraid to hurt,
+          or vex, saying exactly what one thinks. <candid>.'
+- id: wi-teretere
+  headword: wi teretere
+  trussel: witeretere
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi teretere
+      parts:
+      - label: na.
+        text: projecting teeth <tooth>.
+- id: wi-uoua
+  headword: wi uoua
+  trussel: wiuoua
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi uoua
+      parts:
+      - label: v.
+        text: to speak in doubtful terms.
+      - label: n.
+        text: indecision, uncertainty.
+      - label: v.
+        text: to be uncertain of one's words (used sometimes wrongly for *wiuai*).
+- id: wi-warebwe
+  headword: wi warebwe
+  trussel: wiwarebwe
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi warebwe
+      parts:
+      - label: a.
+        text: having big mouth.
+      - label: n.
+        text: great talker.
+- id: wia
+  headword: wia
+  trussel: wia
+  sources:
+  - source: bingham
+    forms:
+    - form: wía
+      parts:
+      - label: va.
+        text: proper, fit, suitable, all right.
+    - form: wía
+      parts:
+      - label: vt.
+        text: to indicate by lot.
+  - source: sabatier
+    forms:
+    - form: wia
+      parts:
+      - label: from.
+        text: '[[wi]].'
+      - label: a.
+        text: to have beak turned towards, to have in front of one..., before one.
+      - label: ant.
+        text: '*mwia*: to leave after..., behind.'
+      - label: see
+        text: '[[wia-raoi]], [[wia-buaka]].'
+    - form: wia
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to have in front of one,... face,... to meet..., to arrive at the time of...
+      - label: vc.
+        text: '*kawia*: to make..., to wait till the moment of...,... the occasion of...'
+      - label: ex.
+        text: |-
+          *kawaia rokona*: wait till he arrives to meet him, wait for an occasion...
+          *kawia te amarake*: to arrive just in time for a meal.
+- id: wia-bong
+  headword: wia bong
+  trussel: wiabong
+  sources:
+  - source: sabatier
+    forms:
+    - form: wia bong
+      parts:
+      - label: na.
+        text: approaching night, nearly night.
+      - label: ex.
+        text: '*e wia bong*: it is nearly night, night approaches.'
+- id: wia-buaka
+  headword: wia buaka
+  trussel: wiabuaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wia buaka
+      parts:
+      - label: v.
+        text: to turn out badly,... to fail, to be unlucky.
+      - label: vc.
+        text: '*ka wia buaka*: to make..., to cause failure, ill luck.'
+- id: wia-raoi
+  headword: wia raoi
+  trussel: wiaraoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: wia raoi
+      parts:
+      - label: v.
+        text: to turn out well, profitable, favourable, well met, just in time, to be lucky.
+      - label: vc.
+        text: '*kawia raoi*: to make..., to bring about...'
+- id: wiaau
+  headword: wiaau
+  trussel: wiaau
+  sources:
+  - source: luomala
+    forms:
+    - form: wiaau
+      parts:
+      - label: sn.
+        text: _Cymathium (gastropod)_.
+      - label: n.
+        text: snail.
+- id: wiabuaka
+  headword: wiabuaka
+  trussel: wiabuaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wíabuaka
+      parts:
+      - label: a.
+        text: unfortunate, not favored.
+- id: wiamarake
+  headword: wiamarake
+  trussel: wiamarake
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-amarake
+      parts:
+      - label: n.
+        text: a small knife to cut food, tobacco, etc.
+      - label: a.
+        text: always ready to eat.
+- id: wianau
+  headword: wianau
+  trussel: wianau
+  sources:
+  - source: goo-banner
+    forms:
+    - form: wianau
+      parts:
+      - label: sn.
+        text: _Epibulus insidiator (ll)_.
+- id: wiatibu
+  headword: wiatibu
+  trussel: wiatibu
+  sources:
+  - source: bingham
+    forms:
+    - form: wiatíbu
+      parts:
+      - label: n.
+        text: a fish, the.
+  - source: goo-banner
+    forms:
+    - form: wiatíbu
+      parts:
+      - label: a.
+        text: parrot fish (ll).
+- id: wiau
+  headword: wiau
+  trussel: wiau
+  sources:
+  - source: bingham
+    forms:
+    - form: wíaau
+      parts:
+      - label: n.
+        text: a shell-fish, the.
+  - source: sabatier
+    forms:
+    - form: wiau
+      parts:
+      - label: n.
+        text: a shell fish.
+  - source: goo-banner
+    forms:
+    - form: wiaau
+      parts:
+      - label: sn.
+        text: _Cymathium sp. (i)_.
+- id: wiba
+  headword: wiba
+  trussel: wiba
+  sources:
+  - source: bingham
+    forms:
+    - form: wíba
+      parts:
+      - label: vi.
+        text: to add to a story untruly.
+      - label: n.
+        text: untruthful addition to a story.
+  - source: sabatier
+    forms:
+    - form: wiba
+      parts:
+      - label: v.
+        text: 'v.t. *wiwiba, kakawiba n taetae*: to shout, to roar (when speaking).'
+      - label: ex.
+        text: '*kakawibaea*: to enlarge, to exaggerate, to complicate,... romance,... chaff,... humbug,...
+          brag,... boast.'
+- id: wibarubaru
+  headword: wibarubaru
+  trussel: wibarubaru
+  sources:
+  - source: bingham
+    forms:
+    - form: wib'aárub'aaru
+      parts:
+      - label: a.
+        text: without teeth.
+      - label: n.
+        text: a toothless person.
+  - source: sabatier
+    forms:
+    - form: wibarubaru
+      parts:
+      - label: n.
+        text: manner of speaking when toothless, as if munching, mumbling <mumble>.
+- id: wibeka
+  headword: wibeka
+  trussel: wibeka
+  sources:
+  - source: bingham
+    forms:
+    - form: wíbeka
+      parts:
+      - label: vi.
+        text: to brag.
+  - source: sabatier
+    forms:
+    - form: wibeka
+      parts:
+      - label: v.
+        text: to talk incessantly, to exaggerate, to romance, to tell lies in joking <joke>.
+      - label: n.
+        text: braggart, boaster.
+      - label: syn.
+        text: '[[wibunai]].'
+- id: wibine
+  headword: wibine
+  trussel: wibine
+  sources:
+  - source: sabatier
+    forms:
+    - form: wibine
+      parts:
+      - label: n.
+        text: '*wibinea, wiwibine, wibinebine*: secret, confidential conversation, whispering, softly
+          uttered speech.'
+      - label: v.
+        text: to murmur, to whisper.
+- id: wibino
+  headword: wibino
+  trussel: wibino
+  sources:
+  - source: sabatier
+    forms:
+    - form: wibino
+      parts:
+      - label: n.
+        text: '*wibinobino*: babbling <babble>, prattling <prattle> in boring manner.'
+      - label: v.
+        text: to chatter, to gossip.
+      - label: vt.
+        text: '*wibinoi, wibonoa, wibinobinoa*: to bore people by...'
+      - label: see
+        text: '[[binobino]].'
+- id: wibinoti
+  headword: wibinoti
+  trussel: wibinoti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wibinoti
+      parts:
+      - label: n.
+        text: bad breath.
+- id: wiboa
+  headword: wiboa
+  trussel: wiboa
+  sources:
+  - source: bingham
+    forms:
+    - form: wíboa
+      parts:
+      - label: a.
+        text: aphthous.
+- id: wiboi
+  headword: wiboi
+  trussel: wiboi
+  sources:
+  - source: bingham
+    forms:
+    - form: wíboi
+      parts:
+      - label: n.
+        text: the thrush or ulcerous affection of the mouth.
+  - source: sabatier
+    forms:
+    - form: wiboi
+      parts:
+      - label: na.
+        text: abscess in mouth, bad breath.
+      - label: v.
+        text: to have...
+- id: wibuaka
+  headword: wibuaka
+  trussel: wibuaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wíbuaka
+      parts:
+      - label: vi.
+        text: to speak ill.
+      - label: see
+        text: '[[taetaebuaka]].'
+  - source: sabatier
+    forms:
+    - form: wibuaka
+      parts:
+      - label: n.
+        text: (1) bad language, coarse, rude words.
+      - label: vt.
+        text: '*wibuaka*: to insult, to offend by rude words.'
+      - label: v.
+        text: (2) to speak, to pronounce badly, to sputter, to murder a language.
+- id: wibubura
+  headword: wibubura
+  trussel: wibubura
+  sources:
+  - source: bingham
+    forms:
+    - form: wibúbura
+      parts:
+      - label: n.
+        text: a fish, the.
+  - source: sabatier
+    forms:
+    - form: wibubura
+      parts:
+      - label: n.
+        text: a fish, snapper.
+  - source: goo-banner
+    forms:
+    - form: wibúbura
+      parts:
+      - label: sn.
+        text: _Scarus brevifilis (y)_.
+      - label: n.
+        text: parrotfish (sm).
+- id: wibue
+  headword: wibue
+  trussel: wibue
+  sources:
+  - source: bingham
+    forms:
+    - form: wíbue
+      parts:
+      - label: n.
+        text: a person with unwholesome reddish teeth.
+      - label: a.
+        text: having unwholesome reddish teeth.
+  - source: sabatier
+    forms:
+    - form: wibue
+      parts:
+      - label: na.
+        text: discoloured, black, yellow teeth <tooth>.
+- id: wibunai
+  headword: wibunai
+  trussel: wibunai
+  sources:
+  - source: sabatier
+    forms:
+    - form: wibunai
+      parts:
+      - label: n.
+        text: an inveterate talker, braggart.
+      - label: see
+        text: '[[wimari]].'
+- id: wibuni
+  headword: wibuni
+  trussel: wibuni
+  sources:
+  - source: bingham
+    forms:
+    - form: wibúni
+      parts:
+      - label: a.
+        text: having teeth which are unusually short.
+  - source: sabatier
+    forms:
+    - form: wibuni
+      parts:
+      - label: na.
+        text: having fine small teeth <tooth> (like *buni*).
+- id: wibunoti
+  headword: wibunoti
+  trussel: wibunoti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wibunoti
+      parts:
+      - label: n.
+        text: a species of fish.
+- id: wikabwea
+  headword: wikabwea
+  trussel: wikabwea
+  sources:
+  - source: bingham
+    forms:
+    - form: wíkabwea
+      parts:
+      - label: vi.
+        text: to falsely exaggerate.
+      - label: n.
+        text: exaggeration, false addition to a story.
+  - source: sabatier
+    forms:
+    - form: wikabwea
+      parts:
+      - label: vt.
+        text: to add on, to exaggerate.
+      - label: syn.
+        text: '[[wiba]].'
+- id: wikai
+  headword: wikai
+  trussel: wikai
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-kai
+      parts:
+      - label: na.
+        text: (crane beak).
+      - label: fig.
+        text: |-
+          stranded, nonplussed, in a quandary, taken in, disappointed, abashed, confused (recent expression).
+          biting <bite>, sarcastic, witty.
+- id: wikakang
+  headword: wikakang
+  trussel: wikakang
+  sources:
+  - source: bingham
+    forms:
+    - form: wikákang
+      parts:
+      - label: a.
+        text: bold and caustic in speech.
+  - source: sabatier
+    forms:
+    - form: wi-kakang
+      parts:
+      - label: n.
+        text: sharp blade, pointed teeth <tooth>.
+  - source: goo-banner
+    forms:
+    - form: wikakang
+      parts:
+      - label: sn.
+        text: _Pollia undosa (i)_.
+  - source: luomala
+    forms:
+    - form: wikakang
+      parts:
+      - label: sn.
+        text: _Pollia undosa (gastropod)_.
+      - label: n.
+        text: snail.
+- id: wikamara
+  headword: wikamara
+  trussel: wikamara
+  sources:
+  - source: sabatier
+    forms:
+    - form: wikamara
+      parts:
+      - label: n.
+        text: obscene language.
+      - label: v.
+        text: to use filthy words.
+- id: wikamarane
+  headword: wikamarane
+  trussel: wikamarane
+  sources:
+  - source: sabatier
+    forms:
+    - form: wikamarane
+      parts:
+      - label: vt.
+        text: '*wikamaranea*:'
+      - label: n.
+        text: flattering words, insinuations, hints.
+      - label: v.
+        text: to flatter by...
+- id: wikangkang
+  headword: wikangkang
+  trussel: wikangkang
+  sources:
+  - source: bingham
+    forms:
+    - form: wikang/kang
+      parts:
+      - label: a.
+        text: having a voracious appetite.
+  - source: sabatier
+    forms:
+    - form: wikangkang
+      parts:
+      - label: n.
+        text: gourmet, gourmand, lover of good food.
+- id: wikaru
+  headword: wikaru
+  trussel: wikaru
+  sources:
+  - source: goo-banner
+    forms:
+    - form: wikaru
+      parts:
+      - label: sn.
+        text: _Lutianus bohar (ll)_.
+      - label: n.
+        text: juvenile snapper (sm).
+- id: wikateke
+  headword: wikateke
+  trussel: wikateke
+  sources:
+  - source: bingham
+    forms:
+    - form: wíkateke
+      parts:
+      - label: vi.
+        text: to boldly accuse, to talk much without hesitation.
+      - label: n.
+        text: a bold charge or crimination.
+  - source: sabatier
+    forms:
+    - form: wi-kateke
+      parts:
+      - label: n.
+        text: startling <startle>, persuasive, penetrating language.
+      - label: a.
+        text: to be eloquent.
+- id: wikaukau
+  headword: wikaukau
+  trussel: wikaukau
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-kaukau
+      parts:
+      - label: nv.
+        text: to speak in yapping, rude, disagreeable voice.
+- id: wiki
+  headword: wiki
+  trussel: wiki
+  sources:
+  - source: bingham
+    forms:
+    - form: wi:/ki
+      parts:
+      - label: n.
+        text: a week (ENG).
+  - source: sabatier
+    forms:
+    - form: wiki
+      parts:
+      - label: n.
+        text: |-
+          (1) week. (ENG).
+          (2) wick (ENG).
+- id: wikoa
+  headword: wikoa
+  trussel: wikoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-koa
+      parts:
+      - label: v.
+        text: |-
+          (1) *wikoa n taetae*: to speak rapidly.
+          (2) *wikoa n amarake*: to eat quickly.
+      - label: vc.
+        text: '*kawikoa*: to make hurry,... hasten to...'
+- id: wikotakota
+  headword: wikotakota
+  trussel: wikotakota
+  sources:
+  - source: sabatier
+    forms:
+    - form: wikotakota
+      parts:
+      - label: n.
+        text: great talker, gossiper, chatterer (particularly idle, wicked, dirty talk).
+- id: wikotaua
+  headword: wikotaua
+  trussel: wikotaua
+  sources:
+  - source: bingham
+    forms:
+    - form: wíkotáua
+      parts:
+      - label: vi.
+        text: to lie, to deceive.
+      - label: see
+        text: '[[kewekewe]].'
+  - source: sabatier
+    forms:
+    - form: wikotaua
+      parts:
+      - label: n.
+        text: contemptuous term for braggart, for one for and against, hypocritical language.
+- id: wikoti
+  headword: wikoti
+  trussel: wikoti
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-koti
+      parts:
+      - label: a.
+        text: |-
+          *wikotikoti*.
+          (beak cut short) abashed, confused, disappointed.
+- id: wikotikoti
+  headword: wikotikoti
+  trussel: wikotikoti
+  sources:
+  - source: bingham
+    forms:
+    - form: wikótikoti
+      parts:
+      - label: a.
+        text: having teeth which are dull, or much worn down.
+- id: wimaka
+  headword: wimaka
+  trussel: wimaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-maka
+      parts:
+      - label: na.
+        text: '*wimakamaka*: having decayed teeth <tooth>.'
+- id: wimakamaka
+  headword: wimakamaka
+  trussel: wimakamaka
+  sources:
+  - source: bingham
+    forms:
+    - form: wim'ákam'aka
+      parts:
+      - label: n.
+        text: a person whose teeth are much decayed.
+- id: wimakiki
+  headword: wimakiki
+  trussel: wimakiki
+  sources:
+  - source: sabatier
+    forms:
+    - form: wimakiki
+      parts:
+      - label: na.
+        text: narrow mouthed, who dares not or cannot answer.
+- id: wimam
+  headword: wimam
+  trussel: wimam
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-mam
+      parts:
+      - label: syn.
+        text: '[[wi-karewe|wikarewe]].'
+      - label: na.
+        text: sweet, agreeable, flattering language.
+      - label: vt.
+        text: '*wimamuai*: to give pleasure to..., to flatter by...'
+- id: wimari
+  headword: wimari
+  trussel: wimari
+  sources:
+  - source: bingham
+    forms:
+    - form: wímæri
+      parts:
+      - label: vi.
+        text: to make additions to a story, to report falsely.
+      - label: n.
+        text: incorrect additions to a story.
+  - source: sabatier
+    forms:
+    - form: wi-mari
+      parts:
+      - label: na.
+        text: '*kimarimari n taetae, wimarimari*: eloquent (embellishing recital in order to please rather
+          than deceive).'
+      - label: n.
+        text: good story teller in pejorative, braggart, harmless wag, joker.
+- id: wimatoa
+  headword: wimatoa
+  trussel: wimatoa
+  sources:
+  - source: bingham
+    forms:
+    - form: wímætoa
+      parts:
+      - label: va.
+        text: persistently maintaining.
+      - label: n.
+        text: persistence in what one has said.
+  - source: sabatier
+    forms:
+    - form: wi-matoa
+      parts:
+      - label: va.
+        text: to speak firmly, forcibly, or obstinately, to persist in one's opinion, to be obstinate,
+          stubborn in one's ideas,... advice.
+      - label: vc.
+        text: '*kawimatoa, kaka*...: _idem_. to refuse to retract,... to go back, on one''s word or on
+          an order.'
+- id: wimona
+  headword: wimona
+  trussel: wimona
+  sources:
+  - source: bingham
+    forms:
+    - form: wímona
+      parts:
+      - label: n.
+        text: a fish, the.
+  - source: goo-banner
+    forms:
+    - form: wímona
+      parts:
+      - label: n.
+        text: a parrotfish (ll).
+- id: win-te-bike
+  headword: win te bike
+  trussel: wintebike
+  sources:
+  - source: sabatier
+    forms:
+    - form: win te bike
+      parts:
+      - label: n.
+        text: the lower edge or limit of slope of beach.
+- id: wina
+  headword: wina
+  trussel: wina
+  sources:
+  - source: bingham
+    forms:
+    - form: wína
+      parts:
+      - label: vt.
+        text: to tempt.
+  - source: sabatier
+    forms:
+    - form: wina
+      parts:
+      - label: vt.
+        text: '*wiwina*: to incite by words, to suggest, to inspire, to counsel.'
+- id: winaine
+  headword: winaine
+  trussel: winaine
+  sources:
+  - source: bingham
+    forms:
+    - form: wináine
+      parts:
+      - label: vi.
+        text: to prompt ot ill will or hostility to one's parents or near relatives as a wife or her husband.
+- id: winanti
+  headword: winanti
+  trussel: winanti
+  sources:
+  - source: bingham
+    forms:
+    - form: wínænti
+      parts:
+      - label: vi.
+        text: to slander, to backbite.
+- id: wingarongaro
+  headword: wingarongaro
+  trussel: wingarongaro
+  sources:
+  - source: bingham
+    forms:
+    - form: wingárongaro
+      parts:
+      - label: a.
+        text: toothless.
+      - label: n.
+        text: a toothless person.
+  - source: sabatier
+    forms:
+    - form: wingarongaro
+      parts:
+      - label: a.
+        text: toothless.
+- id: winie
+  headword: winie
+  trussel: winie
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-n-ie
+      parts:
+      - label: n.
+        text: corner of sail and end of yard arm near lower part of mast, clew.
+- id: winikamarane
+  headword: winikamarane
+  trussel: winikamarane
+  sources:
+  - source: bingham
+    forms:
+    - form: winikámarane
+      parts:
+      - label: vi.
+        text: to speak improperly to a woman.
+      - label: n.
+        text: improper words to a woman.
+  - source: sabatier
+    forms:
+    - form: wi-ni-kamarane
+      parts:
+      - label: vt.
+        text: '*wiwikamaranea*: to tease, to soothe by insinuating words, flattery, to flatter, to seduce.'
+- id: winikanaeng
+  headword: winikanaeng
+  trussel: winikanaeng
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-ni-kanaeng
+      parts:
+      - label: v.
+        text: to show by one's language that one is hurt, huffed.
+- id: winikibuia
+  headword: winikibuia
+  trussel: winikibuia
+  sources:
+  - source: sabatier
+    forms:
+    - form: winikibuia
+      parts:
+      - label: vt.
+        text: to pierce, to transpierce, to pierce through and come out.
+- id: winikibwi
+  headword: winikibwi
+  trussel: winikibwi
+  sources:
+  - source: bingham
+    forms:
+    - form: wínikibwí
+      parts:
+      - label: vi.
+        text: to appear as the point of a spear which has pierced completely through the leg or abdomen.
+- id: winikua
+  headword: winikua
+  trussel: winikua
+  sources:
+  - source: bingham
+    forms:
+    - form: wínikua
+      parts:
+      - label: n.
+        text: a whale's tooth.
+      - label: a.
+        text: having a supernumerary front tooth.
+- id: winimane
+  headword: winimane
+  trussel: winimane
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-ni-mane
+      parts:
+      - label: nva.
+        text: said of a woman who has taken the part of her husband,... upholds his sentiments,... ideas
+          by her words.
+- id: winiona
+  headword: winiona
+  trussel: winiona
+  sources:
+  - source: goo-banner
+    forms:
+    - form: winiona
+      parts:
+      - label: n.
+        text: a parrotfish (ll).
+- id: winiwete
+  headword: winiwete
+  trussel: winiwete
+  sources:
+  - source: bingham
+    forms:
+    - form: wíniwete
+      parts:
+      - label: n.
+        text: a tattoo on the thighs.
+      - label: n.
+        text: a certain plank in a canoe.
+      - label: n.
+        text: the outer end of the coconut spathe.
+- id: winonginong
+  headword: winonginong
+  trussel: winonginong
+  sources:
+  - source: bingham
+    forms:
+    - form: winónginong
+      parts:
+      - label: vi.
+        text: to whisper.
+      - label: n.
+        text: whispering, a whisper.
+  - source: sabatier
+    forms:
+    - form: winonginong
+      parts:
+      - label: n.
+        text: a whisper.
+      - label: v.
+        text: to say, to murmur into the ear, to whisper.
+      - label: vt.
+        text: '*winonginonga*: to whisper (a secret...).'
+- id: winonginongia
+  headword: winonginongia
+  trussel: winonginongia
+  sources:
+  - source: bingham
+    forms:
+    - form: wínonginóngia
+      parts:
+      - label: vt.
+        text: to whisper, to utter in a low voice.
+- id: winrang
+  headword: winrang
+  trussel: winrang
+  sources:
+  - source: bingham
+    forms:
+    - form: win/rang
+      parts:
+      - label: vi.
+        text: to boast.
+      - label: n.
+        text: boasting, a boast.
+- id: winrangia
+  headword: winrangia
+  trussel: winrangia
+  sources:
+  - source: bingham
+    forms:
+    - form: winrángia
+      parts:
+      - label: vt.
+        text: to boast about.
+- id: winrika
+  headword: winrika
+  trussel: winrika
+  sources:
+  - source: bingham
+    forms:
+    - form: win/rika
+      parts:
+      - label: n.
+        text: a cold-chisel.
+- id: winrine
+  headword: winrine
+  trussel: winrine
+  sources:
+  - source: bingham
+    forms:
+    - form: win/rine
+      parts:
+      - label: vi.
+        text: to outsail.
+      - label: n.
+        text: an outsailing.
+- id: winrinea
+  headword: winrinea
+  trussel: winrinea
+  sources:
+  - source: bingham
+    forms:
+    - form: win/rinéa
+      parts:
+      - label: vt.
+        text: to outsail.
+- id: winririko
+  headword: winririko
+  trussel: winririko
+  sources:
+  - source: bingham
+    forms:
+    - form: winríriko
+      parts:
+      - label: n.
+        text: porpoise teeth.
+- id: wintamare
+  headword: wintamare
+  trussel: wintamare
+  sources:
+  - source: bingham
+    forms:
+    - form: wintámare
+      parts:
+      - label: vi.
+        text: .
+      - label: see
+        text: '[[winikamarane]].'
+- id: wintau
+  headword: wintau
+  trussel: wintau
+  sources:
+  - source: bingham
+    forms:
+    - form: win/tau
+      parts:
+      - label: n.
+        text: the bowsprit.
+- id: wio
+  headword: wio
+  trussel: wio
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-o
+      parts:
+      - label: or.
+        text: '*wi-oo*.'
+      - label: v.
+        text: to speak openly without fear, to use open, candid, <frank> unreserved language.
+      - label: n.
+        text: a voice which carries and can be heard <carry>.
+- id: wioto
+  headword: wioto
+  trussel: wioto
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-oto
+      parts:
+      - label: na.
+        text: '*wioto* (S.) toothache, decayed teeth, sore gums;'
+      - label: ex.
+        text: '*te bo ngaro*: gum boil.'
+      - label: vc.
+        text: '*kawioto*: causes toothache,... decay.'
+      - label: see
+        text: '[[ribitau]].'
+- id: wira
+  headword: wira
+  trussel: wira
+  sources:
+  - source: bingham
+    forms:
+    - form: wíraa
+      parts:
+      - label: n.
+        text: an aphthous disease.
+      - label: a.
+        text: aphthous.
+  - source: sabatier
+    forms:
+    - form: wira
+      parts:
+      - label: n.
+        text: a wheel, a circular spring (ENG).
+    - form: wira
+      homograph: 1
+      parts:
+      - label: n.
+        text: repugnance, aversion.
+      - label: v.
+        text: to have...
+      - label: vt.
+        text: '*wiraea*: to feel a repugnance for... (persons, things not to one''s liking).'
+- id: wiraoi
+  headword: wiraoi
+  trussel: wiraoi
+  sources:
+  - source: bingham
+    forms:
+    - form: wíraoi
+      parts:
+      - label: vi.
+        text: to speak pleasantly and peacefully and properly.
+  - source: sabatier
+    forms:
+    - form: wiraoi
+      parts:
+      - label: nv.
+        text: '*wiwiraoi*: to speak well, to use nice language.'
+- id: wirara
+  headword: wirara
+  trussel: wirara
+  sources:
+  - source: bingham
+    forms:
+    - form: wírara
+      parts:
+      - label: n.
+        text: the rainbow.
+  - source: sabatier
+    forms:
+    - form: wirara
+      parts:
+      - label: n.
+        text: '*Nei Wirara*: rainbow.'
+- id: wiraraoi
+  headword: wiraraoi
+  trussel: wiraraoi
+  sources:
+  - source: bingham
+    forms:
+    - form: wíraráoi
+      parts:
+      - label: a.
+        text: having handsome, regular and sound teeth.
+      - label: n.
+        text: a person with a fine set of teeth.
+  - source: sabatier
+    forms:
+    - form: wiraraoi
+      parts:
+      - label: na.
+        text: having beautiful, good teeth <tooth>.
+- id: wirebwerebwe
+  headword: wirebwerebwe
+  trussel: wirebwerebwe
+  sources:
+  - source: sabatier
+    forms:
+    - form: wirebwerebwe
+      parts:
+      - label: n.
+        text: a chatterbox.
+      - label: v.
+        text: to prate, chatter.
+      - label: a.
+        text: talkative.
+      - label: vc.
+        text: '*kawirebwerebwea*: to make...'
+- id: wirekareka
+  headword: wirekareka
+  trussel: wirekareka
+  sources:
+  - source: sabatier
+    forms:
+    - form: wirekareka
+      parts:
+      - label: n.
+        text: mouth full of stumps,... gaps.
+      - label: a.
+        text: notched, dented (blade, edge).
+      - label: vc.
+        text: '*kawirekareka*: to make notched,... full of gaps.'
+- id: wiremwe
+  headword: wiremwe
+  trussel: wiremwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wíremwe
+      parts:
+      - label: vi.
+        text: to prompt as a learner, to incite, to suggest to.
+      - label: n.
+        text: a prompting.
+  - source: sabatier
+    forms:
+    - form: wiremwe
+      parts:
+      - label: '%wirem.'
+        text: .
+      - label: na.
+        text: slowness, slow of speech, slow eater.
+      - label: vc.
+        text: '*kawiremwe*.'
+- id: wirereitina
+  headword: wirereitina
+  trussel: wirereitina
+  sources:
+  - source: bingham
+    forms:
+    - form: wírereitína
+      parts:
+      - label: vi.
+        text: to speak without bashfulness.
+- id: wirikiriki
+  headword: wirikiriki
+  trussel: wirikiriki
+  sources:
+  - source: bingham
+    forms:
+    - form: wiríkiriki
+      parts:
+      - label: vi.
+        text: to eat with very small mouthfuls, to speak softly.
+      - label: n.
+        text: a low utterance.
+  - source: sabatier
+    forms:
+    - form: wirikiriki
+      parts:
+      - label: n.
+        text: (1) whispering, a whisper.
+      - label: v.
+        text: to speak softly,... in low voice.(2) to eat, hardly moving jaws.
+- id: wirikirikia
+  headword: wirikirikia
+  trussel: wirikirikia
+  sources:
+  - source: bingham
+    forms:
+    - form: wírikiríkia
+      parts:
+      - label: vt.
+        text: to utter with a very low voice, to mutter.
+      - label: bib.
+        text: 'Is 59: 3.'
+  - source: sabatier
+    forms:
+    - form: wirikirikia
+      parts:
+      - label: vt.
+        text: to whisper, to chew gently.
+- id: wirikoi
+  headword: wirikoi
+  trussel: wirikoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: wirikoi
+      parts:
+      - label: n.
+        text: a species of fish.
+- id: wiritai
+  headword: wiritai
+  trussel: wiritai
+  sources:
+  - source: bingham
+    forms:
+    - form: wíritai
+      parts:
+      - label: see
+        text: a [[wibue]].
+  - source: sabatier
+    forms:
+    - form: wiritai
+      parts:
+      - label: syn.
+        text: n.a. [[wibue]].
+- id: wiritu
+  headword: wiritu
+  trussel: wiritu
+  sources:
+  - source: sabatier
+    forms:
+    - form: wiritu
+      parts:
+      - label: n.
+        text: virtue.
+- id: wiro
+  headword: wiro
+  trussel: wiro
+  sources:
+  - source: bingham
+    forms:
+    - form: wíro
+      parts:
+      - label: n.
+        text: a willow (ENG).
+    - form: wíro
+      parts:
+      - label: n.
+        text: a variety of soldier crab, the.
+- id: wita
+  headword: wita
+  trussel: wita
+  sources:
+  - source: sabatier
+    forms:
+    - form: wita
+      parts:
+      - label: n.
+        text: wheat (ENG).
+- id: witabitabita
+  headword: witabitabita
+  trussel: witabitabita
+  sources:
+  - source: bingham
+    forms:
+    - form: wítabitábita
+      parts:
+      - label: vi.
+        text: to praise or flatter.
+      - label: see
+        text: '[[winrang]].'
+- id: witae
+  headword: witae
+  trussel: witae
+  sources:
+  - source: bingham
+    forms:
+    - form: wítae
+      parts:
+      - label: n.
+        text: a large eel, the.
+  - source: sabatier
+    forms:
+    - form: witae
+      parts:
+      - label: n.
+        text: a large eel.
+  - source: goo-banner
+    forms:
+    - form: wítae
+      parts:
+      - label: n.
+        text: a large eel (ll).
+- id: witakanana
+  headword: witakanana
+  trussel: witakanana
+  sources:
+  - source: bingham
+    forms:
+    - form: wítakanæ/na
+      parts:
+      - label: vi.
+        text: to be quick to reveal secrets.
+      - label: see
+        text: '[[aouti]].'
+  - source: sabatier
+    forms:
+    - form: witakanana
+      parts:
+      - label: sup.
+        text: '*witakanatua*.'
+      - label: a.
+        text: tactless, indiscreet.
+- id: witamare
+  headword: witamare
+  trussel: witamare
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-tamare
+      parts:
+      - label: see
+        text: '[[wi-n-tamare]].'
+      - label: n.
+        text: seductive talk.
+- id: witangaina
+  headword: witangaina
+  trussel: witangaina
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-tangaina
+      parts:
+      - label: vt.
+        text: to tell, to give out (thoughts, sentiments) before everyone, not keeping,... having any
+          secrets.
+- id: witata
+  headword: witata
+  trussel: witata
+  sources:
+  - source: bingham
+    forms:
+    - form: wítata
+      parts:
+      - label: vi.
+        text: to speak rapidly.
+      - label: n.
+        text: rapid speaking.
+  - source: sabatier
+    forms:
+    - form: witata
+      parts:
+      - label: v.
+        text: |-
+          (1) *wiwitatata*: to speak rapidly.
+          (2) to eat quickly.
+      - label: vc.
+        text: '*kawitata*: to cause to speak quickly, to eat..., to make hurry.'
+- id: witati
+  headword: witati
+  trussel: witati
+  sources:
+  - source: bingham
+    forms:
+    - form: wítæti
+      parts:
+      - label: a.
+        text: having a regular set of teeth.
+- id: witeke
+  headword: witeke
+  trussel: witeke
+  sources:
+  - source: bingham
+    forms:
+    - form: wíteke
+      parts:
+      - label: a.
+        text: fluent, forcible, and to the point.
+      - label: n.
+        text: fluency, forceful speech, speaking to the point.
+- id: witeketeke
+  headword: witeketeke
+  trussel: witeketeke
+  sources:
+  - source: bingham
+    forms:
+    - form: witéketeke
+      parts:
+      - label: a.
+        text: frequentative of [[witeke]].
+- id: witere
+  headword: witere
+  trussel: witere
+  sources:
+  - source: bingham
+    forms:
+    - form: wi:/tere
+      parts:
+      - label: n.
+        text: a weasel (ENG).
+- id: witeretere
+  headword: witeretere
+  trussel: witeretere
+  sources:
+  - source: bingham
+    forms:
+    - form: witéretere
+      parts:
+      - label: a.
+        text: having the front teeth prominently projecting.
+- id: witoka
+  headword: witoka
+  trussel: witoka
+  sources:
+  - source: bingham
+    forms:
+    - form: wítoka
+      parts:
+      - label: vi.
+        text: to speak rapidly.
+      - label: n.
+        text: rapid speaking or utterance.
+  - source: sabatier
+    forms:
+    - form: witoka
+      parts:
+      - label: v.
+        text: '*wiwitoka, witokatoka*. to speak, or eat with rapidity.'
+      - label: syn.
+        text: '[[witata]]:'
+      - label: vc.
+        text: '*kawitoka n taetae, kawitoka n amarake*: to hurry, go quickly in..., to make...'
+    - form: witoka
+      homograph: 1
+      parts:
+      - label: vt.
+        text: '*wi-toka*: to speak, or eat (something) quickly.'
+- id: witokatoka
+  headword: witokatoka
+  trussel: witokatoka
+  sources:
+  - source: bingham
+    forms:
+    - form: witókatoka
+      parts:
+      - label: vi.
+        text: to habitually speak rapidly.
+- id: witoko
+  headword: witoko
+  trussel: witoko
+  sources:
+  - source: sabatier
+    forms:
+    - form: witoko
+      parts:
+      - label: v.
+        text: to obstruct, to make opposition by words.
+- id: witokoie
+  headword: witokoie
+  trussel: witokoie
+  sources:
+  - source: sabatier
+    forms:
+    - form: witokoie
+      parts:
+      - label: '%idem|.'
+        text: through wilfulness, heedlessness, foolishness.
+- id: witokonaua
+  headword: witokonaua
+  trussel: witokonaua
+  sources:
+  - source: sabatier
+    forms:
+    - form: witokonaua
+      parts:
+      - label: sup.
+        text: 'superlative of [[witoko]]:'
+      - label: vt.
+        text: to prolong, to protract (decision, affair) by prolix, vain verbosity.
+- id: wiuai
+  headword: wiuai
+  trussel: wiuai
+  sources:
+  - source: sabatier
+    forms:
+    - form: wi-uai
+      parts:
+      - label: '%manga.'
+        text: 'uai:'
+      - label: a.
+        text: double faced.
+      - label: v.
+        text: to say one thing to one person and the contrary to another.
+      - label: n.
+        text: liar, hypocrite.
+- id: wiuoua
+  headword: wiuoua
+  trussel: wiuoua
+  sources:
+  - source: bingham
+    forms:
+    - form: wiuóua
+      parts:
+      - label: a.
+        text: double-tonguedd, doubtful, uncertain.
+- id: wiwarebwe
+  headword: wiwarebwe
+  trussel: wiwarebwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwárebwe
+      parts:
+      - label: a.
+        text: having the teeth separated a little from one another.
+- id: wiwariki
+  headword: wiwariki
+  trussel: wiwariki
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwáriki
+      parts:
+      - label: a.
+        text: having the teeth set close together.
+  - source: sabatier
+    forms:
+    - form: wi-wariki
+      parts:
+      - label: a.
+        text: '*wi koinawa*: narrow mouthed.'
+- id: wiwi
+  headword: wiwi
+  trussel: wiwi
+  sources:
+  - source: bingham
+    forms:
+    - form: wíwi
+      parts:
+      - label: vi.
+        text: to suggest, to tempt.
+      - label: n.
+        text: a suggestion, a temptation.
+  - source: sabatier
+    forms:
+    - form: wiwi
+      parts:
+      - label: from.
+        text: '[[wi]].'
+      - label: n.
+        text: suggestion, insinuation, incitation, inspiration.
+      - label: v.
+        text: to counsel, to suggest, to hint, to insinuate, to inspire, to incite.
+- id: wiwiba
+  headword: wiwiba
+  trussel: wiwiba
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíba
+      parts:
+      - label: vi.
+        text: frequentative of [[wiba]].
+- id: wiwikateke
+  headword: wiwikateke
+  trussel: wiwikateke
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíkateke
+      parts:
+      - label: vi.
+        text: frequentative of [[wikateke]].
+- id: wiwimari
+  headword: wiwimari
+  trussel: wiwimari
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwímæri
+      parts:
+      - label: vi.
+        text: frequentative of [[wimari]].
+- id: wiwimatoa
+  headword: wiwimatoa
+  trussel: wiwimatoa
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwímætoa
+      parts:
+      - label: vi.
+        text: frequentative of [[wimatoa]].
+- id: wiwina
+  headword: wiwina
+  trussel: wiwina
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwína
+      parts:
+      - label: vt.
+        text: to prompt, to suggest to.
+  - source: sabatier
+    forms:
+    - form: wiwina
+      parts:
+      - label: vt.
+        text: _idem_. to incite to..., to inspire a project to...
+- id: wiwinanti
+  headword: wiwinanti
+  trussel: wiwinanti
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwínænti
+      parts:
+      - label: vi.
+        text: frequentative of [[winanti]].
+- id: wiwinantia
+  headword: wiwinantia
+  trussel: wiwinantia
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwinæn/tia
+      parts:
+      - label: vt.
+        text: frequentative of *winantia*.
+- id: wiwinikamarane
+  headword: wiwinikamarane
+  trussel: wiwinikamarane
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwínikám'arane
+      parts:
+      - label: vi.
+        text: frequentative of [[winikamarane|winikam'arane]].
+- id: wiwinonginong
+  headword: wiwinonginong
+  trussel: wiwinonginong
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwinónginong
+      parts:
+      - label: vi.
+        text: frequentative of [[winonginong]].
+- id: wiwinrang
+  headword: wiwinrang
+  trussel: wiwinrang
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwin/rang
+      parts:
+      - label: vi.
+        text: frequentative of [[winrang]].
+- id: wiwiremwe
+  headword: wiwiremwe
+  trussel: wiwiremwe
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíremwe
+      parts:
+      - label: vi.
+        text: frequentative of [[wiremwe]].
+- id: wiwirikiriki
+  headword: wiwirikiriki
+  trussel: wiwirikiriki
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíríkiriki
+      parts:
+      - label: vi.
+        text: frequentative of [[wirikiriki]].
+- id: wiwitata
+  headword: wiwitata
+  trussel: wiwitata
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwítata
+      parts:
+      - label: vi.
+        text: frequentative of [[witata]].
+- id: wiwiteke
+  headword: wiwiteke
+  trussel: wiwiteke
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíteke
+      parts:
+      - label: vi.
+        text: frequentative of [[witeke]].
+- id: wiwitokatoka
+  headword: wiwitokatoka
+  trussel: wiwitokatoka
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwítókatoka
+      parts:
+      - label: vi.
+        text: frequentative of [[witokatoka]].
+- id: wiwiuoua
+  headword: wiwiuoua
+  trussel: wiwiuoua
+  sources:
+  - source: bingham
+    forms:
+    - form: wíwiuóua
+      parts:
+      - label: vi.
+        text: to tell two stories about, to prevaricate.
+- id: wiwiwi
+  headword: wiwiwi
+  trussel: wiwiwi
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíwi
+      parts:
+      - label: vi.
+        text: frequentative of [[wiwi]].
+- id: wiwiwina
+  headword: wiwiwina
+  trussel: wiwiwina
+  sources:
+  - source: bingham
+    forms:
+    - form: wiwíwina
+      parts:
+      - label: vt.
+        text: frequentative of [[wiwina]].
+- id: wokewoke
+  headword: wokewoke
+  trussel: wokewoke
+  sources:
+  - source: sabatier
+    forms:
+    - form: wokewoke
+      parts:
+      - label: n.
+        text: a plant (red leaves and red flowers).
+- id: woreba
+  headword: woreba
+  trussel: woreba
+  sources:
+  - source: bingham
+    forms:
+    - form: wóreba
+      parts:
+      - label: n.
+        text: a wolf (ENG).

@@ -1,0 +1,7018 @@
+- id: u
+  headword: u
+  trussel: u
+  sources:
+  - source: bingham
+    forms:
+    - form: u
+      parts:
+      - label: n.
+        text: trap to catch eels <fishing>.
+      - label: pron.
+        text: my.
+      - label: ex.
+        text: '*baiu*: my hand.'
+      - label: vi.
+        text: go in great numbers, swarm about.
+      - label: vi.
+        text: fish for eels with an *u*.
+  - source: sabatier
+    forms:
+    - form: u
+      parts:
+      - label: suf.
+        text: to nouns indicating poss. adj. 1st person.
+      - label: ex.
+        text: '*tina-u*: my mother; *bai-u*: my hand, my arm.'
+    - form: u
+      homograph: 1
+      parts:
+      - label: pref.
+        text: |-
+          to most words beginning with *u*.
+          meaning up, upwards, lifting up, rising <rise> up.
+      - label: see
+        text: '[[u]], [[uba]], [[ubu]], [[uka]], [[uki]], [[uma]], [[unga]], [[taura|ta-ura]], [[uti]],
+          [[ure]].'
+    - form: u
+      homograph: 2
+      parts:
+      - label: n.
+        text: onomatopoeia of persisting noise.
+      - label: see
+        text: '[[kareu]], [[karu]], [[karou]].'
+    - form: u
+      homograph: 3
+      parts:
+      - label: n.
+        text: a humming noise, buzzing,... of crowd, of wind.
+      - label: v.
+        text: to roar, to rumble, to hum, to buzz in swarms.
+      - label: a.
+        text: abounding, crawling, pollinating <pollinate>.
+      - label: ex.
+        text: '*e u te maninara*: the mosquitoes are swarming and buzzing.'
+    - form: u
+      homograph: 4
+      parts:
+      - label: n.
+        text: '*te u, to u*: eel basket, eel pot.'
+      - label: v.
+        text: '*u*: to fish for...'
+      - label: ex.
+        text: |-
+          *tao-u*: to fix the eel basket, to put it down to sea bottom.
+          *tae-u*: to make eel basket.
+          *taona te u*: to put down...
+          *taeko te u*: to pull up...
+      - label: nv.
+        text: '*ka-u, kauai, kau kamakama, kau waro*, etc.: to fish for crabs, *kamakama*, sea mantis,
+          etc., by alluring <allure> them, enticing <entice> them (*ka-u*).'
+    - form: u
+      homograph: 5
+      parts:
+      - label: n.
+        text: perforation.
+      - label: v.
+        text: to perforate, to pierce.
+      - label: ex.
+        text: |-
+          *te bai n u*: ancient gimlet of pointed shell.
+          *te u-baba*: brace drill.
+      - label: vt.
+        text: '*una*: to pierce, to perforate with brace bit.'
+    - form: u
+      homograph: 6
+      parts:
+      - label: n.
+        text: '*te u*: a skin disease (which makes holes).'
+- id: ua
+  headword: ua
+  trussel: ua
+  sources:
+  - source: bingham
+    forms:
+    - form: úa
+      parts:
+      - label: n.
+        text: fishing in deep water in which a number of persons accompany or manage the seine by swimming
+          <fishing>.
+      - label: vi.
+        text: swim, fish <fishing>.
+    - form: uá
+      parts:
+      - label: a.
+        text: two, used in counting tens, hundreds, thousands, etc, days and years.
+      - label: see
+        text: '[[a]] (for numeral suffixes).'
+      - label: vt.
+        text: await the night or sunset.
+    - form: uaa
+      parts:
+      - label: n.
+        text: fruit.
+      - label: vi.
+        text: bear fruit.
+  - source: sabatier
+    forms:
+    - form: ua
+      parts:
+      - label: a.
+        text: 'two, in compound words: *ua-kora, ua ngaun, ua-bubua*.'
+    - form: ua
+      homograph: 1
+      parts:
+      - label: a.
+        text: two, when counting in pairs, by two's.
+    - form: ua
+      homograph: 2
+      parts:
+      - label: v.
+        text: rad. of *uota* in compound words to have on oneself, to carry on oneself.
+      - label: ex.
+        text: '*ua-kai, ua bai*: to carry arms...'
+    - form: ua
+      homograph: 3
+      parts:
+      - label: v.
+        text: 'rad. of *uaua*: to swim.'
+      - label: ex.
+        text: '*ua rio, uarake, ua nako*: to swim down,... up, away.'
+      - label: n.
+        text: '*te ua*: a manner of fishing with net in deep water.'
+      - label: vc.
+        text: '*ka-uaua*: to make swim.'
+      - label: see
+        text: 'v.t. [[uana]]: to swim to,... towards.'
+    - form: ua
+      homograph: 4
+      parts:
+      - label: n.
+        text: measure, manner.
+      - label: idiom.
+        text: '*uau naba, uam naba*: me also, you also.'
+      - label: ex.
+        text: |-
+          *uana naba*: in the same way, and so on.
+          *uau aei i tari*: the water was up to here (show) on me in the sea.
+          *akea uam*: there's nobody like you, nobody your size.
+    - form: ua
+      homograph: 5
+      parts:
+      - label: v.
+        text: to wait until, have patience till, insist until, remain until...
+      - label: ex.
+        text: |-
+          *ti ua rekena*: we will wait till we get it.
+          *e ua matena*: he kept at it till death.
+          *n ua te*: until.
+          *n ua matena*: even until death...
+      - label: vt.
+        text: '*ka-ua*: in a state of waiting, of patiently waiting, until...'
+      - label: ex.
+        text: '*kauako, kauangkami*.'
+      - label: ex.
+        text: |-
+          *kauangkami i main te ongora*: have patience while waiting for the address.
+          *kaua te ongora*: wait until the...
+          *kaua matum*: wait till it is time to go to bed.
+          *kauai nanomi*: be patient! you will get satisfaction!
+      - label: intj.
+        text: '*ua reke! ua roko! ua rongo!* (ironical) let it come! what odds!'
+    - form: ua
+      homograph: 6
+      parts:
+      - label: n.
+        text: '*te ua, uan te*...: fruit, product, result, gain, profit.'
+      - label: ex.
+        text: |-
+          *te ua ni, uan te ni*: fruit of coconut tree; te ben: coconut.
+          *te moan ua*: the first fruit.
+          *akea uana*: without profit,... value.
+      - label: v.
+        text: '*kariki ua*: to give fruit, profits, results.'
+      - label: nv.
+        text: '*kinika ua*: to gather,... pull fruit.'
+      - label: vc.
+        text: '*kauaea*: to make..., to let produce fruit,... profit.'
+- id: ua-n-ati
+  headword: ua n ati
+  trussel: uanati
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua n ati
+      parts:
+      - label: n.
+        text: young fish just spawned around rocks.
+- id: ua-tabe
+  headword: ua tabe
+  trussel: uatabe
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua tabe
+      parts:
+      - label: rad.
+        text: of *ua tabe ai, uatabeman, uatabeua... kora*.
+      - label: vt.
+        text: '*uatabeaia, uatabemania, uatabeua, uatabekora*, etc.: to take,... put one by one, one after
+          another.'
+- id: uaai
+  headword: uaai
+  trussel: uaai
+  sources:
+  - source: bingham
+    forms:
+    - form: uaai
+      parts:
+      - label: see
+        text: a. [[uaai]].
+- id: uaang
+  headword: uaang
+  trussel: uaang
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua-ang
+      parts:
+      - label: v.
+        text: to take a deep breath before diving, to take in supply of air, energy.
+- id: uaanga
+  headword: uaanga
+  trussel: uaanga
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua-anga
+      parts:
+      - label: a.
+        text: ambidextrous.
+      - label: ex.
+        text: '*kaua anga*: being able to use either left or right hand.'
+- id: uaba
+  headword: uaba
+  trussel: uaba
+  sources:
+  - source: bingham
+    forms:
+    - form: uáb'a
+      parts:
+      - label: vi.
+        text: carrying coconut oil.
+      - label: n.
+        text: carrying or transportation of coconut oil.
+    - form: uába
+      parts:
+      - label: a.
+        text: two (leaves).
+      - label: n.
+        text: measurement of length.
+  - source: sabatier
+    forms:
+    - form: uaba
+      parts:
+      - label: n.
+        text: two leaves <leaf>.
+- id: uabaea
+  headword: uabaea
+  trussel: uabaea
+  sources:
+  - source: bingham
+    forms:
+    - form: uabáea
+      parts:
+      - label: vt.
+        text: measure.
+  - source: sabatier
+    forms:
+    - form: uabaea
+      parts:
+      - label: vt.
+        text: to measure with a midrib or stick.
+- id: uabai
+  headword: uabai
+  trussel: uabai
+  sources:
+  - source: sabatier
+    forms:
+    - form: uabai
+      parts:
+      - label: v.
+        text: to have, or to carry on oneself any object.
+- id: uabangaki
+  headword: uabangaki
+  trussel: uabangaki
+  sources:
+  - source: bingham
+    forms:
+    - form: uábangaki
+      parts:
+      - label: a.
+        text: lying crosswise as tying-sticks on rafters, or as a ship in a channel.
+  - source: sabatier
+    forms:
+    - form: uabangaki
+      parts:
+      - label: a.
+        text: a little crooked, slightly side ways.
+      - label: vc.
+        text: '*kauabangaka*: to put or place in cross wise position.'
+- id: uabarariki
+  headword: uabarariki
+  trussel: uabarariki
+  sources:
+  - source: sabatier
+    forms:
+    - form: uabarariki
+      parts:
+      - label: a.
+        text: slightly curved towards the end (coconut, etc.).
+      - label: see
+        text: '[[rurubaro]].'
+- id: uaboboa
+  headword: uaboboa
+  trussel: uaboboa
+  sources:
+  - source: sabatier
+    forms:
+    - form: uaboboa
+      parts:
+      - label: idiom.
+        text: '*uaboboa mwina*: to try to bring back to former state.'
+- id: uabong
+  headword: uabong
+  trussel: uabong
+  sources:
+  - source: sabatier
+    forms:
+    - form: uabong
+      parts:
+      - label: n.
+        text: two days.
+    - form: uabong
+      homograph: 1
+      parts:
+      - label: idiom.
+        text: '*ua te bong, n ua te bong*: until nightfall.'
+- id: uabu
+  headword: uabu
+  trussel: uabu
+  sources:
+  - source: bingham
+    forms:
+    - form: uábu
+      parts:
+      - label: n.
+        text: wharf (ENG).
+  - source: sabatier
+    forms:
+    - form: uabu
+      parts:
+      - label: n.
+        text: wharf, quay (ENG).
+- id: uabuaka
+  headword: uabuaka
+  trussel: uabuaka
+  sources:
+  - source: bingham
+    forms:
+    - form: uábuaka
+      parts:
+      - label: vi.
+        text: misrepresentt.
+    - form: uábuakaa
+      parts:
+      - label: vt.
+        text: misrepresentt.
+  - source: sabatier
+    forms:
+    - form: uabuaka
+      parts:
+      - label: na.
+        text: having bad results.
+      - label: ant.
+        text: '*uaraoi*.'
+    - form: uabuaka
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*uabuaka*: calumny, slander.'
+      - label: v.
+        text: to defame, to slander, to disparage, to discredit, to vilify.
+      - label: syn.
+        text: '[[kabuakaka]].'
+- id: uabubua
+  headword: uabubua
+  trussel: uabubua
+  sources:
+  - source: bingham
+    forms:
+    - form: uabúbua
+      parts:
+      - label: a.
+        text: two hundred.
+- id: uabubuti
+  headword: uabubuti
+  trussel: uabubuti
+  sources:
+  - source: sabatier
+    forms:
+    - form: uabubuti
+      parts:
+      - label: n.
+        text: a weapon.
+      - label: see
+        text: '[[auabubuti]].'
+- id: uaburiburi
+  headword: uaburiburi
+  trussel: uaburiburi
+  sources:
+  - source: sabatier
+    forms:
+    - form: uaburiburi
+      parts:
+      - label: a.
+        text: ready to break open, containing pus.
+- id: uabwi
+  headword: uabwi
+  trussel: uabwi
+  sources:
+  - source: bingham
+    forms:
+    - form: uábwi
+      parts:
+      - label: a.
+        text: twenty in counting things in general.
+      - label: see
+        text: '[[uangaun]].'
+- id: uaea
+  headword: uaea
+  trussel: uaea
+  sources:
+  - source: bingham
+    forms:
+    - form: uáea
+      parts:
+      - label: a.
+        text: two million.
+- id: uaereti
+  headword: uaereti
+  trussel: uaereti
+  sources:
+  - source: sabatier
+    forms:
+    - form: uaereti
+      parts:
+      - label: n.
+        text: wireless. (ENG).
+      - label: v.
+        text: to send telegram <cable> by wireless.
+- id: uai
+  headword: uai
+  trussel: uai
+  sources:
+  - source: bingham
+    forms:
+    - form: uaái
+      parts:
+      - label: a.
+        text: two in counting hardware, furniture, chests, barrels, timber, coconut-leaf stems, fingers,
+          teeth, large fish, sharks and *ikari*.
+  - source: sabatier
+    forms:
+    - form: uai
+      parts:
+      - label: a.
+        text: two (large fish, tools, etc.).
+- id: uaia
+  headword: uaia
+  trussel: uaia
+  sources:
+  - source: bingham
+    forms:
+    - form: uaia
+      parts:
+      - label: n.
+        text: race, racing.
+    - form: uáia
+      parts:
+      - label: vi.
+        text: do in company with one or more, both do.
+      - label: vi.
+        text: race.
+  - source: sabatier
+    forms:
+    - form: uaia
+      parts:
+      - label: n.
+        text: '*te uaia*: rivalry, competition, emulation, concourse.'
+      - label: v.
+        text: to contest for...
+      - label: ex.
+        text: |-
+          *uaia wa, uaia makei*: canoe regatta.
+          *makei*: (toy canoe) races.
+      - label: v.
+        text: |-
+          *uaia ma*: to contest, to compete, to race with...
+          *uaia n, a uaia n*: to vie, to go, to do together.
+      - label: ex.
+        text: '*a uaia ni biri*: they both ran together.'
+      - label: vc.
+        text: '*kauaia*: to make...'
+- id: uaiaki
+  headword: uaiaki
+  trussel: uaiaki
+  sources:
+  - source: bingham
+    forms:
+    - form: uáiaki
+      parts:
+      - label: a.
+        text: twenty, in counting fish and *tuae*.
+  - source: sabatier
+    forms:
+    - form: uaiaki
+      parts:
+      - label: a.
+        text: twenty (pieces of *tuae*, fish, etc.).
+- id: uaiakina
+  headword: uaiakina
+  trussel: uaiakina
+  sources:
+  - source: bingham
+    forms:
+    - form: uáiakina
+      parts:
+      - label: vt.
+        text: pursue a work or journey until completed.
+  - source: sabatier
+    forms:
+    - form: uaiakina
+      parts:
+      - label: v.
+        text: to compete for..., to accomplish together, to tend towards together... (the same end, ideal).
+- id: uaitebu
+  headword: uaitebu
+  trussel: uaitebu
+  sources:
+  - source: bingham
+    forms:
+    - form: uáitebu
+      parts:
+      - label: n.
+        text: axe proper, also a small axe, but not a hatchet.
+  - source: sabatier
+    forms:
+    - form: uaitebu
+      parts:
+      - label: n.
+        text: a large axe with long handle (needing two (*uai*) hands to manipulate).
+- id: uaitera
+  headword: uaitera
+  trussel: uaitera
+  sources:
+  - source: bingham
+    forms:
+    - form: uáitera
+      parts:
+      - label: a.
+        text: half and half.
+      - label: a.
+        text: double-edgeed.
+    - form: uáiteraa
+      parts:
+      - label: vt.
+        text: divide in halfves.
+  - source: sabatier
+    forms:
+    - form: uaitera
+      parts:
+      - label: n.
+        text: half and half.
+      - label: a.
+        text: two sided, in two pieces, double bladed, etc.
+      - label: vc.
+        text: '*kauaitera... kaka...*: to make, have or carry by each holding an end.'
+    - form: ua-itera
+      parts:
+      - label: vt.
+        text: to do by halves <half>, to cut, divide, or separate in two, to make two equal parts, etc.
+- id: uaka
+  headword: uaka
+  trussel: uaka
+  sources:
+  - source: bingham
+    forms:
+    - form: uaáka
+      parts:
+      - label: pron.
+        text: these men who.
+  - source: sabatier
+    forms:
+    - form: uaka
+      parts:
+      - label: pron.
+        text: those who.
+      - label: see
+        text: '[[naka]].'
+- id: uakabu
+  headword: uakabu
+  trussel: uakabu
+  sources:
+  - source: sabatier
+    forms:
+    - form: uakabu
+      parts:
+      - label: n.
+        text: a fish, a black *riba*.
+- id: uakai
+  headword: uakai
+  trussel: uakai
+  sources:
+  - source: bingham
+    forms:
+    - form: uákai
+      parts:
+      - label: a.
+        text: two in counting trees, plants, fish-hooks, and sections of land.
+      - label: vi.
+        text: go armed.
+      - label: n.
+        text: custom of carrying deadly weapons.
+    - form: uaákai
+      parts:
+      - label: pron.
+        text: these men or boys.
+  - source: sabatier
+    forms:
+    - form: uakai
+      parts:
+      - label: pron.
+        text: these.
+    - form: uakai
+      homograph: 1
+      parts:
+      - label: n.
+        text: two (plants, instruments, arms...).
+    - form: uakai
+      homograph: 2
+      parts:
+      - label: nv.
+        text: to carry weapons, tools, to be armed to the teeth, provided with tools.
+- id: uakaka
+  headword: uakaka
+  trussel: uakaka
+  sources:
+  - source: bingham
+    forms:
+    - form: uákæka
+      parts:
+      - label: va.
+        text: curled up through heat or cold.
+      - label: va.
+        text: curled as the hair.
+      - label: n.
+        text: curling up through heat or cold.
+    - form: uakaáka
+      parts:
+      - label: vi.
+        text: be hampered as when attended by several small children.
+      - label: vi.
+        text: be burdened with many packages.
+      - label: n.
+        text: care of a number of children.
+  - source: sabatier
+    forms:
+    - form: uakaka
+      parts:
+      - label: n.
+        text: bristle.
+      - label: v.
+        text: to bristle up.
+      - label: a.
+        text: hairy, hirsute, bristling, dishevelled.
+      - label: vc.
+        text: '*kauakaka*: to make,... to bristle up, to make bristle or hair stand up (feather, spikes,
+          etc.).'
+    - form: uakaka
+      homograph: 1
+      parts:
+      - label: n.
+        text: entanglements, embarrassments, worries <worry>.
+      - label: v.
+        text: to have..., to bear or have many worries, be entangled in many matters.
+      - label: vc.
+        text: '*kauakaka*: to give...'
+- id: uakana
+  headword: uakana
+  trussel: uakana
+  sources:
+  - source: bingham
+    forms:
+    - form: uaákana
+      parts:
+      - label: pron.
+        text: those men who, those boys who.
+      - label: vi.
+        text: engage repeatedly in taking food to a person.
+      - label: n.
+        text: repeated carrying of food to a person.
+    - form: uaákanaa
+      parts:
+      - label: vt.
+        text: go to or visit a person for the purpose of giving him food repeatedly.
+  - source: sabatier
+    forms:
+    - form: uakana
+      parts:
+      - label: pron.
+        text: those who...
+    - form: uakana
+      homograph: 1
+      parts:
+      - label: vt.
+        text: '*ua-kana*: to have, or carry provisions, victuals.'
+      - label: ex.
+        text: '*I uakana Ten Naewa*: I am taking food to so and so.'
+- id: uakangkang
+  headword: uakangkang
+  trussel: uakangkang
+  sources:
+  - source: sabatier
+    forms:
+    - form: uakangkang
+      parts:
+      - label: n.
+        text: a delicious coconut.
+- id: uakanne
+  headword: uakanne
+  trussel: uakanne
+  sources:
+  - source: bingham
+    forms:
+    - form: uaakanne
+      parts:
+      - label: pron.
+        text: those men or boys.
+  - source: sabatier
+    forms:
+    - form: uakanne
+      parts:
+      - label: pron.
+        text: those...
+- id: uake
+  headword: uake
+  trussel: uake
+  sources:
+  - source: bingham
+    forms:
+    - form: uaáke
+      parts:
+      - label: pron.
+        text: those men who, those boys who.
+  - source: sabatier
+    forms:
+    - form: uake
+      parts:
+      - label: pron.
+        text: those who... *uakeke*.
+- id: uakeang
+  headword: uakeang
+  trussel: uakeang
+  sources:
+  - source: bingham
+    forms:
+    - form: uaákeang
+      parts:
+      - label: n.
+        text: fish.
+  - source: sabatier
+    forms:
+    - form: uakeang
+      parts:
+      - label: n.
+        text: tiny fish, fry of *keang* (seaweed).
+- id: uakeia
+  headword: uakeia
+  trussel: uakeia
+  sources:
+  - source: sabatier
+    forms:
+    - form: Uakeia
+      parts:
+      - label: n.
+        text: 'name of soothsayer in the expedition of the people of Beru in the conquest of the northern
+          islands. *Kaitu* was the principal chief: *Kaitu ma Uakeia*.'
+- id: uakekei
+  headword: uakekei
+  trussel: uakekei
+  sources:
+  - source: bingham
+    forms:
+    - form: uaákekei
+      parts:
+      - label: pron.
+        text: those men or boys yonder.
+  - source: sabatier
+    forms:
+    - form: uakekei
+      parts:
+      - label: pron.
+        text: those, those over there.
+- id: uakengakenga
+  headword: uakengakenga
+  trussel: uakengakenga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uakengakenga
+      parts:
+      - label: see
+        text: n.a. *kengakenga* _idem_.
+- id: uaki
+  headword: uaki
+  trussel: uaki
+  sources:
+  - source: bingham
+    forms:
+    - form: uaáki
+      parts:
+      - label: vi.
+        text: dragging or towing.
+  - source: sabatier
+    forms:
+    - form: uaki
+      parts:
+      - label: n.
+        text: towage, haulage.
+      - label: v.
+        text: to pull, to drag, to tow.
+      - label: idiom.
+        text: '*a uaki n un*: they started to quarrel.'
+      - label: v.
+        text: '*kauaki*: to fish (trawling).'
+      - label: vc.
+        text: '*kauaka*: to let line drag.'
+- id: uakina
+  headword: uakina
+  trussel: uakina
+  sources:
+  - source: bingham
+    forms:
+    - form: uaákina
+      parts:
+      - label: vt.
+        text: drag or tow.
+  - source: sabatier
+    forms:
+    - form: uakina
+      parts:
+      - label: vt.
+        text: to pull along, to drag, to tow.
+- id: uakinto
+  headword: uakinto
+  trussel: uakinto
+  sources:
+  - source: bingham
+    forms:
+    - form: '''uákinto'
+      parts:
+      - label: n.
+        text: hyacinth (GR).
+- id: uakonikon
+  headword: uakonikon
+  trussel: uakonikon
+  sources:
+  - source: bingham
+    forms:
+    - form: uakónikon
+      parts:
+      - label: n.
+        text: wrinkle, gather.
+      - label: va.
+        text: gathered as in sewing, wrinkled.
+  - source: sabatier
+    forms:
+    - form: uakonikon
+      parts:
+      - label: from.
+        text: '[[kon]], [[konikon]]:'
+      - label: v.
+        text: giving way, yielding under pressure and snapping back when released as elastic, retractile.
+      - label: vc.
+        text: '*kauakonikona*: to make yield, give way, contract.'
+- id: uakora
+  headword: uakora
+  trussel: uakora
+  sources:
+  - source: bingham
+    forms:
+    - form: uákora
+      parts:
+      - label: a.
+        text: two baskets.
+  - source: sabatier
+    forms:
+    - form: uakora
+      parts:
+      - label: a.
+        text: two (baskets, songs, etc.).
+      - label: v.
+        text: to take measure.
+- id: uakunikun
+  headword: uakunikun
+  trussel: uakunikun
+  sources:
+  - source: sabatier
+    forms:
+    - form: uakunikun
+      parts:
+      - label: na.
+        text: undulating with rolls of fat.
+- id: uakuri
+  headword: uakuri
+  trussel: uakuri
+  sources:
+  - source: bingham
+    forms:
+    - form: uákuri
+      parts:
+      - label: a.
+        text: two hundred thousand.
+  - source: sabatier
+    forms:
+    - form: uakuri
+      parts:
+      - label: na.
+        text: two hundred thousand.
+- id: uakurikuri
+  headword: uakurikuri
+  trussel: uakurikuri
+  sources:
+  - source: sabatier
+    forms:
+    - form: uakurikuri
+      parts:
+      - label: na.
+        text: in countless number, by hundreds of thousands.
+- id: uamae
+  headword: uamae
+  trussel: uamae
+  sources:
+  - source: bingham
+    forms:
+    - form: uamaáe
+      parts:
+      - label: a.
+        text: dispersed.
+      - label: n.
+        text: dispersee>ion, scattering.
+  - source: sabatier
+    forms:
+    - form: uamae
+      parts:
+      - label: n.
+        text: dissemination, scattering.
+      - label: a.
+        text: scattered, dispersed, <general (meaning)>.
+      - label: vc.
+        text: '*kauamaea, kauamaenakoa*: to scatter, to disperse, to disseminate here and there.'
+- id: uaman
+  headword: uaman
+  trussel: uaman
+  sources:
+  - source: bingham
+    forms:
+    - form: uáman
+      parts:
+      - label: vi.
+        text: measuree>ing spaces evenly with cord or stick.
+  - source: sabatier
+    forms:
+    - form: uaman
+      parts:
+      - label: nv.
+        text: to carry flag,... banner.
+- id: uamane
+  headword: uamane
+  trussel: uamane
+  sources:
+  - source: sabatier
+    forms:
+    - form: uamane
+      parts:
+      - label: nv.
+        text: to carry money on one's person.
+    - form: uamane
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[mane]]:'
+      - label: n.
+        text: manoeuvre of encirclement.
+      - label: v.
+        text: to manoeuvre to...
+- id: uamanea
+  headword: uamanea
+  trussel: uamanea
+  sources:
+  - source: bingham
+    forms:
+    - form: uam'ánea
+      parts:
+      - label: vt.
+        text: |-
+          round up as pigs.
+          encircle fish on a reef when fishing with a seine.
+    - form: uamæ/nea
+      parts:
+      - label: vt.
+        text: ask for, beg.
+  - source: sabatier
+    forms:
+    - form: uamanea
+      parts:
+      - label: vt.
+        text: to encircle, to surround, to hem in, to catch.
+      - label: fig.
+        text: circumvent.
+- id: uamania
+  headword: uamania
+  trussel: uamania
+  sources:
+  - source: bingham
+    forms:
+    - form: uamæ/nia
+      parts:
+      - label: vt.
+        text: measure as spaces with stick or cord.
+  - source: sabatier
+    forms:
+    - form: uamania
+      parts:
+      - label: from.
+        text: '[[man]]:'
+      - label: vt.
+        text: to put marks on, to take measure.
+- id: uamari
+  headword: uamari
+  trussel: uamari
+  sources:
+  - source: sabatier
+    forms:
+    - form: uamari
+      parts:
+      - label: n.
+        text: productiveness, fertility, fecundity, produce in abundance.
+      - label: v.
+        text: to give,... bear fruit, person who makes land productive,... draws profit from business,
+          fertile soil, fruitful tree.
+      - label: ex.
+        text: '*kauamari*:... which makes productive.'
+- id: uamoa
+  headword: uamoa
+  trussel: uamoa
+  sources:
+  - source: bingham
+    forms:
+    - form: uaámoa
+      parts:
+      - label: a.
+        text: saucy, haughty, impudent, bold-faced.
+      - label: n.
+        text: impudence, sauciness.
+  - source: sabatier
+    forms:
+    - form: uamoa
+      parts:
+      - label: v.
+        text: to try to be first.
+      - label: n.
+        text: tendency, emulation for better, for first place, ambition.
+      - label: a.
+        text: ambitious (without pride).
+- id: uamumun
+  headword: uamumun
+  trussel: uamumun
+  sources:
+  - source: sabatier
+    forms:
+    - form: uamumun
+      parts:
+      - label: see
+        text: '[[mumun]].'
+      - label: nv.
+        text: 'v.c. *kauamumuna*: to make...'
+- id: uamumuri
+  headword: uamumuri
+  trussel: uamumuri
+  sources:
+  - source: sabatier
+    forms:
+    - form: uamumuri
+      parts:
+      - label: n.
+        text: '*Nei Uamumuri*, wife of *Ten Kantoa*, daughter of *Nao* and *Neiko* (romantic tale).'
+- id: uamwi
+  headword: uamwi
+  trussel: uamwi
+  sources:
+  - source: sabatier
+    forms:
+    - form: uamwi
+      parts:
+      - label: v.
+        text: '*uamwiu, uamwim*. to try to follow in the footsteps of, the example of, to imitate...'
+- id: uan
+  headword: uan
+  trussel: uan
+  sources:
+  - source: bingham
+    forms:
+    - form: uaan/
+      parts:
+      - label: n.
+        text: pumice stone.
+      - label: vi.
+        text: fertilizee>ing with *ua:n*.
+  - source: sabatier
+    forms:
+    - form: uan
+      parts:
+      - label: n.
+        text: pumice stone.
+      - label: vt.
+        text: '*uania*: to fertilize land with pumice stones.'
+- id: uan-nei-rara
+  headword: uan nei rara
+  trussel: uanneirara
+  sources:
+  - source: sabatier
+    forms:
+    - form: uan Nei Rara
+      parts:
+      - label: n.
+        text: the first child of a young mother, cherished, richly dressed, bedizened.
+- id: uana
+  headword: uana
+  trussel: uana
+  sources:
+  - source: bingham
+    forms:
+    - form: uána
+      parts:
+      - label: a.
+        text: unchangeeable.
+      - label: vt.
+        text: swim out to.
+  - source: sabatier
+    forms:
+    - form: uana
+      parts:
+      - label: vt.
+        text: to swim towards, to tend towards, to go to visit.
+      - label: ex.
+        text: '*uanai*: come to see me,... to visit me.'
+      - label: fig.
+        text: seek to attain, to contest with, to imitate, to take for model,... example.
+      - label: ex.
+        text: '*ti na uana Jesu Kiristo*: we shall tend to imitate Christ.'
+- id: uana-naba
+  headword: uana naba
+  trussel: uananaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: uana naba
+      parts:
+      - label: idiom.
+        text: in the same manner, likewise, also, and so on.
+      - label: ex.
+        text: |-
+          *ai uau naba, ai uam naba*: I also, you also.
+          *ao ai uana naba*: and so on, and so forthh <etc.>.
+- id: uananai
+  headword: uananai
+  trussel: uananai
+  sources:
+  - source: bingham
+    forms:
+    - form: uánanai
+      parts:
+      - label: n.
+        text: furred and whiteish condition of the tongue and mouth.
+      - label: a.
+        text: having a white and furry tongue and mouth.
+  - source: sabatier
+    forms:
+    - form: uananai
+      parts:
+      - label: n.
+        text: kind of ulceration of mouth, thrush, aphthae, having...
+- id: uananginang
+  headword: uananginang
+  trussel: uananginang
+  sources:
+  - source: sabatier
+    forms:
+    - form: uananginang
+      parts:
+      - label: from.
+        text: '[[nang]].'
+      - label: na.
+        text: scattered clouds.
+      - label: vc.
+        text: '*kauananginanga*: to scatter with...'
+- id: uananti
+  headword: uananti
+  trussel: uananti
+  sources:
+  - source: bingham
+    forms:
+    - form: uaánænti
+      parts:
+      - label: n.
+        text: blighted or poorly developed coconut.
+      - label: va.
+        text: having small or blighted coconuts.
+  - source: sabatier
+    forms:
+    - form: uananti
+      parts:
+      - label: n.
+        text: |-
+          (1) badly formed fruit, deformed...
+          (2) (*Abaiang*) a red fish (rock cod).
+  - source: goo-banner
+    forms:
+    - form: uananti
+      parts:
+      - label: n.
+        text: an Abaiang word for a species of red fish, possibly a rock cod (ll).
+- id: uanao
+  headword: uanao
+  trussel: uanao
+  sources:
+  - source: sabatier
+    forms:
+    - form: uanao
+      parts:
+      - label: from.
+        text: '[[nao]].'
+      - label: na.
+        text: '*uanaonao*, a multitude, crowd, in crowds, numerous (waves).'
+      - label: vc.
+        text: '*kauanao*: to make..., to multiply..., to pile up.'
+- id: uanaonao
+  headword: uanaonao
+  trussel: uanaonao
+  sources:
+  - source: bingham
+    forms:
+    - form: uaanáonao
+      parts:
+      - label: a.
+        text: very many, very numerous.
+- id: uanati
+  headword: uanati
+  trussel: uanati
+  sources:
+  - source: bingham
+    forms:
+    - form: uánati
+      parts:
+      - label: n.
+        text: fish.
+- id: uang
+  headword: uang
+  trussel: uang
+  sources:
+  - source: bingham
+    forms:
+    - form: uaang/
+      parts:
+      - label: vi.
+        text: sway preparatory to throwing or jumping or swimming.
+- id: uanga
+  headword: uanga
+  trussel: uanga
+  sources:
+  - source: bingham
+    forms:
+    - form: uánga
+      parts:
+      - label: a.
+        text: two thousand.
+      - label: a.
+        text: two fathoms.
+      - label: vt.
+        text: overfeedd.
+    - form: uaánga
+      parts:
+      - label: a.
+        text: ambidextrous.
+  - source: sabatier
+    forms:
+    - form: ua-nga
+      parts:
+      - label: na.
+        text: two thousand, two fathoms.
+      - label: see
+        text: '[[nga]].'
+- id: uangaun
+  headword: uangaun
+  trussel: uangaun
+  sources:
+  - source: bingham
+    forms:
+    - form: uángaun
+      parts:
+      - label: a.
+        text: twenty.
+      - label: see
+        text: '[[ngaun]].'
+  - source: sabatier
+    forms:
+    - form: ua-ngaun
+      parts:
+      - label: a.
+        text: twenty.
+- id: uangia
+  headword: uangia
+  trussel: uangia
+  sources:
+  - source: bingham
+    forms:
+    - form: uaángia
+      parts:
+      - label: vt.
+        text: swing a person in a swing.
+      - label: vt.
+        text: sway one's body before throwing.
+- id: uangingi
+  headword: uangingi
+  trussel: uangingi
+  sources:
+  - source: bingham
+    forms:
+    - form: uangíngi
+      parts:
+      - label: a.
+        text: very small.
+    - form: uangingi
+      parts:
+      - label: n.
+        text: smallness, diminutiveness.
+  - source: sabatier
+    forms:
+    - form: uangingi
+      parts:
+      - label: a.
+        text: little, tiny, minute.
+      - label: vc.
+        text: '*kauangingia, kaka*...: to retract, to shrivel up, to grow thinner, to lessen, to shrink.'
+- id: uani-karau
+  headword: uani karau
+  trussel: uanikarau
+  sources:
+  - source: sabatier
+    forms:
+    - form: uani karau
+      parts:
+      - label: nv.
+        text: to stay out in the rain, to bathe, play, work...
+- id: uania
+  headword: uania
+  trussel: uania
+  sources:
+  - source: bingham
+    forms:
+    - form: uaánia
+      parts:
+      - label: vt.
+        text: fertilize a plant with powdered *uan*.
+  - source: sabatier
+    forms:
+    - form: uania
+      parts:
+      - label: from.
+        text: '[[uan]].'
+      - label: vt.
+        text: to fertilize land with pumice.
+- id: uano
+  headword: uano
+  trussel: uano
+  sources:
+  - source: bingham
+    forms:
+    - form: uaáno
+      parts:
+      - label: a.
+        text: very many.
+- id: uano-u
+  headword: uano|u
+  trussel: uano|u
+  sources:
+  - source: bingham
+    forms:
+    - form: uano|u
+      parts:
+      - label: n.
+        text: flower of the *mao*.
+- id: uanou
+  headword: uanou
+  trussel: uanou
+  sources:
+  - source: sabatier
+    forms:
+    - form: uanou
+      parts:
+      - label: n.
+        text: flower of *mao*.
+- id: uanrongo
+  headword: uanrongo
+  trussel: uanrongo
+  sources:
+  - source: bingham
+    forms:
+    - form: uaánrongo
+      parts:
+      - label: vi.
+        text: glean.
+- id: uaoi
+  headword: uaoi
+  trussel: uaoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: uaoi
+      parts:
+      - label: nv.
+        text: to have, or carry torches for fishing.
+      - label: n.
+        text: '*te tia ua oi*: the carrier of...'
+- id: uara
+  headword: uara
+  trussel: uara
+  sources:
+  - source: bingham
+    forms:
+    - form: uára
+      parts:
+      - label: va.
+        text: of or in what state or condition (interrog) que).
+    - form: uáraa
+      parts:
+      - label: a.
+        text: embarrassed or deterred by the presence of company.
+      - label: n.
+        text: embarrassment in or a deterring from through the presence of another.
+  - source: sabatier
+    forms:
+    - form: uara
+      parts:
+      - label: n.
+        text: faulty behaviour, bad conduct.
+      - label: a.
+        text: gawky, badly adapted, insecure, uncertain, slow, awkward, embarrassed.
+      - label: vc.
+        text: '*kauara, kaka... kauaraea*: to make..., to fetter, to embarrass, to make go wrong,... act
+          wrongly.'
+- id: uara-2
+  headword: uara?
+  trussel: uara?
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua-ra?
+      parts:
+      - label: v.
+        text: idiom inter. preceded by *ko, e, kam, a* (for condition, demeanour).
+      - label: ex.
+        text: |-
+          *ko ua ra?* how are you?
+          *e uara tamam?* how is your father?
+          *e uara te buaka?* how is the war going? what is happening? <to be how?>.
+- id: uaran
+  headword: uaran
+  trussel: uaran
+  sources:
+  - source: bingham
+    forms:
+    - form: uáræn
+      parts:
+      - label: n.
+        text: tobacco ooze or juice in a pipe-stem.
+      - label: n.
+        text: form of syphillis.
+      - label: va.
+        text: abounding in tobacco juice or ooze in a pipe.
+      - label: va.
+        text: afflicted with a form of syphillis.
+  - source: sabatier
+    forms:
+    - form: uaran
+      parts:
+      - label: v.
+        text: (1) to have..., to give, to carry juice, liquid.
+      - label: a.
+        text: juicy.
+      - label: n.
+        text: |-
+          (2) nicotine.
+          (3) syphilitic <syphilis> discharge.
+    - form: uaran
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[ran]].'
+      - label: nv.
+        text: to have coconuts to drink (*ran*) or carry coconuts to sell (S.).
+- id: uarao
+  headword: uarao
+  trussel: uarao
+  sources:
+  - source: bingham
+    forms:
+    - form: uárao
+      parts:
+      - label: vi.
+        text: deceive, lie, prevaricate.
+      - label: n.
+        text: lie, deception.
+  - source: sabatier
+    forms:
+    - form: uarao
+      parts:
+      - label: v.
+        text: to cheat, to fraud,.
+      - label: n.
+        text: imposture, lying, humbug, liar, braggart, impostor.
+      - label: vt.
+        text: '*kauarao, kaka... kauaraoa*: to look on as..., to treat as impostor, etc.'
+- id: uaraoa
+  headword: uaraoa
+  trussel: uaraoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: uaraoa
+      parts:
+      - label: vt.
+        text: to lie to..., to cheat, to trick by lies, humbug, fabulous tales, impostures.
+- id: uaraoi
+  headword: uaraoi
+  trussel: uaraoi
+  sources:
+  - source: bingham
+    forms:
+    - form: uáraoi
+      parts:
+      - label: a.
+        text: suitable size or fit.
+      - label: a.
+        text: not severe as a sickness.
+      - label: a.
+        text: moderate.
+  - source: sabatier
+    forms:
+    - form: uaraoi
+      parts:
+      - label: a.
+        text: convenient, suitable, just, sufficient, right size,... quantity,... quality.
+- id: uarea
+  headword: uarea
+  trussel: uarea
+  sources:
+  - source: bingham
+    forms:
+    - form: uárea
+      parts:
+      - label: int.
+        text: how much more so.
+  - source: sabatier
+    forms:
+    - form: uarea
+      parts:
+      - label: idiom.
+        text: kind of condit. interrog..., how would it be if...
+      - label: ex.
+        text: '*uarea ngkana I kanna?* what would happen if I ate it? and if I ate it?'
+- id: uarebu
+  headword: uarebu
+  trussel: uarebu
+  sources:
+  - source: bingham
+    forms:
+    - form: uárebu
+      parts:
+      - label: a.
+        text: ten thousand.
+- id: uareke
+  headword: uareke
+  trussel: uareke
+  sources:
+  - source: bingham
+    forms:
+    - form: uáreke
+      parts:
+      - label: a.
+        text: very much, over-much, excessive.
+      - label: intj.
+        text: exclamation of inability to do.
+  - source: sabatier
+    forms:
+    - form: uareke
+      parts:
+      - label: a.
+        text: which is common, easily found.
+      - label: int.
+        text: '*uareke!* what a find! it fell into my hands.'
+- id: uarereke
+  headword: uarereke
+  trussel: uarereke
+  sources:
+  - source: bingham
+    forms:
+    - form: uaréreke
+      parts:
+      - label: n.
+        text: smallness, diminutiveness.
+      - label: a.
+        text: small, little, not much.
+  - source: sabatier
+    forms:
+    - form: uarereke
+      parts:
+      - label: n.
+        text: smallness, puniness, small dimensions, small quantity.
+      - label: a.
+        text: small, puny, not tall, not big.
+      - label: vc.
+        text: '*kauarerekea, kaka*...: to make smaller, to diminish, to reduce, to lessen, to shorten,
+          to curtail, to abridge.'
+- id: uariki
+  headword: uariki
+  trussel: uariki
+  sources:
+  - source: sabatier
+    forms:
+    - form: uariki
+      parts:
+      - label: see
+        text: '[[wariki]].'
+      - label: n.
+        text: narrowness.
+      - label: a.
+        text: narrow.
+- id: uaroko
+  headword: uaroko
+  trussel: uaroko
+  sources:
+  - source: bingham
+    forms:
+    - form: uároko
+      parts:
+      - label: intj.
+        text: exclamation of confidence in one's championship.
+      - label: n.
+        text: gift or present brought as to a chief.
+      - label: vi.
+        text: taking a present to a chief.
+  - source: sabatier
+    forms:
+    - form: uaroko
+      parts:
+      - label: nv.
+        text: to have, or bring presents when paying one's respects.
+    - form: uaroko
+      homograph: 1
+      parts:
+      - label: intj.
+        text: (many meanings) to urge on.
+      - label: ex.
+        text: |-
+          *uaroko!* go on!
+          to a neglectful friend; *uaroko?* so you have come at last! it is a long time since I saw you last!
+- id: uarokoa
+  headword: uarokoa
+  trussel: uarokoa
+  sources:
+  - source: bingham
+    forms:
+    - form: uarókoa
+      parts:
+      - label: vt.
+        text: present a chief with food.
+      - label: n.
+        text: presentation of food to a chief.
+  - source: sabatier
+    forms:
+    - form: uarokoa
+      parts:
+      - label: vt.
+        text: to take presents to..., to visit with a gift in hand.
+- id: uarongo
+  headword: uarongo
+  trussel: uarongo
+  sources:
+  - source: bingham
+    forms:
+    - form: uárongo
+      parts:
+      - label: intj.
+        text: equivalent to " the land cannot be famine stricken ".
+  - source: sabatier
+    forms:
+    - form: uarongo
+      parts:
+      - label: intj.
+        text: let the famine come! we won't die of it.
+- id: uarongorongo
+  headword: uarongorongo
+  trussel: uarongorongo
+  sources:
+  - source: bingham
+    forms:
+    - form: uaróngorongo
+      parts:
+      - label: vi.
+        text: carrying news.
+  - source: sabatier
+    forms:
+    - form: uarongorongo
+      parts:
+      - label: v.
+        text: to have news to tell, to bring news.
+- id: uarongorongoa
+  headword: uarongorongoa
+  trussel: uarongorongoa
+  sources:
+  - source: bingham
+    forms:
+    - form: uarongoróngoa
+      parts:
+      - label: vt.
+        text: give information about.
+- id: uarurung
+  headword: uarurung
+  trussel: uarurung
+  sources:
+  - source: bingham
+    forms:
+    - form: uárurung
+      parts:
+      - label: vi.
+        text: shift about as a cargo not well stowed.
+      - label: vi.
+        text: scatter suddenly as a crowd.
+      - label: n.
+        text: shifting of cargo.
+  - source: sabatier
+    forms:
+    - form: uarurung
+      parts:
+      - label: see
+        text: '[[rurung]].'
+      - label: v.
+        text: to move in crowds here and there, to move, to drift, to be tossed, to fluctuate.
+- id: uatabeai
+  headword: uatabeai
+  trussel: uatabeai
+  sources:
+  - source: bingham
+    forms:
+    - form: uatæ/beai
+      parts:
+      - label: va.
+        text: occurring here and there as grey hairs.
+      - label: bib.
+        text: 'Hosea 7: 9.'
+- id: uatabo
+  headword: uatabo
+  trussel: uatabo
+  sources:
+  - source: sabatier
+    forms:
+    - form: uatabo
+      parts:
+      - label: n.
+        text: two ends, two pieces.
+      - label: nv.
+        text: to carry between two, one at each end.
+      - label: vc.
+        text: '*kauatabo, kauataboa, kauataboia*: to hold, take, or carry (one at each end).'
+- id: uataeka
+  headword: uataeka
+  trussel: uataeka
+  sources:
+  - source: bingham
+    forms:
+    - form: uatáeka
+      parts:
+      - label: vi.
+        text: carry word.
+  - source: sabatier
+    forms:
+    - form: ua-taeka
+      parts:
+      - label: n.
+        text: '*uataeka*: tale bearing.'
+      - label: ex.
+        text: '*te tia ua taeka*: tale bearer, informer, disparager.'
+      - label: v.
+        text: to inform, to carry tales, to disparage.
+- id: uataetae
+  headword: uataetae
+  trussel: uataetae
+  sources:
+  - source: bingham
+    forms:
+    - form: uatáetae
+      parts:
+      - label: vi.
+        text: carry word.
+- id: uatano
+  headword: uatano
+  trussel: uatano
+  sources:
+  - source: bingham
+    forms:
+    - form: uátano
+      parts:
+      - label: a.
+        text: twenty million.
+- id: uatao
+  headword: uatao
+  trussel: uatao
+  sources:
+  - source: bingham
+    forms:
+    - form: uaatao
+      parts:
+      - label: a.
+        text: |-
+          great in quantity.
+          two ( layers or tiers).
+  - source: sabatier
+    forms:
+    - form: uatao
+      parts:
+      - label: na.
+        text: one above another, superposed, two storey, in layers,... in series.
+      - label: vc.
+        text: '*kauataoa, kaka... kauataoarakea*: to put one on top of the other,... layer upon layer,
+          to pile up, to heap up.'
+      - label: n.
+        text: '*te bora uatao*: two storied house, biplane, etc.'
+      - label: ex.
+        text: '*ten atao*: three...'
+- id: uatari
+  headword: uatari
+  trussel: uatari
+  sources:
+  - source: sabatier
+    forms:
+    - form: ua-tari
+      parts:
+      - label: nv.
+        text: (1) to have, give, or carry juice, liquid.
+      - label: v.
+        text: |-
+          (2) to carry one's share of toddy to the co-operative for making molasses, to give one's contribution to...
+          (3) to make or leave a wake, wash, track in water.
+- id: uataria
+  headword: uataria
+  trussel: uataria
+  sources:
+  - source: sabatier
+    forms:
+    - form: uataria
+      parts:
+      - label: vt.
+        text: to supply the co-operative, to give one's share to...
+- id: uatata
+  headword: uatata
+  trussel: uatata
+  sources:
+  - source: sabatier
+    forms:
+    - form: uatata
+      parts:
+      - label: n.
+        text: two beats, double beat (rapid).
+- id: uati
+  headword: uati
+  trussel: uati
+  sources:
+  - source: bingham
+    forms:
+    - form: uaáti
+      parts:
+      - label: va.
+        text: swollen as a boil, but not discharging.
+      - label: vi.
+        text: wash.
+      - label: n.
+        text: work of washing clothes.
+  - source: sabatier
+    forms:
+    - form: uati
+      parts:
+      - label: n.
+        text: swelling.
+      - label: v.
+        text: to swell, get bigger, to swell after rubbing.
+      - label: ex.
+        text: '*e uati waena*: his foot is swollen.'
+- id: uatia
+  headword: uatia
+  trussel: uatia
+  sources:
+  - source: bingham
+    forms:
+    - form: uaátia
+      parts:
+      - label: vt.
+        text: wash.
+- id: uatibu
+  headword: uatibu
+  trussel: uatibu
+  sources:
+  - source: bingham
+    forms:
+    - form: uátibu
+      parts:
+      - label: intj.
+        text: equivalent to "my foot cannot swell").
+- id: uatoki
+  headword: uatoki
+  trussel: uatoki
+  sources:
+  - source: bingham
+    forms:
+    - form: uátoki
+      parts:
+      - label: a.
+        text: two hundred million.
+- id: uatou
+  headword: uatou
+  trussel: uatou
+  sources:
+  - source: bingham
+    forms:
+    - form: uátou
+      parts:
+      - label: vi.
+        text: carrying pandanus fruit.
+- id: uaua
+  headword: uaua
+  trussel: uaua
+  sources:
+  - source: bingham
+    forms:
+    - form: uáua
+      parts:
+      - label: vi.
+        text: swim.
+      - label: n.
+        text: swimming.
+    - form: uáuaa
+      parts:
+      - label: vt.
+        text: execute one's purpose.
+  - source: sabatier
+    forms:
+    - form: uaua
+      parts:
+      - label: idiom.
+        text: '*uaua nanona, katoka nanona, ira nanona*: to content, to satisfy, to follow one''s instincts,
+          desires.'
+      - label: ex.
+        text: '*uaua nanon*:... to please, to satisfy, to content.'
+    - form: uaua
+      homograph: 1
+      parts:
+      - label: vt.
+        text: freq. of *ua, uaua rekena*.
+      - label: see
+        text: '[[ua]].'
+    - form: uaua
+      homograph: 2
+      parts:
+      - label: n.
+        text: swimming.
+      - label: v.
+        text: to swim.
+      - label: ex.
+        text: '*uaua ni kimoa*: to swim like a rat.'
+      - label: vc.
+        text: '*ka uaua*: to make swim.'
+- id: uauaki
+  headword: uauaki
+  trussel: uauaki
+  sources:
+  - source: sabatier
+    forms:
+    - form: uauaki
+      parts:
+      - label: idiom.
+        text: '*te uauaki n aine, te uauaki ni mane, te uau-uau*: _idem_. model man,... woman, examples
+          to be aimed at as regards physical form and proportion.'
+- id: uauamoa
+  headword: uauamoa
+  trussel: uauamoa
+  sources:
+  - source: bingham
+    forms:
+    - form: uauaámoa
+      parts:
+      - label: a.
+        text: frequentative of [[uamoa]] carrying fowls.
+      - label: n.
+        text: impudence, sauciness.
+- id: uauana
+  headword: uauana
+  trussel: uauana
+  sources:
+  - source: bingham
+    forms:
+    - form: uáuaána
+      parts:
+      - label: a.
+        text: remaining unchanged.
+- id: uauananona
+  headword: uauananona
+  trussel: uauananona
+  sources:
+  - source: bingham
+    forms:
+    - form: uáuanánona
+      parts:
+      - label: a.
+        text: eager to obtain, greedy.
+- id: uauarao
+  headword: uauarao
+  trussel: uauarao
+  sources:
+  - source: bingham
+    forms:
+    - form: uáuaráo
+      parts:
+      - label: vi.
+        text: frequentative of [[uarao]].
+- id: uauaroko
+  headword: uauaroko
+  trussel: uauaroko
+  sources:
+  - source: bingham
+    forms:
+    - form: uáuaróko
+      parts:
+      - label: vi.
+        text: frequentative of [[uaroko]].
+- id: uauati
+  headword: uauati
+  trussel: uauati
+  sources:
+  - source: bingham
+    forms:
+    - form: uauaáti
+      parts:
+      - label: vi.
+        text: frequentative of [[uati]] wash.
+- id: uauatia
+  headword: uauatia
+  trussel: uauatia
+  sources:
+  - source: bingham
+    forms:
+    - form: uauaátia
+      parts:
+      - label: vt.
+        text: frequentative of [[uatia]] wash.
+- id: uaung
+  headword: uaung
+  trussel: uaung
+  sources:
+  - source: bingham
+    forms:
+    - form: úaung
+      parts:
+      - label: a.
+        text: two in counting pandanus fruit.
+      - label: see
+        text: '[[ung]].'
+- id: uba
+  headword: uba
+  trussel: uba
+  sources:
+  - source: bingham
+    forms:
+    - form: úb'a
+      parts:
+      - label: n.
+        text: the part of the upper breast over the sternum.
+      - label: n.
+        text: flat shell ornament hung over the *uba*.
+  - source: sabatier
+    forms:
+    - form: uba
+      parts:
+      - label: n.
+        text: (1) breast, thorax, poitrel, span of kite.
+      - label: n.
+        text: (2) shell worn on the chest.
+      - label: see
+        text: '[[nikabangabanga]], [[nikabono]], [[nikabibi]], [[nikataratara]].'
+      - label: n.
+        text: |-
+          (3) a system of binding, *nira n ubana*.
+          (4) figures in game of cat's cradles. (*te wau*) *uba n eitei, uba ni moa aine*, etc.
+      - label: na.
+        text: |-
+          *ubauba, kauuba, kauubauba*: wide span, large thorax.
+          *uba-ro, uba ura, uba mai*: black, red, whitish colour... (birds).
+      - label: vc.
+        text: '*kauba, kakauba*.'
+      - label: v.
+        text: (5) to strut, to stick out chest, to take advantageous pauses.
+      - label: ex.
+        text: '*kaubako! kaotiko!* show yourself, exhibit yourself!'
+      - label: idiom.
+        text: '*nira ubana, taera ubana*: to tie, to make *uba* (special figure).'
+      - label: see
+        text: '[[ubana]] v.t.'
+- id: uba-mara
+  headword: uba mara
+  trussel: ubamara
+  sources:
+  - source: sabatier
+    forms:
+    - form: uba mara
+      parts:
+      - label: n.
+        text: a species of frigate bird (unplumed).
+- id: ubaba
+  headword: ubaba
+  trussel: ubaba
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'áb'a
+      parts:
+      - label: n.
+        text: brace for boreing.
+  - source: sabatier
+    forms:
+    - form: ubaba
+      parts:
+      - label: n.
+        text: brace (carpenter's tool).
+      - label: idiom.
+        text: '*ubabaea te ang*: steer straight into the wind.'
+      - label: or.
+        text: '*ubanibania te ang*.'
+- id: ubaete
+  headword: ubaete
+  trussel: ubaete
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'áete
+      parts:
+      - label: va.
+        text: suffering with dyspepsia or a sense of fullness after eating.
+      - label: n.
+        text: form of dyspepsia.
+  - source: sabatier
+    forms:
+    - form: ubaete
+      parts:
+      - label: n.
+        text: dilatation of the stomach.
+      - label: v.
+        text: to have...
+- id: ubai
+  headword: ubai
+  trussel: ubai
+  sources:
+  - source: bingham
+    forms:
+    - form: úbai
+      parts:
+      - label: n.
+        text: bit for boreing.
+      - label: vi.
+        text: boring with a bit.
+  - source: sabatier
+    forms:
+    - form: ubai
+      parts:
+      - label: n.
+        text: a small hand brace.
+      - label: vt.
+        text: to pierce with...
+- id: ubaia
+  headword: ubaia
+  trussel: ubaia
+  sources:
+  - source: bingham
+    forms:
+    - form: ubáia
+      parts:
+      - label: vt.
+        text: bore a plank with a bit.
+- id: ubaitoi
+  headword: ubaitoi
+  trussel: ubaitoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubaitoi
+      parts:
+      - label: n.
+        text: a young frigate bird.
+      - label: fig.
+        text: a person too proud and too lazy to work (as frigate bird which lives at the expense of other
+          sea birds).
+- id: ubana
+  headword: ubana
+  trussel: ubana
+  sources:
+  - source: bingham
+    forms:
+    - form: úb'ana
+      parts:
+      - label: vt.
+        text: wear an *uba*.
+- id: ubanaine
+  headword: ubanaine
+  trussel: ubanaine
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubanaine
+      parts:
+      - label: n.
+        text: a fish (_Labridae_ sp.), wrasse.
+  - source: goo-banner
+    forms:
+    - form: ubanaine
+      parts:
+      - label: sn.
+        text: _family Labridae (ll)_.
+      - label: n.
+        text: wrasse (sm).
+- id: ubaniban
+  headword: ubaniban
+  trussel: ubaniban
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'ániban
+      parts:
+      - label: n.
+        text: brace for boreing.
+      - label: vi.
+        text: boring with a brace-drill.
+  - source: sabatier
+    forms:
+    - form: ubaniban
+      parts:
+      - label: n.
+        text: brace (carpenter's tool).
+      - label: vt.
+        text: '*ubanibania*: to bore a hole with...'
+- id: ubanibania
+  headword: ubanibania
+  trussel: ubanibania
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'anib'ánia
+      parts:
+      - label: vt.
+        text: bore a plank with a brace-drill.
+- id: ubanon
+  headword: ubanon
+  trussel: ubanon
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'æ/non
+      parts:
+      - label: vi.
+        text: fly low as a kite.
+  - source: sabatier
+    forms:
+    - form: ubanon
+      parts:
+      - label: na.
+        text: a kite which is too soft, too flexible.
+      - label: ant.
+        text: '*ubamatoa*.'
+- id: ubara
+  headword: ubara
+  trussel: ubara
+  sources:
+  - source: bingham
+    forms:
+    - form: úbæra
+      parts:
+      - label: vi.
+        text: be blown away as litter.
+    - form: úbaraa
+      parts:
+      - label: vt.
+        text: fill or occupy a place as flying litter.
+      - label: vt.
+        text: flood a country as immigrants.
+  - source: sabatier
+    forms:
+    - form: ubara
+      parts:
+      - label: vt.
+        text: to fall on, to rush on (flock of birds), to invade a place, to flock in crowds towards.
+      - label: ex.
+        text: '*a ubaraiko aomata*: the crowd is thronging towards you.'
+      - label: see
+        text: '[[tikubara]].'
+- id: ubaranako
+  headword: ubaranako
+  trussel: ubaranako
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubaranako
+      parts:
+      - label: vt.
+        text: '*ubaranakoa*: to be carried <carry> away by a gust, a puff of wind.'
+      - label: vc.
+        text: '*kaubaranakoa*...'
+- id: ubaraniti
+  headword: ubaraniti
+  trussel: ubaraniti
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubaraniti
+      parts:
+      - label: n.
+        text: sea snaill.
+      - label: syn.
+        text: '[[neikamanging|Nei Kamanging]].'
+  - source: luomala
+    forms:
+    - form: ubaraniti
+      parts:
+      - label: sn.
+        text: _Nudibranchs (gastropod)_.
+      - label: n.
+        text: snail.
+- id: ubararake
+  headword: ubararake
+  trussel: ubararake
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubararake
+      parts:
+      - label: v.
+        text: 'v.t. *ubararakea*: to rise up, to float in the air, to be carried <carry> up by puff of
+          wind,... sweep of a wing.'
+- id: ubariri
+  headword: ubariri
+  trussel: ubariri
+  sources:
+  - source: bingham
+    forms:
+    - form: úb'aríri
+      parts:
+      - label: a.
+        text: narrow as a kite in the middle.
+      - label: n.
+        text: narrow or slim kite.
+      - label: n.
+        text: slim person.
+  - source: sabatier
+    forms:
+    - form: ubariri
+      parts:
+      - label: na.
+        text: a bony, pointed chest, a curtailed kite, too narrow.
+- id: ubaroro
+  headword: ubaroro
+  trussel: ubaroro
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubaroro
+      parts:
+      - label: n.
+        text: a species of frigate bird with black chest.
+      - label: a.
+        text: black chested (fish, birds).
+- id: ubati
+  headword: ubati
+  trussel: ubati
+  sources:
+  - source: bingham
+    forms:
+    - form: úbati
+      parts:
+      - label: a.
+        text: powerful and large.
+  - source: sabatier
+    forms:
+    - form: ubati
+      parts:
+      - label: a.
+        text: broad shouldered, corpulent, wide span.
+      - label: vc.
+        text: '*kaubata*: to take, seize hold strongly with arms around.'
+      - label: ex.
+        text: '*e kaubatira te ang*: a violent wind seized us.'
+- id: ubauba
+  headword: ubauba
+  trussel: ubauba
+  sources:
+  - source: bingham
+    forms:
+    - form: ub'áub'a
+      parts:
+      - label: a.
+        text: broad as a kite in the middle or as a *kaue*.
+- id: ubea
+  headword: ubea
+  trussel: ubea
+  sources:
+  - source: sabatier
+    forms:
+    - form: ubea
+      parts:
+      - label: idiom.
+        text: in playing poker, two pairs of cards, to have two pairs of same cards.
+- id: ubo
+  headword: ubo
+  trussel: ubo
+  sources:
+  - source: bingham
+    forms:
+    - form: úbo
+      parts:
+      - label: n.
+        text: small fish.
+      - label: vi.
+        text: fish for *ubo*.
+- id: uboa
+  headword: uboa
+  trussel: uboa
+  sources:
+  - source: bingham
+    forms:
+    - form: úboa
+      parts:
+      - label: vt.
+        text: fish for *ubo*.
+      - label: vt.
+        text: clap the hands.
+  - source: goo-banner
+    forms:
+    - form: uboa
+      parts:
+      - label: n.
+        text: possibly *Kuhlia marginata* (ll).
+- id: uboi
+  headword: uboi
+  trussel: uboi
+  sources:
+  - source: bingham
+    forms:
+    - form: '''úboi'
+      parts:
+      - label: n.
+        text: hoopoe [crested bird] (ENG).
+- id: uboubo
+  headword: uboubo
+  trussel: uboubo
+  sources:
+  - source: bingham
+    forms:
+    - form: ubóubo
+      parts:
+      - label: vi.
+        text: frequentative of [[ubo]].
+      - label: n.
+        text: clapping of the hands.
+- id: ubouboa
+  headword: ubouboa
+  trussel: ubouboa
+  sources:
+  - source: bingham
+    forms:
+    - form: uboubóa
+      parts:
+      - label: vt.
+        text: accompany a person who is chanting with clapping of the hands.
+- id: ubu
+  headword: ubu
+  trussel: ubu
+  sources:
+  - source: bingham
+    forms:
+    - form: úbu
+      parts:
+      - label: n.
+        text: snout, central part of the face.
+      - label: n.
+        text: softer end of a green coconut.
+      - label: va.
+        text: in the early stage of development as fruit.
+- id: ububu
+  headword: ububu
+  trussel: ububu
+  sources:
+  - source: bingham
+    forms:
+    - form: ubúbu
+      parts:
+      - label: a.
+        text: soft and tender as a young sprout.
+      - label: n.
+        text: tender germ-top of a coconut tree.
+- id: ububunara
+  headword: ububunara
+  trussel: ububunara
+  sources:
+  - source: bingham
+    forms:
+    - form: ubúbunára
+      parts:
+      - label: n.
+        text: new leafves of the pan.
+- id: ubunimai
+  headword: ubunimai
+  trussel: ubunimai
+  sources:
+  - source: bingham
+    forms:
+    - form: úbunimai
+      parts:
+      - label: n.
+        text: unripe breadfruit.
+- id: ubunrang
+  headword: ubunrang
+  trussel: ubunrang
+  sources:
+  - source: bingham
+    forms:
+    - form: úbunrang
+      parts:
+      - label: n.
+        text: mortification, shame.
+- id: ubuntou
+  headword: ubuntou
+  trussel: ubuntou
+  sources:
+  - source: bingham
+    forms:
+    - form: úbuntóu
+      parts:
+      - label: n.
+        text: unripe pandanus fruit.
+- id: uburake
+  headword: uburake
+  trussel: uburake
+  sources:
+  - source: bingham
+    forms:
+    - form: úburake
+      parts:
+      - label: va.
+        text: too forward, rude in approach.
+      - label: n.
+        text: rudeness, too great forwardness.
+- id: ubutangau
+  headword: ubutangau
+  trussel: ubutangau
+  sources:
+  - source: bingham
+    forms:
+    - form: úbutángau
+      parts:
+      - label: n.
+        text: pandanus fruit in an early stage.
+      - label: va.
+        text: in an early stage of development as pandanus fruit.
+- id: ue
+  headword: ue
+  trussel: ue
+  sources:
+  - source: bingham
+    forms:
+    - form: ué
+      parts:
+      - label: va.
+        text: in blossom.
+      - label: va.
+        text: ruffled as the hair in the wind, or as cross-grained wood.
+      - label: n.
+        text: blossom.
+- id: ue-n-ari
+  headword: ue n ari
+  trussel: uenari
+  sources:
+  - source: sabatier
+    forms:
+    - form: ue n ari
+      parts:
+      - label: n.
+        text: flowers of coconut spathe.
+- id: ue-n-uri
+  headword: ue n uri
+  trussel: uenuri
+  sources:
+  - source: sabatier
+    forms:
+    - form: ue n uri
+      parts:
+      - label: n.
+        text: flowers of *uri*.
+- id: ue-ni-mao
+  headword: ue ni mao
+  trussel: uenimao
+  sources:
+  - source: sabatier
+    forms:
+    - form: ue ni mao
+      parts:
+      - label: n.
+        text: flowers of *mao*.
+      - label: syn.
+        text: '[[uanou]].'
+- id: uea
+  headword: uea
+  trussel: uea
+  sources:
+  - source: bingham
+    forms:
+    - form: uéa
+      parts:
+      - label: vi.
+        text: reign.
+      - label: n.
+        text: king, high chief, lord, sovereign.
+  - source: sabatier
+    forms:
+    - form: uea
+      parts:
+      - label: n.
+        text: king, soverign.
+      - label: ex.
+        text: |-
+          *uea aine*: queen.
+          *uea ni kai*: king by right of conquest.
+          *uea ni Mainiku*: the Magi.
+      - label: a.
+        text: '*ae uea, n uea*: royal.'
+      - label: ex.
+        text: |-
+          *e uea*: he is king, he reigns.
+          *te waka uea*: the tap root, main root.
+      - label: n.
+        text: '*ueau, ueam*: my, thy, kingdom, reign.'
+      - label: na.
+        text: '*utu n uea*: royal family, royal blood.'
+      - label: ex.
+        text: |-
+          *ba n uea*: the reigning family.
+          *niba n uea*: of royal origin, prince.
+          *uea makimaki*: king for a day (one who eats all his taro, goes through all his riches in a short time).
+      - label: vc.
+        text: '*kauea*: to make, to proclaim king.'
+      - label: vc.
+        text: '*kakauea*: to act the king, to play the great personage, to be pretentious.'
+      - label: syn.
+        text: '*baka n uea*.'
+- id: ueana
+  headword: ueana
+  trussel: ueana
+  sources:
+  - source: bingham
+    forms:
+    - form: uéana
+      parts:
+      - label: vt.
+        text: rule over.
+  - source: sabatier
+    forms:
+    - form: ueana
+      parts:
+      - label: vt.
+        text: to have,... to take for one's king, soverign.
+- id: ueburoung
+  headword: ueburoung
+  trussel: ueburoung
+  sources:
+  - source: sabatier
+    forms:
+    - form: ueburoung
+      parts:
+      - label: na.
+        text: pandanus flower odour, fragrance of..., odoriferous, smelling like...
+- id: ueka
+  headword: ueka
+  trussel: ueka
+  sources:
+  - source: bingham
+    forms:
+    - form: uéka
+      parts:
+      - label: vt.
+        text: visit as a country.
+  - source: sabatier
+    forms:
+    - form: ueka
+      parts:
+      - label: vt.
+        text: 'to go to..., to visit a place. plural: go in crowds, invade a place, flock to.'
+      - label: syn.
+        text: '[[baroa]],... [[kina]].'
+    - form: ueka
+      homograph: 1
+      parts:
+      - label: syn.
+        text: '[[ieka]].'
+      - label: vt.
+        text: to submerge, to flood, to overrun, to invade (by water, by crowd), to rush at.
+      - label: see
+        text: '[[baroa]].'
+- id: uekana
+  headword: uekana
+  trussel: uekana
+  sources:
+  - source: sabatier
+    forms:
+    - form: uekana
+      parts:
+      - label: vt.
+        text: _idem_. in fig.
+      - label: syn.
+        text: '[[baroakina]].'
+- id: ueke
+  headword: ueke
+  trussel: ueke
+  sources:
+  - source: bingham
+    forms:
+    - form: uéke
+      parts:
+      - label: intj.
+        text: of response, like o.
+  - source: sabatier
+    forms:
+    - form: ueke
+      parts:
+      - label: a.
+        text: alert, brisk, wide awake, smart, quick, animated, excited, petulant.
+      - label: vc.
+        text: '*kauekea*: to wake up, to make alert, to smarten, to excite, to make lively, animated.'
+- id: uekera
+  headword: uekera
+  trussel: uekera
+  sources:
+  - source: sabatier
+    forms:
+    - form: uekera
+      parts:
+      - label: n.
+        text: myth. tree planted at Buariki (Tarawa) by *Nei Tekanuea* from *Nabanaba*. She married *Na
+          Areau te Kikiteia*. *Nei Terere* was their daughter.
+- id: uekeueke
+  headword: uekeueke
+  trussel: uekeueke
+  sources:
+  - source: bingham
+    forms:
+    - form: uékeuéke
+      parts:
+      - label: n.
+        text: shrub.
+  - source: sabatier
+    forms:
+    - form: uekeueke
+      parts:
+      - label: n.
+        text: a bush.
+      - label: sn.
+        text: _Amaranthus Gracilis_.
+- id: uena
+  headword: uena
+  trussel: uena
+  sources:
+  - source: sabatier
+    forms:
+    - form: uena
+      parts:
+      - label: from.
+        text: '[[ue]].'
+      - label: vt.
+        text: to decorate with flowers, to put flowers on...
+- id: uenari
+  headword: uenari
+  trussel: uenari
+  sources:
+  - source: bingham
+    forms:
+    - form: uénari
+      parts:
+      - label: n.
+        text: coconut blossom.
+- id: uere
+  headword: uere
+  trussel: uere
+  sources:
+  - source: bingham
+    forms:
+    - form: uére
+      parts:
+      - label: va.
+        text: shuddering, nervous through fear.
+      - label: n.
+        text: shuddering, nervousness through fear.
+  - source: sabatier
+    forms:
+    - form: uere
+      parts:
+      - label: n.
+        text: (hair standing up) emotion, shudder, shuddering with emotion,... fear, very touched, moved.
+      - label: vc.
+        text: '*kauerea, kauere*: to give..., to cause shudders, hair raising, gives the creeps.'
+      - label: sup.
+        text: '[[mauere]], *kamauere*, *kamauerea*.'
+    - form: uere
+      homograph: 1
+      parts:
+      - label: a.
+        text: '*tina-uere, kina-uere, bakina-uere*.'
+      - label: sup.
+        text: old, blighted, shrunken, shrivelled up (persons, plants).
+- id: uianau
+  headword: uianau
+  trussel: uianau
+  sources:
+  - source: sabatier
+    forms:
+    - form: uianau
+      parts:
+      - label: sn.
+        text: _Epibulus insidator_.
+      - label: n.
+        text: a fish.
+      - label: or.
+        text: '[[wianau]]?'
+  - source: goo-banner
+    forms:
+    - form: uianau
+      parts:
+      - label: sn.
+        text: _Epibulus insidiator (y)_.
+- id: uira
+  headword: uira
+  trussel: uira
+  sources:
+  - source: bingham
+    forms:
+    - form: uíra
+      parts:
+      - label: n.
+        text: wheel (ENG).
+- id: uiribaro
+  headword: uiribaro
+  trussel: uiribaro
+  sources:
+  - source: bingham
+    forms:
+    - form: uíribaro
+      parts:
+      - label: n.
+        text: wheel-barrow (ENG).
+- id: uita
+  headword: uita
+  trussel: uita
+  sources:
+  - source: bingham
+    forms:
+    - form: uíta
+      parts:
+      - label: n.
+        text: wheat (ENG).
+- id: uka
+  headword: uka
+  trussel: uka
+  sources:
+  - source: bingham
+    forms:
+    - form: uúka
+      parts:
+      - label: vt.
+        text: blow.
+    - form: úka
+      parts:
+      - label: vt.
+        text: open up or uncover as a native oven after bakeing.
+  - source: sabatier
+    forms:
+    - form: uka
+      parts:
+      - label: n.
+        text: name of the first man (myth.).
+    - form: uka
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to take off lid, to open, to uncover.
+    - form: uka
+      homograph: 2
+      parts:
+      - label: from.
+        text: '[[uki]].'
+      - label: vt.
+        text: to blow on, to blow out, to blow away, to cool by blowing on.
+      - label: vc.
+        text: '*kauka*: to drink neat, to eat or swallow unadulterated.'
+- id: uke
+  headword: uke
+  trussel: uke
+  sources:
+  - source: bingham
+    forms:
+    - form: úke
+      parts:
+      - label: va.
+        text: consumed as bait, consuming.
+      - label: vi.
+        text: spread as a sore or fire.
+      - label: vi.
+        text: seek.
+  - source: sabatier
+    forms:
+    - form: uke
+      parts:
+      - label: a.
+        text: exhausted, fleeced, stripped bare, nothing left.
+      - label: vc.
+        text: '*kaukea*: to leave no remains, not a skerrick, to lay bare, to finish completely, to exhaust
+          totally.'
+      - label: syn.
+        text: '[[kababanea]].'
+    - form: uke
+      homograph: 1
+      parts:
+      - label: n.
+        text: 'search, research, quest; *ukeuke*:'
+      - label: v.
+        text: to look for, to seek after.
+      - label: ex.
+        text: |-
+          *uke-aba, ukeukeaba*: to look everywhere.
+          *uke amarake*: to look for food, sustenance.
+          *uke anti, ukeuke n anti*: to look for like gust of wind.
+      - label: n.
+        text: '*te ukeuke n anti*: whirlwind, gusty blasts of wind.'
+      - label: v.
+        text: |-
+          *ukebaba*: to look for, to rummage, to ransack.
+          *ukebaun*: to collect rations.
+          *uke-biri*: to seek while running, hastily.
+          *ukerara*: to look in the wrong place, to rummage in...
+          *uke-tati*: to seek in vain,... where there in nothing at all.
+          *uke-un*: seek a quarrel.
+      - label: n.
+        text: '*kaukeuke*: the effort of searching.'
+      - label: vc.
+        text: '*kaukeukea*: to make look for...'
+      - label: ex.
+        text: '*kauke aba, kaukebiri*, etc.'
+- id: uke-bau
+  headword: uke bau
+  trussel: ukebau
+  sources:
+  - source: sabatier
+    forms:
+    - form: uke bau
+      parts:
+      - label: v.
+        text: to work at a task, alone or in teams after share of work has been alloted.
+      - label: see
+        text: '[[riakitoauea|riaki toauea]]: personal task.'
+- id: ukebiri
+  headword: ukebiri
+  trussel: ukebiri
+  sources:
+  - source: bingham
+    forms:
+    - form: úkebiri
+      parts:
+      - label: vi.
+        text: be in a quandry, esp in reference to one's ability to supply guests with food.
+      - label: n.
+        text: state of doubt or perplexity as to the supply of food.
+- id: ukenako
+  headword: ukenako
+  trussel: ukenako
+  sources:
+  - source: sabatier
+    forms:
+    - form: uke-nako
+      parts:
+      - label: v.
+        text: to spread like wild fire (fire, disease).
+- id: ukera
+  headword: ukera
+  trussel: ukera
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukera
+      parts:
+      - label: vt.
+        text: '*ukeukera, ukora*: to seek, to search for.'
+- id: ukerara
+  headword: ukerara
+  trussel: ukerara
+  sources:
+  - source: bingham
+    forms:
+    - form: ukerára
+      parts:
+      - label: a.
+        text: go about seeking for.
+      - label: n.
+        text: thorough search.
+- id: ukeroa
+  headword: ukeroa
+  trussel: ukeroa
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukeroa
+      parts:
+      - label: vt.
+        text: to search, to rummage in the dark, in obscurity, uncertainty.
+- id: uketati
+  headword: uketati
+  trussel: uketati
+  sources:
+  - source: bingham
+    forms:
+    - form: ukétæti
+      parts:
+      - label: va.
+        text: all consumed,.
+      - label: va.
+        text: all sick.
+- id: ukeuke
+  headword: ukeuke
+  trussel: ukeuke
+  sources:
+  - source: bingham
+    forms:
+    - form: ukéuke
+      parts:
+      - label: vi.
+        text: seeking.
+      - label: n.
+        text: search, inquiry, seeking.
+- id: ukeuke-n-anti
+  headword: ukeuke n anti
+  trussel: ukeukenanti
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukeuke n anti
+      parts:
+      - label: n.
+        text: a gust of wind, whirlwind, cyclone.
+- id: ukeukeaba
+  headword: ukeukeaba
+  trussel: ukeukeaba
+  sources:
+  - source: bingham
+    forms:
+    - form: ukéukeaába
+      parts:
+      - label: vi.
+        text: go about seeking.
+      - label: n.
+        text: thorough search.
+- id: ukeukenanti
+  headword: ukeukenanti
+  trussel: ukeukenanti
+  sources:
+  - source: bingham
+    forms:
+    - form: ukéukenæn/ti
+      parts:
+      - label: vi.
+        text: run hither, thither in a bewildered search.
+      - label: n.
+        text: whirlwindd.
+- id: ukeun
+  headword: ukeun
+  trussel: ukeun
+  sources:
+  - source: bingham
+    forms:
+    - form: úkeun/
+      parts:
+      - label: vi.
+        text: seek a quarrel.
+      - label: n.
+        text: quarrelsomeness.
+- id: uki
+  headword: uki
+  trussel: uki
+  sources:
+  - source: bingham
+    forms:
+    - form: úki
+      parts:
+      - label: n.
+        text: |-
+          finger or toe nail.
+          claw.
+      - label: va.
+        text: opened.
+      - label: vi.
+        text: begin to blow after a calm.
+  - source: sabatier
+    forms:
+    - form: uki
+      parts:
+      - label: v.
+        text: '*ukirake, ukirio, ukinako*.'
+      - label: ex.
+        text: |-
+          *e uki te ang*: the wind is blowing.
+          *kauki ang*: to take in air, to get an airing.
+      - label: see
+        text: '[[uka]] v.t.'
+    - form: uki
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*ukiuki*: an opening, sluice, open space.'
+      - label: v.
+        text: to gape, to be ajar, to be open.
+      - label: a.
+        text: gaping, partly open.
+      - label: fig.
+        text: permitted, allowed, free, revealed, disclosed.
+      - label: vc.
+        text: '*kauka, kakauka, kaukauka*: to open, to uncover, to disclo to inaugurate, to permit.'
+    - form: uki
+      homograph: 2
+      parts:
+      - label: n.
+        text: '*uki ni bai, uki ni wae*: finger nails, toe..., claws.'
+- id: uki-ni-wae
+  headword: uki ni wae
+  trussel: ukiniwae
+  sources:
+  - source: sabatier
+    forms:
+    - form: uki ni wae
+      parts:
+      - label: n.
+        text: toe naill.
+- id: ukia
+  headword: ukia
+  trussel: ukia
+  sources:
+  - source: bingham
+    forms:
+    - form: úkiaa
+      parts:
+      - label: n.
+        text: inner end of a single pandanus fruit or nut.
+  - source: sabatier
+    forms:
+    - form: ukia
+      parts:
+      - label: n.
+        text: '*ukian te iri n tou*: the nonedible end of drupe or segment of pandanus fruit.'
+      - label: vt.
+        text: '*ukiaea*: take away, to reject this when eating.'
+- id: ukiaea
+  headword: ukiaea
+  trussel: ukiaea
+  sources:
+  - source: bingham
+    forms:
+    - form: ukiáea
+      parts:
+      - label: vt.
+        text: bite off the *ukia* before chewing the pandanus fruit.
+- id: ukiai
+  headword: ukiai
+  trussel: ukiai
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukiai
+      parts:
+      - label: vt.
+        text: '*ukiaia, ukiaiaki*: to blow the fire, to fan the flame.'
+- id: ukiang
+  headword: ukiang
+  trussel: ukiang
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukiang
+      parts:
+      - label: n.
+        text: dust of decayed coconut trunk.
+    - form: ukiang
+      homograph: 1
+      parts:
+      - label: n.
+        text: the thin slice cut from spathe end to let juice flow.
+- id: ukin
+  headword: ukin
+  trussel: ukin
+  sources:
+  - source: bingham
+    forms:
+    - form: úkin
+      parts:
+      - label: n.
+        text: tree.
+    - form: uúkin
+      parts:
+      - label: va.
+        text: abounding in [[ukin]] trees.
+  - source: sabatier
+    forms:
+    - form: ukin
+      parts:
+      - label: n.
+        text: a tree (useful for timber).
+- id: ukina
+  headword: ukina
+  trussel: ukina
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukina
+      parts:
+      - label: n.
+        text: plant (_Terminalia samoensis_).
+  - source: goo-banner
+    forms:
+    - form: ukina
+      parts:
+      - label: sn.
+        text: _Terminalia samoensis Rech. (z)_.
+- id: ukinaba
+  headword: ukinaba
+  trussel: ukinaba
+  sources:
+  - source: bingham
+    forms:
+    - form: úkinaba
+      parts:
+      - label: n.
+        text: thumb.
+  - source: sabatier
+    forms:
+    - form: ukinaba
+      parts:
+      - label: n.
+        text: the thumb.
+      - label: syn.
+        text: '[[waebua]].'
+- id: ukinana
+  headword: ukinana
+  trussel: ukinana
+  sources:
+  - source: bingham
+    forms:
+    - form: úkinæna
+      parts:
+      - label: vi.
+        text: eating out the kernel of a coconut with the teeth, gnaw.
+      - label: n.
+        text: eating out or gnawing the kernel from a coconut shell.
+      - label: n.
+        text: mode of fishing.
+    - form: úkinæ/naa
+      parts:
+      - label: vt.
+        text: eat out the kernel from a coconut with the front teeth.
+  - source: sabatier
+    forms:
+    - form: ukinana
+      parts:
+      - label: nv.
+        text: (1) to gnaw or nibble at coconut kernel in shell.
+      - label: n.
+        text: (2) a manner of fishing, by spreading chewed coconut on surface of water.
+      - label: syn.
+        text: '[[kaanoai|ka-anoai]] in order to see clearly.'
+- id: ukinangananga
+  headword: ukinangananga
+  trussel: ukinangananga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uki-nangananga
+      parts:
+      - label: v.
+        text: to look in every hole and corner (in vain).
+      - label: n.
+        text: '*te tia kaukinangananga*: unrivalled athlete.'
+- id: ukinibai
+  headword: ukinibai
+  trussel: ukinibai
+  sources:
+  - source: bingham
+    forms:
+    - form: úkinibai
+      parts:
+      - label: n.
+        text: thimble.
+  - source: sabatier
+    forms:
+    - form: uki-ni-bai
+      parts:
+      - label: n.
+        text: (1) fingernail.
+      - label: n.
+        text: (2) a measure, width of fingernail.
+- id: ukinta
+  headword: ukinta
+  trussel: ukinta
+  sources:
+  - source: bingham
+    forms:
+    - form: úkintaa
+      parts:
+      - label: va.
+        text: ashamed or flustered by drawing false conclusions or by being detected in false representations.
+      - label: n.
+        text: sense of shame connected with the effects of misrepresentation.
+  - source: sabatier
+    forms:
+    - form: ukinta
+      parts:
+      - label: n.
+        text: '*ukintata*: confusion, shame for obvious fault.'
+      - label: a.
+        text: confused, ashamed for an awkwardness, blunder, obvious or quickly known fault, caught in
+          the act.
+      - label: vc.
+        text: '*kaukintaea*: to make ashamed for accidental misdeed, for shameful fault, untruths, etc.'
+- id: ukire
+  headword: ukire
+  trussel: ukire
+  sources:
+  - source: bingham
+    forms:
+    - form: úkire
+      parts:
+      - label: n.
+        text: little finger, little toe.
+      - label: vi.
+        text: incantation in the use of the little finger.
+  - source: sabatier
+    forms:
+    - form: ukire
+      parts:
+      - label: n.
+        text: the little finger, little toe.
+      - label: v.
+        text: '*ukire, ukirerea*: (malicious threat) to menace with little finger.'
+- id: ukirea
+  headword: ukirea
+  trussel: ukirea
+  sources:
+  - source: bingham
+    forms:
+    - form: ukiréa
+      parts:
+      - label: vt.
+        text: assault a person with a little finger incantation.
+- id: ukirenibai
+  headword: ukirenibai
+  trussel: ukirenibai
+  sources:
+  - source: bingham
+    forms:
+    - form: ukirénibai
+      parts:
+      - label: n.
+        text: little finger.
+- id: ukireniwae
+  headword: ukireniwae
+  trussel: ukireniwae
+  sources:
+  - source: bingham
+    forms:
+    - form: ukiréniwae
+      parts:
+      - label: n.
+        text: little toe.
+- id: ukobau
+  headword: ukobau
+  trussel: ukobau
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukobau
+      parts:
+      - label: n.
+        text: (Hawaiian word) division of work, share.
+- id: ukora
+  headword: ukora
+  trussel: ukora
+  sources:
+  - source: bingham
+    forms:
+    - form: ukóra
+      parts:
+      - label: vt.
+        text: look for.
+  - source: sabatier
+    forms:
+    - form: ukora
+      parts:
+      - label: vt.
+        text: '*ukoukora*: to search, to seek, to make research.'
+      - label: syn.
+        text: '[[ukera]].'
+- id: ukouko
+  headword: ukouko
+  trussel: ukouko
+  sources:
+  - source: sabatier
+    forms:
+    - form: ukouko
+      parts:
+      - label: n.
+        text: research, investigation.
+      - label: v.
+        text: to make...
+- id: ukoukora
+  headword: ukoukora
+  trussel: ukoukora
+  sources:
+  - source: bingham
+    forms:
+    - form: ukóukóra
+      parts:
+      - label: vt.
+        text: frequentative of [[ukora]].
+- id: uma
+  headword: uma
+  trussel: uma
+  sources:
+  - source: bingham
+    forms:
+    - form: uúm'a
+      parts:
+      - label: n.
+        text: lagoon side of an island.
+    - form: úm'a
+      parts:
+      - label: n.
+        text: house, cook-house, small house.
+      - label: va.
+        text: |-
+          collected or assembled.
+          started, moved as a rock.
+          lifted a little in the middle as a mat spread out.
+  - source: sabatier
+    forms:
+    - form: uma
+      parts:
+      - label: n.
+        text: any kind of dwelling, anything with roof, house, dwelling, hut, shelter, cabin, roof, tent,
+          umbrella.
+      - label: ex.
+        text: '*uma ni mane*: average-sized house.'
+      - label: a.
+        text: '*uma, umauma*: vaulted, convex, dome shaped, arched.'
+    - form: uma
+      homograph: 1
+      parts:
+      - label: adv.
+        text: '*n uma, i uma*: in an inhabited place, at place dwelt in, in the village, at home.'
+      - label: ex.
+        text: '*te aine n uma*: housewife (married woman).'
+      - label: a.
+        text: '*uma n, uma ni kewe, uma n taninga*: to have the habit, vice of lying, laziness.'
+      - label: syn.
+        text: '*baran*, *niba n*, etc.'
+      - label: vc.
+        text: '*kauma, kaumauma*: to make roof shaped, to lift up one side with crow-bar, to make dome
+          shaped,... arched, tunnelled.'
+      - label: see
+        text: 'v. [[umana]]: to dwell in, under, to have as..., to take as one''s dwelling, shelter.'
+    - form: uma
+      parts:
+      - label: n.
+        text: a system of navigation for travelling at night.
+- id: uma-n-aia
+  headword: uma n aia
+  trussel: umanaia
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n aia
+      parts:
+      - label: n.
+        text: a hut for combustibles, firewood.
+- id: uma-n-amarake
+  headword: uma n amarake
+  trussel: umanamarake
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n amarake
+      parts:
+      - label: n.
+        text: dining room, mess room.
+- id: uma-n-anti
+  headword: uma n anti
+  trussel: umananti
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n anti
+      parts:
+      - label: n.
+        text: house of the gods. name of first _maneaba_,.
+      - label: also.
+        text: called *Te Nikurobaba*.
+- id: uma-n-reirei
+  headword: uma n reirei
+  trussel: umanreirei
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n reirei
+      parts:
+      - label: n.
+        text: school house, school building.
+- id: uma-n-rianna
+  headword: uma n rianna
+  trussel: umanrianna
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n rianna
+      parts:
+      - label: n.
+        text: tent.
+- id: uma-n-roronga
+  headword: uma n roronga
+  trussel: umanroronga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n roronga
+      parts:
+      - label: n.
+        text: bachelors' quarters, hut for boys only.
+- id: uma-n-taninga
+  headword: uma n taninga
+  trussel: umantaninga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma n taninga
+      parts:
+      - label: n.
+        text: indolence, laziness.
+      - label: a.
+        text: indolent, lazy.
+      - label: syn.
+        text: '[[banga-n-taninga]], *bara n*...'
+- id: uma-ni-borau
+  headword: uma ni borau
+  trussel: umaniborau
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma ni borau
+      parts:
+      - label: n.
+        text: _idem_. for finding stars using same terms as names of pieces used in building house.
+- id: uma-ni-bung
+  headword: uma ni bung
+  trussel: umanibung
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma ni bung
+      parts:
+      - label: n.
+        text: labour ward, hut for...
+- id: uma-ni-kaikain
+  headword: uma ni kaikain
+  trussel: umanikaikain
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma ni kaikain
+      parts:
+      - label: n.
+        text: jail, prison, gaol.
+- id: uma-ni-kuka
+  headword: uma ni kuka
+  trussel: umanikuka
+  sources:
+  - source: sabatier
+    forms:
+    - form: uma ni kuka
+      parts:
+      - label: n.
+        text: kitchen.
+- id: umaiakina
+  headword: umaiakina
+  trussel: umaiakina
+  sources:
+  - source: sabatier
+    forms:
+    - form: umaiakina
+      parts:
+      - label: from.
+        text: '[[umaki]].'
+      - label: vt.
+        text: to accomplish hastily with ardour, spirit, briskly until finished.
+      - label: syn.
+        text: '[[teboakina]].'
+- id: umaki
+  headword: umaki
+  trussel: umaki
+  sources:
+  - source: bingham
+    forms:
+    - form: úmaki
+      parts:
+      - label: vi.
+        text: (imperative) come here.
+  - source: sabatier
+    forms:
+    - form: umaki
+      parts:
+      - label: n.
+        text: haste, hurry, promptitude, diligence.
+      - label: v.
+        text: to hurry, hasten, go quickly, to be prompt, diligent, expeditious, quick.
+      - label: vc.
+        text: '*kaumaka*: to make hurry, hasten.'
+- id: umakina
+  headword: umakina
+  trussel: umakina
+  sources:
+  - source: sabatier
+    forms:
+    - form: umakina
+      parts:
+      - label: vt.
+        text: to hasten, to hurry up a task, to accomplish in...
+- id: umana
+  headword: umana
+  trussel: umana
+  sources:
+  - source: sabatier
+    forms:
+    - form: umana
+      parts:
+      - label: vt.
+        text: to have, take, or use as dwelling, shelter, to use a tent, awning, umbrella for shelter,
+          to shelter under...
+- id: umatoa
+  headword: umatoa
+  trussel: umatoa
+  sources:
+  - source: bingham
+    forms:
+    - form: úmatoa
+      parts:
+      - label: a.
+        text: strongly buildt as a house or canoe.
+  - source: sabatier
+    forms:
+    - form: umatoa
+      parts:
+      - label: n.
+        text: a large, strong shelter (house, canoe).
+      - label: vc.
+        text: '*kaumatoa*: to build big...'
+- id: umatoro
+  headword: umatoro
+  trussel: umatoro
+  sources:
+  - source: bingham
+    forms:
+    - form: úm'atoro
+      parts:
+      - label: n.
+        text: house without a loft.
+  - source: sabatier
+    forms:
+    - form: umatoro
+      parts:
+      - label: n.
+        text: (ancient style of dwelling) a low hut.
+- id: umauma
+  headword: umauma
+  trussel: umauma
+  sources:
+  - source: bingham
+    forms:
+    - form: um'áum'a
+      parts:
+      - label: a.
+        text: arched over, branched over, lifted up as the center of a sleeping mat.
+  - source: sabatier
+    forms:
+    - form: umauma
+      parts:
+      - label: a.
+        text: dome shaped.
+- id: umum
+  headword: umum
+  trussel: umum
+  sources:
+  - source: bingham
+    forms:
+    - form: umum/
+      parts:
+      - label: vi.
+        text: bakee>ing in an earth-oven.
+      - label: n.
+        text: fish set aside to be baked.
+  - source: sabatier
+    forms:
+    - form: umum
+      parts:
+      - label: nv.
+        text: to cook in ground oven.
+      - label: vt.
+        text: '*kaumuma*: to cook in...'
+- id: umumuna
+  headword: umumuna
+  trussel: umumuna
+  sources:
+  - source: bingham
+    forms:
+    - form: umúmuna
+      parts:
+      - label: vt.
+        text: frequentative of [[umuna]].
+- id: umuna
+  headword: umuna
+  trussel: umuna
+  sources:
+  - source: bingham
+    forms:
+    - form: úmuna
+      parts:
+      - label: vt.
+        text: bake in an earth-oven.
+  - source: sabatier
+    forms:
+    - form: umuna
+      parts:
+      - label: red.
+        text: '*umumuna*.'
+      - label: vt.
+        text: to put to cook in ground oven on hot stones.
+- id: un
+  headword: un
+  trussel: un
+  sources:
+  - source: bingham
+    forms:
+    - form: un
+      parts:
+      - label: vi.
+        text: be angry, fight.
+      - label: n.
+        text: principal or central root.
+      - label: n.
+        text: crowbar.
+  - source: sabatier
+    forms:
+    - form: un
+      parts:
+      - label: pref.
+        text: meaning struggle, force, violence, ardour (root foundation).
+    - form: un
+      homograph: 1
+      parts:
+      - label: n.
+        text: anger, harshness, severity, fight, brawl, dispute, conflict, opposition.
+      - label: fig.
+        text: excitation, ardour, temper, passion, fury, bravery, courage, the principal, the essential,
+          the main point, centre, full force.
+      - label: ex.
+        text: |-
+          *unin te ruoia*: the dance at its hardest.
+          *unin te taeka*: the main point of the argument, speech, etc.
+      - label: v.
+        text: '*unun*: to get angry, to fly into temper, to be cross,... excited, to be carried off by
+          rage, to struggle, to fight, to be angry, to be cross,... violent,... brutal,... harsh,... exasperated,
+          severe, furious, wild, brave, daring.'
+      - label: a.
+        text: '*kai un, kakai un*: irascible, choleric.'
+      - label: ex.
+        text: '*banga n un, banga un*: passion of anger, always...'
+      - label: vc.
+        text: '*kauna, kakauna, kaununa*: to make..., to excite to..., to irritate, to vex, to exasperate,
+          to make fight, to make bold,... daring, to oppose end to end.'
+      - label: ex.
+        text: '*I kaununai*: I often get furious *kauna am kai ma*...: put your stick in opposition to...'
+      - label: n.
+        text: '*te kaunun*: irritation, vexation, excitation.'
+      - label: idiom.
+        text: '*e un te ika*: the fish bites at the bait.'
+    - form: un
+      homograph: 3
+      parts:
+      - label: n.
+        text: '*Na Un*: the name of a star.'
+- id: una
+  headword: una
+  trussel: una
+  sources:
+  - source: bingham
+    forms:
+    - form: únaa
+      parts:
+      - label: vt.
+        text: hit a target repeatedly.
+    - form: uúna
+      parts:
+      - label: vt.
+        text: bore a hole in.
+  - source: sabatier
+    forms:
+    - form: una
+      parts:
+      - label: vt.
+        text: to pierce, to perforate.
+      - label: idiom.
+        text: '*e aki bono unana*: born prematurely, aborted.'
+    - form: una
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[u]].'
+      - label: vt.
+        text: to throng towards, to direct one's steps towards, to concentrate around, to be massed around.
+      - label: syn.
+        text: '[[kiara]], [[baroakina]], *babaneakina*.'
+    - form: una
+      homograph: 2
+      parts:
+      - label: from.
+        text: '[[un]].'
+      - label: vt.
+        text: to force, to charge against, to force sail towards.
+- id: una-matan-ang
+  headword: una matan ang
+  trussel: unamatanang
+  sources:
+  - source: sabatier
+    forms:
+    - form: una matan ang
+      parts:
+      - label: idiom.
+        text: to attack, to harness oneself to a useless task which has no ending.
+- id: una-matang
+  headword: una matang
+  trussel: unamatang
+  sources:
+  - source: sabatier
+    forms:
+    - form: una Matang
+      parts:
+      - label: idiom.
+        text: to go in direction of Matang, i.e., never to arrive at land, no end of navigating, to dawdle,
+          to loiter.
+- id: una-rake
+  headword: una rake
+  trussel: unarake
+  sources:
+  - source: sabatier
+    forms:
+    - form: una rake
+      parts:
+      - label: nv.
+        text: to steer straight for the land.
+      - label: see
+        text: '[[ararake]].'
+      - label: vc.
+        text: '*kaunarakea*: to direct towards, to steer towards...'
+- id: unabia
+  headword: unabia
+  trussel: unabia
+  sources:
+  - source: sabatier
+    forms:
+    - form: unabia
+      parts:
+      - label: n.
+        text: fertile female flying fish.
+      - label: sn.
+        text: _Exocoelides_ sp.
+  - source: goo-banner
+    forms:
+    - form: unabia
+      parts:
+      - label: sn.
+        text: _family Exocoelidae_.
+      - label: n.
+        text: ripe female flying fish (ll).
+- id: unabong
+  headword: unabong
+  trussel: unabong
+  sources:
+  - source: sabatier
+    forms:
+    - form: unabong
+      parts:
+      - label: idiom.
+        text: '*e unabong namakaina*: last days of moon''s cycle, 26th and 27th days of moon.'
+- id: unaenae
+  headword: unaenae
+  trussel: unaenae
+  sources:
+  - source: bingham
+    forms:
+    - form: unáenae
+      parts:
+      - label: n.
+        text: general term for fish smaller than *urakaraka*.
+      - label: vi.
+        text: takee>ing or removeing all.
+  - source: sabatier
+    forms:
+    - form: unaenae
+      parts:
+      - label: from.
+        text: '[[aeae]].'
+      - label: vt.
+        text: '*unaenaea* to strip,... fleece,... ransack, to make clean sweep, to scrape up everything,
+          to despoil totally, to leave nothing behind (ex. fish and small fry).'
+      - label: syn.
+        text: see [[kababanea]], [[urouronga]], *kamauruorua*, *kakima*.
+- id: unaenaea
+  headword: unaenaea
+  trussel: unaenaea
+  sources:
+  - source: bingham
+    forms:
+    - form: unaenáea
+      parts:
+      - label: vt.
+        text: take or remove all.
+- id: unaine
+  headword: unaine
+  trussel: unaine
+  sources:
+  - source: bingham
+    forms:
+    - form: unáine
+      parts:
+      - label: n.
+        text: old woman.
+      - label: a.
+        text: old, as a woman.
+  - source: sabatier
+    forms:
+    - form: unaine
+      parts:
+      - label: na.
+        text: respectable aged woman, an elderly woman.
+      - label: vc.
+        text: '*kaunainea*: to treat as..., to respect as...'
+- id: unarake
+  headword: unarake
+  trussel: unarake
+  sources:
+  - source: bingham
+    forms:
+    - form: únarake
+      parts:
+      - label: vt.
+        text: sail close to the wind.
+- id: unarira
+  headword: unarira
+  trussel: unarira
+  sources:
+  - source: sabatier
+    forms:
+    - form: unarira
+      parts:
+      - label: vt.
+        text: to pull off in one jerk, to strip off... (as side leaves of of palm from midrib).
+- id: unaririki
+  headword: unaririki
+  trussel: unaririki
+  sources:
+  - source: bingham
+    forms:
+    - form: unáririki
+      parts:
+      - label: vi.
+        text: stripping off old leafves of coconut trees.
+      - label: n.
+        text: work of stripping off old leaves of coconut trees.
+  - source: sabatier
+    forms:
+    - form: unaririki
+      parts:
+      - label: vt.
+        text: '*unaririkia*: to cut off shoots, palm leaves,... hair of future warrior leaving only a
+          small tuft on crown of head (initiation ceremony), to denude of what has grown again.'
+- id: unaririkia
+  headword: unaririkia
+  trussel: unaririkia
+  sources:
+  - source: bingham
+    forms:
+    - form: unariríkia
+      parts:
+      - label: vt.
+        text: strip a coconut tree of its leaves.
+- id: unata
+  headword: unata
+  trussel: unata
+  sources:
+  - source: bingham
+    forms:
+    - form: únæta
+      parts:
+      - label: n.
+        text: homestead, fixed place of abode.
+      - label: see
+        text: '[[unnata]].'
+      - label: vi.
+        text: be long resident in a place.
+  - source: sabatier
+    forms:
+    - form: unata
+      parts:
+      - label: n.
+        text: a resident of long date, fixed, having taken root.
+      - label: v.
+        text: to dwell, reside for a long time in a place.
+      - label: ex.
+        text: '*e unata iai*: he has taken root there.'
+      - label: n.
+        text: habitation, ancestral home.
+- id: unauna
+  headword: unauna
+  trussel: unauna
+  sources:
+  - source: bingham
+    forms:
+    - form: unáunaa
+      parts:
+      - label: vt.
+        text: decorate.
+    - form: unáuna
+      parts:
+      - label: n.
+        text: decoration.
+  - source: sabatier
+    forms:
+    - form: unauna
+      parts:
+      - label: see
+        text: '[[una]].'
+      - label: vt.
+        text: to decorate, to array, to beautify, to embellish with many ornaments,... much decoration.
+- id: uneakina
+  headword: uneakina
+  trussel: uneakina
+  sources:
+  - source: bingham
+    forms:
+    - form: úneakína
+      parts:
+      - label: vt.
+        text: be stirred up or displeased about.
+  - source: sabatier
+    forms:
+    - form: uneakina
+      parts:
+      - label: from.
+        text: '[[un]].'
+      - label: vt.
+        text: to dispute about, to claim from someone, to lay claim to..., research eagerly,... contest
+          for...
+      - label: ex.
+        text: '*uneakina te rabakau*: to seek after knowledge.'
+      - label: syn.
+        text: '[[keiakina]].'
+- id: uneke
+  headword: uneke
+  trussel: uneke
+  sources:
+  - source: sabatier
+    forms:
+    - form: uneke
+      parts:
+      - label: n.
+        text: '*unekeneke*: ornamentation, decoration.'
+      - label: vt.
+        text: '*unekea, unekenekea*: to adorn, to decorate.'
+- id: unene
+  headword: unene
+  trussel: unene
+  sources:
+  - source: sabatier
+    forms:
+    - form: unene
+      parts:
+      - label: n.
+        text: firm foundation, strong base.
+      - label: a.
+        text: strongly rooted.
+      - label: fig.
+        text: '*te tangira ae te unene*: profound, unshakable love.'
+      - label: syn.
+        text: '*waka-matoa*.'
+- id: ung
+  headword: ung
+  trussel: ung
+  sources:
+  - source: bingham
+    forms:
+    - form: ung
+      parts:
+      - label: vt.
+        text: chew and eat or suck pandanus fruit or *bunia*.
+      - label: suf.
+        text: following the digits in counting pandanus fruit in the bunch.
+      - label: see
+        text: |-
+          [[a]].
+          [[aung]].
+  - source: sabatier
+    forms:
+    - form: ung
+      parts:
+      - label: n.
+        text: '*teina te ung, teungina, uang <uaung?>*: one, two whole pandanus fruit.'
+      - label: ex.
+        text: '*te irina, te iri*: detached segment, piece of fruit.'
+      - label: v.
+        text: '*ung*: to twist and chew while sucking juice from...'
+      - label: see
+        text: v.t. [[ungira]].
+      - label: ex.
+        text: '*ungi bunia, ungi kaikarewe*: suck, twist, chew pandanus, *bunia* (sweet coconut), sugar-cane.'
+- id: unga
+  headword: unga
+  trussel: unga
+  sources:
+  - source: bingham
+    forms:
+    - form: únga
+      parts:
+      - label: a.
+        text: encouraged, incited.
+    - form: uúnga
+      parts:
+      - label: n.
+        text: encouragement, stirring up.
+  - source: sabatier
+    forms:
+    - form: unga
+      parts:
+      - label: n.
+        text: animation, ardour, life, go, activity, enthusiasm.
+      - label: v.
+        text: to have..., be full of...
+      - label: ex.
+        text: |-
+          *unga riki!* make more animated *kaunga, kaka*...: to excite, to stimulate, to encourage, to liven up...
+          *te kaunga*: stimulation, etc....
+- id: ungara
+  headword: ungara
+  trussel: ungara
+  sources:
+  - source: bingham
+    forms:
+    - form: úngara
+      parts:
+      - label: vt.
+        text: take up or begin chanting in a _ruoia_.
+  - source: sabatier
+    forms:
+    - form: ungara
+      parts:
+      - label: vt.
+        text: '*ungaungara*: to accomplish, to do with animation, spirit, vigour, to excite, to encourage,
+          to lead by example.'
+      - label: ex.
+        text: '*e ungaria*: he led them,... made them enthusiastic.'
+- id: ungaungara
+  headword: ungaungara
+  trussel: ungaungara
+  sources:
+  - source: bingham
+    forms:
+    - form: ungáungara
+      parts:
+      - label: vt.
+        text: frequentative of [[ungara]].
+- id: ungi
+  headword: ungi
+  trussel: ungi
+  sources:
+  - source: sabatier
+    forms:
+    - form: ungi
+      parts:
+      - label: see
+        text: n.v. [[ungira]], *ungi-tou*, *ungi bunia*, *ungi kaikarewe*.
+- id: ungira
+  headword: ungira
+  trussel: ungira
+  sources:
+  - source: bingham
+    forms:
+    - form: úngira
+      parts:
+      - label: vt.
+        text: chew and eat or suck as pandanus fruit or *bunia*.
+  - source: sabatier
+    forms:
+    - form: ungira
+      parts:
+      - label: see
+        text: '[[ung]].'
+      - label: vt.
+        text: to chew while twisting and sucking to extract juice.
+- id: uniba
+  headword: uniba
+  trussel: uniba
+  sources:
+  - source: bingham
+    forms:
+    - form: úniba
+      parts:
+      - label: n.
+        text: mock-fight by children using coconut leaf midribs as spears.
+      - label: vi.
+        text: play at mock-fight as children using coconut leaf midribs as spears.
+- id: uniboto
+  headword: uniboto
+  trussel: uniboto
+  sources:
+  - source: bingham
+    forms:
+    - form: úniboto
+      parts:
+      - label: va.
+        text: continuing in one quarter as lightning.
+      - label: va.
+        text: concentratee>ing on one as many accuseations.
+  - source: sabatier
+    forms:
+    - form: uniboto
+      parts:
+      - label: nv.
+        text: to aim at the same point from a fixed base.
+- id: unibotoa
+  headword: unibotoa
+  trussel: unibotoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: unibotoa
+      parts:
+      - label: vt.
+        text: to diverge from a central point or converge to...
+      - label: ex.
+        text: '*e uniboto te iti*: the flashes of lightning come from the same spot.'
+      - label: ex.
+        text: '*a unibotoiko*: they are all unanimously for (or against) you.'
+- id: unika
+  headword: unika
+  trussel: unika
+  sources:
+  - source: bingham
+    forms:
+    - form: únika
+      parts:
+      - label: vt.
+        text: plant.
+      - label: n.
+        text: plantation just started.
+  - source: sabatier
+    forms:
+    - form: unika
+      parts:
+      - label: n.
+        text: a chisel (carpenter's tool).
+    - form: unika
+      homograph: 1
+      parts:
+      - label: vt.
+        text: '*ununika*: to plant, to implant, to establish, to sow, to set up.'
+      - label: ex.
+        text: |-
+          *e unika te aro iai*: he implanted religion there.
+          *e unika te kie*: she set up beginning of a mat.
+      - label: n.
+        text: |-
+          *te unika, unikau, unikam*: my,... your plantation.
+          *te ununiki*: act of planting, sowing seeds.
+- id: unika-tong
+  headword: unika tong
+  trussel: unikatong
+  sources:
+  - source: sabatier
+    forms:
+    - form: unika tong
+      parts:
+      - label: v.
+        text: to plant too closely,... very closely.
+      - label: vt.
+        text: '*unikantongoa*: _idem_.'
+- id: unikaai
+  headword: unikaai
+  trussel: unikaai
+  sources:
+  - source: sabatier
+    forms:
+    - form: unika-ai
+      parts:
+      - label: n.
+        text: a species of taro.
+- id: unikai
+  headword: unikai
+  trussel: unikai
+  sources:
+  - source: bingham
+    forms:
+    - form: uúnikaai
+      parts:
+      - label: n.
+        text: |-
+          _babai_.
+          large fish.
+      - label: a.
+        text: abounding in the fish [[unikai]].
+  - source: sabatier
+    forms:
+    - form: unikai
+      parts:
+      - label: n.
+        text: blue sharkk.
+  - source: goo-banner
+    forms:
+    - form: uúnikaai
+      parts:
+      - label: n.
+        text: blue shark (ll).
+- id: unikaikai
+  headword: unikaikai
+  trussel: unikaikai
+  sources:
+  - source: bingham
+    forms:
+    - form: unikáikai
+      parts:
+      - label: vi.
+        text: strike the head on the ground in tripping.
+      - label: ex.
+        text: '*e baka te te ae n unikaikai nako*.'
+  - source: sabatier
+    forms:
+    - form: unikaikai
+      parts:
+      - label: vt.
+        text: to bump, to knock into,... against everything.
+- id: unikarara
+  headword: unikarara
+  trussel: unikarara
+  sources:
+  - source: sabatier
+    forms:
+    - form: unikarara
+      parts:
+      - label: n.
+        text: a game, juggling <juggle> objects.
+- id: uniki
+  headword: uniki
+  trussel: uniki
+  sources:
+  - source: sabatier
+    forms:
+    - form: uniki
+      parts:
+      - label: red.
+        text: n.v. *ununiki*.
+      - label: see
+        text: '[[unika]].'
+- id: unikitaba
+  headword: unikitaba
+  trussel: unikitaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: unikitaba
+      parts:
+      - label: n.
+        text: a child's game, tapping cheeks.
+- id: unikitero
+  headword: unikitero
+  trussel: unikitero
+  sources:
+  - source: sabatier
+    forms:
+    - form: unikitero
+      parts:
+      - label: nv.
+        text: to anchor, to take up residence, to stay put, to dwell permanently, to take up abode, to
+          implant oneself.
+- id: unimai
+  headword: unimai
+  trussel: unimai
+  sources:
+  - source: bingham
+    forms:
+    - form: únimai
+      parts:
+      - label: n.
+        text: fish.
+  - source: sabatier
+    forms:
+    - form: unimai
+      parts:
+      - label: n.
+        text: white tipped sharkk.
+  - source: goo-banner
+    forms:
+    - form: unimai
+      parts:
+      - label: n.
+        text: white tipped shark (ll).
+- id: unimane
+  headword: unimane
+  trussel: unimane
+  sources:
+  - source: bingham
+    forms:
+    - form: únim'aane
+      parts:
+      - label: n.
+        text: old man, elder.
+      - label: a.
+        text: old, as a man.
+  - source: sabatier
+    forms:
+    - form: unimane
+      parts:
+      - label: n.
+        text: an elderly respectable man, an old man, personage of rank or title.
+      - label: vc.
+        text: '*ka-unimanea*: to treat as..., to respect as...'
+- id: uninga
+  headword: uninga
+  trussel: uninga
+  sources:
+  - source: bingham
+    forms:
+    - form: úninga
+      parts:
+      - label: n.
+        text: pillow.
+    - form: úningaa
+      parts:
+      - label: vt.
+        text: lay as the head on a pillow.
+  - source: sabatier
+    forms:
+    - form: uninga
+      parts:
+      - label: n.
+        text: pillow, cushion, bolster.
+      - label: ex.
+        text: '*te kun n uninga*.'
+      - label: or.
+        text: '*kunin te uninga*: pillow slip.'
+      - label: vt.
+        text: '*uninga, ununinga*: to use a..., to put head on...'
+- id: uningabo
+  headword: uningabo
+  trussel: uningabo
+  sources:
+  - source: sabatier
+    forms:
+    - form: uningabo
+      parts:
+      - label: n.
+        text: a poisonous fish, like small lizard.
+- id: uningakakua
+  headword: uningakakua
+  trussel: uningakakua
+  sources:
+  - source: sabatier
+    forms:
+    - form: uninga-kakua
+      parts:
+      - label: n.
+        text: _Echinoderm_ genus _holothuria_, sea slug.
+- id: uningana
+  headword: uningana
+  trussel: uningana
+  sources:
+  - source: sabatier
+    forms:
+    - form: uningana
+      parts:
+      - label: vt.
+        text: to use, or take for pillow.
+- id: uningauninga
+  headword: uningauninga
+  trussel: uningauninga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uningauninga
+      parts:
+      - label: n.
+        text: a genus of sea slug.
+- id: uniwaka
+  headword: uniwaka
+  trussel: uniwaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: uniwaka
+      parts:
+      - label: and
+        text: '[[unuwaka]]:'
+      - label: n.
+        text: an ancient game, kind of sham battle with green batons of midribs of palm or taro leaves.
+- id: unnata
+  headword: unnata
+  trussel: unnata
+  sources:
+  - source: bingham
+    forms:
+    - form: un/nata
+      parts:
+      - label: n.
+        text: homestead, fixed place of abode.
+- id: unnuwaka
+  headword: unnuwaka
+  trussel: unnuwaka
+  sources:
+  - source: bingham
+    forms:
+    - form: un/nuwaka
+      parts:
+      - label: n.
+        text: mock-fight with the side roots of pan or the stems of _babai_ leaves as darts or javelins.
+- id: unoba
+  headword: unoba
+  trussel: unoba
+  sources:
+  - source: sabatier
+    forms:
+    - form: unoba
+      parts:
+      - label: syn.
+        text: 'n.v. [[uniwaka]]: for children''s game...'
+      - label: nv.
+        text: '*kaunoba, kauni ba*: to contest skill in throwing pieces of stick at target.'
+- id: unobauta
+  headword: unobauta
+  trussel: unobauta
+  sources:
+  - source: sabatier
+    forms:
+    - form: unobauta
+      parts:
+      - label: from.
+        text: '[[unora]].'
+      - label: v.
+        text: to break, to sever by twisting, to unbind, to detach (esp. outrigger by waves).
+- id: unoboto
+  headword: unoboto
+  trussel: unoboto
+  sources:
+  - source: sabatier
+    forms:
+    - form: unoboto
+      parts:
+      - label: see
+        text: n.v. [[uniboto]].
+- id: unora
+  headword: unora
+  trussel: unora
+  sources:
+  - source: bingham
+    forms:
+    - form: února
+      parts:
+      - label: vt.
+        text: twist off.
+      - label: vt.
+        text: turn a key.
+  - source: sabatier
+    forms:
+    - form: unora
+      parts:
+      - label: vt.
+        text: '*unounora*: to turn, to twist, to give a twist to... (ex. door knob, fruit to detach it).'
+      - label: fig.
+        text: to turn,... change a situation or state of affairs.
+- id: unounobaraki
+  headword: unounobaraki
+  trussel: unounobaraki
+  sources:
+  - source: bingham
+    forms:
+    - form: unóunobaráki
+      parts:
+      - label: vi.
+        text: sit or stand with bowed head.
+      - label: n.
+        text: sitting or standing with a bowed head.
+      - label: n.
+        text: bird.
+  - source: sabatier
+    forms:
+    - form: unounobaraki
+      parts:
+      - label: na.
+        text: holding head down through timidity, shame.
+      - label: fig.
+        text: (sometimes) hypocrite...
+- id: unounora
+  headword: unounora
+  trussel: unounora
+  sources:
+  - source: bingham
+    forms:
+    - form: unóunora
+      parts:
+      - label: vt.
+        text: frequentative of [[unora]].
+- id: unra
+  headword: unra
+  trussel: unra
+  sources:
+  - source: bingham
+    forms:
+    - form: un/raa
+      parts:
+      - label: a.
+        text: angry.
+    - form: un/ra
+      parts:
+      - label: vt.
+        text: eat or chew pandanus fruit, *bunia* husk, or sugar cane.
+  - source: sabatier
+    forms:
+    - form: unra
+      parts:
+      - label: na.
+        text: badly joined, not corresponding, turned on wrong side, not matching.
+      - label: syn.
+        text: '[[tabara]], [[tabarara]], [[tibara]].'
+      - label: ex.
+        text: '*e unra te ika*: the fish turns away from the bait, doesn''t bite.'
+      - label: fig.
+        text: misunderstanding, discord, disagreement, vexed, cross, displeased, ill-disposed.
+      - label: vc.
+        text: '*kaunraea*: to join badly, to fix..., to give wrong end.'
+      - label: fig.
+        text: displease, vex, ill dispose.
+    - form: unra
+      homograph: 1
+      parts:
+      - label: syn.
+        text: v.t. [[ungira]].
+- id: unrake
+  headword: unrake
+  trussel: unrake
+  sources:
+  - source: bingham
+    forms:
+    - form: un/rake
+      parts:
+      - label: vi.
+        text: go contrary to, as a parent's wishes.
+  - source: sabatier
+    forms:
+    - form: unrake
+      parts:
+      - label: a.
+        text: going against, fighting against, rebelling against.
+      - label: v.
+        text: to refuse, to get one's back up, to go against the current, to be stubborn.
+      - label: vt.
+        text: '*unrakea*: to go against, to fight opposition, to persist, be stubborn against.'
+      - label: vc.
+        text: '*kaunrakea*: to make..., opposed to, to excite against, to persist in doing the opposite.'
+- id: unroko
+  headword: unroko
+  trussel: unroko
+  sources:
+  - source: sabatier
+    forms:
+    - form: unroko
+      parts:
+      - label: n.
+        text: yaws.
+      - label: syn.
+        text: '[[urokou]].'
+- id: unta
+  headword: unta
+  trussel: unta
+  sources:
+  - source: sabatier
+    forms:
+    - form: unta
+      parts:
+      - label: suf.
+        text: 'of *untaba*, *bwebwe unta*: twins of different sex.'
+- id: untaba
+  headword: untaba
+  trussel: untaba
+  sources:
+  - source: bingham
+    forms:
+    - form: un/taba
+      parts:
+      - label: vi.
+        text: collide.
+  - source: sabatier
+    forms:
+    - form: untaba
+      parts:
+      - label: n.
+        text: hurt, collision, conflict.
+      - label: v.
+        text: to enter into..., to hurt against, to collide with, to oppose, to contradict.
+      - label: vc.
+        text: |-
+          *kauntabaea*: to make..., to provoke.
+          *kauntaba*: _idem_. to cause..., to oppose one to another.
+- id: unuaka
+  headword: unuaka
+  trussel: unuaka
+  sources:
+  - source: bingham
+    forms:
+    - form: únuáka
+      parts:
+      - label: va.
+        text: provoked, offended, put out.
+  - source: sabatier
+    forms:
+    - form: unuaka
+      parts:
+      - label: syn.
+        text: '[[unuara]].'
+      - label: n.
+        text: offence, outrage, anger.
+      - label: v.
+        text: to get cross for,... against.
+- id: unuana
+  headword: unuana
+  trussel: unuana
+  sources:
+  - source: bingham
+    forms:
+    - form: únuana
+      parts:
+      - label: vt.
+        text: urge on or hasten work or sport.
+  - source: sabatier
+    forms:
+    - form: unuana
+      parts:
+      - label: from.
+        text: '[[un]].'
+      - label: v.
+        text: to set going, to lead, to direct, to conduct a gang, team, band, an enterprise, to be at
+          the head,... be the director, chief, leader.
+      - label: ex.
+        text: '*unuana te koraki, te makuri*: to direct a gang, an undertaking.'
+      - label: syn.
+        text: '[[urubana]], *mataniwina*, [[atuna]].'
+- id: unuara
+  headword: unuara
+  trussel: unuara
+  sources:
+  - source: bingham
+    forms:
+    - form: únuáraa
+      parts:
+      - label: va.
+        text: offended, put out.
+      - label: n.
+        text: taking of offense.
+  - source: sabatier
+    forms:
+    - form: unuara
+      parts:
+      - label: v.
+        text: '*unuararea*: to be vexed,... cross, discontented, to show..., to look on with evil eye.'
+      - label: vc.
+        text: '*kaunuaraea*: to make angry, to give displeasure.'
+- id: unun
+  headword: unun
+  trussel: unun
+  sources:
+  - source: bingham
+    forms:
+    - form: únun
+      parts:
+      - label: n.
+        text: crossness, moroseness, disposition to quarrel or fight.
+      - label: n.
+        text: shark.
+      - label: n.
+        text: long spear with sharks teeth.
+      - label: a.
+        text: given to anger or ill-temper, disposed to fight.
+  - source: sabatier
+    forms:
+    - form: unun
+      parts:
+      - label: n.
+        text: '(1) *te unun*: lagoon shark.'
+      - label: n.
+        text: (2) a lance with double edge of shark's teeth.
+    - form: unun
+      homograph: 1
+      parts:
+      - label: freq.
+        text: of [[un]].
+      - label: na.
+        text: passionate, fiery, of choleric temperament, violent, irascible, pugnacious, quarrelsome,
+          disputatious.
+      - label: fig.
+        text: harsh, cross, peevish, moody, disagreeable.
+      - label: ex.
+        text: |-
+          *bakaunun, kakaunun*: blustering, swaggering, braggart.
+          *baka te un*: to pretend to be angry.
+          *kakaiun*: choleric, irascible.
+          *kaunun, kakaunun*: irritating, vexing, offensive.
+      - label: vc.
+        text: '*kaununa*: to irritate, to vex, to offend, to hurt.'
+  - source: goo-banner
+    forms:
+    - form: unun
+      parts:
+      - label: n.
+        text: white tipped lagoon shark (hh).
+  - source: luomala
+    forms:
+    - form: unun
+      parts:
+      - label: ew.
+        text: uniuni.
+      - label: sn.
+        text: _Negaprion acutidens (charcharhinidae)_.
+      - label: n.
+        text: requiem shark.
+- id: ununiki
+  headword: ununiki
+  trussel: ununiki
+  sources:
+  - source: bingham
+    forms:
+    - form: unúniki
+      parts:
+      - label: n.
+        text: planting.
+      - label: vi.
+        text: planting, to plant.
+- id: unuwaka
+  headword: unuwaka
+  trussel: unuwaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: unuwaka
+      parts:
+      - label: see
+        text: '[[uniwaka]].'
+- id: uo
+  headword: uo
+  trussel: uo
+  sources:
+  - source: bingham
+    forms:
+    - form: uó
+      parts:
+      - label: a.
+        text: two (same as *ua:)* euphonic.
+      - label: ex.
+        text: '*uo man, uo wa, uoua*.'
+  - source: sabatier
+    forms:
+    - form: uo
+      parts:
+      - label: and
+        text: '[[ua]].'
+      - label: a.
+        text: two.
+      - label: ex.
+        text: '*uoman, uoua* or *uowa*, etc.'
+    - form: uo
+      homograph: 1
+      parts:
+      - label: rad.
+        text: of *uota*.
+      - label: nv.
+        text: '*uouo*: to carry, to rock, to lull to sleep.'
+      - label: vt.
+        text: '*uoa, uouoa, tauoa*: _idem_. to carry in arms, to sing lullaby.'
+      - label: ex.
+        text: |-
+          *uo! uo!*.
+          *te kuna n uouo*: lullaby.
+- id: uoba
+  headword: uoba
+  trussel: uoba
+  sources:
+  - source: bingham
+    forms:
+    - form: uóba
+      parts:
+      - label: a.
+        text: two used in counting leaves.
+- id: uoman
+  headword: uoman
+  trussel: uoman
+  sources:
+  - source: bingham
+    forms:
+    - form: uóman
+      parts:
+      - label: a.
+        text: two used in counting persons or animals.
+  - source: sabatier
+    forms:
+    - form: uoman
+      parts:
+      - label: an.
+        text: two (living beings).
+- id: uomania
+  headword: uomania
+  trussel: uomania
+  sources:
+  - source: sabatier
+    forms:
+    - form: uomania
+      parts:
+      - label: vt.
+        text: '*uo*: to transport, to transpose (marks, designs).'
+- id: uota
+  headword: uota
+  trussel: uota
+  sources:
+  - source: bingham
+    forms:
+    - form: uóta
+      parts:
+      - label: vt.
+        text: carry.
+      - label: n.
+        text: something carried small or great.
+  - source: sabatier
+    forms:
+    - form: uota
+      parts:
+      - label: vt.
+        text: '*uouota, uotamai, uotario, uotarake, uotanako*: to carry, to bring, to carry down,... up,
+          take away.'
+      - label: idiom.
+        text: |-
+          fig. *uotaki nakon te*...: carried forward to..., adjourned, postponed.
+          *uotiko!* (barracking term) come on!
+      - label: n.
+        text: |-
+          *te uota, uotan te*...: load, burden, freight.
+          *uotakiraken Nei Maria*: Assumption of BVM.
+      - label: n.
+        text: '*te tia uota te inai*: a small star near Orion''s Belt.'
+- id: uotana
+  headword: uotana
+  trussel: uotana
+  sources:
+  - source: bingham
+    forms:
+    - form: uótana
+      parts:
+      - label: vi.
+        text: carrying.
+      - label: n.
+        text: carrying of a burden.
+- id: uotiko
+  headword: uotiko
+  trussel: uotiko
+  sources:
+  - source: bingham
+    forms:
+    - form: uotikó
+      parts:
+      - label: intj.
+        text: exclamation of applause or triumph as in canoe racing.
+- id: uoua
+  headword: uoua
+  trussel: uoua
+  sources:
+  - source: bingham
+    forms:
+    - form: uóua
+      parts:
+      - label: a.
+        text: two, in counting things in generalfour in counting by twos two twos.
+      - label: vi.
+        text: carrying a child.
+      - label: n.
+        text: carrying of a child.
+  - source: sabatier
+    forms:
+    - form: uoua
+      parts:
+      - label: a.
+        text: two (things).
+      - label: ex.
+        text: '*te kauoua*: the second.'
+      - label: vc.
+        text: '*kauoua*.'
+- id: uouan-te-kai
+  headword: uouan te kai
+  trussel: uouantekai
+  sources:
+  - source: sabatier
+    forms:
+    - form: uouan te kai
+      parts:
+      - label: n.
+        text: war dance.
+- id: uouo
+  headword: uouo
+  trussel: uouo
+  sources:
+  - source: bingham
+    forms:
+    - form: uóuo
+      parts:
+      - label: vi.
+        text: rock and sing.
+- id: uouoa
+  headword: uouoa
+  trussel: uouoa
+  sources:
+  - source: bingham
+    forms:
+    - form: uóuoa
+      parts:
+      - label: vt.
+        text: rock and sing a child to sleep in one's arms while walking or sitting.
+- id: uouota
+  headword: uouota
+  trussel: uouota
+  sources:
+  - source: bingham
+    forms:
+    - form: uóuota
+      parts:
+      - label: vt.
+        text: frequentative of [[uota]].
+- id: uouotana
+  headword: uouotana
+  trussel: uouotana
+  sources:
+  - source: bingham
+    forms:
+    - form: uóuotána
+      parts:
+      - label: vi.
+        text: frequentative of [[uotana]].
+- id: ura
+  headword: ura
+  trussel: ura
+  sources:
+  - source: bingham
+    forms:
+    - form: úra
+      parts:
+      - label: vi.
+        text: blaze.
+      - label: n.
+        text: lobster.
+      - label: n.
+        text: blaze.
+    - form: uúra
+      parts:
+      - label: vt.
+        text: throw salt water onto a *rai* to frighten the fish away.
+  - source: sabatier
+    forms:
+    - form: ura
+      parts:
+      - label: n.
+        text: '*ura take*: lobster.'
+      - label: see
+        text: '[[babanura]], [[tabanura|taba n ura]].'
+      - label: syn.
+        text: '*te newe*, *te makauro*.'
+    - form: ura
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*uran te*...: ardour, flame, passion.'
+      - label: va.
+        text: '*ura maka, ura-mara, ura-mate*: ardent, burning strongly,... feebly <feeble>,... hardly;
+          to be alight, burning, in flames, passionate, furious.'
+      - label: ex.
+        text: |-
+          *uraraki*: flaming, blazing, glowing.
+          *uramaki*: burning under ashes, covered fire.
+          *ai ura, kakaiura*: catching fire easily, inflammable, highly..., irascible.
+      - label: vc.
+        text: |-
+          *kaura, kakaura, kaura te ai*: to light, to light the fire.
+          *kaurarakea*: to make blaze,... flame up.
+      - label: n.
+        text: '*kauran te ai*: ignition, lighting of fire, kindling brought from fire, fire rites in several
+          magical ceremonies <ceremony>.'
+      - label: fig.
+        text: '*kauran Tamoa, kauran Tarawa*: the head, the leader, the strong man, first-rate hero.'
+    - form: ura
+      homograph: 2
+      parts:
+      - label: pref.
+        text: 'of compound words: [[urababa]], [[urabo]], [[uraura]]...'
+    - form: ura
+      homograph: 3
+      parts:
+      - label: vt.
+        text: to sprinkle, to throw water on by hand.
+      - label: see
+        text: '[[uria]], [[uribike|uri bike]].'
+    - form: ura
+      homograph: 4
+      parts:
+      - label: vt.
+        text: to destroy, to break, to shatter, to smash (S.).
+      - label: syn.
+        text: '[[urua]]:'
+    - form: ura
+      homograph: 5
+      parts:
+      - label: n.
+        text: a fish (or lobster?).
+  - source: goo-banner
+    forms:
+    - form: ura
+      parts:
+      - label: sn.
+        text: _Panulirua pencillatus Oliver (i)_.
+  - source: luomala
+    forms:
+    - form: ura
+      parts:
+      - label: sn.
+        text: _Panulirus penillatus_.
+      - label: n.
+        text: crustacean.
+- id: ura-n-anti
+  headword: ura n anti
+  trussel: urananti
+  sources:
+  - source: sabatier
+    forms:
+    - form: ura n anti
+      parts:
+      - label: n.
+        text: |-
+          (1) (ura-n-anti) a light appearing and disappearing.
+          (2) red colour of tainted fruit.
+- id: urababa
+  headword: urababa
+  trussel: urababa
+  sources:
+  - source: sabatier
+    forms:
+    - form: urababa
+      parts:
+      - label: a.
+        text: blazing fiercely, bright red colour spreading all over.
+      - label: vc.
+        text: '*kaurababa*: to make blaze,... glow.'
+- id: urabaka
+  headword: urabaka
+  trussel: urabaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: urabaka
+      parts:
+      - label: a.
+        text: bright red (of ripe fruit).
+- id: urabo
+  headword: urabo
+  trussel: urabo
+  sources:
+  - source: bingham
+    forms:
+    - form: úrabo
+      parts:
+      - label: a.
+        text: same as *uramai* according to some authorities but not approved by Kaure.
+  - source: sabatier
+    forms:
+    - form: urabo
+      parts:
+      - label: a.
+        text: faded red, discoloured.
+- id: urakaraka
+  headword: urakaraka
+  trussel: urakaraka
+  sources:
+  - source: bingham
+    forms:
+    - form: urákaráka
+      parts:
+      - label: n.
+        text: general term for small fish.
+      - label: vi.
+        text: fish for small fish <fishing>.
+    - form: urakárakaa
+      parts:
+      - label: vt.
+        text: obtain small fish food by fishing for small fish.
+  - source: sabatier
+    forms:
+    - form: urakaraka
+      parts:
+      - label: n.
+        text: young fish, fry.
+      - label: v.
+        text: '*urakaraka*: to fish for... _idem_.'
+      - label: vc.
+        text: '*kaurakaraka*: to make...'
+- id: urake
+  headword: urake
+  trussel: urake
+  sources:
+  - source: bingham
+    forms:
+    - form: úrake
+      parts:
+      - label: vi.
+        text: ascend.
+  - source: sabatier
+    forms:
+    - form: urake
+      parts:
+      - label: v.
+        text: to go up, to go up in the air.
+      - label: a.
+        text: '*ukakiraki*: blown up, carried <carry> up by wind.'
+      - label: vc.
+        text: |-
+          *kaurakea*: to throw up in the air, to lift up...
+          *kaurerakea*: to throw, to fling upwards (ex. ball).
+- id: uraki
+  headword: uraki
+  trussel: uraki
+  sources:
+  - source: bingham
+    forms:
+    - form: úraki
+      parts:
+      - label: n.
+        text: repeated transportation.
+      - label: vi.
+        text: carrying stones, boards, etc, to a certain place for collecting them there.
+  - source: sabatier
+    forms:
+    - form: uraki
+      parts:
+      - label: nv.
+        text: to transport, to convey, to load, to unload, to transship.
+      - label: vc.
+        text: '*kauraki*: to make transport.'
+      - label: ex.
+        text: '*te tia uraki bai*: carrier, porter.'
+- id: urakina
+  headword: urakina
+  trussel: urakina
+  sources:
+  - source: bingham
+    forms:
+    - form: úrakína
+      parts:
+      - label: vt.
+        text: transport articles to a place for collecting them there.
+  - source: sabatier
+    forms:
+    - form: urakina
+      parts:
+      - label: vt.
+        text: to carry, to transport, to convey, to transship, to unload, to load.
+- id: uramai
+  headword: uramai
+  trussel: uramai
+  sources:
+  - source: bingham
+    forms:
+    - form: úramai
+      parts:
+      - label: a.
+        text: pink.
+      - label: n.
+        text: color pink.
+    - form: úram'ai
+      parts:
+      - label: a.
+        text: parched as with thirst and heated by exercise.
+      - label: n.
+        text: |-
+          state of parching through thirst an: heat from exercise.
+          abnormal condition of one pregnant.
+  - source: sabatier
+    forms:
+    - form: uramai
+      parts:
+      - label: a.
+        text: near, imminent, impending (S.).
+    - form: uramai
+      homograph: 1
+      parts:
+      - label: a.
+        text: pale red, reddish, pink.
+    - form: uramai
+      homograph: 2
+      parts:
+      - label: na.
+        text: burned red, crimson (as sunburned skin).
+- id: uramaitari
+  headword: uramaitari
+  trussel: uramaitari
+  sources:
+  - source: bingham
+    forms:
+    - form: úramaitári
+      parts:
+      - label: a.
+        text: angry as a man just returned from fishing or sailing.
+  - source: sabatier
+    forms:
+    - form: uramaitari
+      parts:
+      - label: na.
+        text: red, burned red from exposure at sea (fishing, travelling, poisoning).
+      - label: fig.
+        text: red with anger.
+- id: uramaka
+  headword: uramaka
+  trussel: uramaka
+  sources:
+  - source: bingham
+    forms:
+    - form: úram'áka
+      parts:
+      - label: vi.
+        text: burn brightly.
+  - source: sabatier
+    forms:
+    - form: uramaka
+      parts:
+      - label: a.
+        text: blazing <blaze>, burning brightly.
+      - label: vc.
+        text: '*kauramaka*: to make..., to stir up, to fan flame.'
+- id: uramara
+  headword: uramara
+  trussel: uramara
+  sources:
+  - source: bingham
+    forms:
+    - form: úramára
+      parts:
+      - label: vi.
+        text: burn dimly.
+  - source: sabatier
+    forms:
+    - form: uramara
+      parts:
+      - label: a.
+        text: burning feebly <feeble>.
+      - label: vc.
+        text: '*kauramara*: to make..., to reduce ardour.'
+      - label: syn.
+        text: '*ura-mere*.'
+- id: uramate
+  headword: uramate
+  trussel: uramate
+  sources:
+  - source: bingham
+    forms:
+    - form: úramæ/te
+      parts:
+      - label: vi.
+        text: burn very dimly.
+  - source: sabatier
+    forms:
+    - form: uramate
+      parts:
+      - label: n.
+        text: dying <die> fire, nearly out.
+      - label: ex.
+        text: '*kauramate, kauramatea*: to be barely alight, hard to light, a very small fire.'
+- id: uranta
+  headword: uranta
+  trussel: uranta
+  sources:
+  - source: bingham
+    forms:
+    - form: uræn/ta
+      parts:
+      - label: a.
+        text: red according to some authorities, but not approved by Kaure.
+  - source: sabatier
+    forms:
+    - form: uranta
+      parts:
+      - label: na.
+        text: red of *ta* 'shell), colour of skin in certain diseases.
+- id: urantina
+  headword: urantina
+  trussel: urantina
+  sources:
+  - source: bingham
+    forms:
+    - form: uræn/tina
+      parts:
+      - label: a.
+        text: red as or like the *nta*.
+      - label: n.
+        text: red color of a neck ornament made from the *nta*.
+  - source: sabatier
+    forms:
+    - form: urantina
+      parts:
+      - label: n.
+        text: colour of old teeth <tooth>.
+- id: urarake
+  headword: urarake
+  trussel: urarake
+  sources:
+  - source: bingham
+    forms:
+    - form: úrarake
+      parts:
+      - label: vi.
+        text: blaze up.
+  - source: sabatier
+    forms:
+    - form: urarake
+      parts:
+      - label: na.
+        text: blazing, blaze flaming <flame> up.
+      - label: vc.
+        text: '*kaurarakea*: to make blaze, to excite the fury of...'
+- id: urarakea
+  headword: urarakea
+  trussel: urarakea
+  sources:
+  - source: bingham
+    forms:
+    - form: úrarakéa
+      parts:
+      - label: vt.
+        text: kindle upon.
+      - label: bib.
+        text: 'Isaiah 43: 2.'
+  - source: sabatier
+    forms:
+    - form: urarakea
+      parts:
+      - label: v.
+        text: to blaze, to creep up along..., to go up slope, roof (flames).
+- id: uraro
+  headword: uraro
+  trussel: uraro
+  sources:
+  - source: bingham
+    forms:
+    - form: úraro
+      parts:
+      - label: a.
+        text: purple.
+      - label: n.
+        text: color purple.
+  - source: sabatier
+    forms:
+    - form: uraro
+      parts:
+      - label: a.
+        text: dark red, purple, violet.
+- id: uratake
+  headword: uratake
+  trussel: uratake
+  sources:
+  - source: bingham
+    forms:
+    - form: urataáke
+      parts:
+      - label: n.
+        text: spe lobster.
+  - source: sabatier
+    forms:
+    - form: ura-take
+      parts:
+      - label: n.
+        text: a large lobster.
+- id: uratakirara
+  headword: uratakirara
+  trussel: uratakirara
+  sources:
+  - source: sabatier
+    forms:
+    - form: uratakirara
+      parts:
+      - label: sup.
+        text: 'superlative of [[ura]]: a. bright red, scarlet, rutilant, gleaming...'
+- id: uraura
+  headword: uraura
+  trussel: uraura
+  sources:
+  - source: bingham
+    forms:
+    - form: uráura
+      parts:
+      - label: a.
+        text: red.
+      - label: n.
+        text: color red.
+  - source: sabatier
+    forms:
+    - form: uraura
+      parts:
+      - label: n.
+        text: red, red colour, redness, vermilion.
+      - label: vc.
+        text: '*kauraura*: to make red, to redden, to paint, colour or dye red.'
+- id: ure
+  headword: ure
+  trussel: ure
+  sources:
+  - source: bingham
+    forms:
+    - form: úre
+      parts:
+      - label: vi.
+        text: open, as a flower, or the mouth or the eyes.
+  - source: sabatier
+    forms:
+    - form: ure
+      parts:
+      - label: nv.
+        text: '*ureure*: to open by separation, as bud bursting open, opening out, flowering, expansion,
+          to open, to expand.'
+      - label: a.
+        text: opened, expanded, in flower.
+      - label: ex.
+        text: |-
+          *a ure matana*: its eyes are opened.
+          *a ure uena*: its flowers are in bloom, opened out.
+      - label: vc.
+        text: '*kaurea, kaka*...'
+      - label: ex.
+        text: |-
+          *kaureurea*: to make,... open by putting apart (feet, eyelids).
+          *e kaurei matau*: he opened my eyes.
+          *te kaure*: the blossoming.
+- id: ureba
+  headword: ureba
+  trussel: ureba
+  sources:
+  - source: bingham
+    forms:
+    - form: úreba
+      parts:
+      - label: n.
+        text: disease of small boys.
+      - label: va.
+        text: having the disease *ureba*.
+  - source: sabatier
+    forms:
+    - form: ureba
+      parts:
+      - label: na.
+        text: a sickness of children.
+- id: urebaku
+  headword: urebaku
+  trussel: urebaku
+  sources:
+  - source: sabatier
+    forms:
+    - form: urebaku
+      parts:
+      - label: n.
+        text: the opening of spathe to extract juice.
+      - label: vc.
+        text: '*kaurebakua*: to open the...'
+      - label: n.
+        text: '*te kaurebaku*: this operation.'
+- id: ureka
+  headword: ureka
+  trussel: ureka
+  sources:
+  - source: bingham
+    forms:
+    - form: úreka
+      parts:
+      - label: vt.
+        text: open as the mouth or eye or basket.
+  - source: sabatier
+    forms:
+    - form: ureka
+      parts:
+      - label: from.
+        text: '[[ure]].'
+      - label: vt.
+        text: to open wide.
+      - label: ex.
+        text: '*e ureka wina, matana*: he opened wide his mouth, his eyes.'
+- id: uretatanga
+  headword: uretatanga
+  trussel: uretatanga
+  sources:
+  - source: sabatier
+    forms:
+    - form: uretatanga
+      parts:
+      - label: a.
+        text: open, displayed, expanded.
+- id: ureure
+  headword: ureure
+  trussel: ureure
+  sources:
+  - source: bingham
+    forms:
+    - form: uréure
+      parts:
+      - label: vi.
+        text: frequentative of [[ure]].
+- id: ureureka
+  headword: ureureka
+  trussel: ureureka
+  sources:
+  - source: bingham
+    forms:
+    - form: uréuréka
+      parts:
+      - label: vt.
+        text: frequentative of [[ureka]].
+- id: uri
+  headword: uri
+  trussel: uri
+  sources:
+  - source: bingham
+    forms:
+    - form: úri
+      parts:
+      - label: n.
+        text: tree.
+  - source: sabatier
+    forms:
+    - form: uri
+      parts:
+      - label: n.
+        text: a tree bearing odoriferous flowers very common in Gilbert Islands.
+      - label: ex.
+        text: 'species: *uri rereba, uri tangare, ure tabuki*:'
+      - label: myth.
+        text: '*te uri ni kananoanga, te uri ni kanewe*: the *uri* where souls hang lamenting for three
+          days before going on to the land of the dead with *Naka*.'
+      - label: sn.
+        text: _Guettarda speciosa, fragaea, ochriosa paviflores_.
+      - label: a.
+        text: '*uriuri*: abundance of *uri*.'
+    - form: uri
+      homograph: 1
+      parts:
+      - label: n.
+        text: a kind of religious ablution, sprinkling by taking up water in hands and pouring on head.
+      - label: v.
+        text: to do this, to..., sprinkle.
+  - source: goo-banner
+    forms:
+    - form: uri
+      parts:
+      - label: sn.
+        text: _Guettarda speciosa L. (z)_.
+- id: uri-ni-kareke
+  headword: uri ni kareke
+  trussel: urinikareke
+  sources:
+  - source: sabatier
+    forms:
+    - form: uri ni kareke
+      parts:
+      - label: n.
+        text: syn. *uri ni kanewe*.
+    - form: uri ni kareke
+      homograph: 1
+      parts:
+      - label: n.
+        text: Capella and some other stars <constellation?>.
+- id: uria
+  headword: uria
+  trussel: uria
+  sources:
+  - source: sabatier
+    forms:
+    - form: uria
+      parts:
+      - label: from.
+        text: '[[uri]].'
+      - label: vt.
+        text: to sprinkle.
+      - label: ex.
+        text: '*uria rake, uria ni karuonako*: sprinkle from top to bottom (magic rites).'
+- id: uria-ni-bati
+  headword: uria ni bati
+  trussel: urianibati
+  sources:
+  - source: sabatier
+    forms:
+    - form: uria ni bati
+      parts:
+      - label: v.
+        text: to sprinkle and hit with *batiraku* dipped in a kind of sacred water.
+- id: urianibati
+  headword: urianibati
+  trussel: urianibati
+  sources:
+  - source: bingham
+    forms:
+    - form: uriæ/nibati
+      parts:
+      - label: n.
+        text: incantation for increasing strength.
+- id: urianibatia
+  headword: urianibatia
+  trussel: urianibatia
+  sources:
+  - source: bingham
+    forms:
+    - form: uriæ/nibatia
+      parts:
+      - label: vt.
+        text: incantate a person in order to make him strong.
+- id: uriba
+  headword: uriba
+  trussel: uriba
+  sources:
+  - source: bingham
+    forms:
+    - form: uriba
+      parts:
+      - label: n.
+        text: blade of a paddle.
+  - source: sabatier
+    forms:
+    - form: uriba
+      parts:
+      - label: or.
+        text: '[[uruba]].'
+      - label: n.
+        text: '*uriban te kai*: large flat part of chest, palm, paddle, shovel, etc.'
+- id: uribike
+  headword: uribike
+  trussel: uribike
+  sources:
+  - source: sabatier
+    forms:
+    - form: uribike
+      parts:
+      - label: v.
+        text: to sprinkle the sand.
+      - label: n.
+        text: sprinkling on the beach (magic rite).
+      - label: see
+        text: '[[ura]].'
+- id: urim
+  headword: urim
+  trussel: urim
+  sources:
+  - source: bingham
+    forms:
+    - form: úrim
+      parts:
+      - label: n.
+        text: urim [heb divination object] (HEB).
+- id: uring
+  headword: uring
+  trussel: uring
+  sources:
+  - source: sabatier
+    forms:
+    - form: uring
+      parts:
+      - label: n.
+        text: '*te uring, te ururing*: souvenir, memory.'
+      - label: v.
+        text: to remember, to have memory, recollection of...
+- id: uringa
+  headword: uringa
+  trussel: uringa
+  sources:
+  - source: bingham
+    forms:
+    - form: urínga
+      parts:
+      - label: vt.
+        text: remember, call to mind.
+      - label: n.
+        text: remembrance.
+  - source: sabatier
+    forms:
+    - form: uringa
+      parts:
+      - label: vt.
+        text: '*ururinga*: to remember, to recollect, to bring to mind.'
+      - label: vc.
+        text: '*kauringa, kaka... kauringaringa*: to recall the memory of, to remind <*kauringuringa*?>.'
+- id: uringaba
+  headword: uringaba
+  trussel: uringaba
+  sources:
+  - source: bingham
+    forms:
+    - form: uringaába
+      parts:
+      - label: vi.
+        text: remember with affection or sorrow.
+      - label: n.
+        text: affectionate remembrance.
+  - source: sabatier
+    forms:
+    - form: uringaba
+      parts:
+      - label: n.
+        text: nostalgia, home sickness, for country, family, the past.
+      - label: vc.
+        text: '*kauringaba*...: gives nostalgia...'
+- id: uringabo
+  headword: uringabo
+  trussel: uringabo
+  sources:
+  - source: bingham
+    forms:
+    - form: uringaábo
+      parts:
+      - label: n.
+        text: fish.
+  - source: sabatier
+    forms:
+    - form: uringabo
+      parts:
+      - label: n.
+        text: (1) a small fish, lizard fish.
+      - label: sn.
+        text: _Synodus variegatus_.
+      - label: n.
+        text: (2) a small lizard.
+  - source: goo-banner
+    forms:
+    - form: uringabo
+      parts:
+      - label: sn.
+        text: _Bathygobius fuscus (y)_.
+      - label: n.
+        text: goby (sm).
+    - form: uringabo
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Dinematichthys iluocoeteoides (y)_.
+    - form: uringabo
+      homograph: 2
+      parts:
+      - label: n.
+        text: fish of Gobies or Blennies spp. (ll).
+    - form: uringabo
+      homograph: 3
+      parts:
+      - label: sn.
+        text: _Parapercis cephalopunctatus (y)_.
+      - label: n.
+        text: smelt (sm).
+    - form: uringabo
+      homograph: 4
+      parts:
+      - label: sn.
+        text: _Synodus variegatus (y)_.
+      - label: n.
+        text: lizard fish (sm).
+- id: urirereba
+  headword: urirereba
+  trussel: urirereba
+  sources:
+  - source: bingham
+    forms:
+    - form: uriréreba
+      parts:
+      - label: n.
+        text: '*uri tree variety*.'
+- id: uriri
+  headword: uriri
+  trussel: uriri
+  sources:
+  - source: sabatier
+    forms:
+    - form: uriri
+      parts:
+      - label: n.
+        text: haste.
+      - label: v.
+        text: to hasten, to go quickly.
+      - label: ex.
+        text: '*e uriri te bong*: the day is approaching quickly.'
+      - label: vc.
+        text: '*kauriria*: to make hasten.'
+      - label: ex.
+        text: '*te kawai ni kauriri*: a short cut, path through the forest, in the bush, parallel with
+          road, where fewer people are met to retard one''s progress.'
+- id: uritabuki
+  headword: uritabuki
+  trussel: uritabuki
+  sources:
+  - source: bingham
+    forms:
+    - form: uritábuki
+      parts:
+      - label: n.
+        text: tree.
+- id: urokau
+  headword: urokau
+  trussel: urokau
+  sources:
+  - source: sabatier
+    forms:
+    - form: urokau
+      parts:
+      - label: n.
+        text: head of coconut palm.
+- id: urokou
+  headword: urokou
+  trussel: urokou
+  sources:
+  - source: bingham
+    forms:
+    - form: úrokou
+      parts:
+      - label: n.
+        text: disease of the skin.
+      - label: a.
+        text: afflicted with *urokou*.
+  - source: sabatier
+    forms:
+    - form: urokou
+      parts:
+      - label: n.
+        text: (1) yaws.
+      - label: syn.
+        text: '*te tona*:'
+      - label: n.
+        text: (2) a mollusc without shell.
+      - label: vc.
+        text: '*kaurokoua*: to infect with yaws.'
+- id: uronau
+  headword: uronau
+  trussel: uronau
+  sources:
+  - source: goo-banner
+    forms:
+    - form: ulonau
+      parts:
+      - label: sn.
+        text: _Pandanus sp._.
+      - label: n.
+        text: screwpine (sp,z) <pandanus>.
+- id: urouronga
+  headword: urouronga
+  trussel: urouronga
+  sources:
+  - source: bingham
+    forms:
+    - form: uróurónga
+      parts:
+      - label: vt.
+        text: take all.
+  - source: sabatier
+    forms:
+    - form: urouronga
+      parts:
+      - label: vt.
+        text: to finish completely, to leave nothing over, to complete a task properly.
+- id: uru
+  headword: uru
+  trussel: uru
+  sources:
+  - source: sabatier
+    forms:
+    - form: uru
+      parts:
+      - label: n.
+        text: '*ururu, uruaba, urubai*: destruction.'
+      - label: v.
+        text: to destroy.
+- id: urua
+  headword: urua
+  trussel: urua
+  sources:
+  - source: bingham
+    forms:
+    - form: úrua
+      parts:
+      - label: vt.
+        text: destroy, break.
+      - label: n.
+        text: upper part of the waist just below the ribs.
+  - source: sabatier
+    forms:
+    - form: urua
+      parts:
+      - label: vt.
+        text: '*ururua*: to destroy, to sack, to plunder, to break, to smash.'
+      - label: fig.
+        text: violate, transgress (laws, contracts, vows).
+      - label: ex.
+        text: '*kai uruaki, kakaiuruaki*: fragile, breakable, easily broken.'
+    - form: urua
+      homograph: 1
+      parts:
+      - label: n.
+        text: a fish, king fish.
+    - form: urua
+      homograph: 2
+      parts:
+      - label: n.
+        text: name of a star.
+  - source: goo-banner
+    forms:
+    - form: urua
+      parts:
+      - label: sn.
+        text: _family Carangidae_.
+      - label: n.
+        text: very large kingfish (ll).
+  - source: luomala
+    forms:
+    - form: urua
+      parts:
+      - label: sn.
+        text: _Caranx melampyges (carangidae)_.
+      - label: n.
+        text: large jack.
+- id: uruaba
+  headword: uruaba
+  trussel: uruaba
+  sources:
+  - source: bingham
+    forms:
+    - form: uruaába
+      parts:
+      - label: vi.
+        text: devastatee>ing.
+      - label: n.
+        text: devastation.
+  - source: sabatier
+    forms:
+    - form: uruaba
+      parts:
+      - label: n.
+        text: devastation, ravage, havoc, ruin.
+      - label: v.
+        text: to devastate, to lay waste, to work havoc.
+      - label: fig.
+        text: '*e uruaba* strong, capable of anything, desperate type (persons, animals).'
+      - label: or.
+        text: '*e aintoa*:'
+- id: uruaka
+  headword: uruaka
+  trussel: uruaka
+  sources:
+  - source: bingham
+    forms:
+    - form: úruaka
+      parts:
+      - label: a.
+        text: same as *korakora,* strong according to some authorities, but not approved by Kaure.
+  - source: sabatier
+    forms:
+    - form: uruaka
+      parts:
+      - label: vt.
+        text: to destroy, to demolish, to upset, to break, to smash.
+      - label: syn.
+        text: '[[urua]] (with more restricted meaning of physical break).'
+- id: uruana
+  headword: uruana
+  trussel: uruana
+  sources:
+  - source: sabatier
+    forms:
+    - form: uruana
+      parts:
+      - label: syn.
+        text: v.t. [[urua]] in moral sense.
+      - label: ex.
+        text: '*e uruana ara botaki*: he destroyed, upset, interrupted, troubled, our meeting.'
+- id: uruaongo
+  headword: uruaongo
+  trussel: uruaongo
+  sources:
+  - source: sabatier
+    forms:
+    - form: urua-ongo
+      parts:
+      - label: n.
+        text: kingfish of largest species <fish>.
+  - source: goo-banner
+    forms:
+    - form: uruaongo
+      parts:
+      - label: sn.
+        text: _Caranx lugubris_.
+      - label: n.
+        text: large sized kingfish (ll).
+- id: uruba
+  headword: uruba
+  trussel: uruba
+  sources:
+  - source: bingham
+    forms:
+    - form: úruba
+      parts:
+      - label: n.
+        text: blade of a paddle.
+      - label: n.
+        text: butt of a gun.
+      - label: see
+        text: '[[uriba]].'
+  - source: sabatier
+    forms:
+    - form: uruba
+      parts:
+      - label: or.
+        text: '[[uriba]].'
+      - label: n.
+        text: principal part of body, instrument...
+      - label: see
+        text: '[[uriba]], *uriban te ang*: the strength of the wind, a gust of wind.'
+- id: urubai
+  headword: urubai
+  trussel: urubai
+  sources:
+  - source: bingham
+    forms:
+    - form: úrub'ai
+      parts:
+      - label: vi.
+        text: destroying.
+      - label: n.
+        text: destruction.
+  - source: sabatier
+    forms:
+    - form: urubai
+      parts:
+      - label: n.
+        text: destruction of things, destruction, sack, plunder, pillage, ruin.
+      - label: v.
+        text: to destroy, to devastate, to lay waste, to break, to smash, to upset, to dismantle.
+      - label: ex.
+        text: '*te tia urubai*: the destroyer, plunderer, pillager...'
+- id: urubana
+  headword: urubana
+  trussel: urubana
+  sources:
+  - source: sabatier
+    forms:
+    - form: urubana
+      parts:
+      - label: from.
+        text: '[[uruba]].'
+      - label: ex.
+        text: '*uribana te makuri*: to be the principal instrument, the chief, director at..., to lead,
+          direct an enterprise, to be the soul of,... to organize.'
+      - label: syn.
+        text: '[[urukauna]], [[unuana]], [[atuna]], *mataniwina*.'
+- id: urubeke
+  headword: urubeke
+  trussel: urubeke
+  sources:
+  - source: sabatier
+    forms:
+    - form: urubeke
+      parts:
+      - label: n.
+        text: '*urubeke, urebekebeke*: complete destruction, devastation <devastate>.'
+- id: urubekea
+  headword: urubekea
+  trussel: urubekea
+  sources:
+  - source: sabatier
+    forms:
+    - form: urubekea
+      parts:
+      - label: vt.
+        text: '*urubekebekea*: to destroy fully, to ruin completely.'
+- id: urubwe
+  headword: urubwe
+  trussel: urubwe
+  sources:
+  - source: sabatier
+    forms:
+    - form: urubwe
+      parts:
+      - label: from.
+        text: '[[urung]].'
+      - label: n.
+        text: sculling.
+      - label: v.
+        text: to hold, to pull on steering gear.
+- id: urukameru
+  headword: urukameru
+  trussel: urukameru
+  sources:
+  - source: sabatier
+    forms:
+    - form: urukameru
+      parts:
+      - label: n.
+        text: a species of shark.
+- id: urukau
+  headword: urukau
+  trussel: urukau
+  sources:
+  - source: bingham
+    forms:
+    - form: úrukau
+      parts:
+      - label: n.
+        text: core of a coconut tree at its upper end.
+  - source: sabatier
+    forms:
+    - form: urukau
+      parts:
+      - label: n.
+        text: head of palm or similar plants.
+      - label: fig.
+        text: head, chief, director, president, superior.
+- id: urukauna
+  headword: urukauna
+  trussel: urukauna
+  sources:
+  - source: sabatier
+    forms:
+    - form: urukauna
+      parts:
+      - label: v.
+        text: to be at the head of, to take the lead, to direct, to organize.
+      - label: see
+        text: '[[urubana]], [[unuana]].'
+- id: urung
+  headword: urung
+  trussel: urung
+  sources:
+  - source: sabatier
+    forms:
+    - form: urung
+      parts:
+      - label: n.
+        text: '*ururung*: the manoeuvre of steering, sculling.'
+      - label: v.
+        text: to turn rudder, to scull.
+- id: urunga
+  headword: urunga
+  trussel: urunga
+  sources:
+  - source: bingham
+    forms:
+    - form: úrunga
+      parts:
+      - label: vt.
+        text: work a steering oar, so as to "keep off".
+      - label: n.
+        text: shark, large shark.
+  - source: sabatier
+    forms:
+    - form: urunga
+      parts:
+      - label: n.
+        text: a species of large shark.
+    - form: urunga
+      homograph: 1
+      parts:
+      - label: vt.
+        text: '*ururunga*: to direct rudder,... oar, to steer.'
+  - source: goo-banner
+    forms:
+    - form: urunga
+      parts:
+      - label: n.
+        text: a shark (ll).
+- id: ururi
+  headword: ururi
+  trussel: ururi
+  sources:
+  - source: bingham
+    forms:
+    - form: urúri
+      parts:
+      - label: a.
+        text: abounding in [[uri]].
+- id: ururinga
+  headword: ururinga
+  trussel: ururinga
+  sources:
+  - source: bingham
+    forms:
+    - form: úrurínga
+      parts:
+      - label: vt.
+        text: frequentative of [[uringa]] remember.
+- id: ururu
+  headword: ururu
+  trussel: ururu
+  sources:
+  - source: bingham
+    forms:
+    - form: urúru
+      parts:
+      - label: vi.
+        text: destroying.
+      - label: n.
+        text: destruction, devastation.
+- id: ururua
+  headword: ururua
+  trussel: ururua
+  sources:
+  - source: bingham
+    forms:
+    - form: urúrua
+      parts:
+      - label: vt.
+        text: frequentative of [[urua]].
+- id: ururubai
+  headword: ururubai
+  trussel: ururubai
+  sources:
+  - source: bingham
+    forms:
+    - form: urúrub'ai
+      parts:
+      - label: vi.
+        text: frequentative of [[urubai|urub'ai]].
+- id: ururunga
+  headword: ururunga
+  trussel: ururunga
+  sources:
+  - source: bingham
+    forms:
+    - form: úrurúnga
+      parts:
+      - label: vt.
+        text: work a steering oar by repeated strokes.
+- id: urutaeka
+  headword: urutaeka
+  trussel: urutaeka
+  sources:
+  - source: sabatier
+    forms:
+    - form: urutaeka
+      parts:
+      - label: nv.
+        text: to break promise,... word, to break vow, oath, to give the slip to...
+- id: urutongau
+  headword: urutongau
+  trussel: urutongau
+  sources:
+  - source: sabatier
+    forms:
+    - form: urutongau
+      parts:
+      - label: n.
+        text: a species of pandanus.
+- id: uta
+  headword: uta
+  trussel: uta
+  sources:
+  - source: bingham
+    forms:
+    - form: úta
+      parts:
+      - label: n.
+        text: part, small portion, some, little.
+      - label: see
+        text: '[[teutana]].'
+  - source: sabatier
+    forms:
+    - form: uta
+      parts:
+      - label: or.
+        text: '[[euta]].'
+      - label: n.
+        text: myth. person who helped to lift the sky.
+    - form: uta
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*te utana, ua uta*, etc.: a scrap, a little, a crumb.'
+      - label: ex.
+        text: '*ti teutana*: only a tiny morsel,... a little bit.'
+- id: utai
+  headword: utai
+  trussel: utai
+  sources:
+  - source: sabatier
+    forms:
+    - form: utai
+      parts:
+      - label: from.
+        text: '[[uta]].'
+      - label: idiom.
+        text: 'akea utaina, akea kitona: he has absolutely nothing, not even a crumb, he is a miserable
+          pauper.'
+- id: uteanibai
+  headword: uteanibai
+  trussel: uteanibai
+  sources:
+  - source: sabatier
+    forms:
+    - form: uteanibai
+      parts:
+      - label: and
+        text: '*utonibai* (?), *otonibai, banga ni bai, uma ni bai*:'
+      - label: na.
+        text: a person of great, unknown resources, hidden powers, science of uncertain use.
+- id: uteanibaka
+  headword: uteanibaka
+  trussel: uteanibaka
+  sources:
+  - source: bingham
+    forms:
+    - form: úteæ/nibaka
+      parts:
+      - label: va.
+        text: lost, missing.
+  - source: sabatier
+    forms:
+    - form: uteanibaka
+      parts:
+      - label: n.
+        text: _idem_. of which one cannot imagine the use he will make.
+      - label: vc.
+        text: |-
+          *kauteanibaia*: to find..., to judge...
+          *kautenibaka*: _idem_. see preceding word.
+- id: uteute
+  headword: uteute
+  trussel: uteute
+  sources:
+  - source: bingham
+    forms:
+    - form: utéute
+      parts:
+      - label: n.
+        text: grass.
+  - source: sabatier
+    forms:
+    - form: uteute
+      parts:
+      - label: n.
+        text: grass.
+- id: uteute-ni-aine
+  headword: uteute ni aine
+  trussel: uteuteniaine
+  sources:
+  - source: bingham
+    forms:
+    - form: utéute-áine
+      parts:
+      - label: n.
+        text: spe grass.
+  - source: sabatier
+    forms:
+    - form: uteute n aine
+      parts:
+      - label: n.
+        text: (_Aragrostis amabilis_) long grass.
+  - source: goo-banner
+    forms:
+    - form: uteute ni ai:ne
+      parts:
+      - label: sn.
+        text: _Fimbristylis cymosa R. Brown (z)_.
+- id: uteute-ni-mane
+  headword: uteute ni mane
+  trussel: uteutenimane
+  sources:
+  - source: bingham
+    forms:
+    - form: utéute-m'aáne
+      parts:
+      - label: n.
+        text: spe grass.
+  - source: sabatier
+    forms:
+    - form: uteute ni mane
+      parts:
+      - label: n.
+        text: short grass (or vice versa).
+      - label: sn.
+        text: _Fimbristylis complonata_.
+  - source: goo-banner
+    forms:
+    - form: uteute ni mwaane
+      parts:
+      - label: sn.
+        text: _Eragrostis amabilis (z)_.
+    - form: uteute ni mwaane
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Eragrostis whitneyi Fosb. (z)_.
+- id: uteute-ni-marawa
+  headword: uteute ni marawa
+  trussel: uteutenimarawa
+  sources:
+  - source: luomala
+    forms:
+    - form: uteute ni marawa
+      parts:
+      - label: n.
+        text: all macro-algae (oceangrass).
+- id: uti
+  headword: uti
+  trussel: uti
+  sources:
+  - source: bingham
+    forms:
+    - form: úti
+      parts:
+      - label: n.
+        text: louse.
+      - label: a.
+        text: greater, larger, used with *riki*.
+      - label: vi.
+        text: arise, awake.
+  - source: sabatier
+    forms:
+    - form: uti
+      parts:
+      - label: n.
+        text: (1) (_Baringloria asiatica_) perhaps *Bairiati*.
+      - label: n.
+        text: (2) a bush.
+    - form: uti
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*te uti*: louse, lice.'
+      - label: ex.
+        text: |-
+          *utin te man*: animal lice.
+          *utin bakaua*: bugs.
+          *te uti baraki*: crab louse.
+      - label: a.
+        text: '*utiuti, uti n rang*: crawling with...'
+      - label: v.
+        text: '*kin uti*: to catch lice, fleas.'
+      - label: ex.
+        text: '*kang uti*: to crunch lice.'
+    - form: uti
+      homograph: 2
+      parts:
+      - label: n.
+        text: '*utiuti, ututi*: rising, awakening.'
+      - label: v.
+        text: to get up, to swell, to lift up, to wake up, to raise up, to stand on end, to be awake,
+          to be up, lifted up, swollen.
+      - label: ex.
+        text: |-
+          *e uti buraena*: its hair bristles,... is standing up.
+          *e uti te buraua*: the bread is risen.
+      - label: vc.
+        text: '*kauta, kakauta, kaututa*: to waken, to call, to make get up, to make stand up,... rise
+          up.'
+      - label: fig.
+        text: to excite, to stir up, to rouse.
+      - label: idiom.
+        text: '*kauti-nako*: to go off early in the morning to work, etc.'
+      - label: nv.
+        text: '*te kauti, te kauti ni mane, te kauti n aine, a kauti*: magical ceremonies <ceremony> on
+          the ocean side facing the rising sun.'
+  - source: goo-banner
+    forms:
+    - form: usi
+      parts:
+      - label: sn.
+        text: _Barringtonia asiatica (z)_.
+- id: uti-ia
+  headword: uti ia
+  trussel: utiia
+  sources:
+  - source: sabatier
+    forms:
+    - form: uti ia
+      parts:
+      - label: n.
+        text: swelling veins, varicose...
+      - label: v.
+        text: to have...
+- id: utibaba
+  headword: utibaba
+  trussel: utibaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: utibaba
+      parts:
+      - label: nv.
+        text: '*a e uti''baba, a utibaba... buraena,... irana, kaina,... kunna*, etc.: to stand up, bristle
+          up in disorder, to erect, to hold upright, to raise, to stand on end, etc. (hair, bristles,
+          feathers, skin, barbel, etc.), through fear, joy, excitement, enthusiasm, etc.'
+- id: utibanae
+  headword: utibanae
+  trussel: utibanae
+  sources:
+  - source: bingham
+    forms:
+    - form: útibæ/naee
+      parts:
+      - label: vi.
+        text: be disturbed in sleep by loud talking.
+      - label: n.
+        text: disturbance in sleep through loud talking.
+  - source: sabatier
+    forms:
+    - form: utibanae
+      parts:
+      - label: n.
+        text: a sudden awakening, great noise awakening everybody.
+      - label: v.
+        text: to wake up with a start.
+- id: utiira
+  headword: utiira
+  trussel: utiira
+  sources:
+  - source: sabatier
+    forms:
+    - form: uti-ira
+      parts:
+      - label: nva.
+        text: '*a uti irana*.'
+      - label: see
+        text: '[[utibaba|uti''baba]].'
+- id: utikai
+  headword: utikai
+  trussel: utikai
+  sources:
+  - source: sabatier
+    forms:
+    - form: uti'kai
+      parts:
+      - label: syn.
+        text: n.v. [[euman|E u-man]].
+    - form: utikai
+      parts:
+      - label: v.
+        text: '*utikaikai*: to bristle up (spikes, wattle, barbel), bristle up like a hedge-hog.'
+      - label: see
+        text: '[[utibaba]].'
+      - label: vc.
+        text: '*kautikaikaia*: to make...'
+- id: utikun
+  headword: utikun
+  trussel: utikun
+  sources:
+  - source: sabatier
+    forms:
+    - form: utikun
+      parts:
+      - label: a.
+        text: '*e uti kunna*: to have the creeps, to feel creepy, to have goose flesh.'
+      - label: vc.
+        text: '*kauta te kun*: to give the creeps.'
+      - label: fig.
+        text: '*kautikun*: it is thrilling, exhilarating <exhilarate>, elating <elate>, exciting <excite>,
+          interesting, captivating <captivate>, impressive, horrifying.'
+- id: utimaka
+  headword: utimaka
+  trussel: utimaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: utimaka
+      parts:
+      - label: n.
+        text: early rising.
+      - label: v.
+        text: to rise early.
+- id: utimara
+  headword: utimara
+  trussel: utimara
+  sources:
+  - source: bingham
+    forms:
+    - form: útimaára
+      parts:
+      - label: vi.
+        text: be late in riseing.
+      - label: n.
+        text: late rising.
+  - source: sabatier
+    forms:
+    - form: utimara
+      parts:
+      - label: n.
+        text: late rising.
+      - label: v.
+        text: to rise late.
+- id: utimere
+  headword: utimere
+  trussel: utimere
+  sources:
+  - source: sabatier
+    forms:
+    - form: utimere
+      parts:
+      - label: nv.
+        text: very late rising <rise>.
+      - label: vc.
+        text: '*kauti mere*: _idem_....'
+- id: utinrang
+  headword: utinrang
+  trussel: utinrang
+  sources:
+  - source: bingham
+    forms:
+    - form: útinrang/
+      parts:
+      - label: a.
+        text: very lousy.
+- id: utiuti
+  headword: utiuti
+  trussel: utiuti
+  sources:
+  - source: bingham
+    forms:
+    - form: útiuti
+      parts:
+      - label: a.
+        text: lousy.
+- id: uto
+  headword: uto
+  trussel: uto
+  sources:
+  - source: bingham
+    forms:
+    - form: úto
+      parts:
+      - label: n.
+        text: sprouted coconut very recently planted, a very young coconut tree.
+      - label: va.
+        text: charged with, accused.
+  - source: sabatier
+    forms:
+    - form: uto
+      parts:
+      - label: n.
+        text: '*te uto*: a young coconut plant, having no trunk.'
+    - form: uto
+      homograph: 1
+      parts:
+      - label: n.
+        text: marrow or soft content of trunks, stems of certain plants.
+      - label: fig.
+        text: centre, origin, original cause, foundation, root, source, marrow, substance.
+      - label: a.
+        text: '*uton te... uton te taeka*: at the origin, source.'
+      - label: ex.
+        text: '*e uto iai*: to be the author, to be at the root of..., the principal defaulter, the person
+          really responsible.'
+      - label: vc.
+        text: |-
+          *ka utoa*: to make responsible..., principal defaulter of..., the origin of a misdeed, to accuse of being..., to inculpate, to incriminate.
+          *kautona*: to strengthen the principal part.
+      - label: see
+        text: '[[utona]], [[kautona]].'
+- id: utoa
+  headword: utoa
+  trussel: utoa
+  sources:
+  - source: bingham
+    forms:
+    - form: útoa
+      parts:
+      - label: a.
+        text: severe, as pain.
+  - source: sabatier
+    forms:
+    - form: utoa
+      parts:
+      - label: na.
+        text: deep-seated centre of cause, fixed...
+      - label: ex.
+        text: |-
+          *e utoa ni maraki, ba te maraki*:
+          *pain fixed, centred profoundly, concentrated inside*.
+          *e utoa n tang, ba n tang*: to keep lamenting.
+          *e utoa ana iango*: he has fixed ideas, fixed deeply...
+- id: utoawa
+  headword: utoawa
+  trussel: utoawa
+  sources:
+  - source: bingham
+    forms:
+    - form: útoaáwa
+      parts:
+      - label: a.
+        text: severe as pain.
+  - source: sabatier
+    forms:
+    - form: utoawa
+      parts:
+      - label: na.
+        text: _idem_.... a pain which is hard to locate.
+- id: utoba
+  headword: utoba
+  trussel: utoba
+  sources:
+  - source: bingham
+    forms:
+    - form: '''útoba'
+      parts:
+      - label: n.
+        text: hyssop [Biblical plant] (HEB).
+- id: uton
+  headword: uton
+  trussel: uton
+  sources:
+  - source: bingham
+    forms:
+    - form: úton
+      parts:
+      - label: va.
+        text: charged with, accused.
+  - source: sabatier
+    forms:
+    - form: uton
+      parts:
+      - label: n.
+        text: origin, cause, responsible author, defaulter.
+      - label: v.
+        text: to inculpate, to incriminate.
+- id: utona
+  headword: utona
+  trussel: utona
+  sources:
+  - source: bingham
+    forms:
+    - form: útona
+      parts:
+      - label: vt.
+        text: accuse.
+  - source: sabatier
+    forms:
+    - form: utona
+      parts:
+      - label: vt.
+        text: to take, or use as principal base, basic substance of..., principal ingredient of...
+      - label: ex.
+        text: '*ti utona te tangana n te babai*: we have taro as the principal ingredient in the mixture.'
+- id: utongau
+  headword: utongau
+  trussel: utongau
+  sources:
+  - source: sabatier
+    forms:
+    - form: utongau
+      parts:
+      - label: n.
+        text: a species of pandanus.
+- id: utowa
+  headword: utowa
+  trussel: utowa
+  sources:
+  - source: sabatier
+    forms:
+    - form: utowa
+      parts:
+      - label: a.
+        text: unable to keep still, always moving <move>.
+      - label: sup.
+        text: '[[boutowa|bo-utowa]]:'
+- id: utu
+  headword: utu
+  trussel: utu
+  sources:
+  - source: bingham
+    forms:
+    - form: útu
+      parts:
+      - label: n.
+        text: family, household.
+      - label: a.
+        text: having a family, having near relatives.
+  - source: sabatier
+    forms:
+    - form: utu
+      parts:
+      - label: n.
+        text: family (by blood or species), relatives, offspring, progeny, race, dynasty, society, congregation,
+          species.
+      - label: ex.
+        text: |-
+          *kain te utu*: members of family.
+          *te utu ae tabu*: the holy family*kau utu*: large...
+      - label: n.
+        text: '*koroutu*: misunderstanding in..., division in..., schism.'
+      - label: vt.
+        text: '*koro-utua*: to divide a family, to separate into species.'
+      - label: vc.
+        text: '*kakoroutua*: to make...'
+- id: utuaki
+  headword: utuaki
+  trussel: utuaki
+  sources:
+  - source: sabatier
+    forms:
+    - form: utuaki
+      parts:
+      - label: from.
+        text: '*uti kauta*.'
+      - label: n.
+        text: aggravation of pain.
+      - label: v.
+        text: 'to increase, develop (pain, sickness): recrudescence of swelling through meddling with...'
+      - label: vc.
+        text: '*kaututaka*: to aggravate, to irritate, to make get worse.'
+- id: utuao
+  headword: utuao
+  trussel: utuao
+  sources:
+  - source: bingham
+    forms:
+    - form: útuao
+      parts:
+      - label: n.
+        text: kite.
+  - source: sabatier
+    forms:
+    - form: utuao
+      parts:
+      - label: n.
+        text: (1) a kite.
+      - label: n.
+        text: (2) summit of fronton, triangular upper part of gable end.
+- id: utuna
+  headword: utuna
+  trussel: utuna
+  sources:
+  - source: sabatier
+    forms:
+    - form: utuna
+      parts:
+      - label: from.
+        text: '[[utu]].'
+      - label: vt.
+        text: to have, or take as one's family, to belong to such...

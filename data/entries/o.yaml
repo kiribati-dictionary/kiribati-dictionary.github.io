@@ -1,0 +1,3598 @@
+- id: o
+  headword: o
+  trussel: o
+  sources:
+  - source: bingham
+    forms:
+    - form: o
+      parts:
+      - label: vi.
+        text: stretch.
+      - label: vi.
+        text: paddle.
+      - label: vi.
+        text: fly as an arrow, whiz.
+      - label: n.
+        text: fence.
+      - label: n.
+        text: gill of a fish.
+      - label: n.
+        text: certain disease.
+      - label: intj.
+        text: used in response to a call.
+  - source: sabatier
+    forms:
+    - form: o
+      parts:
+      - label: intj.
+        text: call, reply, surprise, lassitude, etc. (diff. tone but always placed at the end).
+      - label: ex.
+        text: '*Maria O! Karaki O! I a mate O! Ai kabotura O!*'
+    - form: o
+      homograph: 1
+      parts:
+      - label: n.
+        text: gill of fish.
+      - label: ex.
+        text: '*marai n o*: white of gills.'
+      - label: ex.
+        text: '*oni bua, buro ni bua*: tonsils.'
+    - form: o
+      homograph: 2
+      parts:
+      - label: n.
+        text: enclosure, cloister, fence, enclosed property, stable, cage.
+      - label: ex.
+        text: |-
+          *te o n aoraki*: hospital.
+          *te o ni beki*: pigsty.
+          *te o ni kitiba*: cage for *kitiba, ou, om, ona*, etc.
+      - label: vt.
+        text: '*oa*: to enclose, to shut in, to partition off, to put in cage, stable, etc....'
+      - label: v.
+        text: fig. to catch, to be caught in the very act, to catch up with, to be found out.
+      - label: ex.
+        text: '*a oia boreitiman*: the police caught him.'
+    - form: o
+      homograph: 3
+      parts:
+      - label: v.
+        text: to make one or more muscular efforts, to strain muscles for effort.
+      - label: a.
+        text: strong, vigorous, having nerve.
+      - label: ex.
+        text: |-
+          *omaka*: making strong effort.
+          *e o birina*: he has great rapidity in running.
+          *e bai o*: he has a strong arm.
+          *e oo*: it stiffens, makes efforts: (baby in bed).
+          *o rake*: make efforts to go east (paddle towards...).
+          *o rio*: make efforts to go west.
+          *o mai*: to approach, to come.
+          *o nako*: to move away.
+      - label: vt.
+        text: |-
+          to make effort to...
+          *orakea, orakea te wa*: to paddle the canoe towards the land, to make advance by paddle or oar.
+- id: oa
+  headword: oa
+  trussel: oa
+  sources:
+  - source: bingham
+    forms:
+    - form: óa
+      parts:
+      - label: vt.
+        text: overtake.
+- id: oakina
+  headword: oakina
+  trussel: oakina
+  sources:
+  - source: sabatier
+    forms:
+    - form: oakina
+      parts:
+      - label: vt.
+        text: to make advance, to push with pole or paddle.
+- id: obaba
+  headword: obaba
+  trussel: obaba
+  sources:
+  - source: bingham
+    forms:
+    - form: óbaba
+      parts:
+      - label: va.
+        text: coming up onto the land as a very high tide.
+  - source: sabatier
+    forms:
+    - form: obaba
+      parts:
+      - label: na.
+        text: 'very high tide, submerging (*ae rababa: taorababa*).'
+      - label: vc.
+        text: '*ka-obaba*: to wait for, to let come...'
+- id: obaea
+  headword: obaea
+  trussel: obaea
+  sources:
+  - source: bingham
+    forms:
+    - form: ob'áea
+      parts:
+      - label: vt.
+        text: capture by surrounding.
+  - source: sabatier
+    forms:
+    - form: obaea
+      parts:
+      - label: vt.
+        text: to capture by surrounding, to close the circle around...
+      - label: ex.
+        text: '*obaeaki*.'
+- id: obaki
+  headword: obaki
+  trussel: obaki
+  sources:
+  - source: bingham
+    forms:
+    - form: obaáki
+      parts:
+      - label: n.
+        text: rough binding of coconut fronds for torches, the torch itself.
+- id: obakia
+  headword: obakia
+  trussel: obakia
+  sources:
+  - source: bingham
+    forms:
+    - form: obaákia
+      parts:
+      - label: vt.
+        text: bind roughly a coconut frond for a torch.
+- id: obo
+  headword: obo
+  trussel: obo
+  sources:
+  - source: bingham
+    forms:
+    - form: óbo
+      parts:
+      - label: va.
+        text: broken off as the head of a fish or as a coconut leaf.
+      - label: va.
+        text: broken in strength, decrepit.
+      - label: n.
+        text: place near the beach never shoal at low water.
+  - source: sabatier
+    forms:
+    - form: obo
+      parts:
+      - label: a.
+        text: broken but not detached (as palm leaf hanging), faded, withered, drooping, bent, bent over
+          (as old person).
+      - label: vc.
+        text: '*ka-oboa*: to break and leave hanging, to make wither,... droop.'
+      - label: ex.
+        text: |-
+          *kaoboa te ika*: to break the back of the fish, to screw its head (without detaching it).
+          *kaoboa te waro*: to close the blade of a penknife.
+      - label: sup.
+        text: '[[obotata]]: to break in many places.'
+- id: obora
+  headword: obora
+  trussel: obora
+  sources:
+  - source: bingham
+    forms:
+    - form: óbora
+      parts:
+      - label: vt.
+        text: destroy, desolate, devastate, damage.
+      - label: n.
+        text: one of the forms of [[kaiwa]].
+  - source: sabatier
+    forms:
+    - form: obora
+      parts:
+      - label: n.
+        text: devastation, destruction, ruin.
+      - label: vt.
+        text: '*obora*: to devastate, to ruin, to plunder, to pillage, to make havoc, to make desolate,
+          to empty.'
+      - label: see
+        text: '[[kabora|ka-bora]].'
+      - label: n.
+        text: a form of divinization (*kaiwa*).
+- id: obotata
+  headword: obotata
+  trussel: obotata
+  sources:
+  - source: bingham
+    forms:
+    - form: óbotata
+      parts:
+      - label: va.
+        text: |-
+          broken off as several branches of a tree.
+          fallen out as the front teeth.
+          prostrate as a fence.
+  - source: sabatier
+    forms:
+    - form: obotata
+      parts:
+      - label: sup.
+        text: superlative of [[obo]] (for plants only).
+      - label: na.
+        text: leaves, palm branches broken in large number.
+      - label: vc.
+        text: '*ka-obotata*...'
+- id: obuki
+  headword: obuki
+  trussel: obuki
+  sources:
+  - source: sabatier
+    forms:
+    - form: obuki
+      parts:
+      - label: v.
+        text: to hit, to attack from behind.
+      - label: vt.
+        text: '*obukia*: to close on, to follow, to hem in from behind, to press hard, to be at the heels,
+          to pursue.'
+      - label: ex.
+        text: |-
+          *e na obuki kaina*: his chastisement will follow promptly.
+          *e obukira te ang*: we have a following wind.
+          *a obukia aia makuri*: their works follow them.
+          *e obukiko te taeka*: you will be spoken about immediately after.
+      - label: vc.
+        text: '*ka-obukia*: to make...'
+- id: oetiti
+  headword: oetiti
+  trussel: oetiti
+  sources:
+  - source: bingham
+    forms:
+    - form: oeétiti
+      parts:
+      - label: n.
+        text: oasis (ENG).
+- id: oi
+  headword: oi
+  trussel: oi
+  sources:
+  - source: bingham
+    forms:
+    - form: ói
+      parts:
+      - label: n.
+        text: |-
+          the very thing itself, the very person himself, one's self.
+          torch.
+      - label: vi.
+        text: perform an incantation before fishing on the flats.
+      - label: vi.
+        text: be of no account.
+      - label: intj.
+        text: response to words of praise.
+  - source: sabatier
+    forms:
+    - form: oi
+      parts:
+      - label: n.
+        text: (the real thing).
+      - label: a.
+        text: genuine, substantial, proper.
+      - label: n.
+        text: substance, essence, base, body.
+      - label: ex.
+        text: |-
+          *oi ni bai*: a valuable thing.
+          *oi n te bai*: the essence of the thing.
+          *bon oin nanom?* is it really your own will?
+          *i oin te ni*: at the base of the tree. <trunk (of a tree)>.
+    - form: oi
+      homograph: 1
+      parts:
+      - label: int.
+        text: (1) ironical of pleasure after praise.
+      - label: ex.
+        text: '*oi! oi! oi!*'
+      - label: n.
+        text: (2) a torch of dried palm leaves used for night fishing.
+      - label: ex.
+        text: '*te oi ni kibe,... n tatae*.'
+      - label: n.
+        text: |-
+          an incantation for this kind of fishing.
+          *nan te oi* (N.) fire spirit.
+      - label: syn.
+        text: Nei Bainae, Batuare (S.).
+    - form: oi
+      homograph: 2
+      parts:
+      - label: int.
+        text: '*ti oi! ti oingkoe! ti oi ngkami!*'
+      - label: also.
+        text: '*kioi!*.'
+      - label: ex.
+        text: '*tioinaki! oinaki am bai*: be blowed! bother! confound it! hang it!'
+- id: oi-n-tatae
+  headword: oi n tatae
+  trussel: ointatae
+  sources:
+  - source: sabatier
+    forms:
+    - form: oi n tatae
+      parts:
+      - label: n.
+        text: torch for form of fishing called tatae ($onauti~).
+- id: oi-ni-kibe
+  headword: oi ni kibe
+  trussel: oinikibe
+  sources:
+  - source: sabatier
+    forms:
+    - form: oi ni kibe
+      parts:
+      - label: n.
+        text: torch of palm leaves for fishing called te kibe.
+- id: oiaki
+  headword: oiaki
+  trussel: oiaki
+  sources:
+  - source: bingham
+    forms:
+    - form: óiaki
+      parts:
+      - label: n.
+        text: new moon.
+      - label: a.
+        text: being in the season of the new moon.
+  - source: sabatier
+    forms:
+    - form: oiaki
+      parts:
+      - label: n.
+        text: cycle of one moon. lunar month:.
+      - label: ex.
+        text: '*te oiakina, ua-oiaki, ten oiaki*, etc.'
+      - label: vc.
+        text: '*ka-oiaka*: to wait till the new moon.'
+- id: oimatoa
+  headword: oimatoa
+  trussel: oimatoa
+  sources:
+  - source: bingham
+    forms:
+    - form: oimaátoa
+      parts:
+      - label: n.
+        text: '[[babai]] well matured.'
+    - form: oimæ/toa
+      parts:
+      - label: a.
+        text: well matured.
+  - source: sabatier
+    forms:
+    - form: oimatoa
+      parts:
+      - label: a.
+        text: with solid base <trunk>, well founded, well planted (a fairly large taro, young coconut
+          tree with trunk already amply developed).
+- id: oimoa
+  headword: oimoa
+  trussel: oimoa
+  sources:
+  - source: bingham
+    forms:
+    - form: oimóa
+      parts:
+      - label: vi.
+        text: arrive first.
+  - source: sabatier
+    forms:
+    - form: oimoa
+      parts:
+      - label: v.
+        text: to precede, to arrive first.
+- id: oimwi
+  headword: oimwi
+  trussel: oimwi
+  sources:
+  - source: bingham
+    forms:
+    - form: óimwi
+      parts:
+      - label: vi.
+        text: come too late for.
+  - source: sabatier
+    forms:
+    - form: oimwi
+      parts:
+      - label: v.
+        text: to arrive after.
+      - label: a.
+        text: too late, last.
+- id: oioi
+  headword: oioi
+  trussel: oioi
+  sources:
+  - source: bingham
+    forms:
+    - form: óioi
+      parts:
+      - label: a.
+        text: large circumference as a coconut tree, or the bulb root of the _babai_.
+  - source: sabatier
+    forms:
+    - form: oioi
+      parts:
+      - label: syn.
+        text: a. [[oimatoa]].
+- id: oitangere
+  headword: oitangere
+  trussel: oitangere
+  sources:
+  - source: bingham
+    forms:
+    - form: oitángere
+      parts:
+      - label: a.
+        text: slim as the lower part of the trunk of a tree in contrast with a section above it.
+      - label: n.
+        text: tree the diameter of whose trunk varies suddenly.
+- id: oitangore
+  headword: oitangore
+  trussel: oitangore
+  sources:
+  - source: sabatier
+    forms:
+    - form: oitangore
+      parts:
+      - label: from.
+        text: '[[oi]] and [[ngore]].'
+      - label: na.
+        text: a fragile base <trunk>, thin, too weak in comparison with size of tree.
+- id: oitoro
+  headword: oitoro
+  trussel: oitoro
+  sources:
+  - source: bingham
+    forms:
+    - form: óitoro
+      parts:
+      - label: a.
+        text: unusually large round.
+      - label: n.
+        text: tree or person of unusual circumference.
+  - source: sabatier
+    forms:
+    - form: oitoro
+      parts:
+      - label: a.
+        text: with strong base <trunk>, well established, well formed, promising (persons and plants).
+- id: oka
+  headword: oka
+  trussel: oka
+  sources:
+  - source: bingham
+    forms:
+    - form: óka
+      parts:
+      - label: n.
+        text: rafter of a house.
+    - form: ókaa
+      parts:
+      - label: vt.
+        text: cut off pandanus fruit with a blade fastened to a long stick.
+  - source: sabatier
+    forms:
+    - form: oka
+      parts:
+      - label: n.
+        text: joist, beam, rafter of house going from *tatanga* to *taubuki*.
+    - form: oka
+      homograph: 1
+      parts:
+      - label: v.
+        text: '*oka-tou, oka-mai, okababaia*: to cut off fruit of pandanus, bread-fruit, papaw with long
+          rod furnished with blade at end.'
+      - label: vt.
+        text: '*oka*: to detach, to cut off fruit so, to gather so.'
+      - label: red.
+        text: '*okaoka*.'
+- id: oka-nako
+  headword: oka nako
+  trussel: okanako
+  sources:
+  - source: sabatier
+    forms:
+    - form: oka nako
+      parts:
+      - label: vt.
+        text: to hurl against, to jostle; to hurl oneself against, to throw oneself against, to run into.
+      - label: see
+        text: '[[eka]].'
+      - label: ex.
+        text: '*e oka nako te ni*: he ran into a coconut tree.'
+- id: okai
+  headword: okai
+  trussel: okai
+  sources:
+  - source: bingham
+    forms:
+    - form: ókai
+      parts:
+      - label: n.
+        text: house for storing ripe coconuts.
+  - source: sabatier
+    forms:
+    - form: okai
+      parts:
+      - label: n.
+        text: a hut or shed for storing ripe coconuts.
+      - label: vt.
+        text: '*okaia*: to store in...'
+- id: okaia
+  headword: okaia
+  trussel: okaia
+  sources:
+  - source: bingham
+    forms:
+    - form: okáia
+      parts:
+      - label: vt.
+        text: store ripe coconuts in a house.
+- id: okaoka
+  headword: okaoka
+  trussel: okaoka
+  sources:
+  - source: bingham
+    forms:
+    - form: okáoka
+      parts:
+      - label: n.
+        text: fish.
+      - label: vt.
+        text: fish for the okaoka <fishing>.
+      - label: a.
+        text: abounding in [[okaoka]].
+  - source: sabatier
+    forms:
+    - form: okaoka
+      parts:
+      - label: n.
+        text: a reef fish, scavenger fish.
+      - label: ex.
+        text: '*oka tana*: species of *okaoka*.'
+      - label: v.
+        text: '*okaoka*: to fish for...'
+      - label: ex.
+        text: '*okaoka*: abundance of...'
+  - source: goo-banner
+    forms:
+    - form: okáoka
+      parts:
+      - label: sn.
+        text: _Lethrinus rhodopterus (y,ll)_.
+      - label: n.
+        text: young scavengerfish (ll).
+- id: okatou
+  headword: okatou
+  trussel: okatou
+  sources:
+  - source: sabatier
+    forms:
+    - form: oka-tou
+      parts:
+      - label: v.
+        text: to cut down pandanus fruit with long rod and blade.
+      - label: see
+        text: '[[oka]].'
+- id: oke
+  headword: oke
+  trussel: oke
+  sources:
+  - source: bingham
+    forms:
+    - form: óke
+      parts:
+      - label: n.
+        text: oak tree (ENG).
+- id: oki
+  headword: oki
+  trussel: oki
+  sources:
+  - source: bingham
+    forms:
+    - form: óki
+      parts:
+      - label: n.
+        text: chisel.
+      - label: vi.
+        text: return.
+  - source: sabatier
+    forms:
+    - form: oki
+      parts:
+      - label: n.
+        text: return.
+      - label: v.
+        text: to return, go back, to come back.
+      - label: ex.
+        text: |-
+          *oki-rikaki*: to come backwards.
+          *okioki*: to come often.
+          *oku, okin, okina*, etc.
+          *rai okioki, raraiokioki*: to go backwards and forwards,... to and fro.
+          *okikaua*: to come back twice.
+          *oki-ten*: to come back three times.
+          *I nako n oki*: I go away to come back again soon.
+          *ai oku!* at my return.
+      - label: vc.
+        text: '*ka-oki*: to make come back, to make return, to send back, to give back, to restitute,
+          to put back in place.'
+      - label: v.
+        text: '*ka-okioki, kakaokioki*: to keep bringing back, to keep repeating, dinning.'
+      - label: vc.
+        text: '*ka-okioka: kakaokioka*. _idem_.'
+      - label: vt.
+        text: '*okira, okiokira*: to come back towards..., to go back to..., to do again, to recommence,
+          to say again, etc.'
+      - label: ex.
+        text: '*tai okiria!*: Don''t do it again!'
+- id: okioki
+  headword: okioki
+  trussel: okioki
+  sources:
+  - source: bingham
+    forms:
+    - form: ókioki
+      parts:
+      - label: vi.
+        text: frequentative of [[oki]].
+      - label: n.
+        text: frequent returning.
+- id: okiokira
+  headword: okiokira
+  trussel: okiokira
+  sources:
+  - source: bingham
+    forms:
+    - form: ókiokíra
+      parts:
+      - label: vt.
+        text: frequentative of [[okira]].
+- id: okira
+  headword: okira
+  trussel: okira
+  sources:
+  - source: bingham
+    forms:
+    - form: okíra
+      parts:
+      - label: vt.
+        text: return to.
+- id: okitaba
+  headword: okitaba
+  trussel: okitaba
+  sources:
+  - source: bingham
+    forms:
+    - form: ókitaba
+      parts:
+      - label: vi.
+        text: return repeatedly.
+      - label: n.
+        text: repeated returning of a person.
+  - source: sabatier
+    forms:
+    - form: okitaba
+      parts:
+      - label: v.
+        text: to hurt again.
+    - form: okitaba
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to thwart, to oppose, to contradict, to annoy, to strike left and right.
+      - label: vc.
+        text: '*ka-oki-taba*: to urge..., to...'
+      - label: n.
+        text: '*te okitaba*.'
+- id: okitebo
+  headword: okitebo
+  trussel: okitebo
+  sources:
+  - source: bingham
+    forms:
+    - form: o:kitébo
+      parts:
+      - label: n.
+        text: octavo (ENG).
+- id: okitoba
+  headword: okitoba
+  trussel: okitoba
+  sources:
+  - source: bingham
+    forms:
+    - form: o:kitóba
+      parts:
+      - label: n.
+        text: October (ENG).
+  - source: sabatier
+    forms:
+    - form: Okitoba
+      parts:
+      - label: n.
+        text: October (ENG).
+- id: oko
+  headword: oko
+  trussel: oko
+  sources:
+  - source: bingham
+    forms:
+    - form: óko
+      parts:
+      - label: n.
+        text: staff, cane, walking stick.
+    - form: óko
+      parts:
+      - label: n.
+        text: very young of the [[manai|m'anai]].
+      - label: a.
+        text: having its young with it as the *m'anai*, adolescent.
+  - source: sabatier
+    forms:
+    - form: oko
+      parts:
+      - label: n.
+        text: walking stick.
+    - form: oko
+      homograph: 1
+      parts:
+      - label: n.
+        text: idiom. *okon te makauro, e teboka okona te makauro*.
+- id: okoro
+  headword: okoro
+  trussel: okoro
+  sources:
+  - source: bingham
+    forms:
+    - form: ókoro
+      parts:
+      - label: a.
+        text: apart, separate, unlike, different.
+  - source: sabatier
+    forms:
+    - form: okoro
+      parts:
+      - label: and
+        text: |-
+          [[kaokoro]].
+          [[kakaokoro]]:
+      - label: a.
+        text: different, distinct, special, particular, abnormal, singular.
+      - label: n.
+        text: difference, distinction, particularity.
+      - label: vn.
+        text: '*okoro ma... kaokoro ma*...: distinct from, to be different, to be distinguished.'
+      - label: ex.
+        text: |-
+          *akea okorona ma*...: it is no different from...
+          *ai kaokoro ra!* how different! what a difference!
+      - label: adv.
+        text: '*n okoro*: apart, separately.'
+      - label: vc.
+        text: '*ka-okoroa, kaka-okoroa*: to put aside, to separate, to distinguish, to differentiate,
+          to make a difference, to do differently.'
+- id: oma
+  headword: oma
+  trussel: oma
+  sources:
+  - source: bingham
+    forms:
+    - form: '''óma'
+      parts:
+      - label: n.
+        text: homer [Heb meas] (ENG).
+    - form: óma
+      parts:
+      - label: vi.
+        text: bend as a stick when one sits on it, or as a plank when one walks on it while it is supported
+          at each end.
+  - source: sabatier
+    forms:
+    - form: oma
+      parts:
+      - label: n.
+        text: flexibility, supple, pliable.
+      - label: ex.
+        text: '*omaoma*: very flexible.'
+      - label: vc.
+        text: '*ka-oma, ka-omaoma, kakaomaoma*: to make become flexible, supple, pliable, to inflect,
+          to bend.'
+- id: omaka
+  headword: omaka
+  trussel: omaka
+  sources:
+  - source: bingham
+    forms:
+    - form: om'aáka
+      parts:
+      - label: vi.
+        text: grow up rapidly.
+      - label: n.
+        text: rapid growth.
+  - source: sabatier
+    forms:
+    - form: omaka
+      parts:
+      - label: a.
+        text: |-
+          growing quickly.
+          rapid growth.
+      - label: v.
+        text: to throw with force, to go quickly.
+      - label: vc.
+        text: '*ka-o maka*: to cause to go quickly, to grow rapidly, to throw with force.'
+- id: omaoma
+  headword: omaoma
+  trussel: omaoma
+  sources:
+  - source: bingham
+    forms:
+    - form: omáoma
+      parts:
+      - label: va.
+        text: |-
+          frequentative of [[oma]].
+          easily bending, not stiff.
+- id: omara
+  headword: omara
+  trussel: omara
+  sources:
+  - source: sabatier
+    forms:
+    - form: omara
+      parts:
+      - label: a.
+        text: of feeble momentum, slow growth.
+      - label: v.
+        text: to throw with little force.
+      - label: ant.
+        text: '*omaka*.'
+      - label: vc.
+        text: '*ka-omara*: to reduce, to diminish the speed, the force.'
+- id: omarikaki
+  headword: omarikaki
+  trussel: omarikaki
+  sources:
+  - source: sabatier
+    forms:
+    - form: omarikaki
+      parts:
+      - label: ex.
+        text: '*e omarikaki to nao ma ni beku*: the wave bends, turns and falls heavily.'
+- id: omatata
+  headword: omatata
+  trussel: omatata
+  sources:
+  - source: bingham
+    forms:
+    - form: ómatata
+      parts:
+      - label: vi.
+        text: flash repeadly as lightning.
+  - source: sabatier
+    forms:
+    - form: omatata
+      parts:
+      - label: n.
+        text: a flash, lightning flashes.
+      - label: ex.
+        text: '*e ititi ao e omatata*: there are repeated flashes of lightning.'
+    - form: omatata
+      homograph: 1
+      parts:
+      - label: na.
+        text: strong evidence, very obvious, striking.
+      - label: ex.
+        text: '[[matata]] only is more used.'
+      - label: vc.
+        text: '*ka-omatata*: to make become...'
+- id: omeka
+  headword: omeka
+  trussel: omeka
+  sources:
+  - source: bingham
+    forms:
+    - form: ómeka
+      parts:
+      - label: n.
+        text: omega (ENG).
+- id: omera
+  headword: omera
+  trussel: omera
+  sources:
+  - source: bingham
+    forms:
+    - form: ómera
+      parts:
+      - label: n.
+        text: omer [Heb dry meas] (ENG).
+- id: 'on'
+  headword: 'on'
+  trussel: 'on'
+  sources:
+  - source: bingham
+    forms:
+    - form: 'on'
+      parts:
+      - label: n.
+        text: turtle.
+      - label: a.
+        text: full.
+  - source: sabatier
+    forms:
+    - form: 'on'
+      parts:
+      - label: n.
+        text: '*te on* or *to on*: a turtle.'
+      - label: n.
+        text: '[[tuabon]]: fat with shell of turtle.'
+    - form: 'on'
+      homograph: 1
+      parts:
+      - label: a.
+        text: full, filled.
+      - label: n.
+        text: fullness.
+      - label: ex.
+        text: '*onrake*: full to the top.'
+      - label: a.
+        text: '[[ontiti]]: full to overflowing.'
+      - label: vc.
+        text: '*ka-ona, kakaona, kaonrakea*: to fill, to fill up.'
+  - source: goo-banner
+    forms:
+    - form: 'on'
+      parts:
+      - label: sn.
+        text: _Chelonian mydas_.
+      - label: n.
+        text: greenback turtle (hh).
+- id: ona
+  headword: ona
+  trussel: ona
+  sources:
+  - source: sabatier
+    forms:
+    - form: ona
+      parts:
+      - label: from.
+        text: '[[o]] and [[oa]].'
+      - label: vt.
+        text: to paddle (a canoe, bark).
+      - label: ex.
+        text: '*ona Matang*: paddle towards Matang.'
+    - form: ona
+      homograph: 1
+      parts:
+      - label: pref.
+        text: 'to certain names of fish: [[onaeara]], *ona bubura*, [[onauti]].'
+- id: onabiti
+  headword: onabiti
+  trussel: onabiti
+  sources:
+  - source: sabatier
+    forms:
+    - form: onabiti
+      parts:
+      - label: n.
+        text: species of sea urchin resembling violet slate pencil.
+- id: onae
+  headword: onae
+  trussel: onae
+  sources:
+  - source: bingham
+    forms:
+    - form: onáe
+      parts:
+      - label: n.
+        text: small marine growth or animal like the [[reka]].
+      - label: n.
+        text: musket with a certain lock.
+  - source: sabatier
+    forms:
+    - form: onae
+      parts:
+      - label: n.
+        text: an edible worm found on rocks.
+      - label: sn.
+        text: _Zoophyte_.
+- id: onaeara
+  headword: onaeara
+  trussel: onaeara
+  sources:
+  - source: sabatier
+    forms:
+    - form: onaeara
+      parts:
+      - label: n.
+        text: a fish.
+- id: onako
+  headword: onako
+  trussel: onako
+  sources:
+  - source: sabatier
+    forms:
+    - form: onako
+      parts:
+      - label: v.
+        text: to depart by paddling.
+      - label: va.
+        text: fig. to go away upset, blamed, scolded, confused.
+      - label: ex.
+        text: |-
+          *ti onako n am taeka*: your words drive us away.
+          *ko onakoira*: you turn against us.
+      - label: see
+        text: '[[kaonakoa|kao nakoa]]: to involve in blame.'
+- id: onamare
+  headword: onamare
+  trussel: onamare
+  sources:
+  - source: bingham
+    forms:
+    - form: ónam'are
+      parts:
+      - label: n.
+        text: fish.
+    - form: oónam'are
+      parts:
+      - label: va.
+        text: abounding in [[onamare|onam'are]].
+- id: onanibwere
+  headword: onanibwere
+  trussel: onanibwere
+  sources:
+  - source: sabatier
+    forms:
+    - form: onanibwere
+      parts:
+      - label: vt.
+        text: '*onanibwerea*: to make a notch or cut the end to join on another piece.'
+- id: onaniwere
+  headword: onaniwere
+  trussel: onaniwere
+  sources:
+  - source: bingham
+    forms:
+    - form: onæ/niwére
+      parts:
+      - label: n.
+        text: mode of spliceing the ends of two sticks.
+  - source: sabatier
+    forms:
+    - form: onaniwere
+      parts:
+      - label: v.
+        text: to repair a keel ([[kabi]]) of canoe.
+      - label: vt.
+        text: '*onaniwerea*.'
+- id: onaniwerea
+  headword: onaniwerea
+  trussel: onaniwerea
+  sources:
+  - source: bingham
+    forms:
+    - form: onæ/niwérea
+      parts:
+      - label: vt.
+        text: splice sticks by cutting out a half of each for the sake of evenness.
+- id: onaona
+  headword: onaona
+  trussel: onaona
+  sources:
+  - source: bingham
+    forms:
+    - form: onáona
+      parts:
+      - label: a.
+        text: unevenn as land, or as a person's disposition.
+  - source: sabatier
+    forms:
+    - form: onaona
+      parts:
+      - label: n.
+        text: '*te aba n onaona*: a distant land, hilly, of unknown customs visited by *Nautongo*.'
+    - form: onaona
+      homograph: 1
+      parts:
+      - label: a.
+        text: (*e oneaki arona*) of changeable character. sometimes reasonable, at other times unreasonable,
+          to be untrustworthy, unbalanced, whimsical.
+      - label: vc.
+        text: '*kaonaona*: to disturb, to upset, to confuse, to treat as...'
+- id: onatabu
+  headword: onatabu
+  trussel: onatabu
+  sources:
+  - source: bingham
+    forms:
+    - form: ónatabu
+      parts:
+      - label: n.
+        text: portion of a coral flat slightly raised.
+      - label: a.
+        text: slightly raised as a portion of a coral flat.
+  - source: sabatier
+    forms:
+    - form: onatabu
+      parts:
+      - label: n.
+        text: cloister, place prohibited.
+      - label: a.
+        text: cloistered, reserved, prohibited.
+      - label: vt.
+        text: '*onatabua*: to enclose, to cloister, to confine, to put in prohibited place, to forbid
+          entrance to...'
+- id: onatabuki
+  headword: onatabuki
+  trussel: onatabuki
+  sources:
+  - source: sabatier
+    forms:
+    - form: onatabuki
+      parts:
+      - label: n.
+        text: raised up place or enclosure.
+      - label: vt.
+        text: '*onatabuka*: to raise up...'
+- id: onatabukibuki
+  headword: onatabukibuki
+  trussel: onatabukibuki
+  sources:
+  - source: bingham
+    forms:
+    - form: ónatabúkibuki
+      parts:
+      - label: a.
+        text: uneven, elevated a little in places, as the surface of the ground or of a plank <even>.
+- id: onauti
+  headword: onauti
+  trussel: onauti
+  sources:
+  - source: bingham
+    forms:
+    - form: ónauti
+      parts:
+      - label: n.
+        text: flying fish.
+    - form: oónauti
+      parts:
+      - label: va.
+        text: abounding in flying fish.
+  - source: sabatier
+    forms:
+    - form: onauti
+      parts:
+      - label: n.
+        text: flying fishh.
+      - label: sn.
+        text: _Exocaetus volitans, exocoetidae__Cypselurus_ sp.
+      - label: ex.
+        text: |-
+          [[baiura]]: a large flying fish with red-tipped fins.
+          *te keti*: a small flying fish.
+  - source: goo-banner
+    forms:
+    - form: ónauti
+      parts:
+      - label: sn.
+        text: _family Exocoetidae (ll)_.
+      - label: n.
+        text: flying fishes (sm).
+    - form: ónauti
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Cypselurus spp. (y)_.
+      - label: n.
+        text: flying fishes (sm).
+  - source: luomala
+    forms:
+    - form: onauti
+      parts:
+      - label: sn.
+        text: _Cypselurus simus (exocoetidae)_.
+      - label: n.
+        text: flying fish.
+- id: one
+  headword: one
+  trussel: one
+  sources:
+  - source: bingham
+    forms:
+    - form: one
+      parts:
+      - label: a.
+        text: six, same as *ono* six.
+      - label: note.
+        text: the final *o* of the latter becoming *e* before the suffixes *ai* and *ung* for euphony.
+- id: onea
+  headword: onea
+  trussel: onea
+  sources:
+  - source: bingham
+    forms:
+    - form: ónea
+      parts:
+      - label: vt.
+        text: replace, fill as a vacantcy.
+      - label: n.
+        text: change as of clothing.
+  - source: sabatier
+    forms:
+    - form: onea
+      parts:
+      - label: vt.
+        text: '(irr.) *oneai, onoiko, onea, onoira*, or *oneira, onoingkami, onoia, oneaki*, with direct
+          object of each plural *ono, oni, onoi one* and *onei*: to change, to change oneself, to transform,
+          to modify, to metamorphose.'
+      - label: ex.
+        text: |-
+          *N na oneai moa*: I will go and change first.
+          *onei nana*: to change shells.
+          *onoi burae*: to change feathers, to moult.
+          *onoi mane*: to change money.
+          *one aba*: change country, to emigrate.
+- id: oneai
+  headword: oneai
+  trussel: oneai
+  sources:
+  - source: bingham
+    forms:
+    - form: óneai
+      parts:
+      - label: a.
+        text: six, in counting hardware, furniture, chests, barrels, timber, coconut leaf stems, fingers,
+          teeth, large fish as sharks and [[ikari]].
+- id: oneamwi
+  headword: oneamwi
+  trussel: oneamwi
+  sources:
+  - source: bingham
+    forms:
+    - form: oneamwi
+      parts:
+      - label: n.
+        text: substitute.
+- id: oneamwina
+  headword: oneamwina
+  trussel: oneamwina
+  sources:
+  - source: sabatier
+    forms:
+    - form: oneamwina
+      parts:
+      - label: v.
+        text: '*onea mwiu, onea mwim, onea mwina, oneamwira*, etc.: to replace, to substitute, to supply.'
+      - label: n.
+        text: '*te onomwi*: replacement, substitution.'
+      - label: v.
+        text: '*onomwi*: to replace.'
+      - label: n.
+        text: '*te tia-onomwi*: substitute (for another person).'
+- id: oneung
+  headword: oneung
+  trussel: oneung
+  sources:
+  - source: bingham
+    forms:
+    - form: oneung
+      parts:
+      - label: a.
+        text: six in counting pandanus fruit.
+- id: ong
+  headword: ong
+  trussel: ong
+  sources:
+  - source: sabatier
+    forms:
+    - form: ong
+      homograph: 1
+      parts:
+      - label: a.
+        text: |-
+          *ongong*: spongy.
+          *ongong, kiriongong, nibongong*: swollen, heavy from sleepiness, tiredness, soporific.
+    - form: ong
+      homograph: 2
+      parts:
+      - label: v.
+        text: to squeeze, to press to extract juice.
+      - label: a.
+        text: which can be squeezed as a sponge.
+      - label: red.
+        text: '*ongong*.'
+      - label: see
+        text: v.t. [[ongira]].
+- id: ong-2
+  headword: ong_
+  trussel: ong_
+  sources:
+  - source: sabatier
+    forms:
+    - form: ong_
+      parts:
+      - label: excl.
+        text: at the end of song; end, finished.
+      - label: ex.
+        text: '*ong! ong!*'
+- id: onga
+  headword: onga
+  trussel: onga
+  sources:
+  - source: bingham
+    forms:
+    - form: ónga
+      parts:
+      - label: a.
+        text: soft or soggy as watery [[babai]].
+      - label: n.
+        text: soggy watery *babai*.
+      - label: vt.
+        text: swallow.
+  - source: sabatier
+    forms:
+    - form: onga
+      parts:
+      - label: a.
+        text: porous, spongy.
+      - label: sup.
+        text: '[[ongaonga]]...'
+    - form: onga
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to swallow, to absorb:.
+      - label: ex.
+        text: |-
+          *ongan, ongakin, onga nako.*.
+          *te ongana, uaonga, tenonga*, etc.: one mouthful, two..., three..., etc.
+- id: onga-n-tari
+  headword: onga n tari
+  trussel: ongantari
+  sources:
+  - source: sabatier
+    forms:
+    - form: onga n tari
+      parts:
+      - label: n.
+        text: a sponge.
+      - label: syn.
+        text: '[[tutu]].'
+- id: ongantari
+  headword: ongantari
+  trussel: ongantari
+  sources:
+  - source: bingham
+    forms:
+    - form: óngantari
+      parts:
+      - label: n.
+        text: sponge.
+- id: ongaonga
+  headword: ongaonga
+  trussel: ongaonga
+  sources:
+  - source: sabatier
+    forms:
+    - form: ongaonga
+      parts:
+      - label: n.
+        text: myth per. giant swallower of tree trunks.
+      - label: fig.
+        text: sword swallower, ogre, braggart.
+- id: ongea
+  headword: ongea
+  trussel: ongea
+  sources:
+  - source: bingham
+    forms:
+    - form: óngea
+      parts:
+      - label: vt.
+        text: regard, used generally with *aki*.
+      - label: ex.
+        text: '*aki ongea* not to regard or mind.'
+  - source: sabatier
+    forms:
+    - form: ongea
+      parts:
+      - label: vt.
+        text: to count on, to hope that, to confide in.
+      - label: note.
+        text: rarely used except in negative.
+      - label: ex.
+        text: |-
+          *aki ongea*: not to count on, not to worry about..., not to take any notice of...
+          *e aki ongea te karau*: he doesn't mind the rain.
+          *e aki ongeaki*: he can't be relied <rely> on.
+      - label: va.
+        text: '*ongeaki. (onimakinaki)* (usual): worthy of confidence, conscientious.'
+- id: ongeaba
+  headword: ongeaba
+  trussel: ongeaba
+  sources:
+  - source: bingham
+    forms:
+    - form: ongeába
+      parts:
+      - label: vi.
+        text: hear.
+  - source: sabatier
+    forms:
+    - form: ongeaba
+      parts:
+      - label: from.
+        text: '[[ongea]] and [[aba]] (who heeds what he is told).'
+      - label: n.
+        text: docility, submission, obedience.
+      - label: a.
+        text: docile, obedient, submissive.
+      - label: v.
+        text: to obey, to listen, to advise.
+      - label: ex.
+        text: '*e aki ongeaba*: he doesn''t listen to anything.'
+      - label: vt.
+        text: '*ka-ongeaba*: to make become..., to make obey.'
+- id: ongeaki
+  headword: ongeaki
+  trussel: ongeaki
+  sources:
+  - source: bingham
+    forms:
+    - form: óngeaki
+      parts:
+      - label: va.
+        text: not recognized at first.
+- id: ongira
+  headword: ongira
+  trussel: ongira
+  sources:
+  - source: bingham
+    forms:
+    - form: óngira
+      parts:
+      - label: vt.
+        text: wring, blow or squeeze as the nose.
+  - source: sabatier
+    forms:
+    - form: ongira
+      parts:
+      - label: from.
+        text: '[[ong]].'
+      - label: vt.
+        text: to squeeze to extract liquid, to press, to apply pressure, to use a handkerchief.
+      - label: vn.
+        text: '*ongiri ngako*: to wipe one''s nose.'
+- id: ongo
+  headword: ongo
+  trussel: ongo
+  sources:
+  - source: bingham
+    forms:
+    - form: óngo
+      parts:
+      - label: vt.
+        text: hear, obey.
+      - label: n.
+        text: hearing, sense of hearing.
+  - source: sabatier
+    forms:
+    - form: ongo
+      parts:
+      - label: n.
+        text: hearing (*te ongo, te ongongo*).
+      - label: v.
+        text: '*ongo, ongongo*: to hear, to learn by hearsay.'
+      - label: fig.
+        text: to understand, to obey.
+      - label: ex.
+        text: |-
+          *ongo buaka*: to understand wrongly <misunderstand>.
+          *ongo raoi*: to hear clearly, to understand well.
+          *ongo maki (ongo ma aki)*: to hardly hear.
+          *ongo taeka*: to obey.
+          *kaongo taeka*: to make obey.
+      - label: vt.
+        text: '*ka-ongoa*: to inform, to tell, to let know, to advise.'
+      - label: ex.
+        text: '*e kaongoai*: he informed me.'
+      - label: vc.
+        text: '*ka-ongongo*: speak louder to make yourself heard.'
+      - label: v.
+        text: '*kakauongo*: to listen, to be attentive, to give ear.'
+      - label: a.
+        text: '*kakaiongo*: prompt to understand, to obey.'
+- id: ongo-tao
+  headword: ongo tao
+  trussel: ongotao
+  sources:
+  - source: sabatier
+    forms:
+    - form: ongo tao
+      parts:
+      - label: n.
+        text: knowledge by public divulgation, by rumours reported.
+      - label: vc.
+        text: '*ka-ongotaoa*: to inform, to warn, to let know by spreading rumour.'
+- id: ongong
+  headword: ongong
+  trussel: ongong
+  sources:
+  - source: bingham
+    forms:
+    - form: óngong
+      parts:
+      - label: n.
+        text: wisdom tooth.
+      - label: vi.
+        text: wringing.
+  - source: sabatier
+    forms:
+    - form: ongong
+      parts:
+      - label: n.
+        text: wisdom tooth.
+- id: ongora
+  headword: ongora
+  trussel: ongora
+  sources:
+  - source: bingham
+    forms:
+    - form: óngora
+      parts:
+      - label: vi.
+        text: listen, hearken.
+      - label: n.
+        text: desire to hear, an attentive listening to the news.
+  - source: sabatier
+    forms:
+    - form: ongora
+      parts:
+      - label: from.
+        text: '[[ongo]].'
+      - label: n.
+        text: act of listening, hearing.
+      - label: v.
+        text: to listen to recital, news, to give ear, to be informed, to be attentive to...
+      - label: ex.
+        text: '*ti no ongora iroum*: we will hear, listen to what you have to say.'
+      - label: v.
+        text: '*kan ongora*: to desire to hear.'
+      - label: vc.
+        text: '*kaongoraea, kakaongoraea*: to inform, to pass on the news, information, to speak about...'
+      - label: ex.
+        text: '*ko na kaongoraira rongorongon abam*: tell us the news of your place.'
+      - label: n.
+        text: '*te kaongora*: public announcements, conferences, communications, announcement of news.'
+      - label: a.
+        text: '*kakaongora*: fluent, interesting to listen to.'
+- id: ongotaeka
+  headword: ongotaeka
+  trussel: ongotaeka
+  sources:
+  - source: bingham
+    forms:
+    - form: óngotáeka
+      parts:
+      - label: vi.
+        text: be obeydient.
+      - label: n.
+        text: obedience.
+  - source: sabatier
+    forms:
+    - form: ongo-taeka
+      parts:
+      - label: v.
+        text: to obey.
+      - label: a.
+        text: obedient, docile, submissive.
+      - label: n.
+        text: obedience, docility, submission.
+      - label: vc.
+        text: |-
+          *kaongo-taeka*: to make obey, to make become docile.
+          *kaongoa te taeka*: to make understand what is said, to announce.
+- id: ongotao
+  headword: ongotao
+  trussel: ongotao
+  sources:
+  - source: bingham
+    forms:
+    - form: óngotao
+      parts:
+      - label: vi.
+        text: hear distressing news of a member of one's family when at a distance.
+      - label: n.
+        text: distressing news from one's family.
+- id: oni-kitiba
+  headword: oni kitiba
+  trussel: onikitiba
+  sources:
+  - source: sabatier
+    forms:
+    - form: oni kitiba
+      parts:
+      - label: n.
+        text: cage for [[kitiba]].
+    - form: oni kitiba
+      homograph: 1
+      parts:
+      - label: n.
+        text: _Aurora Borealis_.
+- id: onia
+  headword: onia
+  trussel: onia
+  sources:
+  - source: sabatier
+    forms:
+    - form: onia
+      parts:
+      - label: n.
+        text: |-
+          high tide at new and full moon.
+          <spring tide>.
+- id: onibora
+  headword: onibora
+  trussel: onibora
+  sources:
+  - source: bingham
+    forms:
+    - form: ónibora
+      parts:
+      - label: adj.
+        text: nasty, soft.
+      - label: n.
+        text: crab when it has cast its crust-like shell.
+  - source: sabatier
+    forms:
+    - form: onibora
+      parts:
+      - label: v.
+        text: '*onobora* (*oni-pora, onopora*) to change, to shed shell, skin or carapace (as do crabs,
+          lobsters, etc.), to slough.'
+      - label: n.
+        text: a crab at the stage of changing... (*ntabena, nnewe*).
+      - label: a.
+        text: daubed, dirty, trailed in dirt.
+      - label: vc.
+        text: '*kaonobora*: to let get dirty, soiled.'
+- id: onibua
+  headword: onibua
+  trussel: onibua
+  sources:
+  - source: bingham
+    forms:
+    - form: ónibua
+      parts:
+      - label: n.
+        text: young coconut in the third stage.
+      - label: a.
+        text: being in the third stage of development.
+  - source: sabatier
+    forms:
+    - form: onibua
+      parts:
+      - label: and
+        text: '*onobua*.'
+      - label: n.
+        text: a coconut fallen before maturity.
+    - form: onibua
+      homograph: 1
+      parts:
+      - label: a.
+        text: a certain dividing membrane especially noticeable in fish's throats.
+- id: onika
+  headword: onika
+  trussel: onika
+  sources:
+  - source: bingham
+    forms:
+    - form: oónika
+      parts:
+      - label: n.
+        text: onycha [incense ingredient] (ENG).
+    - form: ónika
+      parts:
+      - label: vt.
+        text: change.
+  - source: sabatier
+    forms:
+    - form: onika
+      parts:
+      - label: vt.
+        text: to transform, to change.
+      - label: red.
+        text: '*ononika, onionika,*.'
+      - label: ex.
+        text: '*te onikaki*: the changing, the transformation, transubstantiation (Mass).'
+- id: oniki
+  headword: oniki
+  trussel: oniki
+  sources:
+  - source: bingham
+    forms:
+    - form: òniki
+      parts:
+      - label: n.
+        text: onyx (ENG).
+  - source: sabatier
+    forms:
+    - form: oniki
+      parts:
+      - label: v.
+        text: to transmute, to transfigure, to metamorphose, to change.
+      - label: red.
+        text: '*ononiki*.'
+      - label: ex.
+        text: '*e onikaki te ran ba te rara*: water was changed to blood.'
+      - label: n.
+        text: transformation, change, transfiguration, metamorphosis, etc.
+      - label: see
+        text: '[[onea]].'
+- id: onimaki
+  headword: onimaki
+  trussel: onimaki
+  sources:
+  - source: bingham
+    forms:
+    - form: ónimaki
+      parts:
+      - label: n.
+        text: faith, confidence, belief.
+      - label: vi.
+        text: believe, have faith.
+  - source: sabatier
+    forms:
+    - form: onimaki
+      parts:
+      - label: n.
+        text: faith, confidence, belief.
+      - label: v.
+        text: '*onimaki nakon*...: to have faith or confidence in.'
+      - label: n.
+        text: '*te kakaonimaki*: fidelity, punctuality.'
+      - label: a.
+        text: '*ae kakaonimaki*: faithful, punctual, worthy of confidence.'
+      - label: vt.
+        text: '*onimakina*: to have faith in, to believe, to trust, to count on.'
+      - label: vc.
+        text: '*ka-onimakina*: to induce to..., to make...'
+- id: onimakina
+  headword: onimakina
+  trussel: onimakina
+  sources:
+  - source: bingham
+    forms:
+    - form: ónimakína
+      parts:
+      - label: vt.
+        text: have faith in, trust, believe in.
+- id: oning
+  headword: oning
+  trussel: oning
+  sources:
+  - source: sabatier
+    forms:
+    - form: oning
+      parts:
+      - label: n.
+        text: awning, sail cloth, canvas.
+- id: oningea
+  headword: oningea
+  trussel: oningea
+  sources:
+  - source: bingham
+    forms:
+    - form: óningea
+      parts:
+      - label: n.
+        text: fish.
+  - source: sabatier
+    forms:
+    - form: oningea
+      parts:
+      - label: n.
+        text: a fish.
+    - form: oningea
+      homograph: 1
+      parts:
+      - label: n.
+        text: parrot fishh.
+  - source: goo-banner
+    forms:
+    - form: oningea
+      parts:
+      - label: n.
+        text: a parrotfish (ll).
+- id: onionika
+  headword: onionika
+  trussel: onionika
+  sources:
+  - source: bingham
+    forms:
+    - form: oniónika
+      parts:
+      - label: vt.
+        text: frequentative of [[onika]] change repeatedly.
+- id: onnon
+  headword: onnon
+  trussel: onnon
+  sources:
+  - source: sabatier
+    forms:
+    - form: onnon
+      parts:
+      - label: and
+        text: '*onnonia*. n.v.'
+      - label: see
+        text: '[[onon]] v.t.'
+- id: ono
+  headword: ono
+  trussel: ono
+  sources:
+  - source: bingham
+    forms:
+    - form: óno
+      parts:
+      - label: a.
+        text: six always followed by a numeral suffix *ua, man, nga, kai* or *kora* or by certain nouns
+          as *bong, ririki, ritoro, inaki, atao, ba* or by certain adjectives as *bwi, bubua,* etc.
+      - label: n.
+        text: one's share or portion.
+  - source: sabatier
+    forms:
+    - form: ono
+      parts:
+      - label: a.
+        text: rad. for adv. num. six. *onoua, onoman, onokai, onokora*, etc.
+      - label: ex.
+        text: '*ka-onomakoron*: sixth part of...'
+      - label: vc.
+        text: '*ka-onoua*: to make it six, to complete six.'
+    - form: ono
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[on]].'
+      - label: n.
+        text: part, portion, one's due, share.
+      - label: ex.
+        text: '*e ono*: he has his share, he has got his..., he is satisfied.'
+      - label: ex.
+        text: '*ti ono ngaira*: we have our share.'
+      - label: ex.
+        text: '*onou, onom, onona*.'
+      - label: vc.
+        text: |-
+          *ka-onoa, ka-onona*: to give, to distribute to each one his share.
+          *kaonota*.
+      - label: n.
+        text: '*te kaono, te kaonono*. _idem_.'
+- id: onoati
+  headword: onoati
+  trussel: onoati
+  sources:
+  - source: sabatier
+    forms:
+    - form: onoati
+      parts:
+      - label: n.
+        text: '*te tia Onoati*: a star.'
+- id: onoba
+  headword: onoba
+  trussel: onoba
+  sources:
+  - source: bingham
+    forms:
+    - form: ónoba
+      parts:
+      - label: vi.
+        text: put forth a new leaf in exchange for a falling old leaf of some _babai_ plants, or of a
+          coconut tree.
+      - label: a.
+        text: six leafves.
+- id: onobauta
+  headword: onobauta
+  trussel: onobauta
+  sources:
+  - source: sabatier
+    forms:
+    - form: onobauta
+      parts:
+      - label: v.
+        text: to change ligature, to change the...
+- id: onobora
+  headword: onobora
+  trussel: onobora
+  sources:
+  - source: bingham
+    forms:
+    - form: ónobora
+      parts:
+      - label: n.
+        text: crab when it has cast its crust-like shell.
+      - label: a.
+        text: having cast its crust-like shell as a crab.
+- id: onobubua
+  headword: onobubua
+  trussel: onobubua
+  sources:
+  - source: bingham
+    forms:
+    - form: ónobúbua
+      parts:
+      - label: a.
+        text: six hundred.
+- id: onobwi
+  headword: onobwi
+  trussel: onobwi
+  sources:
+  - source: bingham
+    forms:
+    - form: ónobwi
+      parts:
+      - label: a.
+        text: sixty.
+      - label: see
+        text: '[[onongaun]].'
+- id: onoea
+  headword: onoea
+  trussel: onoea
+  sources:
+  - source: bingham
+    forms:
+    - form: onóea
+      parts:
+      - label: a.
+        text: six million.
+- id: onokai
+  headword: onokai
+  trussel: onokai
+  sources:
+  - source: bingham
+    forms:
+    - form: ónokai
+      parts:
+      - label: a.
+        text: six in counting trees, fish-hooks, and sections of land.
+- id: onokora
+  headword: onokora
+  trussel: onokora
+  sources:
+  - source: bingham
+    forms:
+    - form: ónokora
+      parts:
+      - label: a.
+        text: six in counting baskets.
+- id: onokuri
+  headword: onokuri
+  trussel: onokuri
+  sources:
+  - source: bingham
+    forms:
+    - form: ónokuri
+      parts:
+      - label: a.
+        text: six hundred thousand.
+- id: onoman
+  headword: onoman
+  trussel: onoman
+  sources:
+  - source: bingham
+    forms:
+    - form: ónoman
+      parts:
+      - label: a.
+        text: six in counting persons and animals.
+- id: onomwi
+  headword: onomwi
+  trussel: onomwi
+  sources:
+  - source: sabatier
+    forms:
+    - form: onomwi
+      parts:
+      - label: v.
+        text: to replace.
+      - label: n.
+        text: replacement.
+      - label: ex.
+        text: '*te tia onomwi*: substitute (for another person), pronoun. (grammar).'
+- id: onon
+  headword: onon
+  trussel: onon
+  sources:
+  - source: bingham
+    forms:
+    - form: ónon
+      parts:
+      - label: vi.
+        text: beg for in a very imploring manner, almost abjectly.
+      - label: n.
+        text: most humble entreaty.
+  - source: sabatier
+    forms:
+    - form: onon
+      parts:
+      - label: n.
+        text: supplication, request, demand, entreaty.
+      - label: note.
+        text: stronger than *bubuti*.
+      - label: vt.
+        text: '*ononia (ononiai, ononiko*, etc.): intense supplication.'
+      - label: ex.
+        text: '*ononou, ononim, ononina*, etc.'
+- id: ononga
+  headword: ononga
+  trussel: ononga
+  sources:
+  - source: bingham
+    forms:
+    - form: ónonga
+      parts:
+      - label: a.
+        text: |-
+          six thousand.
+          six in counting fathoms.
+- id: onongaun
+  headword: onongaun
+  trussel: onongaun
+  sources:
+  - source: bingham
+    forms:
+    - form: ónongaun
+      parts:
+      - label: a.
+        text: sixty.
+      - label: see
+        text: '[[ngaun]].'
+- id: ononia
+  headword: ononia
+  trussel: ononia
+  sources:
+  - source: bingham
+    forms:
+    - form: ónonia
+      parts:
+      - label: vt.
+        text: beseech, entreat imploringly.
+- id: onorebu
+  headword: onorebu
+  trussel: onorebu
+  sources:
+  - source: bingham
+    forms:
+    - form: ónorebu
+      parts:
+      - label: a.
+        text: sixty thousand.
+- id: onotabo
+  headword: onotabo
+  trussel: onotabo
+  sources:
+  - source: sabatier
+    forms:
+    - form: onotabo
+      parts:
+      - label: nv.
+        text: '*ono-tabo*: to change place.'
+      - label: ex.
+        text: '*ono boti*: _idem_.'
+- id: onotano
+  headword: onotano
+  trussel: onotano
+  sources:
+  - source: bingham
+    forms:
+    - form: ónotano
+      parts:
+      - label: a.
+        text: sixty million.
+- id: onoti
+  headword: onoti
+  trussel: onoti
+  sources:
+  - source: bingham
+    forms:
+    - form: ónoti
+      parts:
+      - label: a.
+        text: enough, sufficient in quantity.
+  - source: sabatier
+    forms:
+    - form: onoti
+      parts:
+      - label: see
+        text: '[[ono]] n.a.'
+- id: onotoa
+  headword: onotoa
+  trussel: onotoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: Onotoa
+      parts:
+      - label: n.
+        text: Clark Island discovered in 1827 -- sit. in south of group.
+- id: onotoki
+  headword: onotoki
+  trussel: onotoki
+  sources:
+  - source: bingham
+    forms:
+    - form: ónotoki
+      parts:
+      - label: a.
+        text: six hundred million.
+- id: onoua
+  headword: onoua
+  trussel: onoua
+  sources:
+  - source: bingham
+    forms:
+    - form: onóua
+      parts:
+      - label: a.
+        text: six in counting things in general.
+- id: onoung
+  headword: onoung
+  trussel: onoung
+  sources:
+  - source: bingham
+    forms:
+    - form: onóung
+      parts:
+      - label: a.
+        text: six in counting bunches of pandanus fruit.
+- id: onra
+  headword: onra
+  trussel: onra
+  sources:
+  - source: sabatier
+    forms:
+    - form: on-ra
+      parts:
+      - label: a.
+        text: '*on-buaka*: loaded badly, not well balanced, not filled properly.'
+      - label: vc.
+        text: '*kaonraea*: to fill badly.'
+- id: ontira
+  headword: ontira
+  trussel: ontira
+  sources:
+  - source: sabatier
+    forms:
+    - form: on-tira
+      parts:
+      - label: a.
+        text: full to overflowing, flowing over (liquid).
+      - label: vc.
+        text: '*kaontiraea*: to fill to...'
+- id: ontiti
+  headword: ontiti
+  trussel: ontiti
+  sources:
+  - source: sabatier
+    forms:
+    - form: ontiti
+      parts:
+      - label: sup.
+        text: superlative of [[on]].
+      - label: na.
+        text: full of..., covered with...
+      - label: vc.
+        text: '*kaontita*: to fill, to cover with (dirt, dust).'
+- id: ora
+  headword: ora
+  trussel: ora
+  sources:
+  - source: bingham
+    forms:
+    - form: óra
+      parts:
+      - label: a.
+        text: shallow, shoal, not deep, low tide.
+      - label: n.
+        text: flat reef from the beach to the breakers, shoal.
+    - form: óraa
+      parts:
+      - label: vt.
+        text: eat raw as fish.
+  - source: sabatier
+    forms:
+    - form: ora
+      parts:
+      - label: n.
+        text: low tide, expanse of beach, strand.
+      - label: va.
+        text: '*e ora, ae ora*: it is low tide, the tide is out.'
+      - label: a.
+        text: dry (well, bucket, etc.).
+      - label: ex.
+        text: '*oratakaroro*: completely dry.'
+      - label: note.
+        text: sundry terms --.
+      - label: ex.
+        text: |-
+          *e ora nako*: the beach is becoming uncovered.
+          *e ora takaroro*; the beach is completely uncovered.
+          *e ora tangenge*: the beach is laid bare.
+          *e orata (oraata*): a large expanse of beach is bare.
+          *te ora n ro*: the low tide at night.
+          *te ora ni ngaina*: day low tide.
+          *te ora ni mama*: the moonlight low tide.
+          *te ora n ia n ro*: low tide on moonless night.
+      - label: vc.
+        text: |-
+          *ka-ora, ka-oraora*: to wait till low tide.
+          *ka-ora, ka-oraora*. _idem_.
+          *ka-ora, ka-oraora*. _idem_.
+          *ka-oratakaroroa, ka ora nakoa*: to wait till..., to let...
+      - label: see
+        text: n.a. [[oraba]] (*ora-aba*).
+      - label: na.
+        text: an uncovered place, without water, sand bank, a shallow place.
+    - form: ora
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*oraora*: act of eating fish or meat in raw state.'
+      - label: vt.
+        text: '*ora* to eat raw...'
+      - label: and
+        text: '[[oraora]]:'
+      - label: ex.
+        text: '*e oraki te onauti*: flying fish can be eaten raw.'
+- id: oraba
+  headword: oraba
+  trussel: oraba
+  sources:
+  - source: sabatier
+    forms:
+    - form: oraba
+      parts:
+      - label: syn.
+        text: '[[orata]].'
+      - label: na.
+        text: wide expanse uncovered at low tide. tide receding very far out.
+      - label: vc.
+        text: '*ka-oraba*: to cause, to wait for..., to let...'
+- id: oraitan
+  headword: oraitan
+  trussel: oraitan
+  sources:
+  - source: bingham
+    forms:
+    - form: '''oráitan'
+      parts:
+      - label: n.
+        text: horizon (ENG).
+- id: oranako
+  headword: oranako
+  trussel: oranako
+  sources:
+  - source: bingham
+    forms:
+    - form: óranako
+      parts:
+      - label: vi.
+        text: ebb as the tide.
+      - label: n.
+        text: ebb-tidee.
+- id: oraora
+  headword: oraora
+  trussel: oraora
+  sources:
+  - source: bingham
+    forms:
+    - form: oráora
+      parts:
+      - label: vi.
+        text: eating fish raw.
+- id: oraoranako
+  headword: oraoranako
+  trussel: oraoranako
+  sources:
+  - source: bingham
+    forms:
+    - form: oráoranako
+      parts:
+      - label: vi.
+        text: frequentative of [[oranako]].
+- id: orata
+  headword: orata
+  trussel: orata
+  sources:
+  - source: bingham
+    forms:
+    - form: oraáta
+      parts:
+      - label: n.
+        text: unusually wide flat.
+    - form: oráta
+      parts:
+      - label: a.
+        text: having a very wide reef or flat.
+- id: oratakaroro
+  headword: oratakaroro
+  trussel: oratakaroro
+  sources:
+  - source: bingham
+    forms:
+    - form: óratákaroro
+      parts:
+      - label: a.
+        text: unusually low, or very low as the tide.
+      - label: n.
+        text: unusually low tide.
+- id: oratiram
+  headword: oratiram
+  trussel: oratiram
+  sources:
+  - source: sabatier
+    forms:
+    - form: oratiram
+      parts:
+      - label: n.
+        text: goat fishh.
+      - label: sn.
+        text: _Mulloidichtys_ sp.
+  - source: goo-banner
+    forms:
+    - form: oratiraam
+      parts:
+      - label: sn.
+        text: _Mulloidichthys sp. (ll)_.
+      - label: n.
+        text: goatfish (sm).
+- id: ore
+  headword: ore
+  trussel: ore
+  sources:
+  - source: sabatier
+    forms:
+    - form: ore
+      parts:
+      - label: n.
+        text: name of land of crazy people.
+      - label: ex.
+        text: '*te I-Ore*: a mad man.'
+      - label: va.
+        text: '*I-Ore, kiritabaiore*: who is crazy, altogether mad.'
+      - label: see
+        text: I-Tabweang, I-Tabaong, I-Tabaroro.
+- id: orea
+  headword: orea
+  trussel: orea
+  sources:
+  - source: bingham
+    forms:
+    - form: órea
+      parts:
+      - label: vt.
+        text: beat, strike.
+      - label: n.
+        text: suitable place for manipulating a seine <fishing>.
+  - source: sabatier
+    forms:
+    - form: orea
+      parts:
+      - label: vt.
+        text: (irr.).
+      - label: see
+        text: '[[oro]]: to hit.'
+    - form: orea
+      homograph: 1
+      parts:
+      - label: n.
+        text: a place suitable for net and *rai* fishing.
+      - label: v.
+        text: to fish in this way.
+- id: oreano
+  headword: oreano
+  trussel: oreano
+  sources:
+  - source: bingham
+    forms:
+    - form: óreano
+      parts:
+      - label: n.
+        text: general term for ballplaying.
+      - label: vi.
+        text: play ball.
+  - source: sabatier
+    forms:
+    - form: oreano
+      parts:
+      - label: n.
+        text: a game played with large hard ball called *ano*.
+      - label: v.
+        text: to play this game.
+      - label: vc.
+        text: '*ka-oreanoa*: to make play. national game formerly very popular.'
+- id: orian
+  headword: orian
+  trussel: orian
+  sources:
+  - source: sabatier
+    forms:
+    - form: orian
+      parts:
+      - label: n.
+        text: a plant, oleander.
+  - source: goo-banner
+    forms:
+    - form: orion
+      parts:
+      - label: sn.
+        text: _Nerium oleander L. (z)_.
+      - label: n.
+        text: oleander.
+- id: oriatita
+  headword: oriatita
+  trussel: oriatita
+  sources:
+  - source: bingham
+    forms:
+    - form: oriæ/tita
+      parts:
+      - label: n.
+        text: oleaster [ornamental shrub] (ENG).
+- id: oriba
+  headword: oriba
+  trussel: oriba
+  sources:
+  - source: sabatier
+    forms:
+    - form: Oriba
+      parts:
+      - label: n.
+        text: '*te Oriba* stars.'
+      - label: or.
+        text: '*to Oriba*:'
+      - label: ex.
+        text: '*te oriba ni meang, te oriba ni maiaki*.'
+- id: orikinare
+  headword: orikinare
+  trussel: orikinare
+  sources:
+  - source: sabatier
+    forms:
+    - form: orikinare
+      parts:
+      - label: a.
+        text: original.
+      - label: ex.
+        text: '*te bure orikinare*: original sin.'
+- id: orin
+  headword: orin
+  trussel: orin
+  sources:
+  - source: bingham
+    forms:
+    - form: órin
+      parts:
+      - label: n.
+        text: work of binding dry leaves for torches.
+      - label: vi.
+        text: binding dry coconut leaves for torches.
+  - source: sabatier
+    forms:
+    - form: orin
+      parts:
+      - label: nv.
+        text: to tie, to make torches of [[rin]] (palm leaves).
+      - label: vc.
+        text: '*ka-orina*...'
+- id: oriori
+  headword: oriori
+  trussel: oriori
+  sources:
+  - source: sabatier
+    forms:
+    - form: oriori
+      parts:
+      - label: suf.
+        text: indicating sup.
+      - label: see
+        text: '[[nimaoriori]], *beoriori*, etc.'
+- id: oriwa
+  headword: oriwa
+  trussel: oriwa
+  sources:
+  - source: bingham
+    forms:
+    - form: òriwa
+      parts:
+      - label: n.
+        text: olive (ENG).
+  - source: sabatier
+    forms:
+    - form: oriwa
+      parts:
+      - label: n.
+        text: olive, olive tree. (ENG).
+- id: oro
+  headword: oro
+  trussel: oro
+  sources:
+  - source: bingham
+    forms:
+    - form: óro
+      parts:
+      - label: vi.
+        text: strike, hit.
+      - label: n.
+        text: hit, blow.
+  - source: sabatier
+    forms:
+    - form: oro
+      parts:
+      - label: n.
+        text: (1) act of striking, hitting, a hit, a blow.
+      - label: ex.
+        text: '*te orona, uaoro, ten oro*, etc.'
+      - label: v.
+        text: to strike, to hit.
+      - label: red.
+        text: '*ororo*.'
+      - label: vt.
+        text: (irr.) *orea (oreai, oreiko*.
+      - label: or.
+        text: |-
+          *oroiko*, *oroia*.
+          *oreia*, *oroira*, *oroingkami*, *oroia*, *oreaki*: to strike, to hit, to knock on, to beat on, to beat.
+      - label: n.
+        text: '*te kai n oro*: instrument used to..., stick, hammer, whip, cane.'
+      - label: v.
+        text: '*i oro*: to hit each other, to clash.'
+      - label: vt.
+        text: '*ka-i-oroia, kaka-i-oroia*: to make...'
+      - label: vc.
+        text: '*ka-oro*: to make fight.'
+      - label: a.
+        text: (2) pullulant, which swarms, plentiful.
+      - label: n.
+        text: swarming, great number.
+      - label: note.
+        text: the word *oro* is used for abortion (by blows).
+      - label: ex.
+        text: '*e oreaki* or *e oroaki natina*.'
+    - form: oro
+      homograph: 1
+      parts:
+      - label: idiom.
+        text: '*e oro maitina, e oro riki nakon*: its total attains to or is equal to..., to more than.'
+      - label: ex.
+        text: |-
+          *e kaoro, e kaoro riki, e kaoro nakon*: that gives, that makes as much, more than.
+          *e oro, e kaoro*: to be in great number, big quantity, packed tightly, close together.
+- id: oro-karababa
+  headword: oro karababa
+  trussel: orokarababa
+  sources:
+  - source: sabatier
+    forms:
+    - form: oro karababa
+      parts:
+      - label: v.
+        text: to flatten out *karababa*.
+- id: oro-tenua
+  headword: oro tenua
+  trussel: orotenua
+  sources:
+  - source: sabatier
+    forms:
+    - form: oro tenua
+      parts:
+      - label: n.
+        text: a child's game.
+- id: orobairi
+  headword: orobairi
+  trussel: orobairi
+  sources:
+  - source: sabatier
+    forms:
+    - form: orobairi
+      parts:
+      - label: v.
+        text: to hit the nose (of the loser in cards).
+- id: oroben
+  headword: oroben
+  trussel: oroben
+  sources:
+  - source: sabatier
+    forms:
+    - form: oroben
+      parts:
+      - label: nv.
+        text: to make copra (split coconuts).
+      - label: ex.
+        text: '[[bo-ben]]: to collect coconuts and split them.'
+- id: orobiti
+  headword: orobiti
+  trussel: orobiti
+  sources:
+  - source: bingham
+    forms:
+    - form: órobiti
+      parts:
+      - label: vi.
+        text: drivee>ing nails.
+      - label: n.
+        text: marine animal.
+  - source: sabatier
+    forms:
+    - form: orobiti
+      parts:
+      - label: v.
+        text: to nail, to drive in nails, tacks.
+      - label: syn.
+        text: '[[bo-biti|bobiti]].'
+      - label: vt.
+        text: '*orobotia*: to nail.'
+- id: orobitia
+  headword: orobitia
+  trussel: orobitia
+  sources:
+  - source: bingham
+    forms:
+    - form: órobítia
+      parts:
+      - label: vt.
+        text: drive a nail into.
+- id: oroboti
+  headword: oroboti
+  trussel: oroboti
+  sources:
+  - source: sabatier
+    forms:
+    - form: oroboti
+      parts:
+      - label: see
+        text: '[[onabiti]].'
+      - label: n.
+        text: a marine animal.
+- id: orobuki
+  headword: orobuki
+  trussel: orobuki
+  sources:
+  - source: sabatier
+    forms:
+    - form: orobuki
+      parts:
+      - label: n.
+        text: a spanking, a flogging.
+      - label: v.
+        text: to give a..., to hit from behind (wind in sail).
+      - label: vt.
+        text: '*orobukia*...'
+- id: oroku
+  headword: oroku
+  trussel: oroku
+  sources:
+  - source: sabatier
+    forms:
+    - form: oroku
+      parts:
+      - label: n.
+        text: a shirt. (S.).
+      - label: syn.
+        text: '*te kabaraki* (N.).'
+- id: oromaki
+  headword: oromaki
+  trussel: oromaki
+  sources:
+  - source: bingham
+    forms:
+    - form: oromaáki
+      parts:
+      - label: vi.
+        text: give a blow gently.
+  - source: sabatier
+    forms:
+    - form: oromaki
+      parts:
+      - label: n.
+        text: a slight hit, barely hit.
+      - label: v.
+        text: to graze, to stroke.
+- id: orona
+  headword: orona
+  trussel: orona
+  sources:
+  - source: sabatier
+    forms:
+    - form: Orona
+      parts:
+      - label: n.
+        text: Hull Island in Phoenix group. Visited by Commodore Wilkes in 1845.
+- id: oronibai
+  headword: oronibai
+  trussel: oronibai
+  sources:
+  - source: sabatier
+    forms:
+    - form: oronibai
+      parts:
+      - label: v.
+        text: to hit with hand.
+- id: oroniwae
+  headword: oroniwae
+  trussel: oroniwae
+  sources:
+  - source: sabatier
+    forms:
+    - form: oro-ni-wae
+      parts:
+      - label: or.
+        text: '*oronuwae*.'
+      - label: v.
+        text: to kick.
+      - label: n.
+        text: a kick.
+- id: ororea
+  headword: ororea
+  trussel: ororea
+  sources:
+  - source: bingham
+    forms:
+    - form: orórea
+      parts:
+      - label: vt.
+        text: frequentative of [[orea]].
+- id: ororeano
+  headword: ororeano
+  trussel: ororeano
+  sources:
+  - source: bingham
+    forms:
+    - form: oróreano
+      parts:
+      - label: vi.
+        text: frequentative of [[oreano]].
+- id: ororo
+  headword: ororo
+  trussel: ororo
+  sources:
+  - source: bingham
+    forms:
+    - form: oróro
+      parts:
+      - label: vi.
+        text: frequentative of fish with a seine and [[rai]] <fishing>.
+      - label: n.
+        text: |-
+          repeated strikeing.
+          fishing with a seine and *rai*.
+- id: orotaba
+  headword: orotaba
+  trussel: orotaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: orotaba
+      parts:
+      - label: n.
+        text: a slap in the face.
+      - label: v.
+        text: to slap...
+      - label: syn.
+        text: '*orobora*.'
+      - label: vt.
+        text: '*orotaba*: to slap...'
+- id: orotai
+  headword: orotai
+  trussel: orotai
+  sources:
+  - source: sabatier
+    forms:
+    - form: orotai
+      parts:
+      - label: nv.
+        text: to beat time, to conduct singing (music).
+- id: oroubu
+  headword: oroubu
+  trussel: oroubu
+  sources:
+  - source: sabatier
+    forms:
+    - form: oro-ubu
+      parts:
+      - label: n.
+        text: boxing, pugilism.
+      - label: syn.
+        text: '*te itau*.'
+- id: ota
+  headword: ota
+  trussel: ota
+  sources:
+  - source: bingham
+    forms:
+    - form: oóta
+      parts:
+      - label: n.
+        text: light (opp of darkness).
+      - label: n.
+        text: coconut leaf tied around a tree whose fruit has been tabooed.
+      - label: a.
+        text: not dark, light.
+    - form: óta
+      parts:
+      - label: n.
+        text: scraped coconut after the oil has been extracted.
+      - label: vt.
+        text: bind a torch for fishing.
+      - label: vt.
+        text: bind a coconut tree with a coconut frond to prevent the stealing of coconuts.
+  - source: sabatier
+    forms:
+    - form: ota
+      parts:
+      - label: from.
+        text: '[[o]].'
+      - label: vt.
+        text: to tie or bind around with string.
+      - label: ex.
+        text: '*ota rin*: to make torches of palm leaves (tie the *rin*), to truss, to bind leaves.'
+      - label: see
+        text: '[[orin|o-rin]], [[obaki|o-baki]].'
+    - form: ota
+      homograph: 1
+      parts:
+      - label: n.
+        text: light, brightness, daylight.
+      - label: ex.
+        text: '*otan tai*: sunlight.'
+      - label: v.
+        text: '*ota*: to give light, to shine.'
+      - label: a.
+        text: '*e ota*: there is light, it is clear.'
+      - label: fig.
+        text: to see clear, to understand, to perceive.
+      - label: ex.
+        text: '*ti ota iai*: we understand.'
+      - label: a.
+        text: bright, brilliant, clear, comprehensible.
+      - label: vc.
+        text: '*ka-ora*: to give light to, to light up, to wait till there is light.'
+      - label: fig.
+        text: enlighten, instruct, make understand.
+      - label: ex.
+        text: '*kaotaba*: to enlighten the people.'
+    - form: ota
+      homograph: 2
+      parts:
+      - label: n.
+        text: a mark on a reserved tree (not much used).
+      - label: ex.
+        text: 'more used: *te rabu* or *te rabu* or *te kamainaina*.'
+    - form: ota
+      homograph: 3
+      parts:
+      - label: n.
+        text: coconut after oil has been extracted, residue.
+- id: otaba
+  headword: otaba
+  trussel: otaba
+  sources:
+  - source: bingham
+    forms:
+    - form: ótab'a
+      parts:
+      - label: n.
+        text: marryy>ied woman in her prime.
+      - label: a.
+        text: in her prime as a married woman.
+  - source: sabatier
+    forms:
+    - form: otaba
+      parts:
+      - label: from.
+        text: '[[taba]].'
+      - label: n.
+        text: daughter in law during the first years of married life.
+      - label: vc.
+        text: '*ka-otaba*: to care for and preserve the beauty and freshness of the daughter-in-law, to
+          make her happy.'
+- id: otabanina
+  headword: otabanina
+  trussel: otabanina
+  sources:
+  - source: sabatier
+    forms:
+    - form: otabanina
+      parts:
+      - label: and
+        text: '[[otabaninia]].'
+      - label: vt.
+        text: to surround, to encircle, to hem in, to gather around, to crowd around.
+      - label: fig.
+        text: to take care of a person, to be attached to them.
+- id: otabaninia
+  headword: otabaninia
+  trussel: otabaninia
+  sources:
+  - source: bingham
+    forms:
+    - form: ótabaninía
+      parts:
+      - label: vt.
+        text: surround.
+- id: otabu
+  headword: otabu
+  trussel: otabu
+  sources:
+  - source: bingham
+    forms:
+    - form: ótabu
+      parts:
+      - label: n.
+        text: something tabooed and not to be taken.
+  - source: sabatier
+    forms:
+    - form: otabu
+      parts:
+      - label: sup.
+        text: superlative of [[tabu]].
+      - label: na.
+        text: a sacred place, forbidden to outsiders, prohibited, no admission, strictly prohibited.
+      - label: vt.
+        text: '*otabua*: to prohibit, to strictly prohibit.'
+- id: otabua
+  headword: otabua
+  trussel: otabua
+  sources:
+  - source: bingham
+    forms:
+    - form: otábua
+      parts:
+      - label: see
+        text: vt [[tabua]].
+- id: otanga
+  headword: otanga
+  trussel: otanga
+  sources:
+  - source: bingham
+    forms:
+    - form: ótanga
+      parts:
+      - label: vt.
+        text: shield.
+      - label: n.
+        text: shield.
+  - source: sabatier
+    forms:
+    - form: otanga
+      parts:
+      - label: n.
+        text: buckler, shield, defence, <armour>, protection.
+      - label: ex.
+        text: '*otaotanga*.'
+      - label: vt.
+        text: |-
+          *betanga, bebetanga*: _idem_. to protect by packing.
+          *karibabetanga*: _idem_. to pack tightly.
+- id: otangana
+  headword: otangana
+  trussel: otangana
+  sources:
+  - source: sabatier
+    forms:
+    - form: otangana
+      parts:
+      - label: vt.
+        text: to protect, to shield by any protective object.
+- id: otanna
+  headword: otanna
+  trussel: otanna
+  sources:
+  - source: bingham
+    forms:
+    - form: '''otæn/na'
+      parts:
+      - label: n.
+        text: hosanna (ENG).
+- id: otaota
+  headword: otaota
+  trussel: otaota
+  sources:
+  - source: bingham
+    forms:
+    - form: otáota
+      parts:
+      - label: n.
+        text: preparation of food, scraped coconut mixed with coconut molasses.
+      - label: vi.
+        text: preparation of *otaota*.
+    - form: otáotaa
+      parts:
+      - label: vt.
+        text: prepare food called *otaota*.
+  - source: sabatier
+    forms:
+    - form: otaota
+      parts:
+      - label: n.
+        text: a dish made of grated coconut, and mixed with coconut from which oil has been extracted.
+      - label: vc.
+        text: '*ka-otaota*: to nourish with...'
+      - label: see
+        text: '[[ota]].'
+- id: otaotanga
+  headword: otaotanga
+  trussel: otaotanga
+  sources:
+  - source: bingham
+    forms:
+    - form: otáotanga
+      parts:
+      - label: vt.
+        text: frequentative of [[otanga]] shield.
+- id: otaotangaki
+  headword: otaotangaki
+  trussel: otaotangaki
+  sources:
+  - source: bingham
+    forms:
+    - form: otáotángaki
+      parts:
+      - label: a.
+        text: of various hues as the flesh of the [[ati]].
+  - source: sabatier
+    forms:
+    - form: otaotangaki
+      parts:
+      - label: from.
+        text: '[[otanga]].'
+      - label: a.
+        text: protected by intercepting object, striped with several colours.
+- id: otarin
+  headword: otarin
+  trussel: otarin
+  sources:
+  - source: sabatier
+    forms:
+    - form: otarin
+      parts:
+      - label: v.
+        text: to make torches of [[rin]].
+      - label: see
+        text: '[[ota]], [[orin]].'
+- id: otea
+  headword: otea
+  trussel: otea
+  sources:
+  - source: bingham
+    forms:
+    - form: otéa
+      parts:
+      - label: vt.
+        text: fold.
+      - label: n.
+        text: fold.
+  - source: sabatier
+    forms:
+    - form: otea
+      parts:
+      - label: vt.
+        text: (irr.) to break, to break by bending (wood, bones, etc.).
+      - label: fig.
+        text: to compose a song, a story, etc.
+      - label: ex.
+        text: '*oteai, oteiko, otoiko, oteia* or *otia, oteingkami* or *otoingkami, oteia* or *otoia,
+          oteia* or *otei, oteaki*.'
+      - label: see
+        text: '[[oto]].'
+      - label: n.
+        text: '*te ototo*: poems, songs, stories, music composed.'
+- id: oti
+  headword: oti
+  trussel: oti
+  sources:
+  - source: bingham
+    forms:
+    - form: oóti
+      parts:
+      - label: n.
+        text: oats (ENG).
+    - form: óti
+      parts:
+      - label: vi.
+        text: appear, come in sight.
+      - label: vi.
+        text: rise as the sun.
+      - label: n.
+        text: appearance, appearing, rising of the sun.
+  - source: sabatier
+    forms:
+    - form: oti
+      parts:
+      - label: a.
+        text: appeared, visible, manifest, public, risen (stars), self-evident.
+      - label: ex.
+        text: '*e a oti te rongorongo*: the news is out.'
+      - label: red.
+        text: '*otioti*: appearing often, much, very evident.'
+      - label: v.
+        text: to appear, to come into sight, to come out, to emerge, to be seen, made known, to become
+          public, to rise (stars, planets).
+      - label: n.
+        text: '*otin..., otiotin, kaotin*: rising of stars, etc., apparition.'
+      - label: vc.
+        text: '*kaoti*: to show oneself, to come out, to manifest oneself, to disclose, to reveal, to
+          be seen.'
+      - label: n.
+        text: apparition, manifestation.
+      - label: vc.
+        text: '*kaota, kakaota, kaotiota*: to show, to manifest, to disclose, to reveal, to divulge, to
+          publish, to confess, to proclaim, etc.'
+      - label: n.
+        text: '*te kaoti onimaki*: profession of faith, creed.'
+      - label: v.
+        text: '*kaotionimaki*: to profess, to confess one''s faith.'
+      - label: nv.
+        text: '*te kaotibure*: confession (sacr.), to confess.'
+- id: otinako
+  headword: otinako
+  trussel: otinako
+  sources:
+  - source: bingham
+    forms:
+    - form: ótinako
+      parts:
+      - label: vi.
+        text: go out.
+      - label: n.
+        text: going out, an exodus, the book of Exodus.
+  - source: sabatier
+    forms:
+    - form: otinako
+      parts:
+      - label: v.
+        text: to go out, to come out, to go beyond, to be visible, to be revealed.
+      - label: a.
+        text: be out, issued, made known.
+      - label: red.
+        text: '*otiotinako, otinako mai, otinako man*: to come out of...'
+      - label: n.
+        text: '*otinakon*: the going out, exit, quotient (*te tia otinako*).'
+      - label: v.
+        text: '*kaotinako*: to put out, to make appear outside, to supervene, to rise, to surge, to be
+          revealed.'
+      - label: n.
+        text: '*kaotinakon*: revelation, manifestation.'
+      - label: vc.
+        text: '*kaotinakoa, kakaotinakoa*: to put out, to make go out, to go beyond, to turn out of doors,
+          to expel, to extract, to evacuate.'
+      - label: n.
+        text: '*Te Otinako*: Exodus (Bible).'
+- id: otioti
+  headword: otioti
+  trussel: otioti
+  sources:
+  - source: bingham
+    forms:
+    - form: ótioti
+      parts:
+      - label: vi.
+        text: frequentative of [[oti]].
+- id: otiotinako
+  headword: otiotinako
+  trussel: otiotinako
+  sources:
+  - source: bingham
+    forms:
+    - form: ótiotináko
+      parts:
+      - label: vi.
+        text: frequentative of [[otinako]].
+- id: oto
+  headword: oto
+  trussel: oto
+  sources:
+  - source: sabatier
+    forms:
+    - form: oto
+      parts:
+      - label: v.
+        text: to break, to shatter, to smash, to bend.
+      - label: fig.
+        text: to compose, to invent; see *otea*.
+      - label: n.
+        text: |-
+          *oton, ototon*: a break, a crack, a fracture, a pleat, a fragment.
+          *te ototo*: composition, invention, conjugation.
+      - label: vt.
+        text: (irr.) to break, to smash, to bend, to compose.
+      - label: see
+        text: '[[otea]], *ototea*.'
+      - label: ex.
+        text: |-
+          *e otea taekau*: he made up a story about me.
+          *otea te kunikai, te beba*: to fold material, paper.
+          *te oto-beba*: the act of folding paper.
+      - label: vt.
+        text: '(irr.) *kaototoa*: to make, to compose; see the following words.'
+- id: oto-kuna
+  headword: oto kuna
+  trussel: otokuna
+  sources:
+  - source: sabatier
+    forms:
+    - form: oto kuna
+      parts:
+      - label: v.
+        text: to compose songs, poems.
+      - label: n.
+        text: the composition of...
+      - label: vc.
+        text: '*ka-otokuna*: to make...'
+      - label: ex.
+        text: '*e otea te kuna te tia otokuna*: the composer composed a song.'
+- id: otoanene
+  headword: otoanene
+  trussel: otoanene
+  sources:
+  - source: bingham
+    forms:
+    - form: ótoánene
+      parts:
+      - label: vi.
+        text: compose words to be set to music.
+      - label: n.
+        text: composition of words set to music.
+  - source: sabatier
+    forms:
+    - form: oto-anene
+      parts:
+      - label: n.
+        text: composition of songs.
+      - label: v.
+        text: to compose...
+      - label: vc.
+        text: '*kaoto anene, kaotoanenea*...'
+- id: otobai
+  headword: otobai
+  trussel: otobai
+  sources:
+  - source: sabatier
+    forms:
+    - form: oto-bai
+      parts:
+      - label: nv.
+        text: rheumatism in arm or hand.
+- id: otobebe
+  headword: otobebe
+  trussel: otobebe
+  sources:
+  - source: bingham
+    forms:
+    - form: ótobebe
+      parts:
+      - label: vi.
+        text: exaggerate.
+      - label: n.
+        text: exaggeration.
+  - source: sabatier
+    forms:
+    - form: otobebe
+      parts:
+      - label: v.
+        text: to say or tell tall stories. (*bebe*) to exaggerate.
+      - label: n.
+        text: exaggeration.
+      - label: vt.
+        text: '*otobebea*...'
+- id: otobebea
+  headword: otobebea
+  trussel: otobebea
+  sources:
+  - source: bingham
+    forms:
+    - form: ótobébea
+      parts:
+      - label: vt.
+        text: exaggerate, add to a story.
+- id: otobibi
+  headword: otobibi
+  trussel: otobibi
+  sources:
+  - source: sabatier
+    forms:
+    - form: otobibi
+      parts:
+      - label: from.
+        text: '[[tobibi]].'
+      - label: v.
+        text: (embellish around...) to exaggerate.
+      - label: ex.
+        text: '*otobibia*: _idem_.'
+- id: otobina
+  headword: otobina
+  trussel: otobina
+  sources:
+  - source: sabatier
+    forms:
+    - form: otobina
+      parts:
+      - label: see
+        text: '[[tobina]].'
+      - label: n.
+        text: pre natal massage.
+      - label: vt.
+        text: '*otobina*.'
+- id: otobwebwe
+  headword: otobwebwe
+  trussel: otobwebwe
+  sources:
+  - source: sabatier
+    forms:
+    - form: otobwebwe
+      parts:
+      - label: v.
+        text: to prune (branches).
+      - label: fig.
+        text: to purge a work, an institution, etc.
+      - label: vt.
+        text: '*otobwebwea*: to prune, to lop, to curtail.'
+      - label: see
+        text: '[[bwebwe]], [[kabwebwea]].'
+- id: otokai
+  headword: otokai
+  trussel: otokai
+  sources:
+  - source: sabatier
+    forms:
+    - form: otokai
+      parts:
+      - label: n.
+        text: revenge, compensation.
+      - label: v.
+        text: to take revenge, to give tit for tat, to pay back (in good or bad meaning).
+      - label: vt.
+        text: '*otea te kai, kabaka te kai*: to break, to ward off ill-luck, to take away, to withdraw
+          a punishment, to take one''s revenge on..., to pay back, to get even with.'
+      - label: ex.
+        text: |-
+          *e otea kaina*; (is said of one who takes revenge, etc.).
+          *otea kaim, kabaka kaim, kaoka kaim* (is said to one who loses a victory).
+- id: otokuna
+  headword: otokuna
+  trussel: otokuna
+  sources:
+  - source: bingham
+    forms:
+    - form: ótokuna
+      parts:
+      - label: vi.
+        text: compose a chant for the [[ruoia]].
+      - label: n.
+        text: composition of chants for the *ruoia*.
+- id: otorake
+  headword: otorake
+  trussel: otorake
+  sources:
+  - source: bingham
+    forms:
+    - form: ótorake
+      parts:
+      - label: vi.
+        text: twisting a line with four strands.
+      - label: n.
+        text: line with four strands.
+  - source: sabatier
+    forms:
+    - form: otorake
+      parts:
+      - label: n.
+        text: a four ply rope, cord.
+      - label: v.
+        text: to do this work.
+      - label: vt.
+        text: '*otorakea*: to twist a rope in a certain way with four strands.'
+- id: otorakea
+  headword: otorakea
+  trussel: otorakea
+  sources:
+  - source: bingham
+    forms:
+    - form: ótorakéa
+      parts:
+      - label: vt.
+        text: braid a line with four strands.
+- id: otorao
+  headword: otorao
+  trussel: otorao
+  sources:
+  - source: bingham
+    forms:
+    - form: ótorao
+      parts:
+      - label: vi.
+        text: slandering or inventing evil storyies.
+      - label: n.
+        text: slander, invention of evil stories, lying.
+  - source: sabatier
+    forms:
+    - form: otorao
+      parts:
+      - label: n.
+        text: invention of lies, chaff, humbug, calumnies <calumny>.
+      - label: v.
+        text: to tell..., to retail..., to invent...
+      - label: red.
+        text: '*ototorao*.'
+- id: otoriki
+  headword: otoriki
+  trussel: otoriki
+  sources:
+  - source: sabatier
+    forms:
+    - form: otoriki
+      parts:
+      - label: a.
+        text: broken, smashed in pieces.
+      - label: vt.
+        text: '*otorikia*.'
+      - label: and
+        text: '*otorika*: to break, to smash, to shatter, to crush to smithereens.'
+      - label: red.
+        text: '*otorikiriki*.'
+- id: otorikia
+  headword: otorikia
+  trussel: otorikia
+  sources:
+  - source: bingham
+    forms:
+    - form: ótoríkia
+      parts:
+      - label: vt.
+        text: break into pieces as a stick.
+- id: ototo
+  headword: ototo
+  trussel: ototo
+  sources:
+  - source: bingham
+    forms:
+    - form: otóto
+      parts:
+      - label: vi.
+        text: breaking, folding or composeing.
+      - label: n.
+        text: new or recent chant.
+  - source: sabatier
+    forms:
+    - form: ototo
+      parts:
+      - label: v.
+        text: to compose.
+      - label: n.
+        text: '*te ototo*: the art of composing, composition of narrative, poems, music.'
+      - label: ex.
+        text: '*te tia ototo*: composer.'
+      - label: see
+        text: '[[oto]], [[otea]].'
+- id: ototorao
+  headword: ototorao
+  trussel: ototorao
+  sources:
+  - source: bingham
+    forms:
+    - form: otótorao
+      parts:
+      - label: vi.
+        text: frequentative of [[otorao]].
+- id: otoua
+  headword: otoua
+  trussel: otoua
+  sources:
+  - source: bingham
+    forms:
+    - form: ótouaa
+      parts:
+      - label: vt.
+        text: break in two as a stick.
+    - form: otóua
+      parts:
+      - label: n.
+        text: long waist cloth of double thickness.
+  - source: sabatier
+    forms:
+    - form: otoua
+      parts:
+      - label: v.
+        text: to break in two.
+      - label: ex.
+        text: '*oto-ten*: to break in three.'
+      - label: vt.
+        text: '*otoua*: (*otouaia*) _idem_.'
+      - label: ex.
+        text: '*otouaki* or *otouaeaki*: broken.'
+- id: otowae
+  headword: otowae
+  trussel: otowae
+  sources:
+  - source: sabatier
+    forms:
+    - form: otowae
+      parts:
+      - label: n.
+        text: rheumatism in joints of leg, foot, gout.
+      - label: v.
+        text: to have...
+- id: ou
+  headword: ou
+  trussel: ou
+  sources:
+  - source: bingham
+    forms:
+    - form: óu
+      parts:
+      - label: a.
+        text: stupid, demented, without intelligientce.
+      - label: n.
+        text: stupid person, demented person.
+  - source: sabatier
+    forms:
+    - form: ou
+      parts:
+      - label: a.
+        text: silly, stupid, simple.
+      - label: sup.
+        text: '[[tari-ou]]:'
+      - label: dim.
+        text: '[[tiriou|tiri-ou]].'
+      - label: a.
+        text: '*bura-ou*: stupid looking.'
+      - label: n.
+        text: |-
+          *te ou, te tiriou, te tari ou*: stupidity, silliness, imbecility.
+          *te nna n ou*: crowd of stupids, imbeciles.
+      - label: vc.
+        text: '*ka-oua*: to treat as..., to find...'
+- id: ouru
+  headword: ouru
+  trussel: ouru
+  sources:
+  - source: bingham
+    forms:
+    - form: óuru
+      parts:
+      - label: n.
+        text: fish.
+  - source: sabatier
+    forms:
+    - form: ouru
+      parts:
+      - label: n.
+        text: a fish, parrot fish (Abemama) [[tabou]].
+      - label: sn.
+        text: _Scarus ghobban_.
+  - source: goo-banner
+    forms:
+    - form: ouru
+      parts:
+      - label: sn.
+        text: _Scarus ghobban (ll)_.
+      - label: n.
+        text: parrotfish (sm).

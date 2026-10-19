@@ -1,0 +1,2162 @@
+- id: e
+  headword: e
+  trussel: e
+  sources:
+  - source: bingham
+    forms:
+    - form: e
+      parts:
+      - label: pron.
+        text: he, she, it.
+      - label: vi.
+        text: be in a spasm of pain.
+      - label: vi.
+        text: lay or place a line on the ground to be used as a pattern in cutting or fitting a sail.
+      - label: int.
+        text: exclamation of disapproval.
+  - source: sabatier
+    forms:
+    - form: e
+      parts:
+      - label: pron.
+        text: it, he, she.
+      - label: plural.
+        text: '*a*.'
+      - label: pref.
+        text: to a number of compound words meaning to raise, to lift, to heave.
+      - label: see
+        text: '*emangoa*, [[euta]], [[ewe]]...'
+    - form: e
+      parts:
+      - label: intj.
+        text: of disapproval. conclusion of dance songs and of certain cries or yells.
+    - form: e
+      parts:
+      - label: n.
+        text: accent, tone, air, melody, pronunciation.
+      - label: ex.
+        text: |-
+          *te e ni meang*: a northern accent.
+          *te e ni maiaki*: a southern accent.
+      - label: ex.
+        text: '*e bure ana e*: he has a bad pronunciation, his tone is false.'
+      - label: ex.
+        text: |-
+          *te e ni nimamanei*: a slow, sweet air.
+          *te e ni maraki*: lamentation or plaintive air.
+          *te e n tang*: a sad air.
+      - label: vt.
+        text: '*ea, kea, kekeia*: to lengthen the note, the air, the sound or accent in dance songs *(e...e...e...e...e...)*.'
+      - label: vc.
+        text: '*kaea*: to intensify the sound, etc.'
+      - label: see
+        text: '[[erake]], [[ebuaka|e-buaka]], [[eraoi|e-raoi]].'
+    - form: e
+      parts:
+      - label: n.
+        text: pattern, model, copy, design (for sail or clothes).
+      - label: vt.
+        text: |-
+          *ea, ena (te ie, te kunikai)*; to take the measure for cutting out sail or clothes.
+          *taona en te ie*: to peg out and put string around plan for cutting out a sail (lit.), lay out plan of sail.
+    - form: e
+      parts:
+      - label: n.
+        text: '*te kanoa n e, kanoan te e*: enlarging of sail corresponding to yard arm top and bottom
+          (the plan on ground should show a curve).'
+- id: ea
+  headword: ea
+  trussel: ea
+  sources:
+  - source: bingham
+    forms:
+    - form: éa
+      parts:
+      - label: int.
+        text: exclamation of surprise.
+      - label: vt.
+        text: measure and fit a sail.
+      - label: n.
+        text: million.
+    - form: '''éa'
+      parts:
+      - label: n.
+        text: hare (ENG).
+  - source: sabatier
+    forms:
+    - form: ea
+      parts:
+      - label: int.
+        text: Ha! (short cry of surprise).
+      - label: syn.
+        text: '*eang*!'
+    - form: ea
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to take the measure for cutting out a sail or clothes.
+      - label: see
+        text: '[[e]].'
+    - form: ea
+      homograph: 2
+      parts:
+      - label: vt.
+        text: '*ea, eia*: to give the note or tone of a dance song before starting.'
+      - label: see
+        text: '*ake-e-e-ia*!'
+    - form: ea
+      homograph: 3
+      parts:
+      - label: n.
+        text: air, atmosphere (ENG).
+- id: ean
+  headword: ean
+  trussel: ean
+  sources:
+  - source: bingham
+    forms:
+    - form: ean/
+      parts:
+      - label: int.
+        text: exclamation of surprise.
+- id: eba
+  headword: eba
+  trussel: eba
+  sources:
+  - source: bingham
+    forms:
+    - form: éb'a
+      parts:
+      - label: a.
+        text: high, as the eaves of a house.
+    - form: éba
+      parts:
+      - label: a.
+        text: chronic as a sickness.
+      - label: n.
+        text: pan leaf case containing the feathers of the *eitei* to be used in the game of *kabane*.
+      - label: n.
+        text: small case for fish-hooks.
+      - label: n.
+        text: ephah [dry measure] (HEB).
+  - source: sabatier
+    forms:
+    - form: eba
+      parts:
+      - label: n.
+        text: a box for small objects, trinket box (formerly) packet, parcel, things parcelled together.
+      - label: vt.
+        text: '*ebana*: to pack up, to wrap up into parcels.'
+    - form: eba
+      homograph: 1
+      parts:
+      - label: va.
+        text: '*eb''aeb''a, eb''anako*: to raise up, spread out or outstretched in curve form, protracting,
+          spreading, stretching out.'
+      - label: vc.
+        text: '*ka-eb''a, kaeb''a nako*: to curve, to bend slightly, to make a nice curve on a *kabane*
+          line or a kite.'
+      - label: vc.
+        text: '*ka-eb''a, ka-eb''a raoi, ka-eb''a nako*: _idem._.'
+      - label: ex.
+        text: |-
+          *e eba nako te ora*: the beach at low tide extends a long distance.
+          *(e tangi baba) e eba nako te rongorongo*: the news has spread everywhere.
+          *e tangi baba nako te rongorongo*: _idem_.
+          *e eba te aoraki*: the sickness is chronic.
+          *eba, ebaeba, ebanako*:
+      - label: va.
+        text: to get up... stand up promptly.
+      - label: n.
+        text: early riser, working diligently (by order).
+- id: ebaeba
+  headword: ebaeba
+  trussel: ebaeba
+  sources:
+  - source: bingham
+    forms:
+    - form: ebáeba
+      parts:
+      - label: n.
+        text: raft, float.
+      - label: vi.
+        text: rafting.
+    - form: eb'áeb'a
+      parts:
+      - label: n.
+        text: horizontal stick at the eaves of a house which support the thatch.
+  - source: sabatier
+    forms:
+    - form: ebaeba
+      parts:
+      - label: n.
+        text: the lowest horizontal lattice of a native roof, joining the ends of the *ba ni kakari* and
+          supporting the thatch.
+      - label: see
+        text: '[[eba]].'
+    - form: ebaeba
+      homograph: 1
+      parts:
+      - label: n.
+        text: a raft, barge.
+      - label: v.
+        text: to make or use a...
+- id: ebana
+  headword: ebana
+  trussel: ebana
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebana
+      parts:
+      - label: vt.
+        text: to put in packets, to pack.
+- id: ebanako
+  headword: ebanako
+  trussel: ebanako
+  sources:
+  - source: bingham
+    forms:
+    - form: éb'anako
+      parts:
+      - label: a.
+        text: prompt, ready, or quick to do, cheerfully obedient.
+      - label: a.
+        text: very wide, as a verandah.
+- id: ebaotere
+  headword: ebaotere
+  trussel: ebaotere
+  sources:
+  - source: bingham
+    forms:
+    - form: ebáotere
+      parts:
+      - label: n.
+        text: apostle (ENG).
+- id: ebatobi
+  headword: ebatobi
+  trussel: ebatobi
+  sources:
+  - source: bingham
+    forms:
+    - form: ebátobi
+      parts:
+      - label: n.
+        text: apostrophe (ENG).
+- id: ebe
+  headword: ebe
+  trussel: ebe
+  sources:
+  - source: bingham
+    forms:
+    - form: ébe
+      parts:
+      - label: n.
+        text: ape (ENG).
+- id: ebera
+  headword: ebera
+  trussel: ebera
+  sources:
+  - source: bingham
+    forms:
+    - form: '''ébera'
+      parts:
+      - label: n.
+        text: Hebrew (HEB).
+- id: eberi
+  headword: eberi
+  trussel: eberi
+  sources:
+  - source: bingham
+    forms:
+    - form: éberi
+      parts:
+      - label: n.
+        text: April (ENG).
+  - source: sabatier
+    forms:
+    - form: Eberi
+      parts:
+      - label: n.
+        text: April (ENG).
+- id: ebiebi
+  headword: ebiebi
+  trussel: ebiebi
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebiebi
+      parts:
+      - label: n.
+        text: a state of abundance, of liberty, of independence, the sole heir, master.
+      - label: vc.
+        text: '*kaebiebia*: to make... to esteem as...'
+- id: ebikobo
+  headword: ebikobo
+  trussel: ebikobo
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebikobo
+      parts:
+      - label: n.
+        text: bishop (GR).
+      - label: ex.
+        text: |-
+          *te oko n ebikobo*: a crozier.
+          *te bara n ebikobo*: a mitre.
+- id: ebone
+  headword: ebone
+  trussel: ebone
+  sources:
+  - source: bingham
+    forms:
+    - form: ébone
+      parts:
+      - label: n.
+        text: ebony (ENG).
+- id: ebota
+  headword: ebota
+  trussel: ebota
+  sources:
+  - source: bingham
+    forms:
+    - form: ébota
+      parts:
+      - label: n.
+        text: ephod [priest's vestment] (ENG).
+- id: ebu
+  headword: ebu
+  trussel: ebu
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebu
+      parts:
+      - label: na.
+        text: a state of discouragement.
+      - label: vc.
+        text: '*kaebu, kaebua*: to discourage.'
+- id: ebuaka
+  headword: ebuaka
+  trussel: ebuaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebuaka
+      parts:
+      - label: n.
+        text: a bad accent, wrong tone.
+      - label: v.
+        text: to have a bad accent.
+      - label: a.
+        text: badly cut or measured (sail, clothes).
+- id: ebuebu
+  headword: ebuebu
+  trussel: ebuebu
+  sources:
+  - source: sabatier
+    forms:
+    - form: ebuebu
+      parts:
+      - label: suf.
+        text: showing intensity of colours.
+      - label: sup.
+        text: '[[takaebuebu|taka-ebuebu]]: brilliant, dazzling, bright.'
+      - label: ex.
+        text: '*te ebuebu ni mamira*.'
+- id: ei
+  headword: ei
+  trussel: ei
+  sources:
+  - source: bingham
+    forms:
+    - form: eéi
+      parts:
+      - label: int.
+        text: satisfaction or pleasure when one is praised, like *oi*.
+    - form: éi
+      parts:
+      - label: vi.
+        text: bend over as a tree.
+  - source: sabatier
+    forms:
+    - form: ei
+      parts:
+      - label: int.
+        text: showing a sudden pleasure or a pleasant surprise.
+    - form: ei
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*te moan ei, te kaua ei, te katen ei*: a first marriage, a second marriage, etc.'
+    - form: ei
+      homograph: 2
+      parts:
+      - label: v.
+        text: to lean, to incline.
+      - label: n.
+        text: '*ein te...* the inclination, direction, straight of.'
+      - label: ex.
+        text: '*ein te kunnikai, te kie*: grain of cloth or strands.'
+      - label: fig.
+        text: a leaning or inclining towards.
+      - label: ex.
+        text: '*ein te nano*: inclination of the heart.'
+      - label: v.
+        text: '*ei-rake, eirio, ei nako*: to lean towards the east, the west, to lean much.'
+      - label: vt.
+        text: '*eirakea, eirioa, einakoa...*'
+      - label: vc.
+        text: |-
+          *ka-eia...*
+          *kaeinrakea, ka-einrioa, ka-einnakoa*: to make lean or incline towards east... west... away from.
+- id: eiei
+  headword: eiei
+  trussel: eiei
+  sources:
+  - source: bingham
+    forms:
+    - form: éiei
+      parts:
+      - label: vi.
+        text: frequentative of [[ei]] sway to and fro.
+  - source: sabatier
+    forms:
+    - form: eiei
+      parts:
+      - label: v.
+        text: to sway, lean from one side to the other.
+      - label: n.
+        text: '*eiein te... ka-eiein te...* the swaying of...'
+      - label: vc.
+        text: '*ka-eieia, kaka-eieia*: to cause to sway from side to side (the top of a tree or a long
+          rod).'
+      - label: see
+        text: '[[maeiei]].'
+- id: einaberuberu
+  headword: einaberuberu
+  trussel: einaberuberu
+  sources:
+  - source: sabatier
+    forms:
+    - form: einaberuberu
+      parts:
+      - label: a.
+        text: afraid, cowardly.
+- id: einako
+  headword: einako
+  trussel: einako
+  sources:
+  - source: bingham
+    forms:
+    - form: éinako
+      parts:
+      - label: vi.
+        text: slant as a tree, fall as a slanting tree.
+  - source: sabatier
+    forms:
+    - form: einako
+      parts:
+      - label: v.
+        text: to lean very much...
+      - label: n.
+        text: '*einakon*... a considerable incline.'
+      - label: vt.
+        text: '*einakoa*.'
+- id: einakoa
+  headword: einakoa
+  trussel: einakoa
+  sources:
+  - source: bingham
+    forms:
+    - form: éinákoa
+      parts:
+      - label: vt.
+        text: fall or come upon as a tree on a house.
+- id: eiriki
+  headword: eiriki
+  trussel: eiriki
+  sources:
+  - source: bingham
+    forms:
+    - form: éiriki
+      parts:
+      - label: n.
+        text: man's sister-in-law, woman's brother-in-law.
+      - label: vi.
+        text: have intercourse with a wife's sister.
+  - source: sabatier
+    forms:
+    - form: eiriki
+      parts:
+      - label: n.
+        text: a man's sister-in-law or a woman's brother-in-law. The sisters and cousins of a man's wife
+          are his *eiriki*. The brothers and cousins of her husband are a woman's *eiriki*.
+      - label: vt.
+        text: |-
+          *eirikia*: to seduce.
+          *eirikina*: to have for brother or sister-in-law, to sin with... or seduce...
+      - label: vt.
+        text: to have... to adopt as...
+- id: eirikia
+  headword: eirikia
+  trussel: eirikia
+  sources:
+  - source: bingham
+    forms:
+    - form: eiríkia
+      parts:
+      - label: vt.
+        text: seduce a wife's sister.
+- id: eitei
+  headword: eitei
+  trussel: eitei
+  sources:
+  - source: bingham
+    forms:
+    - form: éitei
+      parts:
+      - label: n.
+        text: bird.
+    - form: eitéi
+      parts:
+      - label: va.
+        text: performing finely in the _ruoia_ [chanting].
+  - source: sabatier
+    forms:
+    - form: eitei
+      parts:
+      - label: n.
+        text: frigate bird.
+      - label: ex.
+        text: species -- *te ubaitoi, te bairaku,* *ten naru,* or *naru, te uba-itoi* (young of...).
+      - label: ex.
+        text: |-
+          *te bai raku*: frigate bird with long wings.
+          *Ten Naru*... a rare species, fictitious.
+      - label: fig.
+        text: '*te eitei* (N.) *te ubaitoi* (S.) impostor, a parasite, living at another''s expense as
+          a frigate bird seizes fish caught by other birds.'
+      - label: v.
+        text: to imitate the gliding of *eitei* when dancing -- arms extended but supple -- very elegant
+          dancing, special to some families in the north, originated in Marakei.
+      - label: ex.
+        text: '*e eitei, te bai n eitei*.'
+      - label: n.
+        text: a small spotted ray found in lagoon.
+      - label: syn.
+        text: '[[kibakiba]].'
+  - source: goo-banner
+    forms:
+    - form: eitei
+      parts:
+      - label: sn.
+        text: _Fregata ariel ariel_.
+      - label: n.
+        text: lesser frigate bird (aa).
+    - form: eitei
+      homograph: 1
+      parts:
+      - label: sn.
+        text: _Gregata minor palmerstoni_.
+      - label: n.
+        text: Greater frigate bird, Pacific frigate bird (aa) (The adult male is dark brown to black all
+          over, with a bluish grey bill and black, brown or pink feet. It is the darkest bird of either
+          species and is thus easily identified. The female has a dark brown or blackish head, neck and
+          upperparts and abdomen, but the throat and breast are white. Immatures have white or rusty colored
+          heads and patches of white on the breast and abdomen; by the shape of these patches it is possible
+          to tell whether the bird is a male or female.).
+- id: eka
+  headword: eka
+  trussel: eka
+  sources:
+  - source: bingham
+    forms:
+    - form: éka
+      parts:
+      - label: vt.
+        text: oppose, resist, go against.
+      - label: a.
+        text: convalescent.
+      - label: n.
+        text: acre (ENG).
+  - source: sabatier
+    forms:
+    - form: eka
+      parts:
+      - label: n.
+        text: acre (ENG).
+    - form: eka
+      homograph: 1
+      parts:
+      - label: v.
+        text: to recover, to get better, to be convalescent.
+      - label: n.
+        text: '*te eka, ekan, ekanakon...* recovery, convalescence.'
+      - label: vc.
+        text: '*ka-eka*: to help to recover or get better.'
+      - label: vt.
+        text: '*ka-eka matana*: to raise eyes.'
+      - label: vc.
+        text: '*ka-ekanakoa*: to prolong a convalescence... to complete convalescence.'
+    - form: eka
+      homograph: 2
+      parts:
+      - label: vt.
+        text: '*ekaeka, ekanakoa*: to overthrow, to throw down, to jostle.'
+      - label: fig.
+        text: to reject, to push back, to refute, to take no notice of <ignore>.
+- id: ekara
+  headword: ekara
+  trussel: ekara
+  sources:
+  - source: bingham
+    forms:
+    - form: ekára
+      parts:
+      - label: vt.
+        text: begin a speech or song.
+  - source: sabatier
+    forms:
+    - form: ekara
+      parts:
+      - label: from.
+        text: '[[eka]].'
+      - label: vt.
+        text: fig. to contradict, to be opposed to, to reject...
+      - label: ex.
+        text: |-
+          *e ekarai*: he rejected me, opposed my ideas.
+          *ekara te kuna*: to begin a song, a speech.
+- id: ekaretia
+  headword: ekaretia
+  trussel: ekaretia
+  sources:
+  - source: bingham
+    forms:
+    - form: ekarétia
+      parts:
+      - label: n.
+        text: church (GR).
+  - source: sabatier
+    forms:
+    - form: Ekaretia
+      parts:
+      - label: n.
+        text: the Church.
+      - label: ex.
+        text: |-
+          *kain te Ekaretia*: members of the Church.
+          *an te Ekaretia*: foundation of...
+- id: eke
+  headword: eke
+  trussel: eke
+  sources:
+  - source: bingham
+    forms:
+    - form: éke
+      parts:
+      - label: n.
+        text: coconut of later stage than *takataka*.
+      - label: a.
+        text: famous, well known, distinguished.
+  - source: sabatier
+    forms:
+    - form: eke
+      parts:
+      - label: n.
+        text: |-
+          an old coconut.
+          a crisp cake of pandanus fruit.
+      - label: a.
+        text: crisp, crackling, dry, crusty.
+      - label: vc.
+        text: '*ka-ekea*: to make crisp, to dry over coals, to dry up.'
+    - form: eke
+      homograph: 1
+      parts:
+      - label: from.
+        text: '[[kea]] and *keaki*.'
+      - label: a.
+        text: famous, renowned, celebrated, illustrious.
+      - label: ex.
+        text: |-
+          *ba ekeke*: of good stock, an illustrious family.
+          *te ka-eke*: an incantation in order to become famous.
+      - label: vc.
+        text: '*ka-ekea*: to make..., to exalt, to extol, to praise.'
+    - form: eke
+      homograph: 2
+      parts:
+      - label: v.
+        text: '*ekeke*. to break (with resounding noise), the action of...'
+      - label: n.
+        text: '*te kai n ekeke*: a crowbar, a pick, etc.'
+- id: ekea
+  headword: ekea
+  trussel: ekea
+  sources:
+  - source: bingham
+    forms:
+    - form: ékea
+      parts:
+      - label: vt.
+        text: drill or dig out a hole in a rock.
+  - source: sabatier
+    forms:
+    - form: ekea
+      parts:
+      - label: vt.
+        text: '*ekekea*: to excavate by breaking through stone or rock.'
+      - label: vc.
+        text: '*ka ekenakoa*: to blow up the rock.'
+      - label: v.
+        text: '*ekeanako, kaekeanako*.'
+      - label: ex.
+        text: '*N na ekea tabanoum*: I''ll break your skull.'
+- id: ekeke
+  headword: ekeke
+  trussel: ekeke
+  sources:
+  - source: bingham
+    forms:
+    - form: ekeéke
+      parts:
+      - label: vi.
+        text: drilling or digging out a hole in a rock.
+- id: ekira
+  headword: ekira
+  trussel: ekira
+  sources:
+  - source: bingham
+    forms:
+    - form: ékira
+      parts:
+      - label: n.
+        text: edge or border of a mat.
+      - label: vt.
+        text: finish off the edge of a mat.
+  - source: sabatier
+    forms:
+    - form: ekira
+      parts:
+      - label: from.
+        text: '[[eke]].'
+      - label: vt.
+        text: to bend a dry or crisp thing, to roll up pandanus leaves, to weave the edge of a mat.
+      - label: n.
+        text: the finishing off of a mat, the border of a mat.
+- id: eko
+  headword: eko
+  trussel: eko
+  sources:
+  - source: sabatier
+    forms:
+    - form: eko
+      parts:
+      - label: n.
+        text: a pilgrim's staff, a walking stick.
+      - label: vt.
+        text: |-
+          *ekoa (okoai, okoiko, okoia)*: to walk with a stick.
+          *ekona, okona*: to have or use a stick for walking.
+      - label: syn.
+        text: '*to oko* (euph.).'
+- id: em
+  headword: em
+  trussel: em
+  sources:
+  - source: bingham
+    forms:
+    - form: em
+      parts:
+      - label: n.
+        text: coral stone used in rasping.
+  - source: sabatier
+    forms:
+    - form: em
+      parts:
+      - label: n.
+        text: a coral stone, porous, soft and light.
+      - label: n.
+        text: species of sea urchin with sharp spikes (dangerous).
+      - label: syn.
+        text: '[[katuiaia]] (N.).'
+- id: emangaoa
+  headword: emangaoa
+  trussel: emangaoa
+  sources:
+  - source: sabatier
+    forms:
+    - form: emangaoa
+      parts:
+      - label: vt.
+        text: to dislocate, to upset, to scatter, to break up the soil.
+      - label: from.
+        text: '[[e]] lift up and [[mangao]] in disorder.'
+- id: embaea
+  headword: embaea
+  trussel: embaea
+  sources:
+  - source: sabatier
+    forms:
+    - form: Embaea
+      parts:
+      - label: n.
+        text: empire (ENG).
+      - label: ex.
+        text: '*bongin te embaea*: Empire Day.'
+- id: embaia
+  headword: embaia
+  trussel: embaia
+  sources:
+  - source: bingham
+    forms:
+    - form: embaia
+      parts:
+      - label: n.
+        text: empire (ENG).
+      - label: bk.
+        text: Geog p 20.
+- id: embera
+  headword: embera
+  trussel: embera
+  sources:
+  - source: sabatier
+    forms:
+    - form: embera
+      parts:
+      - label: n.
+        text: emperor (ENG).
+- id: emberoa
+  headword: emberoa
+  trussel: emberoa
+  sources:
+  - source: bingham
+    forms:
+    - form: émberoa
+      parts:
+      - label: n.
+        text: emperor (ENG).
+- id: emeraori
+  headword: emeraori
+  trussel: emeraori
+  sources:
+  - source: bingham
+    forms:
+    - form: émeraori
+      parts:
+      - label: n.
+        text: emerods [hemorrhoids] (ENG).
+- id: ena
+  headword: ena
+  trussel: ena
+  sources:
+  - source: sabatier
+    forms:
+    - form: ena
+      parts:
+      - label: vt.
+        text: to give the note, to impose one's ideas or manner, to conduct, to lead, to guide.
+      - label: syn.
+        text: '[[arona]].'
+      - label: from.
+        text: '[[e]].'
+    - form: ena
+      homograph: 1
+      parts:
+      - label: vt.
+        text: to be conformed to model, to copy, to cut to pattern.
+      - label: syn.
+        text: '[[ea]].'
+- id: enarinai
+  headword: enarinai
+  trussel: enarinai
+  sources:
+  - source: sabatier
+    forms:
+    - form: enarinai
+      parts:
+      - label: v.
+        text: to move rapidly like...
+- id: enatinai
+  headword: enatinai
+  trussel: enatinai
+  sources:
+  - source: bingham
+    forms:
+    - form: énatinai
+      parts:
+      - label: vi.
+        text: go toward or onto the shore, as fish when frightened.
+  - source: sabatier
+    forms:
+    - form: enatinai
+      parts:
+      - label: a.
+        text: move rapidly like..., rapid as... (canoe).
+- id: ene
+  headword: ene
+  trussel: ene
+  sources:
+  - source: bingham
+    forms:
+    - form: éne
+      parts:
+      - label: n.
+        text: very young coconut tree.
+      - label: a.
+        text: being in the *ene* stage, as a coconut tree.
+  - source: sabatier
+    forms:
+    - form: ene
+      parts:
+      - label: n.
+        text: a very young coconut tree, the leaves not yet split.
+      - label: a.
+        text: '*ene, enaene*: abundance of...'
+- id: enene
+  headword: enene
+  trussel: enene
+  sources:
+  - source: bingham
+    forms:
+    - form: eneene
+      parts:
+      - label: a.
+        text: abounding in very young coconut trees.
+- id: eng
+  headword: eng
+  trussel: eng
+  sources:
+  - source: bingham
+    forms:
+    - form: eng
+      parts:
+      - label: adv.
+        text: yes.
+  - source: sabatier
+    forms:
+    - form: eng
+      parts:
+      - label: adv.
+        text: yes.
+      - label: ex.
+        text: '*tao eng!* perhaps so.'
+      - label: syn.
+        text: |-
+          *bare! bareng! barengaia!* (S.).
+          that's so. (*ba are ngaia*).
+      - label: v.
+        text: '*engeng, ka engeng*: to approve in word only, to say yes and do nothing, lazy, idle.'
+      - label: vc.
+        text: '*ka-enga*: to say yes, to approve, to admit.'
+- id: enga
+  headword: enga
+  trussel: enga
+  sources:
+  - source: bingham
+    forms:
+    - form: énga
+      parts:
+      - label: n.
+        text: coral on the flats, that emits much odor.
+  - source: sabatier
+    forms:
+    - form: enga
+      parts:
+      - label: n.
+        text: stone or coral rock giving out a bad smell found on some beaches.
+      - label: sn.
+        text: _Spongiaire_.
+      - label: a.
+        text: '*engaenga*: covered with *enga*.'
+      - label: ex.
+        text: '*tabuenga* raised up with...'
+      - label: from.
+        text: '[[tabuki]].'
+    - form: enga
+      homograph: 1
+      parts:
+      - label: int.
+        text: '*enga? engara?* where is it?'
+  - source: luomala
+    forms:
+    - form: enga
+      parts:
+      - label: sn.
+        text: _Acropora & Pocillopora (Coelenterates)_.
+      - label: n.
+        text: branched bush type coral.
+- id: engaenga
+  headword: engaenga
+  trussel: engaenga
+  sources:
+  - source: bingham
+    forms:
+    - form: engáenga
+      parts:
+      - label: a.
+        text: covered over with much *enga*.
+- id: engiran
+  headword: engiran
+  trussel: engiran
+  sources:
+  - source: sabatier
+    forms:
+    - form: Engiran
+      parts:
+      - label: n.
+        text: England (ENG).
+- id: enna
+  headword: enna
+  trussel: enna
+  sources:
+  - source: bingham
+    forms:
+    - form: '''En/na'
+      parts:
+      - label: n.
+        text: henna [shrub,dye] (ENG).
+- id: ennano
+  headword: ennano
+  trussel: ennano
+  sources:
+  - source: sabatier
+    forms:
+    - form: e-n-nano
+      parts:
+      - label: n.
+        text: '*enanoa* a movement of anger.'
+      - label: v.
+        text: to show, to express anger towards...
+- id: era
+  headword: era
+  trussel: era
+  sources:
+  - source: bingham
+    forms:
+    - form: éra
+      parts:
+      - label: a.
+        text: |-
+          stripped of coconuts.
+          deserted as a flat by fish.
+  - source: sabatier
+    forms:
+    - form: era
+      parts:
+      - label: a.
+        text: stripped, laid bare, without fruit, devoid of plants... fish.
+      - label: vc.
+        text: '*ka-era*: to strip, to lay bare.'
+- id: erake
+  headword: erake
+  trussel: erake
+  sources:
+  - source: bingham
+    forms:
+    - form: érake
+      parts:
+      - label: vi.
+        text: run up onto the beach as a canoe or boat.
+      - label: vi.
+        text: be quick tempered.
+  - source: sabatier
+    forms:
+    - form: erake
+      parts:
+      - label: v.
+        text: to go up, upwards.
+      - label: fig.
+        text: quick tempered.
+      - label: vc.
+        text: '*kaerakea te wa*: to beach a canoe.'
+    - form: erake
+      homograph: 1
+      parts:
+      - label: v.
+        text: to fly into a passion, to flare up, to be irritated, quick tempered, susceptible.
+      - label: ex.
+        text: '*kakai-erake*: quick-tempered, go off like a packet of crackers.'
+      - label: n.
+        text: '*te erake*: irascibility.'
+      - label: vc.
+        text: '*ka-erakea*: to irritate, to rouse.'
+- id: eraoi
+  headword: eraoi
+  trussel: eraoi
+  sources:
+  - source: sabatier
+    forms:
+    - form: eraoi
+      parts:
+      - label: a.
+        text: having a good accent, good style, well cut, well made.
+- id: ere
+  headword: ere
+  trussel: ere
+  sources:
+  - source: sabatier
+    forms:
+    - form: ere
+      parts:
+      - label: v.
+        text: to lop branches, to trim, to prune, to cut.
+      - label: n.
+        text: '*te erere*: the act of..., cutting, lopping (branches, leaves, stems).'
+- id: erea
+  headword: erea
+  trussel: erea
+  sources:
+  - source: bingham
+    forms:
+    - form: érea
+      parts:
+      - label: vt.
+        text: slash.
+  - source: sabatier
+    forms:
+    - form: erea
+      parts:
+      - label: vt.
+        text: '*erea, ererea*: to lop, to cut, to trim.'
+      - label: vc.
+        text: |-
+          *ka-erere*: cause to do lopping.
+          *ka-ererea*: to have cut or lopped, etc.
+      - label: see
+        text: '[[eremao]], [[erebaba]].'
+- id: erebaba
+  headword: erebaba
+  trussel: erebaba
+  sources:
+  - source: sabatier
+    forms:
+    - form: erebaba
+      parts:
+      - label: v.
+        text: to cut a path through jungle.
+      - label: n.
+        text: a magic formula, a victory banquet.
+      - label: ex.
+        text: '*e erebaba te ang*: the wind destroys all before it, it opens a passage by destruction.'
+- id: erebanti
+  headword: erebanti
+  trussel: erebanti
+  sources:
+  - source: bingham
+    forms:
+    - form: érebanti
+      parts:
+      - label: n.
+        text: elephant (ENG).
+  - source: sabatier
+    forms:
+    - form: erebanti
+      parts:
+      - label: n.
+        text: elephant (ENG).
+- id: eremao
+  headword: eremao
+  trussel: eremao
+  sources:
+  - source: sabatier
+    forms:
+    - form: eremao
+      parts:
+      - label: v.
+        text: to cut down *mao* trees (a useless shrub, salt bush), to clear land of this noxious plant.
+      - label: ex.
+        text: '*e eremao namakaina*: the moon is at its second last day (it can be seen just above or
+          through the *mao* trees at 6 p.m.).'
+      - label: n.
+        text: a banquet given by the relations of a woman who is to give birth shortly.
+- id: erene
+  headword: erene
+  trussel: erene
+  sources:
+  - source: bingham
+    forms:
+    - form: '''érene'
+      parts:
+      - label: a.
+        text: Grecian (GR).
+  - source: sabatier
+    forms:
+    - form: Erene
+      parts:
+      - label: na.
+        text: Greek language, Greece (GR).
+- id: erere
+  headword: erere
+  trussel: erere
+  sources:
+  - source: bingham
+    forms:
+    - form: ereére
+      parts:
+      - label: vi.
+        text: slashing.
+- id: ererea
+  headword: ererea
+  trussel: ererea
+  sources:
+  - source: bingham
+    forms:
+    - form: erérea
+      parts:
+      - label: vt.
+        text: frequentative of [[erea]].
+- id: eri
+  headword: eri
+  trussel: eri
+  sources:
+  - source: sabatier
+    forms:
+    - form: eri
+      parts:
+      - label: n.
+        text: a deep-water fish, long, slender and having four hooked fins.
+      - label: syn.
+        text: '[[tauri]] (S.).'
+      - label: sn.
+        text: _Promichlys-prometheuss_.
+    - form: eri
+      homograph: 1
+      parts:
+      - label: v.
+        text: '*erieri*: to capture with a landing net (fish, birds, butterflies, insects, fowls, etc.).'
+      - label: vt.
+        text: '*erieria*: to catch with...'
+      - label: see
+        text: '[[tiera]].'
+  - source: goo-banner
+    forms:
+    - form: eri
+      parts:
+      - label: sn.
+        text: _Promichthys prometheus (ll)_.
+  - source: luomala
+    forms:
+    - form: eri
+      parts:
+      - label: sn.
+        text: _Promethichthys prometheus (gempylidae)_.
+      - label: n.
+        text: snake mackeral, oil fish.
+- id: eria
+  headword: eria
+  trussel: eria
+  sources:
+  - source: bingham
+    forms:
+    - form: éria
+      parts:
+      - label: vt.
+        text: scoop, take up with a spoon or scoop.
+      - label: n.
+        text: spoon, scoop.
+  - source: sabatier
+    forms:
+    - form: eria
+      parts:
+      - label: n.
+        text: an ancient spoon, made from jaw-bone of fish or of wood, kind of scoop, ladle.
+      - label: vt.
+        text: '*eria, erieria*: to eat or take with...'
+      - label: vc.
+        text: '*ka*...'
+- id: erieri
+  headword: erieri
+  trussel: erieri
+  sources:
+  - source: bingham
+    forms:
+    - form: érieri
+      parts:
+      - label: vi.
+        text: scooping up as fish.
+      - label: n.
+        text: young *ikaraoi*.
+  - source: sabatier
+    forms:
+    - form: erieri
+      parts:
+      - label: n.
+        text: a young taro of *ikaraoi* species.
+- id: erieria
+  headword: erieria
+  trussel: erieria
+  sources:
+  - source: bingham
+    forms:
+    - form: ériéria
+      parts:
+      - label: vt.
+        text: frequentative of [[eria]].
+- id: ering
+  headword: ering
+  trussel: ering
+  sources:
+  - source: bingham
+    forms:
+    - form: '''Éring'
+      parts:
+      - label: n.
+        text: herring (ENG).
+  - source: sabatier
+    forms:
+    - form: ering
+      parts:
+      - label: n.
+        text: herring <fish> (ENG).
+- id: eriti
+  headword: eriti
+  trussel: eriti
+  sources:
+  - source: bingham
+    forms:
+    - form: '''eériti'
+      parts:
+      - label: n.
+        text: Hades (ENG).
+- id: eta
+  headword: eta
+  trussel: eta
+  sources:
+  - source: bingham
+    forms:
+    - form: éta
+      parts:
+      - label: adv.
+        text: up, on high, above.
+      - label: n.
+        text: shore or land as contrasted with the lagoon.
+      - label: n.
+        text: heaven.
+  - source: sabatier
+    forms:
+    - form: eta
+      parts:
+      - label: n.
+        text: the top, the upper, the heavens (as opposed to the earth), the shore as opposed to the sea,
+          the land.
+      - label: a.
+        text: 'high; *etaeta*: very high.'
+      - label: adv.
+        text: '*i eta*: above, ashore, over.'
+      - label: ex.
+        text: |-
+          *nako eta*: upwards.
+          *mai eta*: from above, from the top.
+          *i eta i eta*: far up.
+      - label: see
+        text: '[[rieta|ri-eta]], [[rietata]].'
+- id: ete
+  headword: ete
+  trussel: ete
+  sources:
+  - source: sabatier
+    forms:
+    - form: ete
+      parts:
+      - label: n.
+        text: ornament, decoration.
+      - label: v.
+        text: to decorate.
+- id: etete
+  headword: etete
+  trussel: etete
+  sources:
+  - source: bingham
+    forms:
+    - form: etéte
+      parts:
+      - label: vi.
+        text: trimming with a fringe as a house or dress.
+      - label: n.
+        text: trimming, decoration.
+- id: etetena
+  headword: etetena
+  trussel: etetena
+  sources:
+  - source: bingham
+    forms:
+    - form: etétena
+      parts:
+      - label: vt.
+        text: trim with fringe, decorate.
+- id: eti
+  headword: eti
+  trussel: eti
+  sources:
+  - source: bingham
+    forms:
+    - form: éti
+      parts:
+      - label: a.
+        text: |-
+          straight, not crooked, correct.
+          erect.
+      - label: n.
+        text: straightness,correctness, erectness.
+  - source: sabatier
+    forms:
+    - form: eti
+      parts:
+      - label: n.
+        text: rectitude, justice, justness.
+      - label: fig.
+        text: equity, justice, straightness, righteousness.
+      - label: a.
+        text: straight, exact, just, equitable, righteous, sensible, judicious, reasonable.
+      - label: ex.
+        text: |-
+          *kaieti, kakaieti*: easily rectified, easily straightened.
+          *eti rake, eti rio*: straight east, straight west.
+          *eti nako*: all straight.
+          *etiruru*: very straight.
+      - label: vt.
+        text: '*etirakea*: to guide straight towards the sky.'
+      - label: syn.
+        text: '*kaetarakea*.'
+      - label: ex.
+        text: '*e etirakea karawa*: it went straight towards the heavens.'
+      - label: vc.
+        text: '*kaeti*: to straighten, to right, to rectify, to correct, to interpret, to put in order,
+          to ask permission.'
+      - label: n.
+        text: |-
+          *te tia kaetieti*: one who corrects, puts in order, dispenses justice, judges.
+          *te tia kakaeti*: one who puts in order, intercedes, asks permission.*te tia kaeti taeka*: an interpreter.
+          *te bong ni kaeti*: the day of judgment -- last day.
+          *te kaeti*: rectification, asking permission, putting in order, a notice, a warning.
+      - label: vc.
+        text: '*kaeta, kaetieta, kakaeta, kakaetieta*: to straighten, to rectify, to correct, to put in
+          order, to guide towards... to put in line or in order, to reconcile with...'
+- id: etieti
+  headword: etieti
+  trussel: etieti
+  sources:
+  - source: bingham
+    forms:
+    - form: étiéti
+      parts:
+      - label: a.
+        text: easily straightened out as a poor fish-hook.
+- id: etinimeang
+  headword: etinimeang
+  trussel: etinimeang
+  sources:
+  - source: sabatier
+    forms:
+    - form: Etinimeang
+      parts:
+      - label: n.
+        text: a star.
+- id: etirake
+  headword: etirake
+  trussel: etirake
+  sources:
+  - source: sabatier
+    forms:
+    - form: etirake
+      parts:
+      - label: a.
+        text: straight up, going straight up... east, landwards.
+- id: etirakea
+  headword: etirakea
+  trussel: etirakea
+  sources:
+  - source: sabatier
+    forms:
+    - form: etirakea
+      parts:
+      - label: vt.
+        text: to place upwards.
+      - label: vc.
+        text: '*kaetirakea*: to stand, to place straight upwards.'
+- id: etirio
+  headword: etirio
+  trussel: etirio
+  sources:
+  - source: sabatier
+    forms:
+    - form: etirio
+      parts:
+      - label: a.
+        text: to be, to go, to tend downwards, westwards..., seawards.
+- id: etiruru
+  headword: etiruru
+  trussel: etiruru
+  sources:
+  - source: bingham
+    forms:
+    - form: étirúru
+      parts:
+      - label: a.
+        text: very straight.
+  - source: sabatier
+    forms:
+    - form: etiruru
+      parts:
+      - label: sup.
+        text: superlative of [[eti]].
+      - label: a.
+        text: very straight, stretched straight at one stroke.
+      - label: vc.
+        text: '*kaetirurua*: to make..., to cause..., to stretch.'
+- id: eu
+  headword: eu
+  trussel: eu
+  sources:
+  - source: sabatier
+    forms:
+    - form: eu
+      parts:
+      - label: v.
+        text: '*eu, eueu*, to lift up.'
+      - label: see
+        text: '[[euta]].'
+- id: eua
+  headword: eua
+  trussel: eua
+  sources:
+  - source: sabatier
+    forms:
+    - form: Eva
+      parts:
+      - label: n.
+        text: Eve (ENG).
+- id: euangkerio
+  headword: euangkerio
+  trussel: euangkerio
+  sources:
+  - source: bingham
+    forms:
+    - form: euangkério
+      parts:
+      - label: n.
+        text: gospel (GR).
+  - source: sabatier
+    forms:
+    - form: Evangkerio
+      parts:
+      - label: or.
+        text: '*Evangerio*. Gospel.'
+- id: eubaka
+  headword: eubaka
+  trussel: eubaka
+  sources:
+  - source: sabatier
+    forms:
+    - form: eubaka
+      parts:
+      - label: v.
+        text: to stumble, to falter, to trip, to slip, to make a _faux pas_.
+- id: eueuta
+  headword: eueuta
+  trussel: eueuta
+  sources:
+  - source: bingham
+    forms:
+    - form: euéuta
+      parts:
+      - label: vt.
+        text: frequentative of [[euta]].
+- id: euman
+  headword: euman
+  trussel: euman
+  sources:
+  - source: sabatier
+    forms:
+    - form: euman
+      parts:
+      - label: v.
+        text: to throw up the feather in the game called *kabane*.
+      - label: n.
+        text: '*te tia eueu, te tia euman*: the player whose role is to do this.'
+- id: europe
+  headword: europe
+  trussel: europe
+  sources:
+  - source: sabatier
+    forms:
+    - form: Europe
+      parts:
+      - label: n.
+        text: Europe (ENG).
+- id: euta
+  headword: euta
+  trussel: euta
+  sources:
+  - source: bingham
+    forms:
+    - form: éuta
+      parts:
+      - label: vt.
+        text: toss up as in *kabane*.
+      - label: vt.
+        text: lift the foot as in walking.
+      - label: n.
+        text: step, pace.
+    - form: euúta
+      parts:
+      - label: a.
+        text: much.
+  - source: sabatier
+    forms:
+    - form: euta
+      parts:
+      - label: vt.
+        text: '*eueuta*: to raise or lift gradually; raising, throwing up, taking out in small quantities.'
+      - label: ex.
+        text: |-
+          *euta waem, euta roroana*: lift a foot, crane the neck.
+          *e euta karawa Riki: Riki* raised the firmament.
+          *te eutana, ua-euta,* etc.
+          *euta ni wae*: a step, a pace.
+      - label: na.
+        text: '*te eueutaki*: gallivanting, vagabondage.'
+      - label: vc.
+        text: '*ka-euta*: to cause someone to get up, to dislodge, to move.'
+      - label: vct.
+        text: '*eueuta, kakaeutaka*: to strut, to stalk proudly, to show off, to put oneself forward.'
+      - label: n.
+        text: '*te euta ni maneka*: the length of a foot (measure), pace.'
+      - label: vt.
+        text: '*euta ni maneka*: measure by foot (putting one foot in front of the other).'
+- id: eutaniwae
+  headword: eutaniwae
+  trussel: eutaniwae
+  sources:
+  - source: bingham
+    forms:
+    - form: éutániwae
+      parts:
+      - label: vi.
+        text: walk.
+- id: ewa
+  headword: ewa
+  trussel: ewa
+  sources:
+  - source: bingham
+    forms:
+    - form: éwa
+      parts:
+      - label: n.
+        text: crack in a board.
+      - label: vi.
+        text: spear.
+      - label: va.
+        text: cracked as a board.
+      - label: va.
+        text: about to become an *ibonga* priest or sorceror.
+    - form: eéwa
+      parts:
+      - label: a.
+        text: very many, very great.
+      - label: a.
+        text: impatient.
+  - source: sabatier
+    forms:
+    - form: ewa
+      parts:
+      - label: n.
+        text: |-
+          abundance, quantity, a number.
+          a. much, numerous, abundant.
+      - label: ex.
+        text: '*ai ewa ra!*: what a lot!'
+      - label: vc.
+        text: '*kaewaea*: to increase the number or quantity.'
+    - form: ewa
+      homograph: 1
+      parts:
+      - label: n.
+        text: a crack, fissure, cleft, chink, cranny, crevice (by extension), piece, debris, fragment.
+      - label: ex.
+        text: |-
+          *te ewa ni karau*: crevice or fissure made in ground by heavy rain.
+          *te ewa ni ben, te ewa n tou*: fruits spoiled by rain or cracked open.
+      - label: ex.
+        text: '*te ewa n anti*: fig. a person being taken in possession by the devil.'
+      - label: a.
+        text: cracked, cleft, split, possessed by *anti*.
+      - label: v.
+        text: '*ewa, ewaewa*: to pierce, to stab.'
+      - label: see
+        text: '[[ewara]].'
+      - label: n.
+        text: '*te kai n ewa, te kai n ewaewa*: a sharp pointed tool (harpoon, lance, spade, etc.).'
+    - form: ewa
+      homograph: 2
+      parts:
+      - label: va.
+        text: to be agitated.
+      - label: syn.
+        text: '[[aiwa]]:'
+      - label: ex.
+        text: |-
+          *e aki ewa*: he is quiet.
+          *kakai ewa*: inclined to be agitated.
+- id: ewabana
+  headword: ewabana
+  trussel: ewabana
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewabana
+      parts:
+      - label: v.
+        text: to riddle with arrows, to overwhelm with blows.
+      - label: see
+        text: '[[karebana]].'
+- id: ewaewa
+  headword: ewaewa
+  trussel: ewaewa
+  sources:
+  - source: bingham
+    forms:
+    - form: ewáewa
+      parts:
+      - label: vi.
+        text: frequentative of [[ewa]].
+  - source: sabatier
+    forms:
+    - form: ewaewa
+      parts:
+      - label: v.
+        text: to pierce, to bore, to make a hole in...
+- id: ewaewara
+  headword: ewaewara
+  trussel: ewaewara
+  sources:
+  - source: bingham
+    forms:
+    - form: ewáewara
+      parts:
+      - label: vt.
+        text: frequentative of [[ewara]].
+- id: ewaewata
+  headword: ewaewata
+  trussel: ewaewata
+  sources:
+  - source: bingham
+    forms:
+    - form: ewáewata
+      parts:
+      - label: vt.
+        text: frequentative of [[ewata]].
+- id: ewaka
+  headword: ewaka
+  trussel: ewaka
+  sources:
+  - source: bingham
+    forms:
+    - form: éwaka
+      parts:
+      - label: vt.
+        text: gnaw.
+  - source: sabatier
+    forms:
+    - form: ewaka
+      parts:
+      - label: vt.
+        text: to tear, to extract, to chew something fibrous.
+- id: ewanikarau
+  headword: ewanikarau
+  trussel: ewanikarau
+  sources:
+  - source: bingham
+    forms:
+    - form: ewánikárau
+      parts:
+      - label: n.
+        text: pandanus fruit blasted more or less.
+      - label: a.
+        text: blighted as a pandanus fruit.
+- id: ewanin
+  headword: ewanin
+  trussel: ewanin
+  sources:
+  - source: bingham
+    forms:
+    - form: ewánin
+      parts:
+      - label: n.
+        text: husk of the coconut.
+    - form: eewánin
+      parts:
+      - label: a.
+        text: much littered or covered with coconut husks.
+  - source: sabatier
+    forms:
+    - form: ewanin
+      parts:
+      - label: n.
+        text: coconut husk with shell attached.
+      - label: from.
+        text: '[[ewa]] and [[ni]] (perhaps).'
+- id: ewara
+  headword: ewara
+  trussel: ewara
+  sources:
+  - source: bingham
+    forms:
+    - form: ewára
+      parts:
+      - label: vt.
+        text: pierce, stab, stick.
+  - source: sabatier
+    forms:
+    - form: ewara
+      parts:
+      - label: vt.
+        text: '*ewaewara*: to pierce, to perforate, to bore, to run a spear through someone, to stab,
+          to wound.'
+      - label: from.
+        text: '[[ewa]].'
+- id: ewaruru
+  headword: ewaruru
+  trussel: ewaruru
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewaruru
+      parts:
+      - label: na.
+        text: going directly towards, heading for, going up straight.
+      - label: syn.
+        text: '[[etiruru]].'
+      - label: v.
+        text: '*kaewaruru*: to cause to go...'
+      - label: vc.
+        text: '*kaewarurua*: to cause to go...'
+- id: ewata
+  headword: ewata
+  trussel: ewata
+  sources:
+  - source: bingham
+    forms:
+    - form: ewáta
+      parts:
+      - label: vt.
+        text: divide or separate (idiomatic).
+  - source: sabatier
+    forms:
+    - form: ewata
+      parts:
+      - label: vt.
+        text: to jostle one's way through a crowd, to break through a crowd.
+      - label: from.
+        text: '[[ewa]].'
+- id: ewe
+  headword: ewe
+  trussel: ewe
+  sources:
+  - source: bingham
+    forms:
+    - form: éwe
+      parts:
+      - label: vi.
+        text: jump.
+      - label: vi.
+        text: err by eating forbidden food.
+      - label: n.
+        text: jump.
+  - source: sabatier
+    forms:
+    - form: ewe
+      parts:
+      - label: v.
+        text: '*ewe:we*. to jump, to bound, to bounce, to spread about, to move from place to place.'
+      - label: ex.
+        text: '*ewerake, ewerio, ewenako*: _idem_. towards...'
+      - label: n.
+        text: '*ewen... eweraken, ewerion, ewenakon*... jump, bound, bouncing, propagation, going out.'
+      - label: a.
+        text: '*ae eweewe*: which spreads from one place to another (sickness).'
+      - label: vt.
+        text: '*ka-ewea, ka-ewerakea, kaewerioa, ka-ewenakoia*: to make jump, to bound, to pass over,
+          to transpose, to transport, to carry forward.'
+      - label: ex.
+        text: |-
+          te kaewe baneawa, te kaewenei: *baneawa* fishing.
+          te kaewewe: *bara* fishing (at which the bait is bounced up and down).
+    - form: ewe
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*ten ewe* (who jumps) lobster, more commonly called *te newe*.'
+- id: ewea
+  headword: ewea
+  trussel: ewea
+  sources:
+  - source: bingham
+    forms:
+    - form: éwea
+      parts:
+      - label: vt.
+        text: perform an incantation on one who has broken his taboo, or who wishes an indulgence.
+  - source: sabatier
+    forms:
+    - form: ewea
+      parts:
+      - label: vt.
+        text: to get over, to jump over, to make an incantation to escape ill-luck, punishment, a difficult
+          time.
+      - label: ex.
+        text: '*eveaki*: to be delivered from evil influence, to get out of a difficulty.'
+      - label: vc.
+        text: '*ka-ewea*: to cause to overcome difficulties.'
+- id: eweananga
+  headword: eweananga
+  trussel: eweananga
+  sources:
+  - source: sabatier
+    forms:
+    - form: eweananga
+      parts:
+      - label: n.
+        text: circulation of rumours, talk about projects yet secret.
+      - label: vc.
+        text: '*ka-eweananga*: to carry news, to circulate rumours, plans to forecast.'
+      - label: see
+        text: '[[ananga]].'
+- id: eweati
+  headword: eweati
+  trussel: eweati
+  sources:
+  - source: bingham
+    forms:
+    - form: éweæti
+      parts:
+      - label: vi.
+        text: migrate.
+      - label: n.
+        text: migratee>ion.
+  - source: sabatier
+    forms:
+    - form: eweati
+      parts:
+      - label: v.
+        text: to travel from island to island, to travel.
+      - label: vc.
+        text: '*kaeweatia*: to cause to...'
+- id: ewebai
+  headword: ewebai
+  trussel: ewebai
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewebai
+      parts:
+      - label: v.
+        text: to change from one thing to another.
+      - label: vc.
+        text: '*kaewebaia*: to cause to do so.'
+      - label: n.
+        text: '*te kaewebai*.'
+- id: ewebike
+  headword: ewebike
+  trussel: ewebike
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewebike
+      parts:
+      - label: v.
+        text: to go from one island to another.
+      - label: syn.
+        text: '[[eweati]].'
+- id: ewebong
+  headword: ewebong
+  trussel: ewebong
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewebong
+      parts:
+      - label: v.
+        text: to jump a day (or days). <skip>.
+      - label: vc.
+        text: '*ka-ewebong*: to cause to do so.'
+- id: eweboti
+  headword: eweboti
+  trussel: eweboti
+  sources:
+  - source: bingham
+    forms:
+    - form: éweboti
+      parts:
+      - label: vi.
+        text: take or appropriate to oneself another's place.
+      - label: n.
+        text: appropriating to one's self another's place.
+  - source: sabatier
+    forms:
+    - form: eweboti
+      parts:
+      - label: v.
+        text: '*eweweboti*: to move from one *boti* to another in a *maneaba*, to take the place of another.'
+      - label: vc.
+        text: '*ka...*'
+- id: ewebwerei
+  headword: ewebwerei
+  trussel: ewebwerei
+  sources:
+  - source: bingham
+    forms:
+    - form: éwebweréi
+      parts:
+      - label: n.
+        text: game of jumping the rope or over an object.
+      - label: vi.
+        text: play at jumping the rope.
+  - source: sabatier
+    forms:
+    - form: ewebwerei
+      parts:
+      - label: v.
+        text: to skip, to get over an obstacle.
+      - label: vc.
+        text: '*kaewebwereia*.'
+- id: eweka
+  headword: eweka
+  trussel: eweka
+  sources:
+  - source: bingham
+    forms:
+    - form: ewéka
+      parts:
+      - label: vt.
+        text: leap upon, enter earnestly upon work, similar to the slang phrase "pitch in".
+      - label: n.
+        text: entering earnestly upon a job.
+  - source: sabatier
+    forms:
+    - form: eweka
+      parts:
+      - label: vt.
+        text: '*eweweka*: to jump on, to fall on, to attack, to fall upon, to fall to briskly, spiritedly.'
+      - label: from.
+        text: '[[ewe]].'
+- id: ewenako
+  headword: ewenako
+  trussel: ewenako
+  sources:
+  - source: bingham
+    forms:
+    - form: éwenako
+      parts:
+      - label: vi.
+        text: jump off, run about as a child ceasing to creep.
+  - source: sabatier
+    forms:
+    - form: ewenako
+      parts:
+      - label: v.
+        text: to jump down... off.
+      - label: a.
+        text: fig. already grown up a bit (child), past baby stage, to jump, to dive, to develop...
+      - label: vc.
+        text: '*kaewenakoa*: to make...'
+      - label: n.
+        text: '*te kaewenako*: food set apart in advance and transmitted for...'
+- id: ewerake
+  headword: ewerake
+  trussel: ewerake
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewerake
+      parts:
+      - label: v.
+        text: to leap, to get up, to arise, to grow up a little, to grow quickly.
+      - label: n.
+        text: '*te ewerake*: act of getting up, leaping, growing up.'
+      - label: vc.
+        text: '*ka-ewerakea*: to make... incite to, dare to, to provoke...'
+- id: ewerongorongo
+  headword: ewerongorongo
+  trussel: ewerongorongo
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewerongorongo
+      parts:
+      - label: ex.
+        text: '*e ewe te rongorongo*. the news spreads.'
+      - label: v.
+        text: '*kaewerongorongo*: to spread the news, to make reports.'
+      - label: vc.
+        text: '*kaewea te rongorongo*: _idem_.'
+- id: ewetaeka
+  headword: ewetaeka
+  trussel: ewetaeka
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewetaeka
+      parts:
+      - label: n.
+        text: report, gossip (so they say).
+      - label: v.
+        text: '*ka-ewetaeka, kakaewetaeka*: to spread news, to report, to spread abroad.'
+- id: ewetia
+  headword: ewetia
+  trussel: ewetia
+  sources:
+  - source: sabatier
+    forms:
+    - form: ewetia
+      parts:
+      - label: v.
+        text: to pass over the boundary or landmark.
+      - label: vc.
+        text: '*kaewetia*: to make...'
+- id: ewewe
+  headword: ewewe
+  trussel: ewewe
+  sources:
+  - source: bingham
+    forms:
+    - form: eweéwe
+      parts:
+      - label: vi.
+        text: frequentative of [[ewe]] jump.
+      - label: n.
+        text: jump.
+- id: eweweboti
+  headword: eweweboti
+  trussel: eweweboti
+  sources:
+  - source: bingham
+    forms:
+    - form: eweéweboti
+      parts:
+      - label: vi.
+        text: frequentative of [[eweboti]].
+- id: eweweka
+  headword: eweweka
+  trussel: eweweka
+  sources:
+  - source: bingham
+    forms:
+    - form: eweéweka
+      parts:
+      - label: vt.
+        text: frequentative of [[eweka]].
+- id: ewewenako
+  headword: ewewenako
+  trussel: ewewenako
+  sources:
+  - source: bingham
+    forms:
+    - form: eweéwenako
+      parts:
+      - label: vi.
+        text: jump from a height.

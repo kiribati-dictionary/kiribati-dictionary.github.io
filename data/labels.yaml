@@ -1,0 +1,56 @@
+# Abbreviations used as labels in data/entries/*.yaml, with how the site should show them.
+# Labels not listed here are shown as written.
+#
+# kind: pos       part of speech (starts a new sense)
+#       example   examples follow
+#       xref      points to other entries
+#       note      anything else
+
+n.:     { name: noun, kind: pos }
+na.:    { name: noun/adjective, kind: pos }
+nv.:    { name: noun/verb, kind: pos }
+nva.:   { name: noun/verb/adjective, kind: pos }
+nvt.:   { name: noun/transitive verb, kind: pos }
+vn.:    { name: verb/noun, kind: pos }
+v.:     { name: verb, kind: pos }
+vt.:    { name: transitive verb, kind: pos }
+vi.:    { name: intransitive verb, kind: pos }
+va.:    { name: verb/adjective, kind: pos }
+vc.:    { name: causative verb, kind: pos }
+vcn.:   { name: causative verb/noun, kind: pos }
+a.:     { name: adjective, kind: pos }
+adj.:   { name: adjective, kind: pos }
+adv.:   { name: adverb, kind: pos }
+pron.:  { name: pronoun, kind: pos }
+conj.:  { name: conjunction, kind: pos }
+intj.:  { name: interjection, kind: pos }
+pref.:  { name: prefix, kind: pos }
+suf.:   { name: suffix, kind: pos }
+pass.:  { name: passive, kind: pos }
+
+ex.:    { name: example, kind: example }
+idiom.: { name: idiom, kind: example }
+
+see:    { name: see, kind: xref }
+syn.:   { name: synonym, kind: xref }
+ant.:   { name: antonym, kind: xref }
+var.:   { name: variant, kind: xref }
+or.:    { name: or, kind: xref }
+and:    { name: and, kind: xref }
+also.:  { name: also, kind: xref }
+from.:  { name: from, kind: xref }
+cau.:   { name: causative of, kind: xref }
+red.:   { name: reduplicated, kind: xref }
+sup.:   { name: superlative, kind: xref }
+dim.:   { name: diminutive, kind: xref }
+root.:  { name: root, kind: xref }
+plur.:  { name: plural, kind: xref }
+
+sn.:    { name: scientific name, kind: note }
+fig.:   { name: figurative, kind: note }
+lit.:   { name: literally, kind: note }
+note.:  { name: note, kind: note }
+bib.:   { name: biblical, kind: note }
+for.:   { name: for, kind: note }
+bk.:    { name: book reference, kind: note }
+abbr.:  { name: abbreviation, kind: note }

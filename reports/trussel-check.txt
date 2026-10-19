@@ -1,0 +1,157 @@
+an: missing {'o': 1} extra {}
+anti: missing {} extra {'l': 1}
+aonaba: missing {'worldbain': 1} extra {'world': 1, 'bain': 1}
+aong: missing {} extra {'g': 1}
+bakikangenge: missing {} extra {'b': 1}
+beroro: missing {'e': 1} extra {}
+bewa: missing {} extra {'g': 1}
+binoka: missing {} extra {'l': 1}
+buangi: missing {'formedtongo': 1} extra {'formed': 1, 'tongo': 1}
+iarake: missing {'iarakead': 1} extra {'iarakea': 1, 'd': 1}
+ibubutika: missing {'butikas': 1} extra {'butika': 1, 's': 1}
+imita: missing {'translateimita': 1} extra {'imita': 1, 'translate': 1}
+iremwe: missing {'feetwi': 1} extra {'feet': 1, 'wi': 1}
+iro: missing {'caughte': 1} extra {'e': 1, 'caught': 1}
+itai: missing {} extra {'l': 1}
+kabata: missing {'handskabata': 1} extra {'kabata': 1, 'hands': 1}
+kabetanga: missing {'b': 1} extra {}
+kaka: missing {'fearkaka': 1} extra {'kaka': 1, 'fear': 1}
+kamanging: missing {'o': 1, 'g': 1} extra {}
+karewe: missing {'boiledte': 1} extra {'te': 1, 'boiled': 1}
+karouatao: missing {} extra {'o': 1}
+katonua: missing {} extra {'o': 1}
+kiaiai: missing {} extra {'l': 1}
+kiebu: missing {} extra {'l': 1}
+kirinaki: missing {'raintiaki': 1} extra {'rain': 1, 'tiaki': 1}
+makone: missing {} extra {'g': 1}
+mananga: missing {'frommananga': 1} extra {'mananga': 1, 'from': 1}
+maneaba: missing {'moonte': 1} extra {'moon': 1, 'te': 1}
+mata: missing {'kabuti': 1} extra {}
+moti: missing {'expirede': 1} extra {'e': 1, 'expired': 1}
+nako: missing {'northkanakomaeaoa': 1} extra {'north': 1, 'kanakomaeaoa': 1}
+nanomaraki: missing {'afflictionte': 1} extra {'te': 1, 'affliction': 1}
+ni: missing {} extra {'l': 1}
+nikamatutu: missing {} extra {'l': 1}
+nimareburebu: missing {} extra {'l': 1}
+non: missing {} extra {'l': 1}
+ntanini: missing {} extra {'l': 1}
+ng: missing {'ng': 2, 'int': 1, 'expressive': 1, 'of': 2, 'dissent': 1, 'or': 2, 'displeasure': 2, 'nng': 1, 'intj': 1, 'disagreement': 1} extra {}
+nga: missing {'nga': 6, 'adv': 2, 'where': 3, 'in': 3, 'what': 1, 'place': 1, 'n': 3, 'one': 1, 'distant': 1, 'by': 2, 'birth': 1, 'ex': 5, 'ngan': 2, 'tarire': 3, 'a': 5, 'thousand': 3, 'suf': 1, 'numeral': 1, 'suffix': 1, 'following': 1, 'the': 1, 'digits': 1, 'counting': 1, 'fathoms': 3, '1': 3, 'e': 1, 'is': 2, 'it': 1, 'are': 1, 'they': 1, '2': 3, 'fathom': 2, 'te': 2, 'ngana': 2, 'ua': 1, 'vt': 1, 'ngaea': 1, 'irr': 1, 'to': 1, 'measure': 1, 'arm': 1, 's': 1, 'length': 1, 'na': 1, '3': 1, 'uanga': 1, '000': 2, '4': 1, 'portion': 1, 'of': 2, 'pandanus': 1, 'which': 1, 'chewed': 1, '5': 1, 'family': 1, 'origin': 1, 'relations': 2, 'an': 1, 'very': 1, 'wide': 1, 'sense': 1} extra {}
+nga-n-tarire: missing {'nga': 2, 'n': 2, 'tarire': 1, 'see': 1, 'branch': 1, 'of': 1, 'family': 1, 'distant': 1, 'multiple': 1, 'or': 1, 'extensive': 1, 'relatives': 1} extra {}
+ngabingabi: missing {'ngabingabi': 1, 'ngábingabi': 1, 'n': 5, 'a': 4, 'mat': 2, 'used': 2, 'as': 2, 'spread': 1, 'or': 1, 'container': 1, 'for': 2, 'food': 2, 'species': 1, 'of': 1, 'eel': 2, 'the': 1, '1': 1, 'small': 1, 'plate': 1, 'dish': 1, '2': 1, 'an': 1, 'with': 1, 'black': 1, 'spots': 1} extra {}
+ngabu: missing {'ngabu': 3, 'and': 1, 'toro': 1, 'matoru': 1, 'n': 1, 'numerous': 1, 'posterity': 1, 'a': 1, 'having': 1, 'many': 1, 'descendants': 1} extra {}
+ngae: missing {'ngae': 2, 'ngæ': 1, 'e': 1, 'va': 1, 'satiated': 2, 'n': 1, 'dipth': 1, 'satiety': 1, 'a': 1, 'satisfied': 2, 'having': 1, 'enough': 2, 'refusing': 1, 'because': 1, 'fig': 1, 'to': 4, 'have': 1, 'had': 1, 'vca': 1, 'ka': 2, 'satiating': 1, 'filling': 1, 'irksome': 1, 'tedious': 1, 'vc': 1, 'ngaea': 1, 'satisfy': 1, 'satiate': 1, 'glut': 1} extra {}
+ngaea: missing {'ngáea': 1, 'n': 1, 'a': 1, 'fathom': 1, 'vt': 1, 'to': 1, 'measure': 1, 'by': 1, 'fathoms': 1} extra {}
+ngaeau: missing {'ngaeau': 1, 'ngáeau': 1, 'a': 1, 'mussed': 1, 'as': 1, 'the': 1, 'hair': 1, 'not': 1, 'oiled': 1, 'for': 1, 'ngeau': 1, 'kangaeau': 1} extra {}
+ngaengae: missing {'ngáengae': 1, 'a': 1, 'frequentative': 1, 'of': 1, 'ngae': 1} extra {}
+ngai: missing {'ngai': 3, 'ngaái': 1, 'pron': 4, 'plural': 1, 'of': 3, 'ngaia': 2, 'bk': 1, 'genesis': 1, '30': 1, '32': 1, 'ngái': 1, 'i': 2, 'often': 1, 'emphatic': 1, 'that': 1, 'this': 1, 'when': 1, 'speaking': 1, 'several': 1, 'things': 1, 'pl': 1, 'ex': 1, 'boni': 1, 'myself': 1} extra {}
+ngaia: missing {'ngaia': 5, 'ngáia': 1, 'pron': 3, 'he': 2, 'she': 2, 'it': 3, 'ex': 3, 'yes': 1, 'thats': 1, 'that': 1, 'boni': 2, 'himself': 1, 'herself': 1, 'itself': 1, 'they': 1, 'them': 1, 'themselves': 1} extra {}
+ngaiangaia: missing {'ngaiangaia': 1, 'ngáiangáia': 1, 'adv': 2, 'yes': 4, 'that': 2, 's': 2, 'he': 1, 'it': 1} extra {}
+ngaina: missing {'ngaina': 8, 'ngáina': 1, 'n': 3, 'daytime': 3, 'a': 3, 'being': 1, 'light': 1, 'or': 1, 'day': 6, 'daylight': 1, 'ex': 3, 'e': 2, 'daybreak': 1, 'kani': 1, 'it': 1, 'is': 1, 'nearly': 1, 'adv': 3, 'ni': 5, 'by': 1, 'moani': 1, 'very': 1, 'early': 1, 'ingini': 1, 'ewa': 1, 'dawn': 3, 'vt': 1, 'ka': 1, 'to': 3, 'wait': 1, 'till': 1, 'stay': 1, 'up': 1, 'all': 1, 'night': 1, 'play': 1, 'fish': 1, 'keep': 1, 'watch': 1, 'kangaina': 1, 'until': 1, 'te': 1, 'karangaina': 2, 'sunrise': 1, 'at': 1} extra {}
+ngaira: missing {'ngaira': 2, 'ngáira': 1, 'pron': 2, 'we': 2, 'us': 2, 'generally': 1, 'in': 1, 'the': 1, 'nominative': 1, 'and': 1, 'emphatic': 1, 'ex': 1, 'boni': 1, 'ourselves': 1} extra {}
+ngake: missing {'ngake': 1, 'ngáke': 1, 'n': 3, 'the': 1, 'spermatic': 1, 'cord': 1, '1': 1, 'membrane': 1, 'joining': 1, 'two': 1, 'parts': 1, '2': 1, 'web': 1, 'of': 3, 'feet': 1, 'ex': 1, 'crotch': 1, 'trousers': 1, 'and': 1, 'body': 1} extra {}
+ngako: missing {'ngako': 2, 'ngáko': 1, 'n': 2, 'phlegm': 2, 'mucous': 1, 'matter': 1, 'va': 2, 'having': 1, 'catarrh': 1, 'mucus': 2, 'snot': 1, 'glair': 1, 'to': 4, 'have': 1, 'a': 1, 'cold': 1, 'in': 1, 'the': 1, 'head': 1, 'v': 1, 'ongiri': 1, 'blow': 1, 'one': 1, 's': 1, 'nose': 1, 'vc': 1, 'ka': 1, 'ngakoa': 1, 'cause': 1, 'soil': 1, 'with': 1} extra {}
+ngan: missing {'ngan': 2, 'va': 1, 'having': 1, 'side': 2, 'sprouts': 1, 'as': 1, 'htm': 1, 'babai': 3, 'n': 2, 'a': 3, 'sucker': 1, 'or': 1, 'sprout': 2, 'of': 1, 'the': 1, 'shoot': 1, 'taro': 1, 'onions': 1, 'bulbs': 1} extra {}
+nganga: missing {'nganga': 3, 'ngaánga': 1, 'vi': 1, 'to': 2, 'engage': 1, 'in': 1, 'measuring': 1, 'fathoms': 1, 'n': 1, 'food': 1, 'poisoning': 2, 'esp': 1, 'by': 1, 'fish': 1, 'va': 1, 'suffer': 1, 'from': 1, 'vca': 1, 'ka': 2, 'which': 1, 'causes': 1, 'poisonous': 1, 'vc': 1, 'poison': 1} extra {}
+ngangae: missing {'ngángae': 1, 'va': 1, 'frequentative': 1, 'of': 1, 'ngae': 1} extra {}
+ngangarake: missing {'ngangarake': 1, 'ngæ': 1, 'ngarake': 1, 'n': 3, 'the': 4, 'roof': 1, 'of': 1, 'mouth': 1, 'suffering': 1, 'occasioned': 1, 'by': 1, 'food': 1, 'entering': 1, 'nasal': 1, 'passage': 2, 'between': 1, 'nose': 1, 'and': 1, 'throat': 1, 'v': 1, 'to': 2, 'snuffle': 1, 'sniffle': 1, 'through': 1, 'this': 1, 'vt': 1, 'ngangarakea': 2, 'vc': 1, 'ka': 1, 'make': 1} extra {}
+ngangareuke: missing {'ngæ': 1, 'ngareúke': 1, 'vi': 1, 'frequentative': 1, 'of': 1, 'ngareuke': 1} extra {}
+ngangau: missing {'ngangau': 1, 'ngæ': 1, 'ngau': 1, 'va': 1, 'unable': 1, 'to': 4, 'restrain': 1, 'one': 1, 's': 1, 'desire': 1, 'eating': 1, 'without': 1, 'waiting': 1, 'for': 1, 'others': 1, 'n': 1, 'voracity': 1, 'gluttony': 1, 'a': 2, 'glutton': 1, 'gluttonous': 1, 'vt': 1, 'ngangaua': 1, 'cram': 1, 'stuff': 1, 'vc': 1, 'kangangaua': 1, 'make': 1} extra {}
+ngao: missing {'ngao': 3, 'ngáo': 1, 'va': 1, 'in': 2, 'confusion': 1, 'mixed': 1, 'or': 1, 'piled': 1, 'up': 2, 'without': 1, 'order': 1, 'n': 2, 'a': 1, 'nest': 4, 'birds': 1, 'ex': 1, 'aea': 1, 'to': 2, 'build': 1, 'na': 1, 'entanglement': 1, 'jumbled': 1, 'disorder': 1, 'vc': 1, 'ka': 1, 'ngaoa': 1, 'entangle': 1} extra {}
+ngao-ni-moa: missing {'ngao': 1, 'ni': 1, 'moa': 1, 'n': 1, 'hen': 1, 's': 1, 'nest': 1} extra {}
+ngaongao: missing {'ngaongao': 1, 'ngáongao': 1, 'n': 2, 'wire': 3, 'branches': 2, 'of': 3, 'bushes': 1, 'cut': 2, 'to': 1, 'be': 1, 'burned': 1, 'in': 1, 'the': 1, 'clearing': 1, 'land': 1, 'a': 1, 'covered': 1, 'over': 1, 'with': 1, 'brush': 1, 'ready': 1, 'for': 1, 'burning': 1, 'branch': 1, 'twigs': 1, 'without': 1, 'leaves': 1, 'sprigs': 1, 'dry': 1, 'barbed': 1, 'spokes': 1, 'bicycle': 1, 'wheel': 1} extra {}
+ngare: missing {'ngare': 6, 'ngáre': 1, 'n': 4, 'laughter': 5, 'smile': 2, 'v': 1, 'to': 7, 'laugh': 2, 'ngaren': 1, 'te': 4, 'nao': 2, 'white': 2, 'foam': 2, 'on': 2, 'waves': 2, 'ex': 1, 'e': 1, 'there': 1, 'is': 1, 'the': 1, 'mate': 1, 'ni': 4, 'die': 1, 'of': 2, 'a': 1, 'mata': 1, 'matangare': 1, 'smiling': 2, 'face': 1, 'va': 1, 'kangare': 3, 'kaka': 1, 'cause': 1, 'amuse': 2, 'comic': 1, 'vc': 1, 'ka': 1, 'ngarea': 1, 'make': 1, 'pleasantry': 1, 'jest': 1, 'joke': 2, 'making': 1, 'fun': 1, 'bai': 1, 'something': 1, 'funny': 1, 'buffoonery': 1, 'nv': 1, 'io': 1, 'burst': 1} extra {}
+ngare-banna: missing {'ngare': 1, 'banna': 1, 'n': 1, 'the': 1, 'laugh': 1, 'of': 1, 'a': 1, 'sick': 1, 'person': 1, 'skeleton': 1} extra {}
+ngare-be: missing {'ngare': 1, 'be': 3, 'n': 1, 'a': 1, 'wicked': 2, 'laugh': 2, 'insolent': 1, 'untimely': 1, 'ex': 1, 'kangare': 1, 'manikangare': 1, 'to': 2, 'make': 1, 'joke': 1, 'annoy': 1} extra {}
+ngare-iotaua: missing {'ngare': 1, 'iotaua': 1, 'n': 1, 'loud': 1, 'laughter': 1, 'v': 1, 'to': 1, 'laugh': 1, 'loudly': 1} extra {}
+ngare-ke: missing {'ngare': 1, 'ke': 1, 'n': 1, 'a': 1, 'short': 1, 'laugh': 1} extra {}
+ngare-n-take: missing {'ngare': 1, 'n': 1, 'take': 1, 'nv': 1, 'a': 1, 'long': 1, 'loud': 1, 'roar': 1, 'of': 1, 'laughter': 1} extra {}
+ngare-ngenge: missing {'ngare': 1, 'ngenge': 1, 'n': 1, 'a': 1, 'forced': 1, 'laugh': 1} extra {}
+ngare-roro: missing {'ngare': 1, 'roro': 1, 'v': 1, 'to': 1, 'laugh': 1, 'till': 1, 'black': 1, 'and': 1, 'blue': 1} extra {}
+ngare-uatao: missing {'ngare': 1, 'uatao': 1, 'n': 1, 'prolonged': 1, 'laughter': 1} extra {}
+ngare-uke: missing {'ngare': 1, 'uke': 1, 'nv': 1, 'to': 1, 'laugh': 1, 'till': 1, 'breathless': 1} extra {}
+ngare-uoua: missing {'ngare': 1, 'uoua': 1, 'n': 1, 'false': 1, 'hypocritical': 1, 'laugh': 1} extra {}
+ngareakina: missing {'ngareakina': 1, 'ngáreakina': 1, 'vt': 2, 'to': 4, 'laugh': 2, 'at': 2, 'make': 1, 'fun': 1, 'of': 1, 'ridicule': 1} extra {}
+ngarebe: missing {'ngárebee': 1, 'vi': 1, 'to': 1, 'laugh': 1, 'loud': 1, 'and': 1, 'sneeringly': 1, 'or': 1, 'improperly': 1} extra {}
+ngarei: missing {'ngarei': 1, 'ngaréi': 1, 'n': 2, 'fish': 1, 'the': 1, 'deep': 1, 'water': 1, 'shark': 1, 'sort': 1, 'of': 1, 'tababa': 1} extra {}
+ngarengare: missing {'ngárengare': 1, 'vi': 2, 'frequentative': 1, 'of': 1, 'ngare': 1, 'to': 2, 'laugh': 1, 'shake': 1, 'as': 1, 'a': 1, 'sail': 1, 'in': 1, 'the': 1, 'wind': 1, 'n': 1, 'laughter': 1} extra {}
+ngarentake: missing {'ngarentaáke': 2, 'vi': 1, 'to': 1, 'laugh': 1, 'coarsely': 1, 'and': 2, 'long': 1, 'n': 1, 'coarse': 1, 'prolonged': 1, 'laughter': 1} extra {}
+ngareuke: missing {'ngáreuke': 1, 'vi': 1, 'to': 1, 'laugh': 1, 'with': 2, 'a': 2, 'wide': 2, 'open': 2, 'mouth': 2, 'n': 1, 'laughter': 1} extra {}
+ngaro: missing {'ngaro': 1, 'ngáro': 1, 'n': 3, 'the': 1, 'gum': 1, '1': 1, 'gums': 1, '2': 1, 'a': 1, 'dish': 1, 'made': 1, 'with': 1, 'tou': 1} extra {}
+ngarobata: missing {'ngárob': 1, 'ata': 1, 'a': 1, 'having': 1, 'discolored': 1, 'gums': 2, 'ngaro': 1, 'bata': 1, 'n': 1, 'dark': 1, 'coloured': 1} extra {}
+ngarongaro: missing {'ngarongaro': 1, 'ngárongaro': 1, 'a': 1, 'toothless': 2, 'na': 1, '1': 1, 'gums': 1, 'vc': 1, 'kangarongaro': 1, 'to': 1, 'make': 1, 'ka': 1, 'ngarongaroa': 1, 'idem': 1, 'syn': 1, '2': 1, 'blunt': 1, 'edged': 1} extra {}
+ngaruru: missing {'ngaruru': 1, 'n': 2, 'muffled': 1, 'noise': 2, 'of': 2, 'quaking': 1, 'and': 1, 'rolling': 1, 'v': 1, 'to': 3, 'quake': 1, 'roll': 1, 'as': 1, 'thunder': 1, 'or': 1, 'breakers': 1, 'vc': 1, 'kangarurua': 1, 'make': 1} extra {}
+ngata: missing {'ngata': 1, 'n': 1, 'ngatangata': 1, 'nanongatangata': 1, 'covetousness': 1, 'cupidity': 2, 'ngetangeta': 1, 'nanongetangeta': 1, 'desire': 1, 'etc': 1, 'butaritari': 1, 'and': 1, 'makin': 1, 'other': 1, 'islands': 1, 'nv': 1, 'kangata': 1, 'kangeta': 2, 'kanano': 1, 'to': 2, 'excite': 1, 'give': 1} extra {}
+ngati: missing {'ngati': 1, 'a': 1, 'clothes': 1, 'or': 2, 'mats': 1, 'covered': 1, 'with': 1, 'dirt': 1, 'stains': 1, 'soiled': 1, 'dirty': 1, 'disgusting': 1, 'n': 1, 'and': 1, 'ngatu': 1, 's': 1} extra {}
+ngatingati: missing {'ngatingati': 1, 'a': 1, 'ngatungatu': 1, 'very': 1, 'dirty': 2, 'filthy': 1, 'vc': 1, 'kangata': 1, 'to': 2, 'soil': 1, 'make': 1} extra {}
+ngau: missing {'ngau': 5, 'n': 2, 'a': 2, 'sort': 1, 'of': 1, 'sea': 1, 'slug': 1, 'gluttony': 1, 'voracity': 2, 'gluttonous': 2, 'voracious': 2, 'greedy': 1, 'sup': 1, 'ngaungau': 1, 'ngautata': 1, 'mangaungau': 1, 'very': 1, 'vc': 1, 'ka': 2, 'kangaua': 1, 'kangaungaua': 1, 'to': 1, 'make': 1} extra {}
+ngaun: missing {'ngaun': 1, 'ngáun': 1, 'a': 3, 'ten': 3, 'used': 1, 'in': 1, 'counting': 1, 'bong': 1, 'ririki': 1, 'ritoro': 1, 'inaki': 1, 'atao': 1, 'wa': 1, 'and': 1, 'whenever': 1, 'digit': 1, 'is': 1, 'followed': 1, 'by': 2, 'numeral': 1, 'suffix': 1, 'ai': 1, 'ung': 1, 'man': 1, 'nga': 1, 'kai': 1, 'kora': 1, 'coconut': 1, 'are': 1, 'counted': 1, 'bunches': 1, 'of': 1, 'see': 1, 'tengaun': 1, 'an': 1, 'tens': 1, '100': 1, 'hundred': 1, 'coconuts': 1} extra {}
+ngaungau: missing {'ngaungau': 1, 'ngáungau': 1, 'vi': 1, 'to': 9, 'eat': 1, 'voraciously': 1, 'vt': 2, 'ngaungaua': 3, 'ri': 1, 'ngangaua': 1, 'ingurgitate': 1, 'gulp': 2, 'down': 2, 'cram': 2, 'devour': 2, 'vc': 1, 'ka': 1, 'make': 1, 'or': 1, 'treat': 1, 'as': 1, 'glutton': 1, 'ngauta': 1} extra {}
+ngawa: missing {'ngawa': 2, 'ngaáwa': 1, 'va': 1, 'having': 1, 'a': 2, 'fish': 2, 'bone': 1, 'in': 3, 'the': 1, 'throat': 4, 'n': 1, 'choking': 1, 'suffocation': 1, 'from': 2, 'bones': 1, 'or': 1, 'other': 1, 'v': 1, 'to': 5, 'choke': 1, 'oneself': 1, 'suffocate': 1, 'obstruction': 1, 'vc': 1, 'ka': 1, 'strangle': 1, 'put': 1, 'harpoon': 1, 'ex': 1, 'te': 1, 'kai': 1, 'ni': 1, 'kangawa': 1, 'spear': 1, 'used': 1, 'kill': 1, 'sharks': 1} extra {}
+ngawata: missing {'ngawata': 1, 'n': 1, 'mucus': 1, 'obstructing': 1, 'throat': 2, 'v': 1, 'to': 1, 'have': 1, 'obstructed': 1, 'by': 1} extra {}
+ngea: missing {'ngea': 11, 'ngéa': 1, 'n': 7, 'a': 6, 'tree': 1, 'the': 2, 'large': 2, 'fish': 4, 'hook': 5, 'made': 2, 'of': 7, 'firm': 1, 'stiff': 1, 'hard': 5, 'as': 1, 'wet': 1, 'rope': 1, '1': 1, 'bush': 1, 'very': 2, 'gnarled': 1, 'wood': 1, 'sn': 2, 'pemphis': 2, 'scidula': 1, 'strong': 2, 'like': 2, 'ngeangea': 3, 'abounding': 1, 'in': 2, 'vc': 1, 'ka': 2, 'make': 1, '2': 1, 'formerly': 1, 'used': 1, 'to': 2, 'catch': 1, 'shark': 2, 'circular': 1, 'iron': 1, 'for': 1, 'fishing': 1, 'with': 1, '3': 1, 'te': 1, 'constellation': 1, 'form': 1, 'austral': 1, 'crown': 1, 'ex': 1, 'arabo': 1, 'old': 1, 'such': 1, 'inside': 2, 'which': 1, 'is': 1, 'beginning': 1, 'rot': 1, 'essence': 1, 'got': 1, 'from': 1, 'this': 1, 'nv': 1, 'acidula': 1, 'forst': 1, 'z': 1} extra {}
+ngeaiarabo: missing {'ngeáiarábo': 1, 'n': 1, 'a': 1, 'tree': 1, 'the': 1} extra {}
+ngeangea: missing {'ngéangea': 1, 'a': 1, 'very': 1, 'strong': 1, 'and': 1, 'firm': 1, 'abounding': 1, 'in': 1, 'ngea': 1, 'trees': 1} extra {}
+ngearuru: missing {'ngearuru': 1, 'sup': 1, 'superlative': 1, 'of': 1, 'ngea': 1, 'a': 1, 'very': 1, 'hard': 1, 'stiff': 1, 'rigid': 1} extra {}
+ngenge: missing {'ngenge': 7, 'ngénge': 1, 'vi': 1, 'to': 10, 'beg': 1, 'for': 3, 'food': 6, 'by': 2, 'one': 3, 's': 3, 'looks': 2, 'be': 1, 'covetous': 2, 'of': 7, 'n': 6, 'the': 4, 'begging': 3, 'ngeénge': 1, 'what': 1, 'remains': 1, 'kernel': 3, 'a': 3, 'coconut': 2, 'in': 2, 'shell': 2, 'after': 2, 'it': 2, 'has': 2, 'been': 2, 'scraped': 3, 'without': 1, 'much': 1, 'orig': 1, 'sup': 1, 'ngaro': 1, '1': 1, 'te': 8, 'maungenge': 2, 'nano': 1, 'envy': 2, 'covetousness': 3, 'drink': 1, 'tobacco': 2, 'etc': 1, 'na': 1, 'ngengeroroko': 1, 'irresistible': 1, 'inveterate': 1, 'habit': 1, 'tia': 1, 'ngengetaia': 3, 'beggar': 1, 'always': 1, 'va': 1, 'show': 3, 'belonging': 1, 'others': 1, 'avid': 1, 'vt': 1, 'ngengea': 1, 'maungengea': 1, 'cast': 1, 'envious': 1, 'eyes': 1, 'on': 1, 'vc': 1, 'kangengea': 2, 'cause': 1, 'provoke': 1, 'make': 1, 'treat': 1, 'as': 1, '2': 1, 'kangenge': 1, 'kangengewi': 1, 'emaciation': 1, 'phthisis': 1, 'consumption': 1, 'v': 1, 'wina': 1, 'gnash': 1, 'or': 1, 'teeth': 1, 'ex': 1, 'e': 1, 'ora': 1, 'beach': 1, 'is': 1, 'uncovered': 1, 'low': 1, 'tide': 1, 'remainder': 1, 'out': 1} extra {}
+ngengen-ri: missing {'ngengen': 1, 'ri': 1, 'n': 1, 'nothing': 1, 'but': 1, 'skin': 1, 'and': 1, 'bone': 1, 'a': 2, 'very': 1, 'emaciated': 1, 'living': 1, 'skeleton': 1, 'vc': 1, 'kangengenria': 1, 'to': 1, 'make': 1} extra {}
+ngengenri: missing {'ngengen': 1, 'ri': 1, 'a': 1, 'thin': 1, 'in': 1, 'flesh': 1} extra {}
+ngengetaia: missing {'ngengetaia': 1, 'ngengetáia': 1, 'vi': 1, 'to': 10, 'beg': 1, 'much': 2, 'for': 2, 'food': 3, 'by': 2, 'one': 2, 's': 2, 'looks': 2, 'n': 2, 'begging': 1, 'sup': 1, 'superlative': 1, 'of': 3, 'ngenge': 1, 'great': 1, 'covetousness': 1, 'v': 1, 'have': 1, 'show': 1, 'vc': 1, 'kangengetaia': 1, 'find': 1, 'accuse': 1, 'being': 1, 'treat': 1, 'as': 1, 'ka': 1, 'ngengeta': 1, 'excite': 1, 'envy': 1, 'entice': 1, 'attract': 1} extra {}
+ngeri: missing {'ngeri': 1, 'ngéri': 1, 'a': 3, 'curled': 1, 'frizzled': 2, 'curly': 4, 'n': 2, 'person': 1, 'with': 1, 'hair': 1, 'headed': 1, 'sup': 1, 'ngeringeri': 1, 'ngeringeritaua': 1, 'vc': 1, 'ka': 2, 'ngera': 1, 'to': 3, 'curl': 1, 'make': 1, 'frizzy': 1, 'ngeria': 1, 'comb': 2, 'te': 1, 'aki': 1, 'ni': 1, 'kangeri': 1, 'ancient': 1, 'of': 1, 'one': 1, 'or': 1, 'two': 1, 'prongs': 1} extra {}
+ngeta: missing {'ngeta': 1, 'n': 1, 'concupiscence': 1, 'immoderate': 2, 'desire': 1, 'disorderly': 1, 'envy': 1, 'a': 1, 'envious': 1, 'greedy': 1, 'passionate': 1, 'sup': 1, 'ngengeta': 1, 'nanongetangeta': 1, 'very': 1, 'vc': 1, 'kangeta': 1} extra {}
+ngio: missing {'ngio': 1, 'ngío': 1, 'a': 2, 'dizzy': 1, 'n': 1, 'dizziness': 1, 'v': 1, 'to': 8, 'fall': 1, 'into': 1, 'swoon': 1, 'sink': 1, 'down': 1, 'grow': 1, 'faint': 2, 'fail': 1, 'be': 1, 'carried': 1, 'off': 1, 'quickly': 1, 'vc': 1, 'kangiongioa': 1, 'kangiongionakoa': 1, 'make': 1, 'numb': 1, 'carry': 1, 'away': 1, 'etc': 1, 'sup': 1, 'ngiongo': 1, 'ngiongio': 1, 'ngionako': 1, 'ningioningio': 1, 'tired': 1, 'sleep': 1, 'drowsy': 1} extra {}
+ngiongio: missing {'ngióngio': 1, 'a': 1, 'frequentative': 1, 'of': 1, 'ngio': 1} extra {}
+ngira: missing {'ngira': 2, 'ngíra': 1, 'vi': 1, 'to': 7, 'groan': 4, 'audibly': 1, 'or': 1, 'in': 2, 'spirit': 1, 'n': 2, 'a': 2, 'groaning': 1, 'moan': 2, 'v': 1, 'abnormal': 1, 'effort': 1, 'so': 1, 'as': 1, 'overcome': 1, 'pain': 1, 'grunt': 1, 'sup': 1, 'ngirangira': 2, 'vt': 1, 'marakina': 1, 'ngiraia': 1, 'with': 1, 'control': 1, 'one': 2, 'keep': 1, 'back': 1, 's': 1, 'cries': 1, 'vc': 1, 'ka': 1, 'make': 1} extra {}
+ngirangira: missing {'ngiræ': 1, 'ngira': 1, 'vi': 1, 'to': 1, 'groan': 1, 'audibly': 1, 'or': 1, 'in': 1, 'spirit': 1} extra {}
+ngirataua: missing {'ngirataua': 1, 'ngiratáua': 1, 'vi': 1, 'to': 1, 'groan': 1, 'as': 1, 'when': 1, 'under': 1, 'a': 1, 'heavy': 1, 'burden': 1, 'nva': 1, 'freq': 1, 'of': 1, 'ngira': 1} extra {}
+ngka: missing {'ngka': 4, 'ng': 1, 'ka': 1, 'vt': 1, 'give': 3, 'me': 3, 'used': 2, 'in': 1, 'the': 4, 'imperative': 1, 'n': 3, 'food': 1, 'to': 1, 'be': 1, 'chewed': 1, 'for': 1, 'juice': 1, 'only': 1, 'with': 1, 'suffix': 1, 'pronoun': 1, 'or': 2, 'nka': 1, 'intj': 2, 'syn': 1, 'kamai': 1, 'pass': 1, 'it': 1, 'ex': 2, 'te': 1, 'mangko': 1, 'cup': 1, 'portion': 1, 'of': 1, 'pandanus': 1, 'which': 1, 'is': 1, 'sucked': 1, 'ngkau': 1, 'ngkam': 1, 'etc': 1, 'nga': 1, 's': 1} extra {}
+ngkae: missing {'ngkae': 1, 'idiom': 1, 'adv': 1, 'for': 1, 'ngkai': 1, 'e': 1} extra {}
+ngkai: missing {'ngkai': 2, 'ngkái': 1, 'adv': 3, 'now': 4, 'idiom': 1, 'that': 2, 'since': 1, 'ex': 1, 'kamai': 1, 'te': 1, 'amarake': 1, 'i': 2, 'a': 1, 'roko': 1, 'give': 1, 'me': 1, 'to': 1, 'eat': 1, 'have': 1, 'arrived': 1} extra {}
+ngkainaba: missing {'ngkainaba': 2, 'ngkáinaba': 1, 'a': 2, 'new': 3, 'adv': 1, 'at': 1, 'once': 1, 'just': 1, 'now': 1, 'sup': 1, 'ngkainabanaba': 1, 'recent': 1, 'fresh': 1, 'ex': 1, 'te': 1, 'bai': 1, 'ae': 1, 'something': 1} extra {}
+ngkam: missing {'ngkam': 2, 'vi': 1, 'i': 5, 'don': 2, 't': 3, 'know': 3, 'am': 1, 'not': 1, 'supposed': 1, 'to': 2, 'or': 1, 'nkam': 1, 'int': 1, 'have': 1, 'nothing': 1, 'say': 1, 'can': 1, 'answer': 1} extra {}
+ngkami: missing {'ngkami': 2, 'ngkámi': 1, 'pron': 2, 'ye': 1, 'you': 3, 'emphatic': 1, 'in': 3, 'the': 4, 'nominative': 1, 'a': 1, 'plural': 1, 'suffix': 1, 'objective': 2, 'after': 1, 'v': 1, 't': 1, 'usually': 1, 'connected': 1, 'by': 1, 'i': 1, 'ex': 2, 'boni': 1, 'yourselves': 1, 'note': 1, 'used': 1, 'it': 1, 'is': 1, 'joined': 1, 'to': 1, 'verb': 1, 'e': 1, 'tangiringkami': 1, 'he': 1, 'loves': 1} extra {}
+ngkana: missing {'ngkana': 1, 'ngkána': 1, 'adv': 2, 'when': 2, 'future': 2, 'if': 2, 'at': 1, 'the': 2, 'time': 1, 'for': 1, 'fut': 1, 'cond': 1} extra {}
+ngkangka: missing {'ngkangka': 1, 'ngkángka': 1, 'n': 2, 'a': 3, 'tou': 3, 'htm': 2, 'or': 1, 'bunia': 3, 'set': 1, 'aside': 1, 'for': 1, 'chewing': 1, 'see': 1, 'ngka': 1, 'kaka': 1, 's': 1} extra {}
+ngkanne: missing {'ngkanne': 2, 'ngkan': 1, 'ne': 1, 'adv': 2, 'at': 3, 'the': 2, 'present': 1, 'time': 3, 'and': 1, 'place': 1, 'spoken': 1, 'of': 1, 'then': 1, 'in': 2, 'that': 3, 'case': 2, 'ex': 1, 'n': 1, 'na': 1, 'aki': 1, 'kawariko': 1, 'i': 1, 'won': 1, 't': 1, 'go': 1, 'to': 1, 'see': 1, 'you': 1} extra {}
+ngke: missing {'ngke': 5, 'adv': 2, 'when': 2, 'referring': 1, 'to': 1, 'past': 2, 'time': 1, 'then': 1, 'ex': 1, 'tairiki': 2, 'e': 2, 'yesterday': 1, 'evening': 1, 'bong': 1, 'last': 1, 'night': 1} extra {}
+ngkebong: missing {'ngkébong': 1, 'adv': 1, 'last': 1, 'night': 1} extra {}
+ngkekei: missing {'ngkekei': 2, 'adv': 1, 'at': 1, 'that': 1, 'time': 1, 'then': 2, 'past': 1, 'ex': 1, 'ao': 1, 'a': 1, 'mananga': 1, 'they': 1, 'set': 1, 'out': 1} extra {}
+ngkerimoa: missing {'ngkérimoa': 1, 'adv': 1, 'formerly': 1} extra {}
+ngketairiki: missing {'ngketáiriki': 1, 'adv': 1, 'last': 1, 'evening': 1} extra {}
+ngkoa: missing {'ngkoa': 3, 'ngkóa': 1, 'adv': 2, 'before': 1, 'formerly': 2, 'in': 2, 'the': 1, 'past': 1, 'ancient': 1, 'times': 1, 'a': 1, 'long': 2, 'time': 1, 'ago': 2, 'sup': 1, 'ngkoangkoa': 1, 'ex': 1, 'ngkoae': 2, 'ao': 2, 'of': 1, 'course': 1, 'naturally': 1} extra {}
+ngkoae: missing {'ngkóae': 1, 'adv': 1, 'indeed': 1, 'of': 1, 'course': 1, 'used': 1, 'in': 1, 'response': 1} extra {}
+ngkoananoa: missing {'ngkoananoa': 2, 'ngkóananoa': 1, 'adv': 2, 'yesterday': 3, 'ex': 1, 'i': 1, 'main': 1, 'before': 1} extra {}
+ngkoangkoa: missing {'ngkoangkoa': 2, 'ngkóangkoa': 1, 'adv': 2, 'long': 2, 'ago': 2, 'formerly': 1, 'sup': 1, 'superlative': 1, 'of': 2, 'ngkoa': 1, 'ex': 1, 'ten': 1, 'one': 1, 'the': 1, 'first': 1, 'beings': 1, 'created': 1, 'with': 1, 'riki': 1, 'myth': 1} extra {}
+ngkoe: missing {'ngkoe': 3, 'ngkóe': 1, 'pron': 2, 'thou': 2, 'you': 3, 'usually': 1, 'emphatic': 1, 'ex': 1, 'boni': 1, 'yourself': 1, 'ko': 1, 'tiku': 1, 're': 1, 'staying': 1} extra {}
+ngo: missing {'ngo': 4, 'vi': 1, 'to': 1, 'murmur': 1, 'or': 2, 'complain': 1, 'in': 1, 'a': 4, 'low': 1, 'voice': 1, 'n': 2, 'subdued': 1, 'complaint': 1, 'murmuring': 1, 'talk': 1, 'speech': 1, 'red': 1, 'ngongo': 1, 'more': 1, 'used': 1, 'ex': 1, 'te': 2, 'niba': 1, 'ni': 1, 'grumbler': 1, 'tau': 1, 'noise': 1, 'made': 1, 'by': 2, 'crowd': 2, 'medley': 1, 'of': 2, 'things': 1, 'rain': 1, 'waves': 1, 'people': 1} extra {}
+ngoa: missing {'ngoa': 1, 'ngóa': 1, 'vt': 2, 'to': 3, 'scratch': 3, 'what': 1, 'itches': 1, 'oneself': 1, 'rarely': 1, 'used': 2, 'red': 1, 'ngongoa': 1, 'more': 1} extra {}
+ngoe: missing {'ngoé': 1, 'pron': 1, 'naka': 1, 'preceded': 1, 'by': 1, 'nei': 1, 'but': 1} extra {}
+ngongo: missing {'ngongo': 5, 'ngoóngo': 1, 'vi': 2, 'to': 9, 'talk': 1, 'sub': 1, 'voce': 1, 'n': 5, 'frequentative': 1, 'of': 5, 'ngo': 2, 'ngòngo': 1, 'itch': 3, 'the': 1, 'sensation': 1, 'itching': 1, 'v': 1, 'vc': 2, 'kangongo': 1, 'which': 1, 'causes': 1, 'itchness': 1, 'kangongoa': 2, 'cause': 1, 'te': 1, 'kai': 1, 'ni': 1, 'a': 2, 'back': 1, 'scratcher': 2, 'red': 1, 'speech': 1, 'noise': 1, 'voices': 2, 'murmur': 1, 'indistinct': 1, 'make': 2, 'one': 1, 's': 1, 'voice': 1, 'heard': 1, 'speak': 2, 'ex': 1, 'ao': 1, 'e': 1, 'ngkekei': 1, 'he': 1, 'spoke': 1, 'then': 1, 'ko': 1, 'aki': 1, 'have': 1, 'you': 1, 'nothing': 1, 'say': 1, 'question': 1} extra {}
+ngongoa: missing {'ngóngoa': 1, 'vt': 1, 'to': 1, 'scratch': 1} extra {}
+ngongongo: missing {'ngongóngo': 1, 'vi': 1, 'frequentative': 1, 'of': 1, 'ngongo': 1} extra {}
+ngore: missing {'ngore': 1, 'ngóre': 1, 'n': 1, 'a': 3, 'young': 1, 'infant': 1, 'adj': 1, 'small': 1, 'in': 1, 'stature': 1, 'and': 1, 'weakly': 1, 'as': 1, 'sickly': 2, 'child': 1, 'feeble': 1, 'weak': 1, 'puny': 1, 'debilitated': 1, 'person': 1, 'plant': 1, 'or': 1, 'fruit': 1, 'of': 1, 'stunted': 1, 'development': 1, 'sup': 1, 'ngorengore': 1, 'niningore': 1, 'ningorengore': 1, 'ngoretaia': 1, 'ntangore': 1, 'ntangorengore': 1, 'ngoretaua': 1, 'bingore': 1, 'tingore': 1, 'mingorengora': 1, 'very': 1, 'vc': 1, 'kangorea': 1, 'katingorengorea': 1, 'ka': 3, 'ningongorea': 1, 'binongorea': 1, 'mingongorea': 1, 'to': 2, 'debilitate': 1, 'weaken': 1} extra {}
+ngungurengure: missing {'ngunguréngure': 1, 'vi': 1, 'to': 2, 'complain': 1, 'murmur': 1, 'frequentative': 1, 'of': 1, 'ngurengure': 1} extra {}
+ngure: missing {'ngure': 2, 'ngúre': 1, 'vi': 1, 'to': 10, 'complain': 4, 'murmur': 5, 'n': 1, 'grumble': 4, 'grouse': 1, 'v': 1, 'ex': 1, 'niba': 1, 'ni': 1, 'always': 1, 'complaining': 1, 'sup': 1, 'ngurengure': 1, 'frequent': 1, 'complaints': 1, 'vt': 1, 'ngurea': 1, 'ngurengurea': 1, 'against': 1, 'ngureakina': 1, 'of': 1, 'about': 1, 'vc': 1, 'kangurea': 1, 'kangurengurea': 1, 'make': 2, 'etc': 1} extra {}
+ngurengure: missing {'nguréngure': 1, 'i': 1, 'to': 2, 'complain': 1, 'murmur': 1, 'n': 1, 'a': 3, 'murmuring': 1, 'complaining': 1, 'subdued': 1, 'groaning': 1} extra {}
+ngurengurea: missing {'nguréngurea': 1, 'vt': 1, 'to': 1, 'complain': 1, 'about': 1, 'a': 1, 'borrower': 1, 'or': 1, 'express': 1, 'misgivings': 1, 'concerning': 1, 'something': 1, 'loaned': 1} extra {}
+ngutu: missing {'ngutu': 8, 'ngútu': 1, 'n': 5, 'a': 4, 'movable': 1, 'sight': 1, 'of': 5, 'gun': 1, 'nei': 1, 'te': 4, 'star': 1, 'white': 4, 'sea': 1, 'bird': 4, 'sn': 2, 'phaeton': 1, 'lepturus': 2, 'dorotheae': 2, 'skittles': 2, 'made': 1, 'coconut': 1, 'shell': 1, 'ex': 1, 'kinds': 1, 'wae': 1, 'onobua': 1, 'motu': 1, 'kare': 2, 'this': 2, 'game': 1, 'kai': 1, 'ni': 1, 'stick': 1, 'for': 1, 'knocking': 1, 'down': 1, 'phaethon': 1, 'tailed': 2, 'tropic': 1, 'may': 1, 'be': 1, 'easily': 1, 'distinguished': 1, 'from': 1, 'the': 13, 'red': 2, 'species': 1, 'by': 1, 'its': 1, 'two': 1, 'long': 2, 'central': 1, 'tail': 2, 'streamers': 1, 'which': 1, 'are': 5, 'pure': 1, 'and': 5, 'not': 2, 'as': 2, 'narrow': 1, 'ones': 1, 'next': 1, 'adjacent': 1, 'feathers': 2, 'also': 1, 'fairly': 1, 'there': 2, 'eight': 1, 'shorter': 1, 'making': 1, 'twelve': 1, 'in': 1, 'all': 1, 'is': 2, 'more': 1, 'black': 3, 'on': 1, 'wings': 1, 'flanks': 1, 'with': 2, 'rest': 2, 'plumage': 1, 'mainly': 1, 'or': 2, 'without': 1, 'roseate': 1, 'tinge': 1, 'eyestreaks': 1, 'so': 1, 'heavy': 1, 'bill': 1, 'yellowish': 2, 'base': 1, 'greyish': 1, 'legs': 1, 'bases': 1, 'toes': 1, 'flesh': 1, 'color': 1, 'feet': 1, 'aa': 1} extra {}
+okitebo: missing {} extra {'o': 1}
+onauti: missing {'exocoetidaecypselurus': 1} extra {'exocoetidae': 1, 'cypselurus': 1}
+one: missing {} extra {'o': 1}
+orian: missing {} extra {'l': 1}
+rabai: missing {} extra {'b': 1}
+ranea: missing {} extra {'g': 1}
+rabaro: missing {} extra {'b': 1}
+roni-kama: missing {} extra {'b': 1}
+tabo: missing {'shorttabo': 1} extra {'tabo': 1, 'short': 1}
+taeka: missing {'discussionte': 1, 'youatong': 1} extra {'te': 1, 'you': 1, 'discussion': 1, 'atong': 1}
+tai: missing {'e': 1} extra {}
+tano: missing {'aon': 1} extra {}
+tia: missing {'eateni': 1} extra {'i': 1, 'eaten': 1}
+tokia-ma-rebua: missing {} extra {'b': 1}
+tokonana: missing {} extra {'o': 1}
+tonu: missing {} extra {'o': 1}
+tura-ni-kama: missing {} extra {'b': 1}
+uri: missing {} extra {'l': 1}
+utu: missing {'familykau': 1} extra {'family': 1, 'kau': 1}
+wao: missing {} extra {'l': 1}
