@@ -2,7 +2,7 @@
 
 A free, searchable Kiribati (Gilbertese)–English dictionary for the web, built as a static site with no server.
 
-> Work in progress. The repository is private until the rights questions below are settled.
+> Work in progress. Live at https://emiliobarkett.github.io/kiribati-english-dictionary/. We are still seeking permission from rights holders; see below.
 
 ## Sources
 
@@ -81,4 +81,5 @@ The site is plain HTML with relative links. It has a page for every entry, every
 
 - **Search** runs in the browser, from the header of every page. `headwords.json` loads on the first keystroke, then `english.json`; `fulltext.json` only when someone searches the full text.
 - **Offline:** a service worker (`web/sw.js`) saves the small pages, the search data and `bundle/` (every entry's content) after the first visit. Pages that weren't visited are drawn from the bundle by `offline.html`.
-- **Corrections:** every entry links to a pre-filled GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`). Only people with access to the repository can file issues while it is private.
+- **Corrections:** every entry links to a pre-filled GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`).
+- **Deploying:** every push to `main` rebuilds the site and publishes it to GitHub Pages (`.github/workflows/pages.yml`).
