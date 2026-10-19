@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "api/app.py",
+        "use": "@vercel/python"
+      },
+      {    
+        "src": "dictionary.db", 
+        "use": "@vercel/static" 
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "api/app.py"
+      }
+    ]
+  }
+  
