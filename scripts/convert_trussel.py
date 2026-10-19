@@ -44,7 +44,7 @@ SOURCES = {
 ENTRY_SPLIT = re.compile(r"(?=<TABLE CELLPADDING=10 CELLSPACING=0 BORDER=0 WIDTH=75% BGCOLOR=white>)", re.I)
 SOURCE_SPLIT = re.compile(
     r"<CENTER><TABLE CELLSPACING=0 BORDER=0 WIDTH=90%><TR VALIGN=TOP><TD WIDTH=10>\s*"
-    r"<FONT SIZE=-1>([A-Z]+)</FONT>&nbsp;</TD><TD>", re.I)
+    r"<FONT SIZE=-1>([A-Z]+)</FONT>(?:&nbsp;)?\s*</TD><TD>", re.I)
 # a source block may hold several homographs, each introduced by a dark green form
 FORM = re.compile(r"(?:<BR>)?<FONT COLOR=darkgreen><B>(.*?)</B>\.?\s*</FONT>", re.I | re.S)
 LABEL = re.compile(r"<FONT COLOR=blue>([^<]*)</FONT>", re.I)

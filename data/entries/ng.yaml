@@ -1,400 +1,1815 @@
 - id: ng
   headword: ng
   trussel: ng
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ng
+      parts:
+      - label: int.
+        text: expressive of dissent or displeasure.
+  - source: sabatier
+    forms:
+    - form: ng
+      parts:
+      - label: or.
+        text: '*nng*.'
+      - label: intj.
+        text: of displeasure, disagreement.
 - id: nga
   headword: nga
   trussel: nga
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: nga
+      parts:
+      - label: adv.
+        text: where? in what place.
+      - label: n.
+        text: one distant by birth.
+      - label: ex.
+        text: ngan tarire.
+    - form: nga
+      parts:
+      - label: a.
+        text: thousand.
+      - label: suf.
+        text: a numeral suffix following the digits in counting fathoms.
+  - source: sabatier
+    forms:
+    - form: nga
+      parts:
+      - label: adv.
+        text: (1) *e nga?* where is it?
+      - label: ex.
+        text: '*a nga?* where are they?'
+      - label: n.
+        text: (2) a fathom.
+      - label: ex.
+        text: '*te ngana, ua nga*: 1 fathom, 2 fathoms.'
+      - label: vt.
+        text: '*ngaea*: (irr.) to measure by fathoms (arm''s length).'
+      - label: na.
+        text: (3) thousand, a thousand.
+      - label: ex.
+        text: '*te ngana, uanga*: 1,000, 2,000.'
+      - label: n.
+        text: |-
+          (4) portion of pandanus which is chewed.
+          (5) family of origin, relations.
+      - label: ex.
+        text: '*ngan tarire, an tarire*: relations in very wide sense.'
 - id: nga-n-tarire
   headword: nga n tarire
   trussel: ngantarire
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: nga n tarire
+      parts:
+      - label: see
+        text: '[[nga]].'
+      - label: n.
+        text: branch of family (distant), multiple or extensive relatives.
 - id: ngabingabi
   headword: ngabingabi
   trussel: ngabingabi
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngábingabi
+      parts:
+      - label: n.
+        text: a mat used as a spread or container for food.
+      - label: n.
+        text: a species of eel, the.
+  - source: sabatier
+    forms:
+    - form: ngabingabi
+      parts:
+      - label: n.
+        text: (1) a small mat used as plate.
+      - label: n.
+        text: dish for food.
+      - label: n.
+        text: (2) an eel with black spots.
 - id: ngabu
   headword: ngabu
   trussel: ngabu
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngabu
+      parts:
+      - label: and
+        text: '[[torongabu|toro ngabu]]: *matoru-ngabu*.'
+      - label: n.
+        text: numerous posterity.
+      - label: a.
+        text: having many descendants.
 - id: ngae
   headword: ngae
   trussel: ngae
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngæ/e
+      parts:
+      - label: va.
+        text: satiated.
+  - source: sabatier
+    forms:
+    - form: ngae
+      parts:
+      - label: n.
+        text: (dipth.) satiety.
+      - label: a.
+        text: satisfied, satiated, having enough, refusing because satisfied.
+      - label: fig.
+        text: to have had enough.
+      - label: vca.
+        text: '*ka-ngae*: satiating, filling, irksome, tedious.'
+      - label: vc.
+        text: '*ka-ngaea*: to satisfy, to satiate, to glut.'
 - id: ngaea
   headword: ngaea
   trussel: ngaea
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáea
+      parts:
+      - label: n.
+        text: a fathom.
+      - label: vt.
+        text: to measure by fathoms.
 - id: ngaeau
   headword: ngaeau
   trussel: ngaeau
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáeau
+      parts:
+      - label: a.
+        text: mussed as the hair not oiled.
+  - source: sabatier
+    forms:
+    - form: ngaeau
+      parts:
+      - label: for.
+        text: '*ngeau, kangaeau*.'
 - id: ngaengae
   headword: ngaengae
   trussel: ngaengae
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáengae
+      parts:
+      - label: a.
+        text: frequentative of [[ngae]].
 - id: ngai
   headword: ngai
   trussel: ngai
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngaái
+      parts:
+      - label: pron.
+        text: plural of *ngaia*.
+      - label: bk.
+        text: Genesis 30:32.
+    - form: ngái
+      parts:
+      - label: pron.
+        text: I (often emphatic).
+  - source: sabatier
+    forms:
+    - form: ngai
+      parts:
+      - label: pron.
+        text: that this (when speaking of several things).
+      - label: pl.
+        text: of *ngaia*.
+    - form: ngai
+      homograph: 1
+      parts:
+      - label: pron.
+        text: I.
+      - label: ex.
+        text: '*boni ngai*: myself.'
 - id: ngaia
   headword: ngaia
   trussel: ngaia
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáia
+      parts:
+      - label: pron.
+        text: he, she, it.
+      - label: ex.
+        text: '*ngaia*: yes, thats it.'
+  - source: sabatier
+    forms:
+    - form: ngaia
+      parts:
+      - label: pron.
+        text: he, she, it, that.
+      - label: ex.
+        text: '*boni ngaia*: himself, herself, itself.'
+    - form: ngaia
+      homograph: 1
+      parts:
+      - label: pron.
+        text: they, them.
+      - label: ex.
+        text: '*boni ngaia*: themselves.'
 - id: ngaiangaia
   headword: ngaiangaia
   trussel: ngaiangaia
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáiangáia
+      parts:
+      - label: adv.
+        text: yes, yes, that's he.
+  - source: sabatier
+    forms:
+    - form: ngaiangaia
+      parts:
+      - label: adv.
+        text: that's it. yes, yes.
 - id: ngaina
   headword: ngaina
   trussel: ngaina
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáina
+      parts:
+      - label: n.
+        text: daytime.
+      - label: a.
+        text: being light or daytime.
+  - source: sabatier
+    forms:
+    - form: ngaina
+      parts:
+      - label: n.
+        text: day, daylight.
+      - label: a.
+        text: daytime.
+      - label: ex.
+        text: |-
+          *e ngaina*: daybreak.
+          *e a kani ngaina*: it is nearly day.
+      - label: adv.
+        text: '*ni ngaina*: by day.'
+      - label: ex.
+        text: |-
+          *ni moani ngaina*: very early.
+          *ingini ngaina, ewa ni ngaina*: day dawn.
+      - label: vt.
+        text: '*ka-ngaina*: to wait till day, to stay up all night to... (play, fish, keep watch). adv.'
+      - label: ex.
+        text: '*ni kangaina*: until day.'
+      - label: n.
+        text: '*te karangaina*: dawn, sunrise.'
+      - label: adv.
+        text: '*ni karangaina*: at dawn.'
 - id: ngaira
   headword: ngaira
   trussel: ngaira
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáira
+      parts:
+      - label: pron.
+        text: we, us (generally in the nominative and emphatic).
+  - source: sabatier
+    forms:
+    - form: ngaira
+      parts:
+      - label: pron.
+        text: us, <we>.
+      - label: ex.
+        text: '*boni ngaira*: ourselves.'
 - id: ngake
   headword: ngake
   trussel: ngake
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáke
+      parts:
+      - label: n.
+        text: the spermatic cord.
+  - source: sabatier
+    forms:
+    - form: ngake
+      parts:
+      - label: n.
+        text: (1) membrane joining two parts.
+      - label: n.
+        text: (2) web of feet. ex. crotch of trousers <and of body>.
 - id: ngako
   headword: ngako
   trussel: ngako
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáko
+      parts:
+      - label: n.
+        text: phlegm, mucous matter.
+      - label: va.
+        text: having catarrh.
+  - source: sabatier
+    forms:
+    - form: ngako
+      parts:
+      - label: n.
+        text: mucus, snot, glair, phlegm.
+      - label: va.
+        text: to have a cold in the head.
+      - label: v.
+        text: '*ongiri ngako*: to blow one''s nose.'
+      - label: vc.
+        text: '*ka-ngakoa*: to cause mucus, to soil with...'
 - id: ngan
   headword: ngan
   trussel: ngan
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngan
+      parts:
+      - label: va.
+        text: having side sprouts as babai*.
+      - label: n.
+        text: a sucker or side sprout of the *babai*.
+  - source: sabatier
+    forms:
+    - form: ngan
+      parts:
+      - label: n.
+        text: a shoot, a sprout (taro, onions, bulbs).
 - id: nganga
   headword: nganga
   trussel: nganga
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngaánga
+      parts:
+      - label: vi.
+        text: to engage in measuring fathoms.
+  - source: sabatier
+    forms:
+    - form: nganga
+      parts:
+      - label: n.
+        text: food poisoning (esp. by fish).
+      - label: va.
+        text: suffer from poisoning.
+      - label: vca.
+        text: '*ka-nganga*: which causes..., poisonous.'
+      - label: vc.
+        text: '*ka-nganga*: to poison.'
 - id: ngangae
   headword: ngangae
   trussel: ngangae
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngángae
+      parts:
+      - label: va.
+        text: frequentative of [[ngae]].
 - id: ngangarake
   headword: ngangarake
   trussel: ngangarake
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngæ/ngarake
+      parts:
+      - label: n.
+        text: the roof of the mouth.
+      - label: n.
+        text: suffering occasioned by food entering the nasal passage.
+  - source: sabatier
+    forms:
+    - form: ngangarake
+      parts:
+      - label: n.
+        text: the passage between nose and throat.
+      - label: v.
+        text: to snuffle <sniffle> through this...
+      - label: vt.
+        text: '*ngangarakea*.'
+      - label: vc.
+        text: '*ka-ngangarakea*: to make...'
 - id: ngangareuke
   headword: ngangareuke
   trussel: ngangareuke
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngæ/ngareúke
+      parts:
+      - label: vi.
+        text: frequentative of [[ngareuke]].
 - id: ngangau
   headword: ngangau
   trussel: ngangau
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngæ/ngau
+      parts:
+      - label: va.
+        text: unable to restrain one's desire, eating without waiting for others.
+  - source: sabatier
+    forms:
+    - form: ngangau
+      parts:
+      - label: n.
+        text: voracity, gluttony, a glutton.
+      - label: a.
+        text: gluttonous.
+      - label: vt.
+        text: '*ngangaua*: to cram, to stuff.'
+      - label: vc.
+        text: '*kangangaua*: to make...'
 - id: ngao
   headword: ngao
   trussel: ngao
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáo
+      parts:
+      - label: va.
+        text: in confusion, mixed or piled up without order.
+      - label: n.
+        text: a nest.
+  - source: sabatier
+    forms:
+    - form: ngao
+      parts:
+      - label: n.
+        text: nest, birds' nest.
+      - label: ex.
+        text: '*aea ngao*: to build nest.'
+    - form: ngao
+      homograph: 1
+      parts:
+      - label: na.
+        text: entanglement, jumbled up, in disorder.
+      - label: vc.
+        text: '*ka-ngaoa*: to entangle.'
 - id: ngao-ni-moa
   headword: ngao ni moa
   trussel: ngaonimoa
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngao ni moa
+      parts:
+      - label: n.
+        text: hen's nest.
 - id: ngaongao
   headword: ngaongao
   trussel: ngaongao
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáongao
+      parts:
+      - label: n.
+        text: |-
+          wire.
+          branches of bushes cut to be burned in the clearing of land.
+      - label: a.
+        text: covered over with cut brush ready for burning.
+  - source: sabatier
+    forms:
+    - form: ngaongao
+      parts:
+      - label: n.
+        text: branch, twigs without leaves, sprigs, dry branches, wire, barbed wire, spokes of bicycle
+          wheel.
 - id: ngare
   headword: ngare
   trussel: ngare
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáre
+      parts:
+      - label: n.
+        text: laughter.
+  - source: sabatier
+    forms:
+    - form: ngare
+      parts:
+      - label: n.
+        text: laughter, smile.
+      - label: v.
+        text: to laugh, to smile.
+      - label: n.
+        text: '*ngaren te nao*: white foam on waves.'
+      - label: ex.
+        text: |-
+          *e ngare te nao*: there is white foam on the waves.
+          *mate ni ngare*: to die of laughter.
+      - label: a.
+        text: '*mata ni ngare, matangare*: smiling, smiling face.'
+      - label: va.
+        text: '*kangare, kaka-ngare*: to cause laughter, to amuse, comic.'
+      - label: vc.
+        text: '*ka-ngarea*: to make laugh, to amuse.'
+      - label: n.
+        text: |-
+          *te kangare*: pleasantry, jest, joke, making fun.
+          *te bai ni kangare*: something funny, buffoonery, joke.
+      - label: nv.
+        text: '*io ni ngare*: burst of laughter.'
 - id: ngare-banna
   headword: ngare banna
   trussel: ngarebanna
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare banna
+      parts:
+      - label: n.
+        text: the laugh of a sick person (skeleton).
 - id: ngare-be
   headword: ngare be
   trussel: ngarebe
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare be
+      parts:
+      - label: n.
+        text: a wicked laugh, insolent, untimely.
+      - label: ex.
+        text: '*kangare be, manikangare be*: to make laugh, wicked joke, to annoy.'
 - id: ngare-iotaua
   headword: ngare iotaua
   trussel: ngareiotaua
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare iotaua
+      parts:
+      - label: n.
+        text: loud laughter.
+      - label: v.
+        text: to laugh loudly.
 - id: ngare-ke
   headword: ngare ke
   trussel: ngareke
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare ke
+      parts:
+      - label: n.
+        text: a short laugh.
 - id: ngare-n-take
   headword: ngare n take
   trussel: ngarentake
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare n take
+      parts:
+      - label: nv.
+        text: a long, loud roar of laughter.
 - id: ngare-ngenge
   headword: ngare ngenge
   trussel: ngarengenge
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare ngenge
+      parts:
+      - label: n.
+        text: a forced laugh.
 - id: ngare-roro
   headword: ngare roro
   trussel: ngareroro
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare roro
+      parts:
+      - label: v.
+        text: to laugh till black and blue.
 - id: ngare-uatao
   headword: ngare uatao
   trussel: ngareuatao
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare uatao
+      parts:
+      - label: n.
+        text: prolonged laughter.
 - id: ngare-uke
   headword: ngare uke
   trussel: ngareuke
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare uke
+      parts:
+      - label: nv.
+        text: to laugh till breathless.
 - id: ngare-uoua
   headword: ngare uoua
   trussel: ngareuoua
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngare uoua
+      parts:
+      - label: n.
+        text: false, hypocritical laugh.
 - id: ngareakina
   headword: ngareakina
   trussel: ngareakina
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáreakina
+      parts:
+      - label: vt.
+        text: to laugh at.
+  - source: sabatier
+    forms:
+    - form: ngareakina
+      parts:
+      - label: vt.
+        text: to laugh at..., to make fun of..., to ridicule.
 - id: ngarebe
   headword: ngarebe
   trussel: ngarebe
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngárebee
+      parts:
+      - label: vi.
+        text: to laugh loud and sneeringly, or improperly.
 - id: ngarei
   headword: ngarei
   trussel: ngarei
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngaréi
+      parts:
+      - label: n.
+        text: fish, the.
+  - source: sabatier
+    forms:
+    - form: ngarei
+      parts:
+      - label: n.
+        text: deep water shark, sort of *tababa*.
 - id: ngarengare
   headword: ngarengare
   trussel: ngarengare
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngárengare
+      parts:
+      - label: vi.
+        text: frequentative of [[ngare]], to laugh.
+      - label: vi.
+        text: to shake as a sail in the wind.
+      - label: n.
+        text: laughter.
 - id: ngarentake
   headword: ngarentake
   trussel: ngarentake
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngarentaáke
+      parts:
+      - label: vi.
+        text: to laugh coarsely and long.
+    - form: ngarentaáke
+      parts:
+      - label: n.
+        text: coarse and prolonged laughter.
 - id: ngareuke
   headword: ngareuke
   trussel: ngareuke
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáreuke
+      parts:
+      - label: vi.
+        text: to laugh with a wide-open mouth.
+      - label: n.
+        text: laughter with a wide-open mouth.
 - id: ngaro
   headword: ngaro
   trussel: ngaro
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáro
+      parts:
+      - label: n.
+        text: the gum.
+  - source: sabatier
+    forms:
+    - form: ngaro
+      parts:
+      - label: n.
+        text: (1) gums.
+      - label: n.
+        text: (2) a dish made with [[tou]].
 - id: ngarobata
   headword: ngarobata
   trussel: ngarobata
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngárob'ata
+      parts:
+      - label: a.
+        text: having discolored gums.
+  - source: sabatier
+    forms:
+    - form: ngaro-bata
+      parts:
+      - label: n.
+        text: dark coloured gums.
 - id: ngarongaro
   headword: ngarongaro
   trussel: ngarongaro
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngárongaro
+      parts:
+      - label: a.
+        text: toothless.
+  - source: sabatier
+    forms:
+    - form: ngarongaro
+      parts:
+      - label: na.
+        text: (1) toothless gums.
+      - label: vc.
+        text: |-
+          *kangarongaro*: to make...
+          *ka-ngarongaroa*: _idem_.
+      - label: syn.
+        text: '*(2) blunt-edged*.'
 - id: ngaruru
   headword: ngaruru
   trussel: ngaruru
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngaruru
+      parts:
+      - label: n.
+        text: muffled noise of quaking and rolling.
+      - label: v.
+        text: to quake, to roll.
+      - label: n.
+        text: noise as of thunder or breakers.
+      - label: vc.
+        text: '*kangarurua*: to make...'
 - id: ngata
   headword: ngata
   trussel: ngata
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngata
+      parts:
+      - label: n.
+        text: |-
+          *ngatangata, nanongatangata*: covetousness, cupidity.
+          *ngetangeta, nanongetangeta*: cupidity, desire, etc. (Butaritari and Makin) other islands:
+      - label: nv.
+        text: '*kangata, kangeta, kanano kangeta*: to excite..., to give...'
 - id: ngati
   headword: ngati
   trussel: ngati
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngati
+      parts:
+      - label: a.
+        text: clothes or mats covered with dirt or stains, soiled, dirty, disgusting (N.).
+      - label: and
+        text: '*ngatu* (S.).'
 - id: ngatingati
   headword: ngatingati
   trussel: ngatingati
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngatingati
+      parts:
+      - label: a.
+        text: '*ngatungatu*: very dirty, filthy.'
+      - label: vc.
+        text: '*kangata*: to soil, to make dirty.'
 - id: ngau
   headword: ngau
   trussel: ngau
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngau
+      parts:
+      - label: n.
+        text: a sort of sea slug.
+    - form: ngau
+      homograph: 1
+      parts:
+      - label: n.
+        text: gluttony, voracity.
+      - label: a.
+        text: gluttonous, voracious, greedy.
+      - label: sup.
+        text: '[[ngaungau]], *ngautata*, [[mangaungau]]: very gluttonous, voracious.'
+      - label: vc.
+        text: '*ka-ngau, ka-ngau, ngau*: voracity.*kangaua, kangaungaua*: to make...'
 - id: ngaun
   headword: ngaun
   trussel: ngaun
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáun
+      parts:
+      - label: a.
+        text: ten used in counting *bong, ririki, ritoro, inaki, atao, wa,* and whenever a digit is followed
+          by a numeral suffix, *ai, ung, man, nga, kai, kora* coconut are counted by bunches of ten.
+      - label: see
+        text: '[[tengaun]].'
+  - source: sabatier
+    forms:
+    - form: ngaun
+      parts:
+      - label: an.
+        text: ten, tens. 100 <hundred> coconuts.
 - id: ngaungau
   headword: ngaungau
   trussel: ngaungau
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngáungau
+      parts:
+      - label: vi.
+        text: to eat voraciously.
+  - source: sabatier
+    forms:
+    - form: ngaungau
+      parts:
+      - label: vt.
+        text: '*ngaungaua, ri ngaungaua, ngangaua*: to ingurgitate, to gulp down, to cram, to devour.'
+      - label: vc.
+        text: '*ka-ngaungaua*: to make or treat as glutton.'
+      - label: vt.
+        text: '*ngauta*: to devour, to cram, to gulp down.'
 - id: ngawa
   headword: ngawa
   trussel: ngawa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngaáwa
+      parts:
+      - label: va.
+        text: having a fish-bone in the throat.
+  - source: sabatier
+    forms:
+    - form: ngawa
+      parts:
+      - label: n.
+        text: choking, suffocation from fish bones or other... throat.
+      - label: v.
+        text: to choke oneself, to suffocate from obstruction in throat.
+      - label: vc.
+        text: '*ka-ngawa*: to strangle, to put harpoon in throat.'
+      - label: ex.
+        text: '*te kai ni kangawa*: a spear used to kill sharks.'
 - id: ngawata
   headword: ngawata
   trussel: ngawata
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngawata
+      parts:
+      - label: n.
+        text: mucus obstructing throat.
+      - label: v.
+        text: to have throat obstructed by...
 - id: ngea
   headword: ngea
   trussel: ngea
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngéa
+      parts:
+      - label: n.
+        text: |-
+          a tree, the.
+          a large fish hook made of ngea.
+      - label: a.
+        text: firm, stiff, hard as a wet rope.
+  - source: sabatier
+    forms:
+    - form: ngea
+      parts:
+      - label: n.
+        text: (1) bush of very hard, gnarled wood.
+      - label: sn.
+        text: _Pemphis scidula_.
+      - label: a.
+        text: |-
+          hard, strong like *ngea*.
+          ngea ngeangea: hard, strong like..., abounding in...
+      - label: vc.
+        text: '*ka-ngea, ka-ngeangea*: make hard.'
+      - label: n.
+        text: (2) large fish hook made formerly of *ngea* used to catch shark.
+      - label: n.
+        text: circular fish hook of iron for shark fishing with hook of *ngea*.
+      - label: n.
+        text: '(3) *te Ngea*: constellation in form of fish hook (Austral Crown).'
+      - label: ex.
+        text: '*ngea n arabo*: a very old *ngea* such, the inside of which is beginning to rot.'
+      - label: n.
+        text: essence got from this inside.
+      - label: nv.
+        text: '*ngeangea*.'
+  - source: goo-banner
+    forms:
+    - form: ngea
+      parts:
+      - label: sn.
+        text: _Pemphis acidula Forst. (z)_.
 - id: ngeaiarabo
   headword: ngeaiarabo
   trussel: ngeaiarabo
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngeáiarábo
+      parts:
+      - label: n.
+        text: a tree, the.
 - id: ngeangea
   headword: ngeangea
   trussel: ngeangea
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngéangea
+      parts:
+      - label: a.
+        text: |-
+          very strong and firm.
+          abounding in *ngea* trees.
 - id: ngearuru
   headword: ngearuru
   trussel: ngearuru
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngearuru
+      parts:
+      - label: sup.
+        text: superlative of [[ngea]].
+      - label: a.
+        text: very hard, stiff, rigid.
 - id: ngenge
   headword: ngenge
   trussel: ngenge
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngÉnge
+      parts:
+      - label: vi.
+        text: to beg for food by one's looks, to be covetous of food.
+      - label: n.
+        text: the begging for food by one's looks.
+    - form: ngeénge
+      parts:
+      - label: n.
+        text: what remains of the kernel of a coconut in a shell after it has been scraped.
+      - label: a.
+        text: scraped, without much kernel.
+  - source: sabatier
+    forms:
+    - form: ngenge
+      parts:
+      - label: orig.
+        text: sup. [[ngaro]].
+      - label: n.
+        text: '(1) *te ngenge, te maungenge, te nano ngenge*: envy, covetousness of food, drink, tobacco,
+          etc.'
+      - label: na.
+        text: '*ngengeroroko*: irresistible envy of food, inveterate habit of begging.'
+      - label: n.
+        text: '*te tia ngenge, te ngengetaia*: beggar (always begging).'
+      - label: va.
+        text: '*ngenge, maungenge, ngengetaia*: to show covetousness for food, tobacco belonging to others,
+          covetous, avid.'
+      - label: vt.
+        text: '*ngengea, maungengea, ngengetaia*: to show one''s covetousness, to cast envious eyes on...'
+      - label: vc.
+        text: '*kangengea*: to cause..., to provoke..., to make..., to treat as...'
+      - label: n.
+        text: '(2) *te kangenge, te kangengewi*: emaciation, phthisis, consumption.'
+      - label: v.
+        text: '*kangengea wina*: gnash or show teeth.'
+      - label: ex.
+        text: '*e ngenge te ora*: the beach is uncovered (low tide).'
+    - form: ngenge
+      homograph: 1
+      parts:
+      - label: n.
+        text: the remainder of coconut kernel in shell after it has been scraped out.
 - id: ngengen-ri
   headword: ngengen ri
   trussel: ngengenri
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngengen ri
+      parts:
+      - label: n.
+        text: nothing but skin and bone.
+      - label: a.
+        text: very emaciated, a living skeleton.
+      - label: vc.
+        text: '*kangengenria*: to make...'
 - id: ngengenri
   headword: ngengenri
   trussel: ngengenri
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngengen/ri
+      parts:
+      - label: a.
+        text: thin in flesh.
 - id: ngengetaia
   headword: ngengetaia
   trussel: ngengetaia
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngEngetáia
+      parts:
+      - label: vi.
+        text: to beg much for food by one's looks.
+      - label: n.
+        text: much begging for food by one's looks.
+  - source: sabatier
+    forms:
+    - form: ngengetaia
+      parts:
+      - label: sup.
+        text: superlative of [[ngenge]].
+      - label: n.
+        text: great covetousness of food.
+      - label: v.
+        text: to have..., to show...
+      - label: vc.
+        text: |-
+          *kangengetaia*: to find, to accuse of being..., to treat as...
+          *ka-ngengeta*: to excite to envy, to entice, to attract.
 - id: ngeri
   headword: ngeri
   trussel: ngeri
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngéri
+      parts:
+      - label: a.
+        text: curled, frizzled, curly.
+      - label: n.
+        text: a person with curly hair.
+  - source: sabatier
+    forms:
+    - form: ngeri
+      parts:
+      - label: a.
+        text: curly, frizzled, curly-headed.
+      - label: sup.
+        text: '*ngeringeri*, *ngeringeritaua*.'
+      - label: vc.
+        text: |-
+          *ka-ngera*: to curl, to make frizzy.
+          *ka-ngeria*: to comb...
+      - label: n.
+        text: '*te aki ni kangeri*: ancient comb of one or two prongs.'
 - id: ngeta
   headword: ngeta
   trussel: ngeta
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngeta
+      parts:
+      - label: n.
+        text: concupiscence, immoderate, desire, disorderly envy.
+      - label: a.
+        text: envious, immoderate, greedy, passionate.
+      - label: sup.
+        text: '*ngengeta*, [[nanongetangeta]]: very...'
+      - label: vc.
+        text: '*kangeta*.'
 - id: ngio
   headword: ngio
   trussel: ngio
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngío
+      parts:
+      - label: a.
+        text: dizzy.
+  - source: sabatier
+    forms:
+    - form: ngio
+      parts:
+      - label: n.
+        text: dizziness.
+      - label: v.
+        text: to fall into a swoon, to sink down, to grow faint, to fail, to be carried off quickly.
+      - label: vc.
+        text: '*kangiongioa, kangiongionakoa*: to make numb, to faint, to carry away, etc.'
+      - label: sup.
+        text: '*ngiongo*, [[ngiongio]], *ngionako*, *ningioningio*: tired, sleep, drowsy.'
 - id: ngiongio
   headword: ngiongio
   trussel: ngiongio
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngióngio
+      parts:
+      - label: a.
+        text: frequentative of [[ngio]].
 - id: ngira
   headword: ngira
   trussel: ngira
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngíra
+      parts:
+      - label: vi.
+        text: to groan audibly or in spirit.
+      - label: n.
+        text: a groan, groaning.
+  - source: sabatier
+    forms:
+    - form: ngira
+      parts:
+      - label: n.
+        text: a groan, moan.
+      - label: v.
+        text: to groan in abnormal effort so as to overcome pain. <grunt>.
+      - label: sup.
+        text: '[[ngirangira]].'
+      - label: vt.
+        text: '*ngira marakina, ngiraia*: to moan with..., to control one to keep back one''s cries.'
+      - label: vc.
+        text: '*ka-ngirangira*: to make...'
 - id: ngirangira
   headword: ngirangira
   trussel: ngirangira
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngiræ/ngira
+      parts:
+      - label: vi.
+        text: to groan audibly or in spirit.
 - id: ngirataua
   headword: ngirataua
   trussel: ngirataua
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngiratáua
+      parts:
+      - label: vi.
+        text: to groan as when under a heavy burden.
+  - source: sabatier
+    forms:
+    - form: ngirataua
+      parts:
+      - label: nva.
+        text: freq. of *ngira*.
 - id: ngka
   headword: ngka
   trussel: ngka
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ng/ka
+      parts:
+      - label: vt.
+        text: give me (used in the imperative).
+      - label: n.
+        text: food to be chewed for the juice (used only with the suffix pronoun).
+  - source: sabatier
+    forms:
+    - form: ngka
+      parts:
+      - label: or.
+        text: '*nka*.'
+      - label: intj.
+        text: '*ngka!*.'
+      - label: syn.
+        text: '[[kamai]].'
+      - label: intj.
+        text: give me, pass it!
+      - label: ex.
+        text: '*ngka te mangko!* give me the cup.'
+    - form: ngka
+      homograph: 1
+      parts:
+      - label: n.
+        text: portion of pandanus which is sucked.
+      - label: ex.
+        text: '*ngkau, ngkam*, etc. (N.).'
+      - label: or.
+        text: '[[nga]] (S.).'
 - id: ngkae
   headword: ngkae
   trussel: ngkae
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngkae
+      parts:
+      - label: idiom.
+        text: adv. for *ngkai e*.
 - id: ngkai
   headword: ngkai
   trussel: ngkai
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkái
+      parts:
+      - label: adv.
+        text: now.
+  - source: sabatier
+    forms:
+    - form: ngkai
+      parts:
+      - label: adv.
+        text: now.
+      - label: idiom.
+        text: adv. now that, since.
+      - label: ex.
+        text: '*kamai te amarake ngkai I a roko*: give me to eat now that I have arrived.'
 - id: ngkainaba
   headword: ngkainaba
   trussel: ngkainaba
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkáinaba
+      parts:
+      - label: a.
+        text: new.
+  - source: sabatier
+    forms:
+    - form: ngkainaba
+      parts:
+      - label: adv.
+        text: at once, just now.
+      - label: sup.
+        text: '*ngkainabanaba*.'
+      - label: a.
+        text: recent, fresh, new.
+      - label: ex.
+        text: '*te bai ae ngkainaba*: something new.'
 - id: ngkam
   headword: ngkam
   trussel: ngkam
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkam/
+      parts:
+      - label: vi.
+        text: I don't know, I am not supposed to know.
+  - source: sabatier
+    forms:
+    - form: ngkam
+      parts:
+      - label: or.
+        text: '*nkam*.'
+      - label: int.
+        text: I don't know! I have nothing to say, I can't answer.
 - id: ngkami
   headword: ngkami
   trussel: ngkami
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkámi
+      parts:
+      - label: pron.
+        text: ye, you, emphatic in the nominative, a plural suffix in the objective after v.t. usually
+          connected by *i*.
+  - source: sabatier
+    forms:
+    - form: ngkami
+      parts:
+      - label: pron.
+        text: you.
+      - label: ex.
+        text: '*boni ngkami*: yourselves.'
+      - label: note.
+        text: used in the objective it is joined to the verb.
+      - label: ex.
+        text: '*e tangiringkami*: he loves you.'
 - id: ngkana
   headword: ngkana
   trussel: ngkana
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkána
+      parts:
+      - label: adv.
+        text: when (future) if.
+  - source: sabatier
+    forms:
+    - form: ngkana
+      parts:
+      - label: adv.
+        text: when, at the time (for the future), if (fut. cond.).
 - id: ngkangka
   headword: ngkangka
   trussel: ngkangka
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkángka
+      parts:
+      - label: n.
+        text: a %tou<#+a>">*.htm#%tou">%tou* or %bunia<#+a>">*.htm#%bunia">%bunia* set aside for chewing.
+  - source: sabatier
+    forms:
+    - form: ngkangka
+      parts:
+      - label: see
+        text: '[[ngka]].'
+      - label: n.
+        text: '*kaka* (S.).'
 - id: ngkanne
   headword: ngkanne
   trussel: ngkanne
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkan/ne
+      parts:
+      - label: adv.
+        text: at the present time, at the time and place spoken of.
+  - source: sabatier
+    forms:
+    - form: ngkanne
+      parts:
+      - label: adv.
+        text: then, in that case, at that time.
+      - label: ex.
+        text: '*n na aki kawariko ngkanne*: in that case I won''t go to see you.'
 - id: ngke
   headword: ngke
   trussel: ngke
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngke
+      parts:
+      - label: adv.
+        text: when (referring to past time).
+  - source: sabatier
+    forms:
+    - form: ngke
+      parts:
+      - label: adv.
+        text: when, then (past).
+      - label: ex.
+        text: |-
+          *ngke tairiki, ngke e tairiki*: yesterday evening.
+          *ngke e bong*: last night.
 - id: ngkebong
   headword: ngkebong
   trussel: ngkebong
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkébong
+      parts:
+      - label: adv.
+        text: last night.
 - id: ngkekei
   headword: ngkekei
   trussel: ngkekei
-  sources: []
+  sources:
+  - source: sabatier
+    forms:
+    - form: ngkekei
+      parts:
+      - label: adv.
+        text: at that time, then (past).
+      - label: ex.
+        text: '*ao ngkekei a mananga*: then they set out.'
 - id: ngkerimoa
   headword: ngkerimoa
   trussel: ngkerimoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkérimoa
+      parts:
+      - label: adv.
+        text: formerly.
 - id: ngketairiki
   headword: ngketairiki
   trussel: ngketairiki
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngketáiriki
+      parts:
+      - label: adv.
+        text: last evening.
 - id: ngkoa
   headword: ngkoa
   trussel: ngkoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkóa
+      parts:
+      - label: adv.
+        text: before, formerly.
+  - source: sabatier
+    forms:
+    - form: ngkoa
+      parts:
+      - label: adv.
+        text: formerly, in the past, in ancient times, a long time ago.
+      - label: sup.
+        text: '[[ngkoangkoa]]: long ago.'
+      - label: ex.
+        text: '*ngkoa! ngkoae! ao ngkoa! ao ngkoae!*: of course! naturally!'
 - id: ngkoae
   headword: ngkoae
   trussel: ngkoae
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkóae
+      parts:
+      - label: adv.
+        text: indeed, of course, used in response.
 - id: ngkoananoa
   headword: ngkoananoa
   trussel: ngkoananoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkóananoa
+      parts:
+      - label: adv.
+        text: yesterday.
+  - source: sabatier
+    forms:
+    - form: ngkoananoa
+      parts:
+      - label: adv.
+        text: yesterday.
+      - label: ex.
+        text: '*i main ngkoananoa*: before yesterday.'
 - id: ngkoangkoa
   headword: ngkoangkoa
   trussel: ngkoangkoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkóangkoa
+      parts:
+      - label: adv.
+        text: long ago, formerly.
+  - source: sabatier
+    forms:
+    - form: ngkoangkoa
+      parts:
+      - label: sup.
+        text: superlative of [[ngkoa]].
+      - label: adv.
+        text: long ago.
+      - label: ex.
+        text: '*ten Ngkoangkoa*: one of the first beings created with Riki (myth.).'
 - id: ngkoe
   headword: ngkoe
   trussel: ngkoe
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngkóe
+      parts:
+      - label: pron.
+        text: thou, you, usually emphatic.
+  - source: sabatier
+    forms:
+    - form: ngkoe
+      parts:
+      - label: pron.
+        text: you, thou.
+      - label: ex.
+        text: |-
+          *boni ngkoe*: yourself.
+          *ko tiku, ngkoe?* you're staying?
 - id: ngo
   headword: ngo
   trussel: ngo
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngo
+      parts:
+      - label: vi.
+        text: to murmur or complain in a low voice.
+      - label: n.
+        text: subdued complaint, murmuring.
+  - source: sabatier
+    forms:
+    - form: ngo
+      parts:
+      - label: n.
+        text: talk, speech.
+      - label: red.
+        text: '*ngongo* (more used).'
+      - label: ex.
+        text: |-
+          *te niba ni ngo*: a grumbler.
+          *te ngo tau*: noise made by a crowd or by a medley of things (rain, waves, crowd of people).
 - id: ngoa
   headword: ngoa
   trussel: ngoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngóa
+      parts:
+      - label: vt.
+        text: to scratch what itches.
+  - source: sabatier
+    forms:
+    - form: ngoa
+      parts:
+      - label: vt.
+        text: to scratch oneself, to scratch (rarely used),.
+      - label: red.
+        text: '*ngongoa* (more used).'
 - id: ngoe
   headword: ngoe
   trussel: ngoe
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngoé
+      parts:
+      - label: pron.
+        text: '[[naka]] (preceded by [[nei]]) (But.).'
 - id: ngongo
   headword: ngongo
   trussel: ngongo
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngoóngo
+      parts:
+      - label: vi.
+        text: to talk sub voce.
+      - label: n.
+        text: frequentative of [[ngo]].
+    - form: ngòngo
+      parts:
+      - label: vi.
+        text: to itch.
+      - label: n.
+        text: the sensation of itching.
+  - source: sabatier
+    forms:
+    - form: ngongo
+      parts:
+      - label: n.
+        text: itch.
+      - label: v.
+        text: to itch.
+      - label: vc.
+        text: '*kangongo*: which causes itchness *kangongoa*: to cause...'
+      - label: n.
+        text: '*te kai ni ngongo*: a back scratcher, a scratcher.'
+    - form: ngongo
+      homograph: 1
+      parts:
+      - label: red.
+        text: of *ngo*.
+      - label: n.
+        text: speech, noise of voices, murmur of voices, indistinct... to make one's voice heard, to speak.
+      - label: ex.
+        text: |-
+          *ao e ngongo ngkekei*: he spoke then.
+          *ko aki ngongo?* have you nothing to say?
+      - label: vc.
+        text: '*kangongoa*: to make speak, to question.'
 - id: ngongoa
   headword: ngongoa
   trussel: ngongoa
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngóngoa
+      parts:
+      - label: vt.
+        text: to scratch.
 - id: ngongongo
   headword: ngongongo
   trussel: ngongongo
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngongóngo
+      parts:
+      - label: vi.
+        text: frequentative of [[ngongo]].
 - id: ngore
   headword: ngore
   trussel: ngore
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngóre
+      parts:
+      - label: n.
+        text: a young infant.
+      - label: adj.
+        text: small in stature and weakly as a sickly child.
+  - source: sabatier
+    forms:
+    - form: ngore
+      parts:
+      - label: a.
+        text: feeble, weak, puny, sickly, debilitated (person, plant or fruit of stunted development).
+      - label: sup.
+        text: '*ngorengore*, *niningore*, [[ningorengore]], *ngoretaia*, *ntangore*, [[ntangorengore]],
+          *ngoretaua*, [[bingore]], *tingore*, *mingorengora*: very...'
+      - label: vc.
+        text: '*kangorea, katingorengorea, ka-ningongorea, ka-binongorea, ka-mingongorea*: to debilitate,
+          to weaken.'
 - id: ngungurengure
   headword: ngungurengure
   trussel: ngungurengure
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngunguréngure
+      parts:
+      - label: vi.
+        text: |-
+          to complain, to murmur.
+          frequentative of *ngurengure*.
 - id: ngure
   headword: ngure
   trussel: ngure
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngúre
+      parts:
+      - label: vi.
+        text: to complain, to murmur.
+  - source: sabatier
+    forms:
+    - form: ngure
+      parts:
+      - label: n.
+        text: murmur, grumble, grouse.
+      - label: v.
+        text: to murmur, to complain.
+      - label: ex.
+        text: '*niba ni ngure*: grumble, always complaining.'
+      - label: sup.
+        text: '[[ngurengure]]: frequent complaints.'
+      - label: vt.
+        text: |-
+          *ngurea, ngurengurea*: to murmur, to grumble against.
+          *ngureakina*...: to complain of, to murmur about...
+      - label: vc.
+        text: '*kangurea, kangurengurea*: to make..., to make grumble, complain, etc.'
 - id: ngurengure
   headword: ngurengure
   trussel: ngurengure
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: nguréngure
+      parts:
+      - label: i.
+        text: to complain, to murmur n a murmuring, a complaining, a subdued groaning.
 - id: ngurengurea
   headword: ngurengurea
   trussel: ngurengurea
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: nguréngurea
+      parts:
+      - label: vt.
+        text: to complain about a borrower or express misgivings concerning something loaned.
 - id: ngutu
   headword: ngutu
   trussel: ngutu
-  sources: []
+  sources:
+  - source: bingham
+    forms:
+    - form: ngútu
+      parts:
+      - label: n.
+        text: a movable sight of a gun.
+  - source: sabatier
+    forms:
+    - form: ngutu
+      parts:
+      - label: n.
+        text: '*Nei te Ngutu*: a star.'
+    - form: ngutu
+      homograph: 1
+      parts:
+      - label: n.
+        text: '*Te ngutu* a white sea bird.'
+      - label: sn.
+        text: _Phaeton Lepturus dorotheae_.
+    - form: ngutu
+      homograph: 2
+      parts:
+      - label: n.
+        text: skittles made of coconut shell.
+      - label: ex.
+        text: |-
+          kinds: *wae, onobua, motu.*.
+          *te kare ngutu*: this game.
+          *te kai ni kare ngutu*: stick for knocking down skittles.
+  - source: goo-banner
+    forms:
+    - form: ngutu
+      parts:
+      - label: sn.
+        text: _Phaethon lepturus dorotheae_.
+      - label: n.
+        text: <bird> white tailed tropic bird (This bird may be easily distinguished from the red tailed
+          species by its two long central tail streamers, which are pure white and not as narrow as the
+          red ones. The next adjacent feathers are also fairly long and there are eight shorter tail feathers,
+          making twelve in all. There is more black on the wings and flanks with the rest of the plumage
+          mainly white with or without the roseate tinge; The black eyestreaks are not so heavy. The bill
+          is yellowish, base greyish; The legs and bases of the toes are yellowish or flesh color and
+          the rest of the feet black.) (aa).
