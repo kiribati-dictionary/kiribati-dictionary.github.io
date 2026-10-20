@@ -92,16 +92,27 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-") or "x"
 
 
-def render_text(text, base):
-    """Our light markup (see convert_trussel.py) -> HTML. Escapes first, then marks up."""
+ENTRY_IDS = set()  # filled in by main(): every entry id, for linking Kiribati words
+
+
+def render_text(text, base, here=None):
+    """Our light markup (see convert_trussel.py) -> HTML. Escapes first, then marks up.
+    A Kiribati word in bold that is exactly an entry's headword links to it (unless that
+    entry is `here`); Trussel's own cross-references link as he made them."""
     s = esc(text, quote=False)
 
     def xref(m):
         target, shown = m.group(1), m.group(2) or m.group(1).replace("-", " ")
         return f'<a class="k" lang="gil" href="{base}word/{target}/">{shown}</a>'
 
+    def kiribati(m):
+        target = slug(html.unescape(m.group(1)))
+        if target in ENTRY_IDS and target != here:
+            return f'<a class="k" lang="gil" href="{base}word/{target}/">{m.group(1)}</a>'
+        return f'<b class="k" lang="gil">{m.group(1)}</b>'
+
     s = re.sub(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", xref, s)
-    s = re.sub(r"\*([^*\n]+)\*", r'<b class="k" lang="gil">\1</b>', s)
+    s = re.sub(r"\*([^*\n]+)\*", kiribati, s)
     s = re.sub(r"(?<![\w])_([^_\n]+)_(?![\w])", r"<i>\1</i>", s)
     return s
 
@@ -225,7 +236,7 @@ def topic_members(entries, topics, labels):
     return members
 
 
-def render_part(part, labels, base):
+def render_part(part, labels, base, here=None):
     out = ['<div class="part">']
     label = part.get("label")
     info = labels.get(label, {})
@@ -235,22 +246,22 @@ def render_part(part, labels, base):
         out.append(f'<abbr class="label {kind}"{title}>{esc(label)}</abbr> ')
     text = part.get("text", "")
     if kind == "example" and "\n" in text:
-        items = "".join(f"<li>{render_text(t, base)}</li>" for t in text.split("\n"))
+        items = "".join(f"<li>{render_text(t, base, here)}</li>" for t in text.split("\n"))
         out.append(f'<ul class="examples">{items}</ul>')
     elif text:
-        out.append(f'<span class="text">{"<br>".join(render_text(t, base) for t in text.split(chr(10)))}</span>')
+        out.append(f'<span class="text">{"<br>".join(render_text(t, base, here) for t in text.split(chr(10)))}</span>')
     out.append("</div>")
     return "".join(out)
 
 
-def render_source(src, labels, base):
+def render_source(src, labels, base, here=None):
     short, citation = SOURCES.get(src["source"], (src["source"], esc(src["source"])))
     plain_citation = esc(re.sub("<[^>]+>", "", html.unescape(citation)))
     out = [f'<section class="source"><h2 class="source-name" title="{plain_citation}">{esc(short)}</h2>']
     for form in src["forms"]:
         sup = f'<sup>{form["homograph"]}</sup>' if "homograph" in form else ""
         out.append(f'<div class="form"><p class="form-head"><b lang="gil">{esc(form["form"])}</b>{sup}</p>')
-        out.extend(render_part(p, labels, base) for p in form["parts"])
+        out.extend(render_part(p, labels, base, here) for p in form["parts"])
         out.append("</div>")
     out.append("</section>")
     return "".join(out)
@@ -341,6 +352,7 @@ def main():
     contributors = list(dict.fromkeys(c["contributor"] for c in corrections + community if c.get("contributor")))
     everything = [(l, e) for l in LETTERS for e in by_letter[l]]
     entries = [e for _, e in everything]
+    ENTRY_IDS.update(e["id"] for e in entries)
     by_id = {e["id"]: e for e in entries}
     position = {e["id"]: i for i, e in enumerate(entries)}
 
@@ -389,7 +401,7 @@ def main():
         linked = [by_id[x] for x in backlinks.get(e["id"], {})]
         return f"""<article class="entry">
 <h1 class="headword" lang="gil">{esc(e["headword"])}</h1>
-{"".join(render_source(s, labels, base) for s in e["sources"]) or '<p class="empty">No definition recorded.</p>'}
+{"".join(render_source(s, labels, base, e["id"]) for s in e["sources"]) or '<p class="empty">No definition recorded.</p>'}
 {f'<p class="entry-topics">Topics: {tlinks}</p>' if tlinks else ""}
 {f'<section class="related"><h2>Words that link here</h2>{wordlist(linked, base, labels, 70)}</section>' if linked else ""}
 <aside class="credits">
