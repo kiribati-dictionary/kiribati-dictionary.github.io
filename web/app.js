@@ -300,8 +300,10 @@ function correctionForm(details) {
     const result = await send(message);
     if (result === "sent") {
       form.innerHTML = `<p class="status">Thank you! Your suggestion was sent and will be checked against the original sources.</p>`;
-    } else if (result === "queued") {
+    } else if (result === "offline") {
       form.innerHTML = `<p class="status">You're offline, so your suggestion is saved on this device. It will be sent automatically when you're back online.</p>`;
+    } else if (result === "retry") {
+      form.innerHTML = `<p class="status">Your suggestion couldn't be sent just now, so it's saved on this device. It will be sent automatically the next time you visit the dictionary.</p>`;
     } else {
       form.querySelector("button").disabled = false;
       status.innerHTML = `Sorry, that didn't go through. Please try again, or <a href="${details.querySelector(".correct-github a").href}">report it on GitHub</a>.`;
@@ -319,24 +321,25 @@ async function post(message) {
   return (await res.json()).success === true;
 }
 
-// "sent", "queued" (offline: kept for later) or "failed"
+// "sent", "offline" or "retry" (kept to send later), or "failed"
 async function send(message) {
-  if (!navigator.onLine) return queue(message);
+  if (!navigator.onLine) return queue(message) && "offline";
   try {
     return (await post(message)) ? "sent" : "failed";
   } catch {
-    return queue(message);  // no connection after all
+    return queue(message) && "retry";  // couldn't reach Web3Forms (no connection, or it's refusing for now)
   }
 }
 
+// true if kept for later
 function queue(message) {
   try {
     const waiting = JSON.parse(localStorage.getItem(QUEUE) || "[]");
     waiting.push(message);
     localStorage.setItem(QUEUE, JSON.stringify(waiting));
-    return "queued";
+    return true;
   } catch {
-    return "failed";
+    return false;
   }
 }
 
