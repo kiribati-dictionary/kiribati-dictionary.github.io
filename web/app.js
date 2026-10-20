@@ -250,6 +250,122 @@ async function offlinePage(holder) {
   holder.innerHTML = `You're offline, and this page hasn't been saved yet. <a href="${at("")}">Search the dictionary</a>.`;
 }
 
+// ---------- correction form: drawn when "Suggest a correction" is opened, sent by Web3Forms.
+// Without a key (see CORRECTIONS_KEY in build_site.py) entries just show the GitHub link.
+// Offline, a suggestion is kept in this browser and sent when the connection is back.
+
+const FORM_KEY = document.querySelector('meta[name="corrections-key"]')?.content;
+const QUEUE = "kd-corrections";
+const SOURCE_NAMES = { "bingham": "Bingham", "sabatier": "Sabatier", "goo-banner": "Goo & Banner", "luomala": "Luomala" };
+
+function correctionForm(details) {
+  const { entry, headword, sources } = details.dataset;
+  const options = [...sources.split(",").map(s => SOURCE_NAMES[s] || s), "The page itself (layout, links, search)", "Not sure"]
+    .map(o => `<option>${esc(o)}</option>`).join("");
+  const form = document.createElement("form");
+  form.className = "correct-form";
+  form.innerHTML = `
+    <p class="hint">Tell us what's wrong with <b lang="gil">${esc(headword)}</b>. No account needed.</p>
+    <label><span class="t">Which source?</span><select name="source">${options}</select></label>
+    <label><span class="t">What kind of mistake?</span><select name="kind">
+      <option>The site doesn't match the original dictionary</option>
+      <option>The original dictionary is wrong or out of date</option>
+      <option>Something else</option></select></label>
+    <label><span class="t">What's wrong?</span><textarea name="problem" rows="3" required></textarea></label>
+    <label><span class="t">Suggested correction <span>(optional)</span></span><textarea name="suggestion" rows="2"></textarea></label>
+    <label><span class="t">Your name <span>(optional)</span></span><input name="name" autocomplete="name"></label>
+    <label class="check"><input type="checkbox" name="credit"> Credit me by name on the About page</label>
+    <label><span class="t">Your email <span>(optional, only used to ask about your suggestion)</span></span><input type="email" name="email" autocomplete="email"></label>
+    <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <button type="submit">Send suggestion</button>
+    <p class="status" role="status"></p>`;
+  form.addEventListener("submit", async ev => {
+    ev.preventDefault();
+    const f = new FormData(form);
+    const status = form.querySelector(".status");
+    if (f.get("botcheck")) { form.innerHTML = `<p class="status">Thank you!</p>`; return; }
+    const message = {
+      access_key: FORM_KEY,
+      subject: `Correction: ${headword}`,
+      from_name: f.get("name") || "Dictionary visitor",
+      entry, headword,
+      page: at(`word/${entry}/`),
+      source: f.get("source"), kind: f.get("kind"),
+      problem: f.get("problem"), suggestion: f.get("suggestion"),
+      name: f.get("name"), credit: f.get("credit") ? "Yes, credit me by name" : "No",
+      email: f.get("email"),
+    };
+    form.querySelector("button").disabled = true;
+    status.textContent = "Sending…";
+    const result = await send(message);
+    if (result === "sent") {
+      form.innerHTML = `<p class="status">Thank you! Your suggestion was sent and will be checked against the original sources.</p>`;
+    } else if (result === "queued") {
+      form.innerHTML = `<p class="status">You're offline, so your suggestion is saved on this device. It will be sent automatically when you're back online.</p>`;
+    } else {
+      form.querySelector("button").disabled = false;
+      status.innerHTML = `Sorry, that didn't go through. Please try again, or <a href="${details.querySelector(".correct-github a").href}">report it on GitHub</a>.`;
+    }
+  });
+  details.insertBefore(form, details.querySelector(".correct-github"));
+}
+
+// true if Web3Forms accepted it; throws if there's no connection
+async function post(message) {
+  const res = await fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Accept: "application/json" },
+    body: JSON.stringify(message),
+  });
+  return (await res.json()).success === true;
+}
+
+// "sent", "queued" (offline: kept for later) or "failed"
+async function send(message) {
+  if (!navigator.onLine) return queue(message);
+  try {
+    return (await post(message)) ? "sent" : "failed";
+  } catch {
+    return queue(message);  // no connection after all
+  }
+}
+
+function queue(message) {
+  try {
+    const waiting = JSON.parse(localStorage.getItem(QUEUE) || "[]");
+    waiting.push(message);
+    localStorage.setItem(QUEUE, JSON.stringify(waiting));
+    return "queued";
+  } catch {
+    return "failed";
+  }
+}
+
+async function flushQueue() {
+  let waiting;
+  try { waiting = JSON.parse(localStorage.getItem(QUEUE) || "[]"); } catch { return; }
+  if (!waiting.length || !navigator.onLine) return;
+  const left = [];
+  for (const message of waiting) {
+    try {
+      await post(message);  // a rejected message won't succeed later either, so it isn't kept
+    } catch {
+      left.push(message);
+    }
+  }
+  try { left.length ? localStorage.setItem(QUEUE, JSON.stringify(left)) : localStorage.removeItem(QUEUE); } catch {}
+}
+
+if (FORM_KEY) {
+  // toggle doesn't bubble, so listen while it travels down; covers entries drawn offline too
+  document.addEventListener("toggle", ev => {
+    const d = ev.target;
+    if (d.matches?.("details.correct") && d.open && !d.querySelector("form")) correctionForm(d);
+  }, true);
+  flushQueue();
+  addEventListener("online", flushQueue);
+}
+
 // ---------- start
 
 const homeInput = document.getElementById("q");

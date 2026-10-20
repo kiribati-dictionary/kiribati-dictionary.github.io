@@ -29,6 +29,7 @@ data/entries/        dictionary entries, one YAML file per letter
 data/english.yaml    Trussel's English index: each English word and the entries that use it
 data/topics.yaml     topics for browsing (keyword lists; edit freely)
 data/labels.yaml     what each abbreviation (n., vt., ex. ...) means
+data/contributors.yaml  people credited for corrections (About page)
 sources/trussel/     archived copies of the original pages, unmodified, with a manifest
 scripts/             tools to fetch and convert source material, and to build the site
 web/                 the site's stylesheet, script, icon and service worker
@@ -81,5 +82,5 @@ The site is plain HTML with relative links. It has a page for every entry, every
 
 - **Search** runs in the browser, from the header of every page. `headwords.json` loads on the first keystroke, then `english.json`; `fulltext.json` only when someone searches the full text.
 - **Offline:** a service worker (`web/sw.js`) saves the small pages, the search data and `bundle/` (every entry's content) after the first visit. Pages that weren't visited are drawn from the bundle by `offline.html`.
-- **Corrections:** every entry links to a pre-filled GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`).
+- **Corrections:** every entry has a “Suggest a correction” form that needs no account. It is sent by [Web3Forms](https://web3forms.com) to the dictionary's inbox, using the access key in `CORRECTIONS_KEY` (`scripts/build_site.py`); offline, suggestions wait in the browser and are sent once it reconnects. Without a key, entries link to the GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`) instead, which stays available for people with GitHub accounts. People who ask to be credited are added to `data/contributors.yaml` and listed on the About page.
 - **Deploying:** every push to `main` rebuilds the site and publishes it to GitHub Pages (`.github/workflows/pages.yml`).

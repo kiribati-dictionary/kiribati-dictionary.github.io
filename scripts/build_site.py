@@ -4,7 +4,7 @@
 # ///
 """Build the static website from data/.
 
-Reads  data/entries/*.yaml, data/english.yaml, data/topics.yaml, data/labels.yaml,
+Reads  data/entries/*.yaml, data/english.yaml, data/topics.yaml, data/labels.yaml, data/contributors.yaml,
        web/ (stylesheet, script, service worker template)
 Writes site/  (plain HTML, ready for GitHub Pages)
 
@@ -49,6 +49,9 @@ OUT = ROOT / "site"
 LETTERS = ["a", "b", "e", "i", "k", "m", "n", "ng", "o", "r", "t", "u", "w"]
 TITLE = "Kiribati–English Dictionary"
 REPO = "https://github.com/kiribati-dictionary/kiribati-dictionary.github.io"
+# Web3Forms access key for the correction form (web3forms.com; it is safe to publish:
+# it can only send mail to the dictionary's inbox). Empty: entries link to GitHub instead.
+CORRECTIONS_KEY = ""
 
 # short name, full citation; keep in step with README.md
 SOURCES = {
@@ -217,6 +220,7 @@ def page(title, body, base, description="", home=False):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 {desc}<link rel="stylesheet" href="{base}style.css">
+{f'<meta name="corrections-key" content="{CORRECTIONS_KEY}">' if CORRECTIONS_KEY else ""}
 <link rel="icon" href="{base}icon.svg" type="image/svg+xml">
 <link rel="manifest" href="{base}manifest.webmanifest">
 <meta name="theme-color" content="#8a1c1c">
@@ -259,6 +263,7 @@ def write(path, text):
 def main():
     labels = yaml.safe_load((DATA / "labels.yaml").read_text(encoding="utf-8"))
     topics = yaml.safe_load((DATA / "topics.yaml").read_text(encoding="utf-8"))
+    contributors = yaml.safe_load((DATA / "contributors.yaml").read_text(encoding="utf-8")) or []
     english = yaml.safe_load((DATA / "english.yaml").read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
@@ -320,7 +325,10 @@ def main():
 <h2>Sources</h2>
 <ul>{credits}</ul>
 <p>From {COMPILATION}{f' <a href="{esc(original)}#{esc(e["trussel"])}">Original page (archived)</a>.' if original else ""}</p>
-<p class="correct"><a href="{esc(correction_url(e))}">Suggest a correction</a></p>
+<details class="correct" data-entry="{e["id"]}" data-headword="{esc(e["headword"])}" data-sources="{",".join(dict.fromkeys(s["source"] for s in e["sources"]))}">
+<summary>Suggest a correction</summary>
+<p class="correct-github">Have a GitHub account? You can also <a href="{esc(correction_url(e))}">report it on GitHub</a>.</p>
+</details>
 </aside>
 <nav class="prevnext">{prev_link}{next_link}</nav>
 </article>"""
@@ -441,7 +449,8 @@ def main():
 <h2>Using it offline</h2>
 <p>After your first visit, the whole dictionary is saved in your browser and works without a connection.</p>
 <h2>Corrections</h2>
-<p>Every entry has a “Suggest a correction” link. Corrections are reviewed against the original printed sources.</p>
+<p>Every entry has a “Suggest a correction” form; no account is needed. Corrections are checked against the original printed sources. If you leave your name and ask to be credited, it will be listed here once your correction is made.</p>
+{f'<h3>Thank you to</h3><p>{", ".join(esc(c["name"]) for c in contributors)}.</p>' if contributors else ""}
 <h2>Rights</h2>
 <p>The dictionary content belongs to its respective rights holders. Bingham (1908) is in the public domain.</p>
 </article>"""
