@@ -369,32 +369,40 @@ if (FORM_KEY) {
 flushQueue();
 addEventListener("online", flushQueue);
 
-// ---------- "Add a word" page: a plain form (works without JavaScript); here it's sent in
-// place, and kept for later when offline. Links like add/?word=kai&slang=1 fill it in.
+// ---------- plain forms sent to the dictionary's inbox: "Add a word" and the About page's
+// ideas form. They work without JavaScript (Web3Forms then shows the thanks/ page); here they're
+// sent in place, and kept for later when offline. The form says what it is:
+//   data-thing="word"        used in the messages ("Your word was sent")
+//   data-subject="New word"  email subject; ": <word>" is added when the form has a word field
+//   data-sent="..."          extra sentence after "Thank you!"
+// Links like add/?word=kai&slang=1 fill in the Add-a-word form.
 
-function wordForm(form) {
+function messageForm(form) {
+  const { thing, subject, sent } = form.dataset;
   const params = new URLSearchParams(location.search);
-  if (params.get("word")) form.elements.word.value = params.get("word");
-  if (params.get("slang")) form.elements.slang.checked = true;
+  if (form.elements.word && params.get("word")) form.elements.word.value = params.get("word");
+  if (form.elements.slang && params.get("slang")) form.elements.slang.checked = true;
+  const original = form.innerHTML;
   form.addEventListener("submit", async ev => {
     ev.preventDefault();
     const f = new FormData(form);
     if (f.get("botcheck")) { form.innerHTML = `<p class="status">Thank you!</p>`; return; }
     const message = Object.fromEntries(f);
     delete message.redirect;
-    message.subject = `New word: ${f.get("word")}`;
+    message.subject = f.get("word") ? `${subject}: ${f.get("word")}` : subject;
     message.from_name = f.get("name") || "Dictionary visitor";
     const status = form.querySelector(".status");
     form.querySelector("button").disabled = true;
     status.textContent = "Sending…";
     const result = await send(message);
     const done = {
-      sent: "Thank you! Your word was sent. It will be checked before it's added to the dictionary.",
-      offline: "You're offline, so your word is saved on this device. It will be sent automatically when you're back online.",
-      retry: "Your word couldn't be sent just now, so it's saved on this device. It will be sent automatically the next time you visit the dictionary.",
+      sent: `Thank you! Your ${thing} was sent. ${sent}`,
+      offline: `You're offline, so your ${thing} is saved on this device. It will be sent automatically when you're back online.`,
+      retry: `Your ${thing} couldn't be sent just now, so it's saved on this device. It will be sent automatically the next time you visit the dictionary.`,
     }[result];
     if (done) {
-      form.innerHTML = `<p class="status">${done}</p><p><a href="${at("add/")}">Add another word</a></p>`;
+      form.innerHTML = `<p class="status">${done}</p><p><button type="button" class="link-button" data-again>Send another ${thing}</button></p>`;
+      form.querySelector("[data-again]").addEventListener("click", () => { form.innerHTML = original; });
     } else {
       form.querySelector("button").disabled = false;
       status.textContent = "Sorry, that didn't go through. Please try again.";
@@ -426,7 +434,7 @@ if (topInput) headerSearch(topInput, document.getElementById("top-results"));
 
 document.querySelectorAll("[data-back]").forEach(backButton);
 document.querySelectorAll("[data-theme-toggle]").forEach(themeToggle);
-document.querySelectorAll("[data-word-form]").forEach(wordForm);
+document.querySelectorAll("[data-message-form]").forEach(messageForm);
 
 const offline = document.querySelector("[data-offline]");
 if (offline) offlinePage(offline);

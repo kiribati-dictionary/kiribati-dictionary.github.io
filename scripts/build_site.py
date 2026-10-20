@@ -496,14 +496,15 @@ def main():
         write(OUT / "topics" / t["id"] / "index.html", page(f"{t['title']} — {TITLE}", body, "../../"))
 
     # add a word: a plain form that works without JavaScript (Web3Forms then redirects to
-    # add/thanks/); app.js sends it in place instead, and keeps it for later when offline
+    # thanks/); app.js sends it in place instead, and keeps it for later when offline
     body = f"""<article class="prose">
 <h1>Add a word</h1>
 <p class="lede">Know a Kiribati word or expression that's missing, including slang or new words? Or heard one and want to know what it means? Tell us here. Words are checked before they're added, and appear under “Community”, separate from the printed dictionaries.</p>
-<form class="correct-form word-form" method="post" action="https://api.web3forms.com/submit" data-word-form>
+<form class="correct-form word-form" method="post" action="https://api.web3forms.com/submit" data-message-form
+      data-thing="word" data-subject="New word" data-sent="It will be checked before it's added to the dictionary.">
   <input type="hidden" name="access_key" value="{CORRECTIONS_KEY}">
   <input type="hidden" name="subject" value="New word">
-  <input type="hidden" name="redirect" value="{SITE}add/thanks/">
+  <input type="hidden" name="redirect" value="{SITE}thanks/">
   <label><span class="t">Kiribati word or phrase</span><input name="word" required lang="gil" autocapitalize="off" spellcheck="false"></label>
   <label><span class="t">What it means <span>(leave blank if you're asking)</span></span><textarea name="meaning" rows="3"></textarea></label>
   <label><span class="t">An example of it in use <span>(optional)</span></span><textarea name="example" rows="2"></textarea></label>
@@ -520,10 +521,10 @@ def main():
     write(OUT / "add" / "index.html", page(f"Add a word — {TITLE}", body, "../", description="Suggest a Kiribati word for the dictionary."))
     body = """<article class="prose">
 <h1>Thank you!</h1>
-<p>Your word was sent. It will be checked before it's added to the dictionary.</p>
-<p><a href="../../">Back to the dictionary</a></p>
+<p>Your message was sent to the dictionary.</p>
+<p><a href="../">Back to the dictionary</a></p>
 </article>"""
-    write(OUT / "add" / "thanks" / "index.html", page(f"Thank you — {TITLE}", body, "../../"))
+    write(OUT / "thanks" / "index.html", page(f"Thank you — {TITLE}", body, "../"))
 
     # slang: community words marked as slang
     slang = [(e, w) for e, w in community_words if w.get("slang")]
@@ -578,6 +579,20 @@ def main():
 <h2>Adding words</h2>
 <p>Know a word that's missing, including slang? <a href="../add/">Add it</a>. Words are checked before they're added, and appear under “Community”, separate from the printed dictionaries.</p>
 {f'<h3>Thank you to</h3><p>{", ".join(esc(c) for c in contributors)}, for corrections and new words.</p>' if contributors else ""}
+<h2>Ideas for the website</h2>
+<p>Have an idea for a feature, or something that would make the dictionary easier to use? Tell us.</p>
+<form class="correct-form" method="post" action="https://api.web3forms.com/submit" data-message-form
+      data-thing="suggestion" data-subject="Website suggestion" data-sent="We read every one.">
+  <input type="hidden" name="access_key" value="{CORRECTIONS_KEY}">
+  <input type="hidden" name="subject" value="Website suggestion">
+  <input type="hidden" name="redirect" value="{SITE}thanks/">
+  <label><span class="t">Your idea</span><textarea name="idea" rows="4" required></textarea></label>
+  <label><span class="t">Your name <span>(optional)</span></span><input name="name" autocomplete="name"></label>
+  <label><span class="t">Your email <span>(optional, only used to ask about your idea)</span></span><input type="email" name="email" autocomplete="email"></label>
+  <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <button type="submit">Send idea</button>
+  <p class="status" role="status"></p>
+</form>
 <h2>Rights</h2>
 <p>The dictionary content belongs to its respective rights holders. Bingham (1908) is in the public domain.</p>
 </article>"""
@@ -599,7 +614,7 @@ def main():
         write(OUT / "bundle" / f"{c}.json", dump(shard))
     write(OUT / ".nojekyll", "")
 
-    precache = (["./", "about/", "topics/", "english/", "slang/", "add/", "add/thanks/", "offline.html", "style.css", "app.js", "icon.svg", "manifest.webmanifest",
+    precache = (["./", "about/", "topics/", "english/", "slang/", "add/", "thanks/", "offline.html", "style.css", "app.js", "icon.svg", "manifest.webmanifest",
                  "headwords.json", "english.json", "fulltext.json"]
                 + [f"bundle/{c}.json" for c in sorted(shards)]
                 + [f"{l}/" for l in LETTERS] + [f"english/{l}/" for l in en_order] + [f"topics/{t['id']}/" for t in topics])

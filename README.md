@@ -86,6 +86,7 @@ The site is plain HTML with relative links. It has a page for every entry, every
 - **Corrections:** every entry has a “Suggest a correction” form that needs no account. It is sent by [Web3Forms](https://web3forms.com) to the dictionary's inbox, using the access key in `CORRECTIONS_KEY` (`scripts/build_site.py`); offline, suggestions wait in the browser and are sent once it reconnects. Without a key, entries link to the GitHub issue form (`.github/ISSUE_TEMPLATE/correction.yml`) instead, which stays available for people with GitHub accounts. See *Handling suggestions* below.
 - **Deploying:** every push to `main` rebuilds the site and publishes it to GitHub Pages (`.github/workflows/pages.yml`).
 - **Add a word:** the `add/` page has a form for new words and slang, sent the same way. Approved words go in `data/community.yaml`; the Slang page lists the ones marked `slang: true`.
+- **Ideas for the website:** the About page has a short form for feature suggestions, sent the same way (subject "Website suggestion").
 - **Day / night:** follows the reader's system setting until they use the header button; the choice is remembered.
 
 ## Handling suggestions
