@@ -48,7 +48,7 @@ OUT = ROOT / "site"
 
 LETTERS = ["a", "b", "e", "i", "k", "m", "n", "ng", "o", "r", "t", "u", "w"]
 TITLE = "Kiribati–English Dictionary"
-REPO = "https://github.com/EmilioBarkett/kiribati-english-dictionary"
+REPO = "https://github.com/kiribati-dictionary/kiribati-dictionary.github.io"
 
 # short name, full citation; keep in step with README.md
 SOURCES = {

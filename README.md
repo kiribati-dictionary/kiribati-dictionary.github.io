@@ -2,7 +2,7 @@
 
 A free, searchable Kiribati (Gilbertese)–English dictionary for the web, built as a static site with no server.
 
-> Work in progress. Live at https://emiliobarkett.github.io/kiribati-english-dictionary/. We are still seeking permission from rights holders; see below.
+> Work in progress. Live at https://kiribati-dictionary.github.io/. We are still seeking permission from rights holders; see below.
 
 ## Sources
 
