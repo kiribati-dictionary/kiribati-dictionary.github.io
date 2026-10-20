@@ -1,0 +1,5 @@
+- add a day/night mode
+- suggest a word
+- a section for kiribati slang
+- submit a new word
+- train an open weight model on kiribati and see if it can learn it. then use it on the website to help people learn kiribati.
