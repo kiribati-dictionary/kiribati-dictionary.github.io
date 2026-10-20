@@ -4,7 +4,8 @@
 # ///
 """Build the static website from data/.
 
-Reads  data/entries/*.yaml, data/english.yaml, data/topics.yaml, data/labels.yaml, data/contributors.yaml,
+Reads  data/entries/*.yaml, data/corrections.yaml, data/community.yaml, data/english.yaml,
+       data/topics.yaml, data/labels.yaml,
        web/ (stylesheet, script, service worker template)
 Writes site/  (plain HTML, ready for GitHub Pages)
 
@@ -14,6 +15,8 @@ Writes site/  (plain HTML, ready for GitHub Pages)
     site/english/, english/<l>/   the English index, A-Z
     site/en/<slug>/               one page per English word: the Kiribati words for it
     site/topics/, topics/<id>/    topic lists (see data/topics.yaml)
+    site/slang/                   community words marked as slang
+    site/add/                     the "Add a word" form
     site/about/
     site/headwords.json           search: id, headword, other spellings, gloss
     site/english.json             search: English word, page slug, entries (best first) with the line that uses the word
@@ -48,6 +51,7 @@ OUT = ROOT / "site"
 
 LETTERS = ["a", "b", "e", "i", "k", "m", "n", "ng", "o", "r", "t", "u", "w"]
 TITLE = "Kiribati–English Dictionary"
+SITE = "https://kiribati-dictionary.github.io/"
 REPO = "https://github.com/kiribati-dictionary/kiribati-dictionary.github.io"
 # Web3Forms access key for the correction form (web3forms.com; it is safe to publish:
 # it can only send mail to the dictionary's inbox). Empty: entries link to GitHub instead.
@@ -64,7 +68,10 @@ SOURCES = {
                    "of Gilbertese Animal and Plant Names</i> (1963)."),
     "luomala": ("Luomala", "Katharine Luomala, <i>Ethnobotany of the Gilbert Islands</i> (1953). "
                 "Bernice P. Bishop Museum Bulletin 213."),
+    "community": ("Community", "Words and meanings contributed by readers of this dictionary and checked "
+                  "by the editor. Not from the printed dictionaries."),
 }
+PRINTED = {"bingham", "sabatier", "goo-banner", "luomala"}
 COMPILATION = ("<i>A Combined Kiribati-English Dictionary</i>, compiled by Stephen Trussel and "
                "Gordon W. Groves (University of Hawaiʻi, 1978), revised and edited by Stephen "
                "Trussel (2003), as published on trussel.com.")
@@ -120,6 +127,60 @@ def gloss(entry, labels, limit=90):
     for t in definitions(entry, labels):
         return t if len(t) <= limit else t[:limit].rsplit(" ", 1)[0] + "…"
     return ""
+
+
+def apply_corrections(by_id, corrections):
+    """data/corrections.yaml -> edits to the converted entries. Returns problems (the build stops on any)."""
+    problems = []
+    for c in corrections:
+        e = by_id.get(c["entry"])
+        src = next((s for s in e["sources"] if s["source"] == c["source"]), None) if e else None
+        if not src:
+            problems.append(f"correction for {c['entry']}: " + (f"no {c['source']} section in that entry" if e else "no entry with that id"))
+            continue
+        hits = [(f, p) for f in src["forms"] for p in f["parts"] if c["find"] in p.get("text", "")]
+        if len(hits) != 1:
+            problems.append(f"correction for {c['entry']}: “{c['find']}” appears {len(hits)} times in {c['source']}, not once")
+            continue
+        form, part = hits[0]
+        part["text"] = part["text"].replace(c["find"], c["replace"], 1)
+        if c.get("kind") == "editorial":
+            form["parts"].insert(form["parts"].index(part) + 1,
+                                 {"label": "corrected", "text": f"The printed dictionary has “{c['find']}”."})
+    return problems
+
+
+def add_community(by_letter, by_id, community):
+    """data/community.yaml -> a Community source on existing entries, or new entries.
+    Returns [(entry, word)] and problems (the build stops on any)."""
+    added, problems = [], []
+    for w in community:
+        parts = []
+        if w.get("meaning"):
+            parts.append({"label": w["label"], "text": w["meaning"]} if w.get("label") else {"text": w["meaning"]})
+        if w.get("example"):
+            parts.append({"label": "ex.", "text": w["example"]})
+        notes = (["Slang"] if w.get("slang") else []) + ([f"used in {w['region']}"] if w.get("region") else [])
+        if notes:
+            parts.append({"label": "note.", "text": "; ".join(notes) + "."})
+        src = {"source": "community", "forms": [{"form": w["headword"], "parts": parts}]}
+        wid = slug(w["headword"])
+        if wid in by_id:
+            e = by_id[wid]
+            e["sources"].append(src)
+        else:
+            k = key(w["headword"])
+            letter = "ng" if k.startswith("ng") else k[:1]
+            if letter not in by_letter:
+                problems.append(f"community word “{w['headword']}”: no letter page for “{letter}”")
+                continue
+            e = {"id": wid, "headword": w["headword"], "trussel": None, "sources": [src]}
+            words = by_letter[letter]
+            at = next((i for i, x in enumerate(words) if key(x["headword"]) > k), len(words))
+            words.insert(at, e)
+            by_id[wid] = e
+        added.append((e, w))
+    return added, problems
 
 
 def ranked_refs(item):
@@ -217,6 +278,7 @@ def page(title, body, base, description="", home=False):
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script>try{{var t=localStorage.getItem("kd-theme");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 {desc}<link rel="stylesheet" href="{base}style.css">
@@ -232,6 +294,7 @@ def page(title, body, base, description="", home=False):
   {back}
   <a class="brand" href="{base}">Kiribati–English Dictionary</a>
   {search}
+  <button class="theme" type="button" data-theme-toggle aria-label="Switch between day and night mode" title="Day / night">◐</button>
   </div>
   <div class="top-results" id="top-results" hidden></div>
 </header>
@@ -239,7 +302,7 @@ def page(title, body, base, description="", home=False):
 {body}
 </main>
 <footer class="bottom">
-  <nav class="footer-nav"><a href="{base}">Search</a><a href="{base}english/">English index</a><a href="{base}topics/">Topics</a><a href="{base}about/">About</a></nav>
+  <nav class="footer-nav"><a href="{base}">Search</a><a href="{base}english/">English index</a><a href="{base}topics/">Topics</a><a href="{base}slang/">Slang</a><a href="{base}add/">Add a word</a><a href="{base}about/">About</a></nav>
   <p>Content from {COMPILATION} Each entry credits the dictionaries it combines.</p>
 </footer>
 </body>
@@ -263,11 +326,19 @@ def write(path, text):
 def main():
     labels = yaml.safe_load((DATA / "labels.yaml").read_text(encoding="utf-8"))
     topics = yaml.safe_load((DATA / "topics.yaml").read_text(encoding="utf-8"))
-    contributors = yaml.safe_load((DATA / "contributors.yaml").read_text(encoding="utf-8")) or []
+    corrections = yaml.safe_load((DATA / "corrections.yaml").read_text(encoding="utf-8")) or []
+    community = yaml.safe_load((DATA / "community.yaml").read_text(encoding="utf-8")) or []
     english = yaml.safe_load((DATA / "english.yaml").read_text(encoding="utf-8"))
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
 
     by_letter = {l: yaml.safe_load((DATA / "entries" / f"{l}.yaml").read_text(encoding="utf-8")) for l in LETTERS}
+    converted = {e["id"]: e for l in LETTERS for e in by_letter[l]}
+    problems = apply_corrections(converted, corrections)
+    community_words, more = add_community(by_letter, converted, community)
+    if problems + more:
+        sys.exit("\n".join(["Can't build:"] + problems + more))
+    # people credited for corrections and words, in the order they were added
+    contributors = list(dict.fromkeys(c["contributor"] for c in corrections + community if c.get("contributor")))
     everything = [(l, e) for l in LETTERS for e in by_letter[l]]
     entries = [e for _, e in everything]
     by_id = {e["id"]: e for e in entries}
@@ -324,7 +395,7 @@ def main():
 <aside class="credits">
 <h2>Sources</h2>
 <ul>{credits}</ul>
-<p>From {COMPILATION}{f' <a href="{esc(original)}#{esc(e["trussel"])}">Original page (archived)</a>.' if original else ""}</p>
+{f"""<p>From {COMPILATION}{f' <a href="{esc(original)}#{esc(e["trussel"])}">Original page (archived)</a>.' if original and e["trussel"] else ""}</p>""" if any(s["source"] in PRINTED for s in e["sources"]) else ""}
 <details class="correct" data-entry="{e["id"]}" data-headword="{esc(e["headword"])}" data-sources="{",".join(dict.fromkeys(s["source"] for s in e["sources"]))}">
 <summary>Suggest a correction</summary>
 <p class="correct-github">Have a GitHub account? You can also <a href="{esc(correction_url(e))}">report it on GitHub</a>.</p>
@@ -412,6 +483,46 @@ def main():
 {wordlist(members[t["id"]], "../../", labels, 70)}"""
         write(OUT / "topics" / t["id"] / "index.html", page(f"{t['title']} — {TITLE}", body, "../../"))
 
+    # add a word: a plain form that works without JavaScript (Web3Forms then redirects to
+    # add/thanks/); app.js sends it in place instead, and keeps it for later when offline
+    body = f"""<article class="prose">
+<h1>Add a word</h1>
+<p class="lede">Know a Kiribati word or expression that's missing, including slang or new words? Or heard one and want to know what it means? Tell us here. Words are checked before they're added, and appear under “Community”, separate from the printed dictionaries.</p>
+<form class="correct-form word-form" method="post" action="https://api.web3forms.com/submit" data-word-form>
+  <input type="hidden" name="access_key" value="{CORRECTIONS_KEY}">
+  <input type="hidden" name="subject" value="New word">
+  <input type="hidden" name="redirect" value="{SITE}add/thanks/">
+  <label><span class="t">Kiribati word or phrase</span><input name="word" required lang="gil" autocapitalize="off" spellcheck="false"></label>
+  <label><span class="t">What it means <span>(leave blank if you're asking)</span></span><textarea name="meaning" rows="3"></textarea></label>
+  <label><span class="t">An example of it in use <span>(optional)</span></span><textarea name="example" rows="2"></textarea></label>
+  <label class="check"><input type="checkbox" name="slang" value="Yes"> It's slang or informal</label>
+  <label><span class="t">Where it's used <span>(optional: an island, a region, or a group of people)</span></span><input name="region"></label>
+  <label><span class="t">Your name <span>(optional)</span></span><input name="name" autocomplete="name"></label>
+  <label class="check"><input type="checkbox" name="credit" value="Yes, credit me by name"> Credit me by name on the About page</label>
+  <label><span class="t">Your email <span>(optional, only used to ask about your word)</span></span><input type="email" name="email" autocomplete="email"></label>
+  <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+  <button type="submit">Send word</button>
+  <p class="status" role="status"></p>
+</form>
+</article>"""
+    write(OUT / "add" / "index.html", page(f"Add a word — {TITLE}", body, "../", description="Suggest a Kiribati word for the dictionary."))
+    body = """<article class="prose">
+<h1>Thank you!</h1>
+<p>Your word was sent. It will be checked before it's added to the dictionary.</p>
+<p><a href="../../">Back to the dictionary</a></p>
+</article>"""
+    write(OUT / "add" / "thanks" / "index.html", page(f"Thank you — {TITLE}", body, "../../"))
+
+    # slang: community words marked as slang
+    slang = [(e, w) for e, w in community_words if w.get("slang")]
+    items = "".join(f'<li><a href="../word/{e["id"]}/" lang="gil">{esc(e["headword"])}</a> '
+                    f'<span class="gloss">{esc(plain(w.get("meaning", "")))}</span></li>' for e, w in slang)
+    body = f"""<h1>Kiribati slang</h1>
+<p class="lede">Informal words and everyday expressions. The printed dictionaries rarely record slang, so this list is built by the people who use it: each word is contributed by a reader and checked before it's added.</p>
+{f'<ul class="wordlist">{items}</ul>' if slang else '<p class="empty">No slang words yet. Be the first to add one.</p>'}
+<p><a href="../add/?slang=1">Add a slang word →</a></p>"""
+    write(OUT / "slang" / "index.html", page(f"Slang — {TITLE}", body, "../", description="Kiribati slang and informal expressions, contributed by readers."))
+
     # home
     cards = "".join(f'<li><a href="topics/{t["id"]}/"><b>{esc(t["title"])}</b><span class="n">{len(members[t["id"]]):,} words</span></a></li>'
                     for t in topics[:8])
@@ -431,6 +542,8 @@ def main():
 <h2>Topics</h2>
 <ul class="cards small">{cards}</ul>
 <p><a href="topics/">All {len(topics)} topics →</a></p>
+<h2>From readers</h2>
+<p><a href="slang/">Kiribati slang</a>, and words contributed by readers. Know one that's missing? <a href="add/">Add a word</a>.</p>
 </section>"""
     write(OUT / "index.html", page(TITLE, body, "", description="A free, searchable Kiribati (Gilbertese)–English dictionary.", home=True))
 
@@ -449,8 +562,10 @@ def main():
 <h2>Using it offline</h2>
 <p>After your first visit, the whole dictionary is saved in your browser and works without a connection.</p>
 <h2>Corrections</h2>
-<p>Every entry has a “Suggest a correction” form; no account is needed. Corrections are checked against the original printed sources. If you leave your name and ask to be credited, it will be listed here once your correction is made.</p>
-{f'<h3>Thank you to</h3><p>{", ".join(esc(c["name"]) for c in contributors)}.</p>' if contributors else ""}
+<p>Every entry has a “Suggest a correction” form; no account is needed. Corrections are checked against the original printed sources. If you leave your name and ask to be credited, it will be listed on this page once your correction is made.</p>
+<h2>Adding words</h2>
+<p>Know a word that's missing, including slang? <a href="../add/">Add it</a>. Words are checked before they're added, and appear under “Community”, separate from the printed dictionaries.</p>
+{f'<h3>Thank you to</h3><p>{", ".join(esc(c) for c in contributors)}, for corrections and new words.</p>' if contributors else ""}
 <h2>Rights</h2>
 <p>The dictionary content belongs to its respective rights holders. Bingham (1908) is in the public domain.</p>
 </article>"""
@@ -472,7 +587,7 @@ def main():
         write(OUT / "bundle" / f"{c}.json", dump(shard))
     write(OUT / ".nojekyll", "")
 
-    precache = (["./", "about/", "topics/", "english/", "offline.html", "style.css", "app.js", "icon.svg", "manifest.webmanifest",
+    precache = (["./", "about/", "topics/", "english/", "slang/", "add/", "add/thanks/", "offline.html", "style.css", "app.js", "icon.svg", "manifest.webmanifest",
                  "headwords.json", "english.json", "fulltext.json"]
                 + [f"bundle/{c}.json" for c in sorted(shards)]
                 + [f"{l}/" for l in LETTERS] + [f"english/{l}/" for l in en_order] + [f"topics/{t['id']}/" for t in topics])

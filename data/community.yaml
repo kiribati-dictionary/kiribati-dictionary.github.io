@@ -1,0 +1,13 @@
+# Words contributed by readers ("Add a word" form), checked and added by the editor.
+# On the site they appear as their own source, "Community", never mixed into the
+# printed dictionaries. A word that's already in the dictionary gets a Community
+# section on its entry; a new word gets an entry of its own.
+#
+# - headword: example word
+#   meaning: what it means, in English     # same light markup as entries: *kiribati*, _scientific_
+#   label: n.                              # optional, as in data/labels.yaml
+#   example: "*example word*: a sentence using it."   # optional
+#   slang: true                            # optional: listed on the Slang page
+#   region: Tarawa                         # optional: where it's used
+#   contributor: A. Contributor            # only if they asked to be credited
+#   added: 2026-10-20

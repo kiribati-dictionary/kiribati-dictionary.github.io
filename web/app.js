@@ -137,6 +137,7 @@ function render(d, q, compact) {
     html += `<p class="more"><a href="${at(`?q=${encodeURIComponent(q)}`)}">Search everything for “${esc(q)}” →</a></p>`;
   } else {
     html += `<div class="fulltext"><button type="button" class="link-button" data-fulltext>Search the full text of every definition for “${esc(q)}”</button></div>`;
+    if (!kirExact) html += `<p class="more">Know a Kiribati word that's missing? <a href="${at(`add/?word=${encodeURIComponent(exact ? "" : q)}`)}">Add it to the dictionary →</a></p>`;
   }
   return { html, shown };
 }
@@ -256,7 +257,7 @@ async function offlinePage(holder) {
 
 const FORM_KEY = document.querySelector('meta[name="corrections-key"]')?.content;
 const QUEUE = "kd-corrections";
-const SOURCE_NAMES = { "bingham": "Bingham", "sabatier": "Sabatier", "goo-banner": "Goo & Banner", "luomala": "Luomala" };
+const SOURCE_NAMES = { "bingham": "Bingham", "sabatier": "Sabatier", "goo-banner": "Goo & Banner", "luomala": "Luomala", "community": "Community" };
 
 function correctionForm(details) {
   const { entry, headword, sources } = details.dataset;
@@ -364,8 +365,55 @@ if (FORM_KEY) {
     const d = ev.target;
     if (d.matches?.("details.correct") && d.open && !d.querySelector("form")) correctionForm(d);
   }, true);
-  flushQueue();
-  addEventListener("online", flushQueue);
+}
+flushQueue();
+addEventListener("online", flushQueue);
+
+// ---------- "Add a word" page: a plain form (works without JavaScript); here it's sent in
+// place, and kept for later when offline. Links like add/?word=kai&slang=1 fill it in.
+
+function wordForm(form) {
+  const params = new URLSearchParams(location.search);
+  if (params.get("word")) form.elements.word.value = params.get("word");
+  if (params.get("slang")) form.elements.slang.checked = true;
+  form.addEventListener("submit", async ev => {
+    ev.preventDefault();
+    const f = new FormData(form);
+    if (f.get("botcheck")) { form.innerHTML = `<p class="status">Thank you!</p>`; return; }
+    const message = Object.fromEntries(f);
+    delete message.redirect;
+    message.subject = `New word: ${f.get("word")}`;
+    message.from_name = f.get("name") || "Dictionary visitor";
+    const status = form.querySelector(".status");
+    form.querySelector("button").disabled = true;
+    status.textContent = "Sending…";
+    const result = await send(message);
+    const done = {
+      sent: "Thank you! Your word was sent. It will be checked before it's added to the dictionary.",
+      offline: "You're offline, so your word is saved on this device. It will be sent automatically when you're back online.",
+      retry: "Your word couldn't be sent just now, so it's saved on this device. It will be sent automatically the next time you visit the dictionary.",
+    }[result];
+    if (done) {
+      form.innerHTML = `<p class="status">${done}</p><p><a href="${at("add/")}">Add another word</a></p>`;
+    } else {
+      form.querySelector("button").disabled = false;
+      status.textContent = "Sorry, that didn't go through. Please try again.";
+    }
+  });
+}
+
+// ---------- day / night: the button flips between light and dark; the choice is remembered
+
+function themeToggle(button) {
+  const root = document.documentElement;
+  const dark = () => root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  const label = () => button.setAttribute("aria-label", dark() ? "Switch to day mode" : "Switch to night mode");
+  label();
+  button.addEventListener("click", () => {
+    root.dataset.theme = dark() ? "light" : "dark";
+    try { localStorage.setItem("kd-theme", root.dataset.theme); } catch {}
+    label();
+  });
 }
 
 // ---------- start
@@ -377,6 +425,8 @@ const topInput = document.querySelector(".top-search input");
 if (topInput) headerSearch(topInput, document.getElementById("top-results"));
 
 document.querySelectorAll("[data-back]").forEach(backButton);
+document.querySelectorAll("[data-theme-toggle]").forEach(themeToggle);
+document.querySelectorAll("[data-word-form]").forEach(wordForm);
 
 const offline = document.querySelector("[data-offline]");
 if (offline) offlinePage(offline);

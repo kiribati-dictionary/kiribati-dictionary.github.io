@@ -54,3 +54,6 @@ bib.:   { name: biblical, kind: note }
 for.:   { name: for, kind: note }
 bk.:    { name: book reference, kind: note }
 abbr.:  { name: abbreviation, kind: note }
+
+# added by the site, not the sources
+corrected: { name: corrected by the editor, kind: note }
