@@ -434,6 +434,8 @@ def main():
 <p>It combines these works. Every entry shows which of them each definition comes from.</p>
 <ul>{cites}</ul>
 <p>Stephen Trussel (d. 2020) spent decades documenting the Kiribati language. This site builds on his work.</p>
+<h2>Who made this</h2>
+<p>This site was put together by <a href="https://emiliobarkett.github.io/">Emilio Barkett</a>. It grew out of <i>Tekitinari</i>, an earlier Kiribati dictionary app made by <a href="https://www.linkedin.com/in/jacob-roberts-6b748a2a5/">Jacob Roberts</a>.</p>
 <h2>Reading an entry</h2>
 <p>Labels such as <abbr class="label pos">n.</abbr> or <abbr class="label pos">vt.</abbr> are shown as each source wrote them; hover over a label to see what it stands for. Kiribati words inside definitions are in <b class="k" lang="gil">bold</b>, and links lead to other entries.</p>
 <h2>Using it offline</h2>
