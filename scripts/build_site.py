@@ -279,8 +279,26 @@ def correction_url(e):
         {"template": "correction.yml", "title": f"Correction: {e['headword']}", "entry": e["id"]}, quote_via=quote)
 
 
-def page(title, body, base, description="", home=False):
+def page(title, body, base, description="", home=False, noindex=False, data=None):
+    """A whole HTML page. write() fills in __URL__ with the page's own address, which becomes
+    its canonical URL and the address in link previews (og:url), and lists it in sitemap.xml
+    unless noindex. `data` is schema.org structured data for search engines."""
     desc = f'<meta name="description" content="{esc(description)}">\n' if description else ""
+    seo = (f'<meta name="robots" content="noindex">\n' if noindex else
+           f"""<link rel="canonical" href="__URL__">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{TITLE}">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:url" content="__URL__">
+{f'<meta property="og:description" content="{esc(description)}">' if description else ""}
+<meta property="og:image" content="{SITE}og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+""")
+    if data:
+        ld = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")  # can't close the script early
+        seo += f'<script type="application/ld+json">{ld}</script>\n'
     back = "" if home else f'<a class="back" href="{base}" data-back aria-label="Back">←<span> Back</span></a>'
     search = "" if home else f"""<form class="top-search" action="{base}" role="search">
     <input type="search" name="q" placeholder="Search" aria-label="Search the dictionary" autocomplete="off" autocapitalize="off" spellcheck="false">
@@ -292,7 +310,7 @@ def page(title, body, base, description="", home=False):
 <script>try{{var t=localStorage.getItem("kd-theme");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
-{desc}<link rel="stylesheet" href="{base}style.css">
+{desc}{seo}<link rel="stylesheet" href="{base}style.css">
 {f'<meta name="corrections-key" content="{CORRECTIONS_KEY}">' if CORRECTIONS_KEY else ""}
 <link rel="icon" href="{base}icon.svg" type="image/svg+xml">
 <link rel="manifest" href="{base}manifest.webmanifest">
@@ -328,7 +346,15 @@ def letter_nav(base, current=None):
     return f'<nav class="letters" aria-label="Browse Kiribati words by letter">{links}</nav>'
 
 
+SITEMAP = []  # addresses of indexable pages, in build order
+
+
 def write(path, text):
+    if "__URL__" in text:
+        rel = path.relative_to(OUT).parent.as_posix()
+        url = SITE if rel == "." else f"{SITE}{rel}/"
+        text = text.replace("__URL__", url)
+        SITEMAP.append(url)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
     written.update(str(path.relative_to(OUT)).encode() + text.encode())
@@ -383,7 +409,10 @@ def main():
         shutil.rmtree(OUT)
     OUT.mkdir()
     for f in WEB.iterdir():
-        if f.name != "sw.js":  # filled in at the end
+        if f.suffix == ".png":
+            shutil.copy(f, OUT / f.name)
+            written.update(f.read_bytes())
+        elif f.name != "sw.js":  # filled in at the end
             write(OUT / f.name, f.read_text(encoding="utf-8"))
 
     def entry_body(i, letter, e, base):
@@ -419,9 +448,16 @@ def main():
     headwords, fulltext, bundle = [], [], {}
     for i, (letter, e) in enumerate(everything):
         g = gloss(e, labels)
+        names = [SOURCES[x][0] for x in dict.fromkeys(src["source"] for src in e["sources"]) if x in SOURCES]
+        about = f"Definitions from {', '.join(names[:-1])} and {names[-1]}." if len(names) > 1 else (
+            f"Definition from {names[0]}." if names else "")
+        term = {"@context": "https://schema.org", "@type": "DefinedTerm", "name": e["headword"], "inLanguage": "gil",
+                "description": g, "url": "__URL__",
+                "inDefinedTermSet": {"@type": "DefinedTermSet", "name": TITLE, "url": SITE}}
         write(OUT / "word" / e["id"] / "index.html",
-              page(f"{e['headword']} — {TITLE}", entry_body(i, letter, e, "../../"), "../../",
-                   description=f"{e['headword']}: {g}"))
+              page(f"{e['headword']} — meaning in English | {TITLE}", entry_body(i, letter, e, "../../"), "../../",
+                   description=f"What does {e['headword']} mean in Kiribati? {e['headword']}: {g} {about}".strip(),
+                   data=term))
         bundle[e["id"]] = [e["headword"], entry_body(i, letter, e, "")]
         forms = {f["form"] for s in e["sources"] for f in s["forms"]}
         headwords.append([e["id"], e["headword"], sorted({key(f) for f in forms} - {key(e["headword"])}), g])
@@ -462,9 +498,11 @@ def main():
 <h1 class="headword">{esc(item["english"])}</h1>
 <p class="count">{len(groups)} Kiribati {"word" if len(groups) == 1 else "words"}</p>
 <ul class="en-refs">{"".join(lis)}</ul>"""
+        top = ", ".join(f"{by_id[eid]['headword']} ({short(best['text'], 40)})" for eid, _, best in groups[:3])
         write(OUT / "en" / item["slug"] / "index.html",
-              page(f"{item['english']} in Kiribati — {TITLE}", body, "../../",
-                   description=f"Kiribati words for “{item['english']}”."))
+              page(f"“{item['english']}” in Kiribati | {TITLE}", body, "../../",
+                   description=f"How to say “{item['english']}” in Kiribati: {top}"
+                               + (f", and {len(groups) - 3} more." if len(groups) > 3 else ".")))
 
     for l in en_order:
         items = "".join(f'<li><a href="../../en/{x["slug"]}/">{esc(x["english"])}</a> <span class="n">{len({r["entry"] for r in x["refs"]})}</span></li>'
@@ -524,7 +562,7 @@ def main():
 <p>Your message was sent to the dictionary.</p>
 <p><a href="../">Back to the dictionary</a></p>
 </article>"""
-    write(OUT / "thanks" / "index.html", page(f"Thank you — {TITLE}", body, "../"))
+    write(OUT / "thanks" / "index.html", page(f"Thank you — {TITLE}", body, "../", noindex=True))
 
     # slang: community words marked as slang
     slang = [(e, w) for e, w in community_words if w.get("slang")]
@@ -541,7 +579,7 @@ def main():
                     for t in topics[:8])
     body = f"""<section class="hero">
 <h1>Kiribati–English Dictionary</h1>
-<p class="lede">{len(entries):,} Kiribati words, with definitions from Bingham, Sabatier, Goo &amp; Banner and Luomala.</p>
+<p class="lede">{len(entries):,} Kiribati (Gilbertese) words, with definitions from Bingham, Sabatier, Goo &amp; Banner and Luomala.</p>
 <form class="search" role="search" action="">
   <input id="q" type="search" name="q" placeholder="Type a Kiribati or English word" aria-label="Search the dictionary" autocomplete="off" autocapitalize="off" spellcheck="false" autofocus>
 </form>
@@ -558,7 +596,14 @@ def main():
 <h2>From readers</h2>
 <p><a href="slang/">Kiribati slang</a>, and words contributed by readers. Know one that's missing? <a href="add/">Add a word</a>.</p>
 </section>"""
-    write(OUT / "index.html", page(TITLE, body, "", description="A free, searchable Kiribati (Gilbertese)–English dictionary.", home=True))
+    site_data = {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": TITLE, "url": SITE,
+                 "inLanguage": ["gil", "en"],
+                 "description": "A free, searchable Kiribati (Gilbertese)–English dictionary."}
+    write(OUT / "index.html", page(
+        f"{TITLE} — free Kiribati (Gilbertese) dictionary online", body, "",
+        description=(f"A free Kiribati (Gilbertese)–English dictionary: {len(entries):,} Kiribati words with definitions "
+                     "from Bingham, Sabatier, Goo & Banner and Luomala. Search in Kiribati or English; works offline."),
+        home=True, data=site_data))
 
     # about
     cites = "".join(f"<li><b>{esc(s)}</b>: {c}</li>" for s, c in SOURCES.values())
@@ -600,7 +645,15 @@ def main():
 
     # offline shell: the service worker serves this, with a <base> pointing at the site root,
     # for pages that aren't cached; app.js fills it from bundle/ or english.json
-    write(OUT / "offline.html", page(TITLE, '<p class="empty" data-offline>Loading…</p>', ""))
+    write(OUT / "offline.html", page(TITLE, '<p class="empty" data-offline>Loading…</p>', "", noindex=True))
+
+    # GitHub Pages serves this for any address that doesn't exist, at that address, so its
+    # links start from the site root
+    body = """<article class="prose">
+<h1>Page not found</h1>
+<p>There's no page at this address. Try searching for the word in the box above, or go to the <a href="/">home page</a>.</p>
+</article>"""
+    write(OUT / "404.html", page(f"Page not found — {TITLE}", body, "/", noindex=True))
 
     dump = lambda o: json.dumps(o, ensure_ascii=False, separators=(",", ":"))
     write(OUT / "headwords.json", dump(headwords))
@@ -613,6 +666,10 @@ def main():
     for c, shard in shards.items():
         write(OUT / "bundle" / f"{c}.json", dump(shard))
     write(OUT / ".nojekyll", "")
+    write(OUT / "robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}sitemap.xml\n")
+    urls = "".join(f"<url><loc>{esc(u)}</loc></url>\n" for u in SITEMAP)
+    write(OUT / "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n'
+          f'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}</urlset>\n')
 
     precache = (["./", "about/", "topics/", "english/", "slang/", "add/", "thanks/", "offline.html", "style.css", "app.js", "icon.svg", "manifest.webmanifest",
                  "headwords.json", "english.json", "fulltext.json"]
