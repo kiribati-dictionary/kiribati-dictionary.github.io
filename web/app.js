@@ -310,13 +310,12 @@ function correctionForm(details) {
   details.insertBefore(form, details.querySelector(".correct-github"));
 }
 
-// true if Web3Forms accepted it; throws if there's no connection
+// true if Web3Forms accepted it; throws if there's no connection.
+// Sent as form data rather than JSON: that needs no CORS preflight, which Web3Forms' bot filter can block.
 async function post(message) {
-  const res = await fetch("https://api.web3forms.com/submit", {
-    method: "POST",
-    headers: { "Content-Type": "application/json", Accept: "application/json" },
-    body: JSON.stringify(message),
-  });
+  const body = new FormData();
+  for (const [k, v] of Object.entries(message)) if (v) body.append(k, v);
+  const res = await fetch("https://api.web3forms.com/submit", { method: "POST", headers: { Accept: "application/json" }, body });
   return (await res.json()).success === true;
 }
 
