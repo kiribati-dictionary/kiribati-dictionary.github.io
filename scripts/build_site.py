@@ -51,7 +51,7 @@ TITLE = "Kiribati–English Dictionary"
 REPO = "https://github.com/kiribati-dictionary/kiribati-dictionary.github.io"
 # Web3Forms access key for the correction form (web3forms.com; it is safe to publish:
 # it can only send mail to the dictionary's inbox). Empty: entries link to GitHub instead.
-CORRECTIONS_KEY = ""
+CORRECTIONS_KEY = "38953b87-dfc6-45cd-bbdc-4f58bf6691f4"
 
 # short name, full citation; keep in step with README.md
 SOURCES = {
