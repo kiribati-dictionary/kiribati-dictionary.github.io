@@ -35,6 +35,7 @@ sources/trussel/     archived copies of the original pages, unmodified, with a m
 scripts/             tools to fetch and convert source material, and to build the site
 web/                 the site's stylesheet, script, icon and service worker
 site/                the built website (generated, not committed)
+brand/               the logo: logo.svg (source) and PNG renders, e.g. for the GitHub organization picture
 legacy/              the earlier Tekitinari app (website + API), kept with its history
 ```
 

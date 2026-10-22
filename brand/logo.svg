@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Kiribati–English Dictionary logo: a serif K above the sea (white and blue bands,
+       as on the Kiribati flag), in the site's dark red. The K is set in the system serif
+       (Iowan Old Style on Apple devices); the PNGs in this folder are the exact renders. -->
+  <rect width="512" height="512" fill="#8a1c1c"/>
+  <path d="M0 360 Q 64 330 128 360 T 256 360 T 384 360 T 512 360 V 512 H 0 Z" fill="#fbfaf7"/>
+  <path d="M0 392 Q 64 362 128 392 T 256 392 T 384 392 T 512 392 V 512 H 0 Z" fill="#1d4f91"/>
+  <path d="M0 432 Q 64 402 128 432 T 256 432 T 384 432 T 512 432 V 512 H 0 Z" fill="#fbfaf7"/>
+  <path d="M0 466 Q 64 436 128 466 T 256 466 T 384 466 T 512 466 V 512 H 0 Z" fill="#1d4f91"/>
+  <text x="256" y="300" font-family="Iowan Old Style, Palatino, Georgia, serif" font-size="270" font-weight="700" fill="#fbfaf7" text-anchor="middle">K</text>
+</svg>
