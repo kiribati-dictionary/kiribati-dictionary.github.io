@@ -56,6 +56,9 @@ REPO = "https://github.com/kiribati-dictionary/kiribati-dictionary.github.io"
 # Web3Forms access key for the correction form (web3forms.com; it is safe to publish:
 # it can only send mail to the dictionary's inbox). Empty: entries link to GitHub instead.
 CORRECTIONS_KEY = "38953b87-dfc6-45cd-bbdc-4f58bf6691f4"
+# GoatCounter visitor counts (kiribati-english.goatcounter.com): no cookies, no personal data.
+# It skips localhost, so local previews aren't counted. Empty: no counter.
+GOATCOUNTER = "https://kiribati-english.goatcounter.com/count"
 
 # short name, full citation; keep in step with README.md
 SOURCES = {
@@ -316,6 +319,7 @@ def page(title, body, base, description="", home=False, noindex=False, data=None
 <link rel="manifest" href="{base}manifest.webmanifest">
 <meta name="theme-color" content="#8a1c1c">
 <script src="{base}app.js" defer></script>
+{f'<script data-goatcounter="{GOATCOUNTER}" async src="https://gc.zgo.at/count.js"></script>' if GOATCOUNTER else ""}
 </head>
 <body>
 <header class="top">

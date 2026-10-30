@@ -89,6 +89,7 @@ The site is plain HTML with relative links. It has a page for every entry, every
 - **Add a word:** the `add/` page has a form for new words and slang, sent the same way. Approved words go in `data/community.yaml`; the Slang page lists the ones marked `slang: true`.
 - **Ideas for the website:** the About page has a short form for feature suggestions, sent the same way (subject "Website suggestion").
 - **Search engines and link previews:** every page has a canonical address, a description and a preview image (`web/og.png`) for shared links; entries carry schema.org `DefinedTerm` data. The build writes `sitemap.xml` (every indexable page) and `robots.txt`, plus `404.html` for addresses that don't exist.
+- **Visitor counts:** [GoatCounter](https://kiribati-english.goatcounter.com) (no cookies, no personal data), set by `GOATCOUNTER` in `scripts/build_site.py`. Local previews aren't counted.
 - **Day / night:** follows the reader's system setting until they use the header button; the choice is remembered.
 
 ## Handling suggestions
